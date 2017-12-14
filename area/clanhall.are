@@ -1,0 +1,4252 @@
+#AREADATA
+Name Clan Hall~
+Builders None~
+VNUMs 6700 6999
+Credits {  ALL  } Alanthia    Clan Halls~
+Security 9
+End
+
+
+
+#MOBILES
+#6700
+romana guardian~
+{gR{Wo{gm{Wa{gn{Wa guardian{X~
+{WThe {gR{Wo{gm{Wa{gn{Wa guardian stands tall.{X
+~
+~
+unique~
+ABM DFHd 0 0
+309 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+C 0 0 0
+stand stand none 0
+0 0 medium unknown
+M speech 6753 romana~
+#6703
+helios romana~
+Helios~
+Helios, the angel of the heavens.
+~
+A archmage of the past dressed now in a long blue cloak, covered in old age this blind angel spreads his wings to comfort and amend your wounds.
+~
+unique~
+ABGMa 0 0 0
+150 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 ABCD 0 0
+stand stand none 100000
+0 0 medium unknown
+#6723
+shopkeeper~
+(no short description)~
+(no long description)
+~
+~
+unique~
+A 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+#6801
+commons black-clad guard~
+a black-clad guard~
+A guard clad in ebony armor patrols the pillars.
+~
+Armor of glinting, polished ebony cover the guard from head to toe.  A
+white plume extends from his midnight helm and his face is covered by a thin
+black visor.  Only his tight, pursed lips and a glimpse of olive skin betray
+the man underneath the armor.  He weilds a shimmering sword of white steel
+with an intricate black carved hilt.  A pearly shield engraved with stained
+black symbols his worn in his left hand.  The guard will stop at nothing to
+ensure that only clan members enter the commons.
+~
+unique~
+ABM DFHJLZacd 0 0
+300 300 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#6802
+commons wraith rapier deliverer Tiro~
+Tiro~
+A wraith shimmers, smirking as it guards the door.
+~
+A translucent creature of shimmering grey mist floats above the ground. 
+Tiro, having lost his living life through greed and desire for power, now
+resigns himself to giving weaponry for duels.  But the loser better beware,
+for his payment is not monetary.  He asks for the living souls of the battle
+losers to quench his hunger for life.  
+~
+unique~
+ABMY DFJTUZ 0 0
+300 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 L JQ FHN
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#6803
+commons vampire warish referee~
+Warish~
+A stern female vampire of pleasing build wears a tough grin on her face.
+~
+Small, sharp teeth, capped in red, peek from behind deep red lips. 
+Warish's smooth skin glimmers deathly white.  Her voluptious form is clothed
+in tight leather fighting attire.  A low-cut black vest laced in crimson
+silk encases her pale torso.  Tight leather pants highlight her slender
+frame.  Warish is referee of the fights in this room, and she will take NO
+breaking the rules.
+~
+unique~
+ABMTY DFHJVZad 0 0
+300 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 L Q HNS
+stand stand female 100000
+AHMV ABCDEFGHIJK medium unknown
+#6804
+commons servant gargoyle~
+a servant~
+A slender gargoyle of grey stone stands in stoney silence awaiting orders.
+~
+Smooth cobal grey stone is molded in the living shape of a slender winged
+man.  Hard grey eyes twitch on a cold face etched in stone.  Wings as thin
+as paper grow from his back and enfold his bare torso in stone.  His legs
+are covered in thin grey pants and his feet bare.  He stands silent and
+still, awaiting directions.  
+~
+unique~
+ABY DFJZ 0 0
+300 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 D C
+stand stand male 100000
+AHZ ACDEFHJKLOPQUVWXY medium unknown
+#6805
+commons gryphon lion creature avian~
+the gryphon~
+A magnificent creature with a leonine body and avian face spreads his golden wings.
+~
+Feathered wings as soft as silk and shimmering with golden hues blend
+into a soft fuzzy leonine body.  The gryphon's smooth fur is made of fine
+golden threads of various gold, copper, yellow, and orange colours.  Large
+paws support his muscular, defined legs and torso.  A golden beak glimmers
+from a furry lion face.  Large liquid black eyes gaze intently at those he
+sees. 
+~
+unique~
+ABM 0 0 0
+300 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+CFH ABCD 0 0
+stand stand male 0
+AHZ ACDEFHJKLOPQUVWXY medium unknown
+#6808
+Amarillys romana young maiden~
+Amarillys the young maiden~
+Amarillys the young maiden.
+~
+A beauty unlike any other, this young shy girl sits at her desk twiddling with a sharp blade.
+~
+unique~
+ABGM DF 0 0
+300 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 ABCD 0 0
+stand stand female 100000
+0 0 medium unknown
+#6809
+julian warrior shadows romana~
+Julian~
+Julian, Warrior of the Shadows.
+~
+Well built for war, this young man stands strong, dressed in Ivory armor.  Engraved on his armor plate is a picture of a fading white rose.
+~
+unique~
+ABGM DF 0 0
+300 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 ABCD 0 0
+stand stand male 100000
+0 0 medium unknown
+#6810
+marcus priest romana~
+Marcus~
+Marcus, Holy Priest of the Church, jack of all trades.
+~
+A man of the strange will and faith that can surpass the strength of any
+other.  He speaks, "Heavens angel, renegade of darkness, blessed is your
+soul...."  
+~
+unique~
+ABJKLMZbd 0 0 0
+150 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 ABCD 0 0
+stand stand male 100000
+0 0 medium unknown
+#6850
+commons bartender lyrian sylvan elf~
+Lyrian~
+A dark elf in green gowns smiles happily as she serves drinks.
+~
+Thin brown eyes lie set within a smooth face the colour of moist bark. 
+Lyrian's small neutral mouth curves into a gentle smile.  Her hair, a
+patchwork of browns and blondes, flows gently over her slender frame.  A
+silken gown of various greens fits snuggly to the waist where it flairs into
+a full short skirt.  Her tiny feet are clothed in brown leather sandals. 
+The sweet scent of forests and trees floats around her.  She pushes a small
+cart laden with delicious foods and tempting drinks. 
+~
+unique~
+AMY DFJZ 0 0
+300 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 AB B Z
+stand stand female 100000
+AHMV ABCDEFGHIJK medium unknown
+#6851
+commons moulin shopkeeper minotaur~
+Moulin~
+A chestnut minotaur of sturdy build pounds shape into hot metal, sweat dripping.
+~
+A rough, defined face of light tan complexion is framed by long brown
+hair tied in a knot at Moulin's neck.  His chocolate eyes dance and sparkle
+with spirit foreign to the rest of his demeanor.  His thin lips press
+together to form a straight smile.  A brown leather vest and thick leather
+gloves protect his hands and torso from flaring heat as he hammers and molds
+hot metal.  His rough, muscular human torso blends into smooth, velvety
+chesnut fur.  A tail of silky brown sways and swats agitatedly, a death-whip
+to small insects.  
+~
+unique~
+AB DFJZ 0 0
+300 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 AB EI H
+stand stand male 100000
+AHMV ABCDEFGHIJK medium unknown
+#6852
+commons Raevhin shopkeeper sprite~
+Raevhin~
+A tiny sprite flutters about, tending to various stewing pots.
+~
+Shimmering wings of illuminescent black flutter rapidly, supporting a
+tiny pale sprite.  Raevhin's deep eyes and short curley hair are the colour
+of a starless sky and lie in stark contrast with her smooth white skin.  Her
+thin light lips curve upward slightly to form a shy smile.  She wears a
+simple white leather tunic tied at the waist by a long black ribbon.  Her
+hands are filled with herbs and spices.  
+~
+unique~
+ABM DFJVZ 0 0
+300 0 1d1+0 1d1+0 1d1+0 none
+0 0 0 0
+0 ABCD F 0
+stand stand female 100000
+AHMV ABCDEFGHIJK medium unknown
+#6931
+kordaek armorer~
+{GK{Dordaek the {GA{Drmorer{X~
+{GK{Dordaek, Armorer for the {GA{Drmy.{X
+~
+{WSweat pours off his head as he pounds away at the magical pieces of
+metal, gifted to the army by their Lord, {GN{Dikos{W.  {X 
+~
+unique~
+ABM 0 0 0
+300 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 100000
+0 0 medium unknown
+#6932
+adoran blacksmith~
+{DBlacksmith {GA{Ddoran{X~
+{GA{Ddoran, Blacksmith for the {GA{Drmy of {GN{Dikos.{X
+~
+{WBefore you stands a tall, muscular man with a blade of some sort in one
+hand, and a smithing hammer in the other.  {X 
+~
+unique~
+ABM 0 0 0
+300 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 100000
+0 0 medium unknown
+#6991
+romana richard fur~
+Richard~
+A man covered in fur serves you.
+~
+~
+unique~
+AB DF 0 0
+300 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 CD 0 0
+stand stand none 100000
+0 0 medium unknown
+#0
+
+
+
+#OBJECTS
+#6710
+book mythology mythos alanthia commons~
+a worn collection of Alanthian mythos~
+An old, crumbling book bears the title "The Mythos of Alanthia and her Moons."~
+paper~
+treasure 0 AP
+0 0 0 0 0
+1 1 0 0 P
+E
+the dietys dieties synopsis~
+{Y+=============================================+
+   | {xThe Moons{Y |  {BCeleDi  {Y|  {rNikos  {Y |  {W Sahma{Y   |
+   +---------------------------------------------+
+   | {xColor{Y     | {B  Blue {Y  | {r  Red{Y    |{W   Silver{Y  |
+   +---------------------------------------------+
+   |{x Influence{Y |{B  Mental{Y  | {rPhysical{Y |{W   Magic{Y   |
+   |           |          |          |{W Mysticism{Y |
+   +---------------------------------------------+
+   |{x Symbol {Y   |{B  Candle{Y  | {r Blood{Y   |{W   Prism {Y  |
+   +---------------------------------------------+
+   | {xGods{Y      |{B Ming-Dao{Y |{r Didimus{Y  |{W   Sadiq{Y   |
+   |           | {B Rudah  {Y |{r Byziana{Y  |{W   Aiden{Y   |
+   |           |          | {rKazimain{Y |           |
+   +=============================================+{x
+ 
+{BCeleDi{x
+The Blue Moon and Goddess of Purity and the Soul
+CeleDi ruled the Mental Circle. She created the
+mortal mind and gave him reason. Without her,
+mortals could not exist as higher intelligence. She
+doesn't direct mortal thought, but rather guides
+with a loving hand. A very peaceful deity, in search
+of harmony amongst mortals.
+ 
+{BMing-Dao{x
+God of Martial Arts and Heavenly Teacher
+Ming-Dao serves under her, though not far. Creating
+the consciousness of mortals was quite the task, so
+Ming-Dao picks up the slack and helps mortals learn
+how to wield such massive power.
+ 
+{BRudah{x
+Lord of Temptation
+Rudah was not a local god of Alanthia. Being the
+playful chap he is, he stopped by Alanthia to cause
+trouble while cruising the universe. He found it so
+much fun to upset Ming-Dao by tempting the mortals
+into booze, wine, merriment, and other atrocities, that
+he decided to take residence in Alanthia.
+ 
+{rNikos{x
+The Red Moon, God of War and Destruction
+Nikos, god of war, destruction and flesh, rules the
+physical circle. He created the mortal body as mere
+toys to amuse himself. Of course, CeleDi saw this as
+a great opportunity, and hence, pissed Nikos off
+something bad by giving them free-will. Though, this
+isn't to say Nikos doesn't hold any control. On the
+contrary -- he just can't FORCE a mortal to do
+anything, he must persuade them to do it in free will.
+A fun game for Nikos, but it often tries his patience.
+Nikos of the Flesh, is a man capable of great evils -
+far more than any other god in Alanthia.
+ 
+{rByziana{x
+Goddess of Change and the Tides
+Byziana, goddess of change and the tides, serves
+under Nikos, at least to Nikos's beliefs. At times,
+Byziana despises the destruction Nikos causes. But, she
+realizes that destruction is part of the eternal cycle of
+change. She pushes for change, and this is reflected in
+the tides, the seasons, and Alanthia. One of the two
+gods fused in the creation of Alanthia, she is part of
+the planet.
+ 
+{rKazimain{x
+Holy Mother of Alanthia
+Kazimain, mother to mortals, helped create Alanthia for
+the mortal form to exist. She is now, in fact, synthesized
+into the land. A truly benevolent deity, she balances out
+the evil of Nikos. The land will never be harmed when
+she is closely watching. Being so kind, she blessed the
+mortals with medicine by creating certain herbs and
+extracts upon the surface of Alanthia.
+ 
+{rDidimus{x
+the Father of Technology, Smithy to the Gods
+Didimus was not a deity when Alanthia was created.
+Instead, he was raptured into the heavens by proving
+his worth to Nikos. A craftsman, he gave mortals
+weapons. The Father of Technology, he proves vital
+in Nikos's continuing struggle to pull mortals from the
+cursed "enlightenment" that CeleDi blessed them with.
+Basically a slave, but a deity none the less, he is adored
+by all the gods for such devotion and hard work.
+ 
+{WSahma{x
+The Silver Moon, Goddess of Mystics
+Sahma is the Creator of Dreams, and Distributor
+of Wishes. Dreams in Alanthia are not mental, but are
+mystical and, as a result, are controlled by her. Probably
+the strongest of all the Moons, she is closely watched
+and tempered by the thoughtful hand of Sadiq. Although
+Sadiq took magic from the mortals as a result of the
+Great Wars, Sahma has succeeded in returning magic to
+Alanthia by the hands of Aiden.
+ 
+{y(To Continue, type <{clook dietys2{y>){x
+ 
+~
+E
+growth3~
+"They are much more mature now," continued Sadiq, "though this isn't
+to say there won't be wars an problems and people that shouldn't be
+allowed to use it, but we think it's time for them to reclaim their
+magical abilities. We fear they may need it one day."
+ 
+"And it is your responsibility," Nikos interjected, "to assure that
+they get the magic, and are trained, much like Ming-Dao has done for
+you."
+ 
+Aidan, still flabbergasted, smiled, retracted the smile to a frown,
+then fell into thought as he said, "Thank you, I will do my best."
+ 
+Ming-Dao chuckled, "Your best, is now godly. You'll do fine."
+ 
+Aidan smiled, held it a little longer, and then fell silent.
+ 
+          ++++++++++++++++++++++++++++++++++++++++++++
+ 
+~
+E
+growth2~
+Opening his eyes, Aidan was no longer alone. The Planets, Ming-Dao,
+Byziana, Kazimain, and Sadiq stood in a giant circle around him. Panic
+almost grabbed him when CeleDi touch his shoulder and calmed him.
+ 
+"Prepare yourself quickly, Aidan."
+ 
+Wild thoughts raced through his mind as to what they meant. But, he
+shook it off, drawing from the remnants of CeleDi's touch, and nodded
+at them.
+ 
+In the circle around him, they, in unison, raised their arms to the
+sky. And in a flash, brought them down pointing directly at Aiden. A
+quick, sharp pain rushed through Aidan's body. His soul was on fire.
+He fell over in agony and passed to blackness.
+ 
+Fluttering his eyelids, Aidan awoke to a room full of his town's
+people. They had rushed to his temple, he figured, when they heard his
+scream. Sitting up, he realized that no one was paying any attention to
+him, even though he was obviously passed out on the floor. As he rose
+to his feet, he took quick note of a new lightness in his step that he
+had never felt. As he walked up to the one of the townspeople, they
+still paid no attention. He waved a hand in front of their face, and
+still no response. 
+ 
+A new panic rushed through him. They couldn't see him! He must be a
+dead! A ghost of sorts! Then he became aware that someone WAS
+looking at him. Ming-Dao stood in the corner. At a lightning pace,
+Aidan made his way to him. As he got to him, he bursted out in
+feverent talk, asking Ming-Dao if he was dead?
+ 
+Ming-Dao let out a hearty laugh, "Quite the opposite my Dear Aidan."
+ 
+"Th.. th.. then wh... wh.. what's happend? Who were those people?"
+ 
+"They were the other Gods of Alanthia, Aidan. They're the reason this
+planet exists, and the reason you can have this conversation right now."
+ 
+Nodding, Ming-Dao explained the basics of how this world came about.
+ 
+"And Aidan, because you are the only mortal left who wants to believe
+that there are Gods and Magic in Alanthia -- you have been blessed."
+ 
+"Blessed? Is that why I feel a bounce in my step and I tingle every
+time I take a step?"
+ 
+Ming-Dao nodded, "Indeed, but that's not even a fraction on what
+you've been given."
+ 
+Aidan seemed confused.
+ 
+"Take my hand, Aidan." He did, and they walked outside into a field.
+"They cannot see you my friend, because that's the way it is when you
+first become...." Trailing off with Aidan on his every word, Ming-Dao
+rose off the ground into the clouds. Aidan was panicked at first, but
+felt at ease with Ming-Dao. Then, Ming-Dao let go of his hand.
+Falling quickly, Aidan raced towards the ground, feet first. Instinct
+grabbed Aidan, and he reached out to grab anything he could, though he
+knew there was nothing. A whisper entered Aidan's ear, "You're a God
+now." Aidan was so flustered that he almost dismissed it for the wind,
+but decided he'd better try it out, or eat the rapidly approaching
+ground.
+ 
+With a mighty push, Aidan stared at the ground and bid it not come
+closer. And it did. It slowly stopped approaching him, and Aidan
+realized that he was floating in mid-air. Smiling and laughing, Aidan
+soared back into the sky to Ming-Dao. "Thank you! Thank you,
+Ming-Dao!"
+ 
+"It isn't me alone you should thank."
+ 
+"The others?" Aidan asked referring to the others that he had seen in
+the circle around him.
+ 
+"Indeed, lets go see them." And with that, Ming-Dao shot into the
+atmosphere of Alanthia and Aidan followed. out of the atmosphere and
+into space, Aidan halted immediately and fell into instantaneous
+prayer. The planetary skyline and the three mighty moons where so
+close, and so beautiful.
+ 
+Nikos's voice boomed through the air with a slight chuckle, "Raise,
+Aidan. I am flattered that you still pray, but it is not necessary
+-- you are a God."
+ 
+Aidan, red in the face, stood in the nothingness of space to face
+Nikos and the other two planets.
+ 
+"Of course," spoke Sahma, "the greatest gift of all comes with a
+price."
+ 
+"Indeed," continued Sadiq, "I have chosen you, because of your
+patience, wisdom, and commitment to your heart and religion, to play
+a large part in Alanthia's future."
+ 
+"We want you to bring magic back to Alanthia, Aidan."
+ 
+"Magic," spoke a trembling Aidan, "like the Great War magic?"
+ 
+Sadiq paused, thinking, and then replied, "Yes."
+ 
+Seeing the painful anxiety on Aidan's face, CeleDi stepped in, "But
+it won't be the same. *YOU* won't let it."
+ 
+{y(To Continue, type <{clook growth3{y>){x
+ 
+~
+E
+the growth~
+With Alanthia in its adolescence, the moons sat back and watched
+time unfold. Unfortunately, the young races of Alanthia were not
+prepared for everything that the moons threw upon them.
+ 
+The most important, was the magic Sahma granted the mortals was
+wreaking pure havoc. The unskilled and underdeveloped races wielded
+the massive powers like a child with a new toy. They instantly created
+huge cities of magnificent splendor, but lacked the mentality to govern
+such an estate. Thus, many of the Great Cities perished into the fertile
+soils of Alanthia.
+ 
+The great chaos within the cities only lead to the Great Wars. Every
+intelligent being was unsafe in these times. Magic flew rampant, and
+if you didn't get fried by a skewed lightning bolt, you were lucky.
+Ming-Dao tried in vein to teach the mortals, but you can't teach a
+world of children how not to play with toys before they destroy
+themselves with them.
+ 
+From high in orbit, the moons could see the wars below like great
+fireworks, lighting the atmosphere in brilliant magical colors.
+Unfortunately, the beauty was undermined by the mass death. Sadiq
+was the first to take action. And his plan was simple -- remove
+magic from Alanthia. And thus, he cast an invisible shell over the
+whole of Alanthia that nulled any spell cast.
+ 
+And peace, of sorts, returned to Alanthia. The people stopped
+warring, because they needed to learn how to farm and build, rather
+than kill. The magic in the atmosphere halted, and the days and
+nights returned to just that.
+ 
+In time, the magic was forgotten, and all that was remember was
+the "Great Wars", when the skies flashed and sparked day and night
+and chaos reigned supreme. It was a time no one wanted to remember.
+ 
+However, there was one soul on Alanthia who wanted to. Aidan was
+his name and he was a very meticulous and beautiful scribe. A priest
+of the old religion, he preached daily on the Great Wars, and how
+magic once existed. However, very few still believed in magic. At
+first, it's not that people didn't believe, it's that they blocked it out.
+And as the generations rolled on, it became nothing more than a myth.
+ 
+Ming-Dao, on the planet's surface, continued to teach to press into
+higher levels of consciousness for the people. He became renowned by
+the people, and considered him a holy man. Ming-Dao, of course, never
+revealed his true nature -- that he was indeed a god. This was key in
+training, because he wanted them to find their own way and truth, not
+adopt his on "godly" principle.
+ 
+In fact, Aidan had made a pilgrimage one year to study under
+Ming-Dao. While Aidan refused to learn the way of the martial arts,
+he did accept the many words of wisdom that Ming-Dao offered.
+ 
+One day, Aidan asked Ming-Dao, "Are you a God?"
+ 
+Ming-Dao chuckled lightly, and asked, "Why would you think such a
+thing, Aidan?"
+ 
+"Because... I don't know, Master. I can just feel it."
+ 
+Raising and eyebrow, Ming-Dao replied in a quiet, low voice, "Trust
+that feeling."
+ 
+Aidan smiled gratefully, and returned to his home town. Nearby, he
+constructed a small temple. With painstaking detail, he hand-built
+the entire temple by himself with small bricks. In the end, it was
+a small structure filled with stain glass, but still not very
+impressive. Only one of the four small walls were decorated. Paintings
+of Ming-Dao were hung on the wall and many small, clay figurines of
+Ming-Dao lay scattered around the floors. Aidan was a fine scribe
+with excellent penmanship, but his clay works needed much improvement.
+ 
+In this small temple to a person Aidan couldn't even prove was a god,
+he prayed. With a figurine in each hand, Aidan chanted some words
+Ming-Dao had taught him, but nothing ever happened.
+ 
+A few years later, Aidan was getting upset, and wondering if his gut
+was wrong. he decided he'd try one last time. With the normal figurine
+in each hand, he bowed before the painting and began chanting. Aiden
+closed his eyes and thought of nothing. He cleared his mind.
+ 
+Slowly, he lowered to one knee and set the figurines on the floor
+beside him. When he rose back up, he spread his arms to every side
+of him in a slow, intentional, sweeping movement. His words changed
+from those that Ming-Dao had taught him to those he had heard once -
+Trust yourself.
+ 
+{y(To Continue, type <{clook growth2{y>){x
+ 
+~
+E
+game2~
+"Look over there, " he sputtered in bewilderment as
+he spotted the "perfect" races that Sahma had found
+earlier. Confused, both CeleDi and Nikos, made a
+quick change to the perfection. Nikos took the
+perfect Trolleins, as he called them, and beat
+them into ugliness. It was enough to offend any
+creature, and thus, Byziana pulled them into her
+soil to hide their disgraceful bodies from the
+world. CeleDi, with the aid of Ming-Dao, set out to
+destroy the evil demons. Of course, destruction of
+any race created was against the cosmic rules, so 
+Ming-Dao decided that infertility would be the
+easiest way to skirt this rule. He succeeded, but
+not before they bred the demonspawn.
+ 
+Sadiq, over looking this odd chain of events, decided
+that the single actions of the Planets didn't balance
+the perfection. So he turned the mighty gargoyle to
+stone, to slow it's great speed. To the vampire, he
+gave the gift of eternal hunger. Finally, he erased
+the wraiths from this world as far as he could without
+breaking the Cosmic Law of Extinction. Thus, they
+became the translucent beings they are today.
+ 
+All content, CeleDi continued with her rebuttal move.
+Though an odd move, since she chose not to directly
+change any of the races, she bid Ming-Dao to teach
+the many races how to wield their free will wisely.
+Graciously, Ming-Dao accepted the position, and
+prepared for his descent to Alanthia, his new home.
+ 
+As soon as CeleDi was done speaking, Sahma threw
+the biggest wrench into the gears of Alanthia -- Magic.
+Adding the chaos that resulted was the last move, and
+the game closed.
+ 
+"Thank you Planets," spoke Sadiq thoughtfully, "May
+the choices you made not destroy Alanthia."
+ 
+Nikos giggled.
+ 
+CeleDi slapped him.
+ 
+Sahma fell silent.
+ 
+Byziana and Kazimain prayed.
+ 
+        +++++++++++++++++++++++++++++++++++
+ 
+~
+E
+the game~
+The Planets stood silent staring at the revolving mass
+and in unison let out a deep sigh as if saying, "Wow."
+ 
+A world of great beauty now lay before them.
+This realization first dawned on Nikos, who smiled like
+a devilish, little child. An entire world to mold into
+his ideals! What a true blessing this event was!
+Unfortunate for him, CeleDi wasn't far behind, and she
+too, began planning.
+ 
+The great Game had begun and even the mighty Sahma
+plotted her strategic movements.
+ 
+As would be expected, Sadiq planned how to handle the
+mass hysteria that the planets were about to unleash
+upon the virgin soils of Alanthia. He quickly decided
+his means of mediation.
+ 
+He instructed each planet to choose a comet of their
+liking. Nikos, CeleDi, and Sahma each quickly search
+the near universe for suitable comets, knowing what
+Sadiq had in mind. Each handed their comet of choice
+to Sadiq who simply smiled.
+ 
+With blinding speed, Sadiq spun in tight circles holding
+each comet by their tail. A flick of his wrist and a
+mighty grunt, the comets were sent into a high speed
+velocity around the Sun. The Planets began cheering in
+amazing decibels! The comets roared past the Sun and
+began their elliptical path back towards the planets.
+Nikos's comet was the first to come roaring by
+Alanthia with CeleDi's in close second. Poor Sahma's
+comet was a good month behind which extremely
+perturbed her.
+ 
+After the race was finalized, Sadiq gave Nikos a slight
+nod. Nikos now had first choice as to what to add to
+Alanthia.
+ 
+Nikos quickly grabbed his blueprints and began carving
+life into Alanthia. His pawns were quickly positioned as
+mindless creatures without will, prepared to serve
+Nikos. With a great cackle he forged the humanoids to
+rule the great cities of deceit. With a smirk, he
+molded the elves to help him conquer the mighty
+forests of Alanthia. Finally, he placed the Darviers
+upon the great lands of Alanthia. Though he
+originally intended to put them under the ground,
+Byziana had other words and would not allow him
+to penetrate her soils with his spawn.
+ 
+With Nikos complete, it was CeleDi's turn. To
+counter Nikos's pawns, she gave each creature Nikos
+created free will. Nikos growled at himself for
+leaving himself so open to such a counter-attack.
+Of course, CeleDi was delighted and smiled at Nikos,
+gloating.
+ 
+Now, Sahma, still upset that her comet was lame,
+prepared to create her own visions on Alanthia when
+something strange caught her eye. She saw creatures
+roaming the surfaces of Alanthia that neither CeleDi
+nor Nikos had created. These creatures appeared
+perfect. This could not be the work of any of the
+planets, because their vibration was much higher
+than anything they could have created. Puzzled,
+she scratched her head.
+ 
+"Sahma," Sadiq spoke, "perhaps you would like to
+pass your opportunity to Nikos? I'm sure he'd enjoy
+another turn."
+ 
+"Oh, sorry." Sahma absent mindedly replied as she
+quickly decided to keep this observation to herself.
+With a slight hand gesture, Alanthia was blessed
+with the magical fairy-folk -- independent of CeleDi
+or Nikos, they had their own consciousness that
+allowed them the magical powers of the Silver Moon.
+Of course, Sahma had not forgotten that she was
+humiliated in the comet race. She quietly sneaked
+to the Isle of Omichle and created the mighty dragon!
+"Maybe that will scare Nikos's and CeleDi's toys to
+death!" she silently screamed.
+ 
+Sadiq once again smiled, and told the Planets that they
+were each allowed one rebuttal move and then Alanthia
+would be complete.
+ 
+Nikos quickly jumped at the opportunity and threw
+some of his fiery, red self into the land of
+Alanthia. This was an attempt to make the darviers
+begin their borrow into the ground of Alanthia,
+and of course, to spite Byziana's wishes.
+ 
+CeleDi, happy that he hadn't created too much of a
+commotion, was about to make her move, when Nikos
+stopped her.
+ 
+{y( To Continue, type <{clook game2{y>){x
+ 
+~
+E
+creation2~
+Inspired by the whole thing, CeleDi summoned the
+purest of loves. Her beautiful shores stood
+strong as the wave of her emotional waters
+pummeled them. Hurricanes began to arise, and
+typhoons became commonplace on CeleDi's surface.
+She was pulling the energy's of the cosmos
+together, preparing to douse the energy mass
+with it.
+ 
+Sahma smiled brightly, and Sadiq nodded
+knowingly. With a splendid display of colors,
+Sahma opened her silvery surface to reveal her
+revered inner core. The prismatic effect split
+the incoming light and spun it in every which
+direction. Everything appeared to be in pure
+chaos! Nikos and CeleDi were feeding energy
+into the lands. Sahma was carving the newly
+forged lands with the highly concentrated
+prismatic rays of Star light. Kazimain and
+Byziana were somewhere in the middle of it all.
+ 
+Suddenly, the light intensified dramatically!
+So much, that even the Moons had to pull away.
+ 
+When the energy dissipated, in the middle of
+the three moons stood a new planet. Hand
+carved by them, by the blessings of the
+Stars --- a new land was forged. The Moons
+stood in awe. Never before had a Star been
+salvaged from death. But had it been?
+ 
+Looking closer, the planet seemed dead. It
+wasn't spinning, it wasn't breathing, it was
+nothing more than an asteroid. But then the
+second miracle occurred.
+ 
+Another flash of bright light, but this time,
+it wasn't just a flash. It was two small Stars
+whizzing directly by the Moons and this new
+land. Without a single noise, the two stars
+slipped together to created one substantial
+star. As the first ray from the new Star
+touched the planet's surface, it began to
+revolve. Slowly it awoke, and Kazimain and
+Byziana yawned as they shook their leaves and
+stirred the tides.
+ 
+"Welcome Moons, " spoke the planet in familiar
+voices. "Welcome to Alanthia, Land of Three Moons."
+ 
+           ++++++++++++++++++++++
+ 
+~
+E
+the creation~
+A faint twinkle; emptiness; yet so alive.
+ 
+A gentle sigh echoed through the vastness.
+ 
+Quietly, CeleDi began to cry. She could feel the
+pain and hell that the giant weeper was forced to
+sustain. Every second of the death throws tore at
+her soul and shook her to her core. "Why would the
+Stars allow such a thing?" she pondered over and
+over again.
+ 
+Nikos answered, "Do not worry yourself, sweet
+CeleDi. The Stars know what they are doing. They
+are exacting in a chaotic way. We are not to know
+their purposes, but they know perfectly well."
+ 
+"Destruction, " Nikos continued, "is what the
+universe was built upon!"
+ 
+Half-heatedly, CeleDi retorted, "Why must we argue
+this point again? You, yourself, just said that you
+cannot know, yet you claim to be so sure."
+ 
+About to fan the flames, Nikos was quickly
+interrupted, "Nikos, hold your tongue! I grow
+tired of such banter," said Sahma as she laid
+down the authority. "It is so amazing how a single
+dying star, of which we've seen and heard over a
+trillion in our existence, can excite your souls so!"
+ 
+A quiet voice whispered, "Of course we do."
+ 
+"Would you care to elaborate Miss Kazimain?" prodded
+Sahma.
+ 
+"If you please M'lady," and Kazimain explains:
+ 
+"The Stars are the universe. Without them, we have no
+path, we have no light. Nothing. They guide us, they
+show us the way. Not directly, but through their
+heavenly light, we see a glimpse of them, reflected
+off of everything. Don't you see? We ARE them. We
+are nothing more than a reflection of the Soul of
+the Stars."
+ 
+Standing calmly upon the vast oceans of CeleDi,
+Kazimain felt the energy flow through her body.
+She had felt it many times before. Dying stars seem
+to sense her, and they know that she understand. It
+is because of this that they channel their last
+dying energies into her, and not the other Gods.
+A giant ripple cascaded out from the water she
+stood upon as she gazed out into the great silver
+skies, and turned to the Silver Moon of the Trinity,
+Sahma.
+ 
+"Can you feel it Sahma?" Kazimain questioned.
+ 
+Sahma shook her head and said quietly, "No. I cannot."
+ 
+"Nikos, CeleDi, can you?" Both lowered their heads in
+silence.
+ 
+"It is too bad, it is a most amazing gift from the
+Stars."
+ 
+"I know that I cannot feel it, Kazimain, but I sense
+that it flows through your veins. You have been
+blessed by the Stars on this day Miss Kazimain. It
+would be most erroneous to not put this gift to good
+use," interjected the great teacher, Ming-Dao, who
+up until now had only taken a half interest.
+ 
+"I believe you are right, Sensei! As my gift, I
+will give life to this dying star once again!"
+Energy pulsed through her body, and the ripples
+on CeleDi's waters grew into waves. Every God
+scoffed and laughed, for everyone knew that a Star
+could not be resurrected. It was against the laws
+of the Cosmos, and was never allowed by the Stars.
+ 
+"Perhaps you should not all be so hasty to jump to
+conclusions," wisely spoke Sadiq. "and then perhaps
+you should take a look at our dear friend."
+ 
+Everyone turned to look upon a dying star, but it
+was not collapsing. Amazed, everyone spun to see
+Kazimain was now accompanied by Byziana. Both,
+surrounded in a bright haze of white, glowing
+energy, were directly in the middle of the three
+Great Planets, Sahma, CeleDi, and Nikos. Byziana,
+the Goddess of Change, had felt a chance to forge
+new lands and turn new tides! She exercised her
+powers well with the great powers of Kazimain's
+love for this dying star. Together, they were
+changing the flow of time and matter, and pumped
+what energy the Stars had previously given Kazimain
+back into the dying star. Even more amazing, sudden
+intense beams of light radiated into the haze that
+was growing denser around Kazimain by the second.
+The lights were seemingly coming from everywhere:
+every Star in the universe was focused here.
+ 
+Shaking the befuddlement from their minds, the
+planets gathered around the now growing mass that
+had engulfed Kazimain and Byziana. Under Sadiq's
+advice, they assisted in this unbelievable event.
+ 
+With a great fury, Nikos ruptured his red soil and
+forced his streams of blood to erupt in volcanic
+ferocity. Spinning quickly, and gaining momentum,
+he revolved the energy mass with blinding speed.
+The Planet's blood soared from his atmosphere into
+the mass. Slowly, it began to solidify.
+ 
+{y(To Continue, please type <{clook creation2{y>){x
+~
+E
+introduction~
+The Alanthian Mythos are defined as the stories, theories,
+and histories of the planet called Alanthia that weave together
+to form the foundation of the major religious philosophies that
+exist among the Alanthians.
+ 
+In the scriptures below, you will find the Holy Words of the
+Moons themselves. The stories are true, accurate, and have
+been handed to the mortals and immortals of Alanthia by the
+kind, helping hand of Ming-Dao.
+ 
+~
+E
+mythology mythos book alanthia~
+{B{/                __
+               /  \
+       {r__     {B(    )     {W__
+      {r/  \     {B\__/     {W/  \
+     {r(    )            {W(    )
+      {r\__/  {gThe Three   {W\__/
+              {gMoons
+            {b=========
+ 
+         {gTable of Contents
+         {b-----------------{x
+ 
+         1... Introduction
+         2... The Creation
+         3....... The Game
+         4..... The Growth
+         5.... The Deities
+ 
+ {y(To see a page, type <look {ctitle{y>){x
+{y    Be sure that you include the
+{y    word "the" in the title, as
+{y         well as quotes.
+ 
+~
+E
+dietys2~
+{WSadiq{x
+Judge and Mediator
+Sadiq is the Judge of Alanthia and its gods. Mostly,
+he watches with a careful eye over the working of the
+lands and heavens. As a result, he is often depicted
+as having a hundred eyes. Upon death, it is Sadiq to
+whom mortals must answer. Sadiq, also, is a very
+different type of god. He is much more in touch with
+the stars, and possibly once was one, or will
+eventually become one. None of the Moons know the
+answer, but Sadiq has traveled on Sahma's surface since
+the beginning of her life. Often considered cold-hearted,
+he knows more than he reveals and is the Keeper of
+Wisdom.
+ 
+{WAiden{x
+The Devout, Deliverer of Magic
+Aidan, like Didimus, was not an original Alanthian
+deity. Instead, he was raptured under the direction
+of Sahma. After the Great Wars, when Sadiq banned
+magic from Alanthia for all the chaos it has created,
+Aiden feverently continued his belief in, and devotion
+to all the gods even though they too were absent from
+Alanthia. As a reward, Sahma and the Moons deemed
+him the Deliverer of Magic. He returned magic to the
+mortals.
+ 
+     +++++++++++++++++++++++++++++++++++++++++
+ 
+~
+#6711
+book everliving commons~
+a glowing book of Alanthia's everliving~
+An old book lies glowing on the ground engraved with "Stories of the Everliving" on it cover.~
+unknown~
+treasure 0 0
+0 0 0 0 0
+1 0 0 0 P
+E
+shoshara~
+Rain poured down in a heavy, piercing blanket that cut and tore
+the forest. Loud claps of thunder echoed a low growl through the
+trees and brilliant flashes of lighting flashed and faded, plunging
+the forest into hollow darkness. In the split seconds of light, one
+could see two small shadows darting hastily for cover. The
+shadows turned and caught sight of a hollow just large enough
+for both of them nested within a gnarled, ancient tree.One figure
+hoisted the smaller into the knot, where she collapsed, exhausted
+and ill. The larger figure lagged behind...peering intently and
+searching. The female, in the tree, fell into a fevered and hasty
+slumber.
+A blinding, burning explosion of heat and light caused the skin on
+the female to prickle. She awoke alert and looked hastily for her
+mate. Seconds later a loud ominous crash echoing with the sound
+of the instant shattering of bones and bark filled the forest. Within moments, a horrifying scream broke loose and a potent
+burning odor followed, sending the forest into chill shock. The
+female froze, horrified.
+The storm broke suddenly, leaving only a heavy rain that echoed
+the female's mournful cries.
+ 
+--------------------------------------------------------------------------------
+Soft light filtered into the sylvan female's small haven. She
+awoke, her pale face stained with tears and her long auburn hair
+wet with rain and sobbing. She peered curiously out the hollow.
+Her vision was assailed with the sight of a scarred and injured
+forest. Soft rays of sunlight radiated through the canpoy. Her
+emerald green eyes gazed mournfully. Under the broken and
+splintered remains of a tree she saw the torn and mutilated body
+of her mate. She turned from the ghastly scene in sorrowful
+resolution and fell asleep.
+Hours later, she awoke from her restless slumber, the pain in her
+heavy abdomen renewed. She sat up in sobbing pain. How could
+she go through child-birth alone? How would her child live without
+the father? She cried out in pain, her misery echoing through the
+empty forest. A soft scent of pine and greens suddenly permeated
+her senses and lulled her into a peaceful sleep.
+She dreamed of the spirits speaking to her. They spoke of her child...
+wait, her children. Two daughters. They told her each would
+follow holy paths and each was destined to be of different
+elements. She felt calm and relaxed. The spirits would guide and
+care for her children. She awoke with two small pale bundles
+nestled in each arm. One was wrapped in an emerald leaf and the
+other in a blanket of the purest blue. She named the one in green
+Shoshara, and the other Rhiannanon.
+Shoshara dashed lightly through the emerald green forest. Streams
+of light radiated and casted heavenly glows on the forest floor.
+Shoshara inhaled the fresh crisp air and pine scent happily. She
+loved the forest, the trees and animals and plants, the fresh air,
+and the protection and shelter offered. She continued to run until
+she arrived at a circular grove of oaks and hemlocks.
+She said a brief prayer to the spirits and entered. She removed her
+velvet cloak and kneeled upon the grove floor. She took out
+several vials and flasks, took a small sip from each and oiled her
+pale hands and face with a few. She finished her preparations and
+stared up toward the sun radiating down upon her. She began to
+pray and mediate to the spirits of her forest.
+Her childhood had been a quiet and lonely one, with only the
+forest and her family as companions, but what grand companions
+they were. Shoshara and Rhiannanon were best of friends until
+they were separated. When she reached 10 cycles of age, the
+forest reclaimed their own and spirited Shoshara away to the holy
+grove to be taught the holy ways of the spirits. She learned well
+and quickly, reaching the end of her training in only 7 years.
+Upon her dismissal from tutelage, she remained in the forest,
+longing to remeet her mother and sister. Eventually she resolved
+to leave the forest to which she had grown so attached and
+joined the ranks of main-stream Alanthian society. She had even
+held high-rank as a leader of Selohaar and was a respected healer
+and leader through her quiet strength and wisdom. But still, she
+felt unfulfilled and incomplete. Some essential part of her was
+missing, something she had in her forest home. She thought back
+to her teachings and her birth and resolved to return to the grove
+she where she learned her calling. The spirits she had always loved
+and worshiped would guide her, for they had guided her through
+~
+#6712
+commons portal window recall Midgaard~
+the portal to Midgaard~
+Through the mist, a window is visible.~
+unknown~
+portal A P
+10000 0 0 3001 0
+1 0 0 0 P
+E
+portal window recall midgaard~
+The mist thins here, forming a window.  Through it, small, quaint
+buildings are visible, as are shops, people, and animals.  It is a bustling,
+colorful place.  Somehow, it seems like home.  
+~
+#6713
+commons mortal paths book volume one 1~
+a dusty book entitled "Mortal Paths Vol. 1 A-F"~
+A frail, dusty book of brown leather binding bears the title "Mortal Paths Vol. One A-F"~
+paper~
+treasure 0 AP
+0 0 0 0 0
+1 1 0 0 P
+E
+commons mortal paths volume one 1~
+{x
+{R<>{Y|{G<>{Y| {CMortal Paths {Y|{G<>{Y|{R<>{x
+{x 
+{x    Contained within these 
+{x  pages is a wealth of stories 
+{x about Alanthians of the past 
+{x         and present.
+{x
+{x (You may turn to the pages about
+{xeach person by typing 'look <name1>)'
+{x 
+{C       Table of Contents{x
+{G       -----------------{x
+{x 
+{x      1........... Adrian
+{x      2......... Ambrosia
+{x      4.......... Aragorn
+{x      6...... Bonecrusher
+{x      7.......... Crowley
+{x      8............ Cyric
+{x      9.............. Dex
+{x      12........... Ethan
+~
+E
+dex3~
+{x
+{G                         D{gex {G({gpage 3{G){x
+{x
+{x    I was swept up in the demon fire, pain from my wound too intense for 
+me  to breathe. I fainted then, and when I woke, I was lying in a temple 
+in  a land known as Midgaard. I was naked, covered in blood and fearing 
+for my life. In a pit by the altar I found a dagger, and cut into my flesh, 
+removed the charm that my aunt had placed there. A crow whom I had 
+befriended came to my side and asked if he could help. I gave him the 
+charm, which he consumed and flew away. He knew to never return to the 
+grove, and he would not want to. That was one problem solved -- my aunt 
+would never be able to use her device to find me. I could only hope she 
+had enough trust in the charm to not use her other senses, which would 
+alert her to my presence if she could listen to them.
+{x
+{x    I began to learn the ways of the mage, feeling I may have need for 
+strong  protection, should my aunt ever find me. My mother came to me in 
+my  visions, with my father, happy. She warned me to avoid the grove at 
+all costs... she showed me glimpses of the future of that place.
+{x
+{x                         Silence in the trees
+{x                       Without warning fireflies
+{x                      Lenore's hands outstretched
+{x                          Nirvana will fall
+{x                        Primus in flames ahead
+{x              Nothingness as darkness eats what fire bears
+{x                      Not even the ashes to comfort
+{x                       None left to bear the scars
+~
+E
+dex2~
+{x
+{G                          D{gex {G({gpage two{G){x
+{x
+{x    Meanwhile, my mother threw herself into her religion. She spent hours
+upon hours each day in meditation, and I knew my father must come to her 
+to comfort her as well. The people of the Grove loved her, and she was a
+wonderful advisor to them. I spent most of my time in the woods, in the 
+trees, learning their secrets. My father taught me that one has only to 
+listen to know the truths in the world, and he taught me to listen to 
+everything. Even the rocks have stories to tell!
+{x
+{x    Before I reached my 16th birthday, the new Acolyte at the chapel had 
+asked my mother for my hand in marriage. He knew I would not be available 
+until I was 18, but he gave me a cold feeling when I met  him. My mother 
+told him I could make my own decision. I went out one night with him, Azra 
+was his name, into the grove to show him my favorite tree. I could hear in 
+his breath the decay within...I could sense he was not what he seemed. I 
+spoke with him at length. Azra told me he was outcast because he would not 
+kill, he lived with demons, evil Elvenkind who wanted him to become one of 
+them. He fled to us for sanctuary. I knew he was lying. I told him that I 
+would  consider his offer and went home to my mother. I heard the truth in
+his voice -- he was told to woo me, for he was quite handsome, and marry 
+me so he could become the High Priest. My mother had him investigated, but 
+quietly, and found him worshipping Nikos in the quiet of his room. Azra, 
+his cover removed, turned into the flames of hell itself and vanished into
+the night. He was a demon sent, but by who? My dreams were uneasy, but I 
+had not the gift of seeing within them. My mother, too, slept shallowly 
+for a time. Perhaps she saw what was to come next.
+{x
+{x    Scarcely three moon cycles had passed when, while meditating in my 
+bedchamber, I sensed a disturbance coming from the chapel where my mother
+and father were wed. I ran to investigate, but it was too late. When I got
+there, my beautiful mother was lying on the steps before the altar, my 
+father's robe in her hands. Blood flowed like a river from her, coating 
+the steps. She moaned a final moan, and with that, the wind entered the 
+chapel and swept her up like a feral tide.
+{x
+{x    My mother was gone. I will never forget the horror I felt upon seeing 
+the river of blood. It soaked the hem of my robe and gown. The smell was 
+thick in the air, and the wind screamed in unison with me.
+{x
+{x    A tall woman in a black robe circled from behind me.
+{x
+{x    "Dex..." she said, her voice deeper than any I'd heard. I heard 
+thousands of shrieking voices inside that one word. I froze, unable to 
+move.
+{x
+{x    "You've turned out to be as lovely as your mother, my little one. Come 
+closer."
+{x
+{x    I had no choice! I had to obey her... my legs moved as though I'd no 
+will of my own. She removed my robe -- I felt her cold hands touch my 
+untouched flesh. I shrank back from it, feeling my nerves pull away from 
+my flesh in an attempt to flee. She took a knife from her robe and moved \
+in close  to me, her breath hissing in my ear. "Now, my beautiful child... 
+listen to me, and listen well, for this is but a warning. I want you to 
+leave this place, leave this grove. You are no longer the Crown Priestess. 
+You are no longer welcome here. With this charm," she plucked a piece of 
+metal from a pocket of her robe, "I will know when you are nearby. I will 
+see your movements, and you cannot escape from me. I care not where you go, 
+but you are not to return to this grove!"
+{x
+{x    The point of her knife pierced my flesh at my navel. White-hot pain 
+flared up, searing my skin from navel to breasts. My blood fell in 
+rivulets, joining my mothers, and I sobbed as the woman embedded the 
+trinket in my skin.
+{x
+{x    "We are family, you and I," she said, watching me as I dropped to my 
+knees on the floor, sobbing. "Your mother was my sister. Poor, dear 
+sister."
+{x
+{x    Demons appeared on either side of her. I knew her name was Lenore 
+without being told, as my mother's consciousness enveloped me. I saw their 
+childhood together, I saw the points that even my mother did not see, 
+Lenore's love for my father, Lenore's jealousy that she would never have 
+a child. Lenore raised her hands to the sky and the demons settled at 
+her feet, their black eyes glaring at me.
+{x
+{x    "Take this child and get her out of my grove."
+{x
+{g               Type look {G<{gdex3{G>{g to turn the page.{x
+~
+E
+dex1~
+{x
+{x
+{G                                D{gex{x
+{x
+{x    Sharni was a beautiful Sylvan maiden, the Crown Priestess of the 
+Grove. Sharni was from the line of women who became the High Priestess of
+the Grove, in each generation. The mother would train the daughter until 
+it came time for the mother to step down and spend the rest of her life 
+in the forest, playing and rejoicing in the wisdom given to all creatures
+by CeleDi. Each Priestess was ordered to have only one girl child, and 
+that girl child would gain all the wisdom of those who preceded her in 
+the family line. Corrine, Sharni's mother, made a grievous mistake. She 
+bore a second daughter, one year after Sharni was born. Lenore, the 
+second, was not what a Sylvan should be. She was tall, nearly 6 feet 
+tall, and dark of hair, light bronze of skin. She had none of the earthen
+beauty of her sister. Lenore had a dark voice, and she did not learn as 
+quickly as Sharni. Still, the sisters loved each other, and spent all 
+their time together, in studies or in play. As they grew older, they began
+to grow apart, as time will make enemies out of friends and lovers, so 
+Lenore became resentful of Sharni. As Sharni grew older, her beauty 
+became her mark, and was praised in every kingdom, by the tongue of anyone
+who had seen her. Lenore found herself hiding in the corners, watching 
+Sharni, who was the Crown Priestess, basking in the glow of the sun and 
+the confidence that comes from inner peace. At 18, Sharni had the world 
+at her feet. In a few short years, she would take her mother's place as 
+the High Priestess, and all the creatures of the grove would rejoice in 
+her kindness and wisdom. She fell in love with an Acolyte, Athalan, the 
+son of a noble Sylvan from a nearby realm. He was brilliant, filled with
+creativity and intelligence that Sharni recognized as worthy of the High
+Priest. Their love was a love that bore songs and legends. When they were
+wed in the small chapel in the grove, every man, woman, child, and 
+creature came to see them become one. The grove was filled with a holy 
+light, calm and serene, and the presence of CeleDi was felt by all.
+{x
+{x    Except for one. Lenore sat, watching the ceremony from the dark corner.
+She, too, fell in love with Athalan. She, too, felt he would belong to 
+her and she to him.He had not betrayed Sharni, his love, but Lenore felt
+that she would win him in the end. When his engagement to Sharni was 
+announced, Lenore felt that her heart had been torn from her chest. Her 
+hope was gone, and within her, jealousy began to fester and breed.
+{x
+{x    Years passed and Sharni gave birth to a baby girl, Dex, Crown Priestess 
+of the Grove. Lenore saw the birth of Dex and said a blessing over the 
+baby. The rite of blessing was the last time anyone saw Lenore. She 
+vanished, seemingly without a trace.
+{x
+{G             ________________________________________{x
+{x
+{x    I grew up, the much coddled baby, only child of High Priestess Sharni
+and High Priest Athalan. My mother was lovely, hair the embodiment of 
+fire, eyes the emerald of the grass and leaves, skin the color of the
+earth. She moved with the willowy grace of the wind, and could beckon it 
+to rock me gently in my cradle of ivy. Nightly I was sung to by the wind 
+and the trees, the leaves bent to protect me from the rains. I grew in
+love, this way, with my father and mother to keep me safe. They taught me 
+of the legends, taught me how to follow the path of CeleDi, like my fair 
+mother. I began to resemble her, both in grace and in thought. I thought
+to become a cleric, and learn the art of healing.My father, deep in 
+meditation one night, did not notice the earthquake in the small cave that
+crushed the life out of him. I knew he felt no pain, for he came to me in
+a vision that night, to calm my tears and tell me I must be strong, for my
+mother's sake. He was with me, from that point on, Athalan. He guides my
+movements, and it is to him I turn in meditations. He showed me realms of 
+the gods that no mortal could see, mere glimpses. Like shadows playing in 
+a mirror. Enough to let me know he was well and exploring, and that was
+all I needed. He died when I was 11, but became my closest advisor as 
+well.
+{x
+{g                 Type look {G<{gdex2{G>{g to turn the page.{x
+~
+E
+adrian1~
+{x
+{G                               A{gdrian{x
+{x 
+{x    In an age long forgotten by man, there existed a large empire. 
+It was a veritable paradise, all that lived there lived happily. 
+Of course there were some that this empire didn't much matter to,
+and there were still others that would rather see it destroyed. In
+an age before the clans that walk now were considered there existed 
+the Nightlords.
+{x
+{x    Karn al'Thetus led these troops against this empire time and again. 
+Nobody could quite remember why, but many thought the lord of it 
+had wronged Karn in the past. And each time his troops were repelled. 
+It was then that he created the Nightlords. He didn't really want 
+such evil on his side, they say. He just wanted revenge. The magics 
+he worked with and the dealings for the Nightlords' power warped Karn 
+they say. He wanted his revenge alright. He wanted it no longer on
+the empire, he wanted it on all that lived, all that had the gift 
+of life he gave up for his power.
+{x
+{x    It was then the lord of the empire of Avanil decided he too needed 
+troops. His seeking for powers to match Karn's own warped him in a 
+much different way however. He too lost his life, but he in turn lost
+his physical body. And so the wraith of lord Derrin of Avanil went 
+before his people, displaying his power, goading them into defending 
+their homes. Few revolted, even fewer knew what became of them.
+{x
+{x    And so fits in Adrian. He had lived in Avanil all his life. Unmarried, 
+no family to raise, he joined Derrin's army, seeing nothing better to 
+do. He took what he had with him, a meager living, shouldered Blaize. 
+A family heirloom, this sword was known around the world as a slayer 
+of evil as well as pretty much anything else. He showed up on Derrin's 
+front porch and joined the wraithlord's legions.
+{x
+{x    Adrian rose in the ranks, mercilessly slaughtering all opposed to his 
+lord, earning the rank of Grand General. And all knew those he killed,
+the mutilated bodies rent in the wake of Blaize. Yeah, he thought. This 
+is how life is...
+{x
+{x    Then Karn showed his prowess. He rose the dead of both sides. Derrin 
+faced his own troops, fighting in the ranks of Karn's own. The Vampire 
+lord's legions of undead rose as the shade lord knew his time had come. 
+He brought his power together, drawing the souls of his own warriors 
+into Wraiths to fight the bodies they had once lived in. The seige of 
+Avanil had begun and time meant nothing to the two that fought it. They 
+both stood ready, prepared for combat when the first of either broke
+the strain of self control and attacked.
+{x
+{x    Adrian had no such compunctions...or patience. He wanted this war 
+done, so he could enjoy the easy life agian. He stole out under the cover 
+of darkness and hunted Karn himself. He invaded the warlord's tent, 
+creeping unto his sleeping form of his enemy. Vampires however...need very 
+little sleep. Adrian drew Blaize, ready to finish this for good...and 
+looked straight into the burning holes that were the eyes of Karn al'Thetus.
+{x
+{x    Adrian never found out how that war ended. He never saw what became of 
+Karn and himself. It was on a dusty plain that he awoke, dust in his eyes
+that was not felt. He pushed to his knees, the rocks and dust tearing 
+into his hand where no blood ran. He saw Blaize, sheathed, laying some
+feet away at his side. He reached for it and then knew what had become 
+of him. He had not a recollection of the war because he had died in it.
+Karn had used him. To what end he knew not, but it did not matter now. 
+He knew not how much time had passed, why he had become a vampire, like
+Derrin instead of Karn, or why his own hand could not touch Blaize. 
+However, he had the sword, and he shouldered it, unable to remove it,
+adjusted his rusted, worn substandard armor, and set off to a land that 
+had changed.
+{x
+{x    From the land of Avanil he had known, loved and served, came another 
+land. Alanthia. Perhaps he could make the most of this little trick Karn
+had done he thought, as he he strode into the town of Midgaard. But for 
+now, I think I need a light snack...
+{x
+{x    Nobody is quite certain of Adrian's current motives. It seems as though
+he means to make amends, but he is, after all in Tempest. Deeply. Perhaps 
+he cannot be trusted, perhaps he can be so with more than is imaginable. 
+Perhaps he just wants you wondering, looking over your shoulder at your 
+hungry new friend.
+~
+E
+ethan1~
+{x
+{G                             E{gthan{x
+{x
+Ethans beginnings started in a small forest town called Charmain. 
+Charmain was a thriving peaceful Sprite village that had been around 
+for years. Ethan was born the younger brother of Enigma, who was
+already 4 years older. Ethans parents were prominent and very noble 
+members of the city of Charmain. His father was a high-ranking council
+official, and his mother was a member of the Royal Family that faded 
+out years ago. She stayed at home keeping care of the children. Ethan
+was usually off playing with his good friend, Cololhe. His sister 
+had already begun learning the arts of a thief. One day, just a few 
+weeks after Ethan began studing ways of the magi, he and Cololhe 
+ventured off to the woods.
+{x
+"Ethan, Ethan," called Cololhe as the two sprites wandered through
+the deep dark forest. "Wait up."
+{x
+They were on a journey to a cathedral where, for several years, they
+had prayed to their holy gods. The catherdral had been abandoned for
+years and was covered in growth from the forest. When they approached
+the cathedral they suddenly felt as though something was
+drastically different. As they ventured to the altar where they
+had prayed they saw movements of horrible creatures in the shadows
+but thought nothing of it. Ethan led as they approached the altar
+of pure gold and silver. When they knelt to the altar, Ethan heard
+a terrible scream wreaking of death. He turned and saw, in horror, the
+dismbodied parts of his once best friend. Rising at the speed of
+lightning Ethan drew his sword and was ready for battle. When he
+turned to see what had killed his friend he saw nothing. Nothing 
+was in within the presence of Ethan. At that second he heard the
+most horrible and terrible voice emminating from a hell spawned creature
+and damning Ethan into evil forevermore.
+{x
+Not shortly after, mayhap three weeks, a group of orcs and warlocks
+swept through the city and killed all but a few. This was the same
+group that had massacred the nearby human city of Gorges Fall.
+Both Ethan and Enigma were left with few others. They took
+their separate ways -- both the pure embodiment of evil.
+{x
+Seven years passed before the to siblings were to see each other
+again. From then on they have kept good contact with each other.
+Even with evil tainted across his heart, there is an inkling of
+good in him, but barley enough to return to his former self.
+~
+E
+cyric1~
+{x
+{G                             C{gyric{x
+{x
+"Cyriclasn'bael"
+{x
+A voice whispered through the blackness. Centuries upon
+centuries have passed since sound had been heard.
+{x
+"Cyric," the voice spoke again, using his more common
+name.
+{x
+The beast finally opened his eyes after his age long slumber.
+{x
+"What do you wish of me?"
+{x
+"Your time has come, Great One. Your destiny is upon
+you. The Ancient Gods of Alanthia have fled, leaving the
+Younger Gods of the Three Moons to rule. The time is
+coming, Lord, and I've been sent to awaken you."
+{x
+The Black Wyrm remained motionless, surrounded by the
+immense walls of his mountain cavern, mulling over this 
+welcome news. "How did you get in here? My home had
+been sealed by the Ancient Ones, never to be reopened
+while they remained in power. My slumber was much the
+same, induced by them to keep me from attaining my 
+goals."
+{x
+"Aye, Lord. The Master of my order transported me here
+by magical means. He sent me here to awaken you and offer
+the order's support in your cause." The young man was
+getting nervous, his eyes shifting from the great red 
+eyes of the Dragon before him to the amazing wealth of
+Ancient Magic surrounding him.
+{x
+Cyriclasn'bael chuckled to himself. "Your master seeks the
+Ancient Magic. I am not so newly awakened to not realize
+this, little one." 
+{x
+With those words, the dragon lashed out with his long tail
+to capture the small human within it. "Tell your Master
+that his support is unnecessary and unwanted. And the
+messenger superfluous."
+{x
+A smile cracked the great maw of the Beast, revealing the
+dozens of razor sharp teeth and fangs.
+{x
+{G                  ___________________{x
+{x
+Many days later, reports began filtering throughout the lands
+that many sightings have been made of Draconic activity in
+the Northern Mountains. Not more than a week after, 
+news of razed villages were to follow. No one knew from
+where this Black Destroyer came, or what his
+intentions were.
+{x
+But the Master of the Black Order knew to be afraid.
+~
+E
+bonecrusher1~
+{x
+{G                     B{gonecrusher{x
+{x
+I have traveled between many worlds.
+I am from original Ethynus a planet inhabited mainly by gargoyles.
+While searching the land for a suitable home I happened upon a 
+ portal.
+My curiosity overwhelmed my fear and so I entered the portal.
+As I stepped through everything went black.
+When I awoke I was in a new and fascinating land called Alanthia.
+I have meet and spoke with many of the mortal and immortals.
+Bringing with me my ideals from Ethynus I have forged a new 
+ clan, the DoomHammers.
+~
+E
+crowley1~
+{x
+{G                             C{growley{x
+{x
+Having wandered the lands of Alanthia for years after being stripped 
+of his magick, the gargoyle, Crowley sought to regain his power any 
+way he could. fought his way across the land of the three moons, 
+warrior and dragoon, ever seeking that which had been taken - killing 
+anything and anyone who got in his way. Slowly Crowley began his 
+descent into the darkness of his soul. His mind was torn. So 
+accustomed was he to the use of his almost god like magickal powers 
+of the past. Now, there was nothing. He could still hear the laughter 
+of the infernal Daedra as they tore his spirit from him and cast him
+from his homeland. Crowley soon wearied of his work as a hired
+sword. It was getting him nowhere closer to his goal of regaining
+his lost powers. Therefore, he assumed the roles of more subtle
+crafts, thievery and assassination. It was at this time in his
+life he first heard the whispers of a great treasure to be found
+called the Eye of Choronozon, which would bestow great powers
+on its "finder". Madly Crowley sough his great and unnamable
+treasure coming so close to finding it that he could feel the burn
+of the magick within him again driving him ever onward. Just as he
+felt his sanity slipping he heard a voice speak to him through the
+mists of his power maddened dreams. It spoke almost inaudibly at
+first. He could not make it out for it began in a strange and
+long forgotten tongue; it made his skin crawl but the words slowly
+began to come to him. It told him it sensed his hunger for the
+elusive prize, but he could never achieve it in the state he was
+for he lacked the peace of mind to make proper use of such an
+artifact. Therefore he made a vow to the dark, twisted voice and
+dedicated his life to serving Choronozon as a cleric. Upon making
+this vow Crowley's eyes grew wide as the voice thrummed in his
+head, more twisted and harsh sounding, and said " Hear now the
+words from Oblivion, know that the universe is not as you have
+seen it, nor as you shall ever see it again. Your eyes are shut
+now to the illusory world you have known, for only thus shall you
+see the truth around you. Only thus shall you see the horror that
+awaits at the edge of time, at the edge of sanity, waits to devour
+all that lives. You alone shall witness what waits in the cracks
+between that which is"-and then he saw-saw the writhing things
+teeming about him, wriggling in through the cracks in reality.
+He felt a scream welling up into his throat. "And yet the world
+as you know it still exists. It is your curse now to decide your
+path, your destiny. To show others the Truth and the power or to
+feed the Chaos. You will never see your world exactly as it was,
+yet you shall have the power to move within it." With this
+Crowley sank to his stony knees, put his head in his large, clawed
+hands and accepted the price of power but ever remaining humble
+to the Lord he served.
+~
+E
+aragorn2~
+{x
+{G                  A{gragorn {G({gcontinued{G){x
+{x
+When Aragorn returned from his camping trip, and discovered what had
+happened he flew into a quiet controlled rage. He marched at a rapid
+pace just short of a run towards the throne room. Once he entered the
+throne room he grabbed the sword of his father, Steel Bite, and cleanly
+sliced off the head of the newly crowned king. On his way out of the
+castle many guards, and servants tried to stop him, but men and women
+alike tasted the cold steel of the famed sword as their life was cut
+short. After the massacre of the household guard Aragorn went to see
+his old teacher Rathis in Leeuwark. At the house of Rathis, Aragorn
+told the story of what had happened with a few of his own twists to
+make it seem like he was in the right. After finishing his story Aragorn
+calmly demanded that Rathis create him a rift between worlds to send
+him to another world to consolidate an army so that he could return and
+conquer the Empire that was by rights his. Rathis conceded, and created
+the rift which closed after Aragorn had stepped through. Little does
+Aragorn know that the army that was sent after him by the Magistrate,
+was finally reaching Leeuwark, and after they discovered that Aragorn
+had been talking to Rathis they questioned him. Rathis would not tell
+them where he had went, and so they had him promptly executed for
+High Treason to the Crown. And so now Aragorn travels through the
+world of Alanthia making friends of many a different sort in an effort
+to get back to Tigeris and take over the only world he only really
+knows, the world that is out of his reach for all times because, you see,
+Rathis was the only one who knew where Aragorn had gone. 
+~
+E
+aragorn1~
+{x
+{G                       A{gragorn{x
+{x
+Once on a world far far from this one there was a very powerful
+king. He was the king of the great Empire of Tigeris. The people
+of Tigeris were a hearty race descended from the ancient warriors
+of which legends are made of. Being of a more brawn over brains
+culture most of the people were warriors, or mercenaries that is
+those of the True Blood that have come from an unbroken line
+directly from those ancient warriors, although there were a few
+who dabbled in the arts of magic with even fewer becoming masters
+of the arcane arts.
+{x
+The King of Tigeris, Malanar, had a son during his 24th year as
+king, and he named him Aragorn stating that it was a name of power
+and authority. The king was nearing the age of 50 and thought it
+wise to start in the training of his son as soon as possible so that
+he could oversee how he was trained. The king was wise still in his
+old age and thought it best that his son be trained in both the arcane
+arts and combat skills. So at the age of three Aragorn was sent to a
+remote part of the Empire that was along the disputed border, but had
+a reputation for having one of the best magician's academies in the
+Empire. With his first sword, a gift from his father, and orders not
+to let him use it until he was seven years of age he set off in a
+caravan towards Leeuwark. On the day of his seventh birthday Aragorn
+didn't wake up as usual wi th the rooster. In fact he was having
+fitful dreams in which he was finally starting to grasp the concept
+of magic which he had been struggling to comprehend under his teacher
+the magician Rathis. At about eleven o'clock that morning a servant
+who had been sent to find him saw him struggling and ran to get the
+Rathis. Rathis saw what was going on with the boy and recognized it
+at once as something every practitioner of magic goes through, the
+Understanding , and knew that if woken during his dreams he could lose
+his mind or all of his training he had ever understood in the first
+place.
+{x
+Aragorn awoke from his sleep four days later with the realization and
+understanding of all that had ever been taught to him of magic. After
+he awoke Rathis insisted upon the Lord of Leeuwark that Aragorn be
+made the court healer. The lord finally agreed and Aragorn had his
+first title.
+{x
+Five years later, during a particularly bad raid by the neighboring
+Kingdom of Deviliand, the Lord took an arrow slightly off the mark of
+his heart. When summoned from the battle Aragorn was furious because
+he was about to launch a counter-offensive which had to be launched
+within a window of the next two hours, and would do better for Tigeris
+the sooner it was launched. Also the attack depended heavily upon his
+being able to provide magical support which he would not be able to do
+if he used his strength to heal the Lord. And there it was that Aragorn
+made his first steps towards the evil that now holds him firmly in an
+iron-tight grasp. Aragorn went ahead with his counter-offensive, and
+destroyed every one of the enemy raiders. After the battle he rushed
+back to the castle, but was too late to heal the Lord. The body was
+still warm, and the surgeons said they had lost him only a few minutes
+earlier. After this Aragorn ruled the tiny province until he was
+approaching the age of 17. Upon the eve of his 17th birthday he
+received word that his father was of ill health and that magic could
+only prolong his condemned condition for a few long months of suffering.
+So Aragorn left the lands to his most trusted advisor and left to care
+for his father as best he could. One month to the day after he arrived
+in Arax, the Empire's capital, his father slipped on to the Isle of the
+Dead on the only moon of that distant planet.
+{x
+Upon the death of his father Aragorn left the castle in the middle of
+the night telling no one and went camping in the Highwood Forest. With
+Aragorn the only heir to the throne the Court Magistrate went to setting
+up the ceremony for the next day, and presuming that Aragorn had
+heard, and therefore made no arrangements for him to be told. Once the
+time came for the ceremony and Aragorn was no where to be found.
+Court pages were sent to look for him, but none could find him. The
+Empire demanded a King, so the Magistrate did the only thing he could,
+and crowned the Duke of Arax King seeing as how the king had no other
+relatives, and his wife was dead.
+{x
+{g                Type look{G<{garagorn2{G>{g to turn the page{x
+~
+E
+book~
+{x
+{R<>{Y|{G<>{Y|{C Mortal Paths {Y|{G<>{Y|{R<>{x
+{x 
+{x    Contained within these 
+{x  pages is a wealth of stories 
+{x about Alanthians of the past 
+{x         and present.
+{x
+{x{x (You may turn to the pages about
+each person by typing 'look <name1>)'
+ 
+{C       Table of Contents
+{G       -----------------{x
+ 
+{x      1........... Adrian
+{x      2......... Ambrosia
+{x      4.......... Aragorn
+{x      6...... Bonecrusher
+{x      7.......... Crowley
+{x      8............ Cyric
+{x      9.............. Dex
+{x      12........... Ethan
+~
+E
+ambrosia1~
+{G                           A{gmbrosia{x
+{x  
+I can no longer fight this battle...It is ever present, a never-ending
+struggle for life on both sides. One side battles for power, the
+other to exterminate those that threaten. I have no place here...
+{x
+Slowly the paladin turned, the vicious wind blowing her jet-black 
+hair about her face, and surveyed the battlefield. Dead and wounded 
+were now lying in puddles of their own blood and entrails in what had 
+once been a beautiful pasture. She glanced down at her blood stained
+sword and armor, shuddering briefly a dizziness crept over her
+entire body, and suddenly she dropped to her knees and silently
+wept. She wept for her fallen comrades, for those that she had
+killed, and for those that would be killed in the battles to come.
+She wept until she had no tears left, and finally, exhausted from
+battle and sorrow, the paladin collapsed.
+{x
+Weak...I am weak. Such sights have never bothered me before...
+{x
+Slowly dropping into sleep, the wonders of an exhausted slumber
+worked their magic...Now it is years earlier, the paladin is no
+more, standing in her place is an adolescent girl, no more than 13,
+with a fair complexion, hair the color of night, and eyes of
+crystal blue...
+{x
+'Go out and finish some chores now.' Her father had said to her.
+Her mother nodded, and she knew that this was a discussion for
+ears othe than hers. The man inside with her parents intrigued
+her immensely, though. He appeared to be a lord of some sort,
+with beautiful inscribed armor and a sword with a jeweled hilt.
+He had a young face, which unfortunately was devoid of any
+emotions, but handsome none the less, and long black hair, which
+dropped in small ringlets to his shoulders. He was also
+obviously a warrior, which added to the fascination that she had
+with him. {/
+She wandered to the side of the small house, pretending to do
+some worthwhile work, eavesdropping at the first open window
+as she passed by. At first she could hear only muffled
+conversation, but from the tone she knew it was not good. A
+few fleeting words caught her ear, something about 'armies
+amassing' and 'destruction if not obeyed', but this was standard
+talk for every fool looking to gain a little power. As she
+approached the second window, she bumped into something that
+she could not see, and went face first into the ground. Looking
+around, nothing could be seen, and so she blamed it merely upon
+the clumsiness of her age. Nothing could be heard from the
+second window, so the girl walked away from the house
+grabbing an empty bucket and heading towards the wooded
+area where the stream was that they got their water from.
+{x
+As she knelt at the stream to fill the bucket, muffled yells came
+from the house, and she heard the door burst open and then slam
+shut. She heard the strange man yell 'Cyrus! Destroy everything!'
+He said something very strange and pointed at the door, which
+her father was, by the sound of things, trying extremely hard to
+open. The warrior then drew his sword and began to run toward
+the forest. He was no longer a man...His, or better yet its,
+face was contorted and twisted, its body a mass of oozing sores
+and burned flesh. She knew she should stand up, she knew she
+should run, but she could not move. She looked past the
+demonic being and saw a huge green dragon slowly materialize
+where she had been walking only moments before. It slowly
+flapped its huge wings blowing dirt and leaves everywhere.
+Hovering just above the ground, the beast drew back its tail
+readying it to deal out a massive blow.
+{x
+         {gType {glook {G<{gambrosia2{G>{g to turn the page{x
+~
+E
+ambrosia2~
+{G                   A{gmbrosia {GC{gontinued{x
+{x
+A greater fear than the dragon itself overtook her. They meant
+to kill her parents and destroy everything they owned! Her
+parents, mere farmers but influential citizens of their small
+peasant village, were about to die horribly at the hands of the
+monstrous beast. She forced herself up, but was quickly pinned
+down by the huge demon that had spoken with her parents. The
+dragon appeared to reconsider his course of action, and ever so
+gracefully let his tail float behind him. He then forcefully
+ripped parts of the roof off of the small house, gazing at the
+two humans cowering in fear inside. He grinned and began an
+intake of breath. The girl tried to turn away and close her
+eyes, but the hideous beast holding her uttered a few words and
+she felt herself unable to pull her gaze from the scene
+unfolding in front of her and unable to move. 'You will
+watch,' the beast wailed, 'so that you may tell others what
+happens to those that defy us!'
+{x
+Snapping out of the horrible dream, the paladin frantically
+looked around at unknown surroundings. Slowly recognition came,
+and she realized that she was no longer on the battlefield, but
+back in her room. She had been bathed, and her hair brushed out.
+The priests must have found her and brought her back from the
+field. She shuddered at the all too real nightmare that had just
+been re-enacted.Revenge...I was not fighting to further good,
+merely to kill those that had taken my family...
+{x
+Trying desperately to think of what this realization may mean
+to her and those who relied upon her, the young paladin found
+herself unable to form any coherent thoughts in her exhaustion.
+Taking a drink from a glass of water that was on the table beside
+her bed, she slowly allowed herself to drift back to sleep,
+satisfied the horrible dream, which had been a reality of her
+earlier years, would not continue. This matter would have to
+be resolved after resting.
+{x
+A second slumber also worked its magic, bringing forth a beautiful
+light that bathed the young paladin, and filled her body with a
+faint warmth. In the light appeared a young maiden, she could
+see but her outline, yet she knew that the maiden was of a
+beauty beyond words. Softly, the maiden spoke...
+{x
+It was not weakness striking you out on the battlefield, my
+child, merely enlightenment. You have realized the error of
+your ways. You have been fighting for good, but in reality you
+were fighting viciously for revenge. However, you have come to
+the realization of this and its error, and that is why I have
+come to you...
+{x
+The paladin began to speak, but she could not find the words.
+She wanted to tell the maiden that she had thought she was
+doing right, that she thought she was pursuing a higher and
+better cause for all, and yet no words would come to her. She
+thought she could see the maiden smile at this.
+{x
+It is alright child, do not try to speak, I know that your
+heart is pure and true. Now that you have realized the path
+you must take, I can be with you. Walk this path without fear,
+aid those that you may, and fear not that which I may reveal to
+you.
+{x
+Just as your ways have and will be changed, you yourself have
+changed. The light of truth in which you have been bathed has
+altered you, only slightly mind you, whereas you had a true
+heart but fought for the wrong reasons. Your hair is changed
+from the color of the night to the honey colored light of the
+day, and your eyes have gone from the color of unfeeling crystal
+to that of the lush and green earth. Hope shall be your cause,
+and you shall bring this light to the land, instilling this
+hope for the better in all beings of all causes...We are not
+here to judge, merely to aid those in need.
+{x
+Wake now and follow my path...
+{x
+'There is darkness, everlasting darkness, I cannot wake, I cannot
+move...'
+{x
+Come, Ambrosia, arise. You are needed and the land awaits...
+{x
+~
+#6714
+book mortal paths volume ii f z two commons~
+a tanned book clothed in dust reads "Mortal Paths Vol. II F-Z"~
+A mass of golden-aged crinkly papers is encased by a thin, tanned hide and engraved with the words "Mortal Paths Vol. II F-Z"~
+paper~
+treasure 0 AP
+0 0 0 0 0
+1 1 0 0 P
+E
+widowmaker1~
+{x
+{G                        W{gidowmaker{x
+{x
+"Here but now they're gone
+Together in eternity...
+Love of two is one
+Here but now they're gone
+Came the last night of sadness
+And it was clear she couldn't go on
+Then the door was open and the wind appeared
+The candles blew then disappeared
+The curtains flew then he appeared...saying don't be afraid
+Come on baby...and she had no fear
+And she ran to him...then they started to fly
+They looked backward and said goodbye...she had become like they are
+She had taken his hand...she had become like they are"
+{x -Song of Widowmaker told by Black Orpheus.-
+{x
+{x    Darkness swelled within the open tomb of Al'kira, liches circling the 
+coffin and chanting for the return of their long dead master. "Arise, 
+Arise, ARISE." Slowly the body lifted toward the sky and glowed a deathly 
+red hue. The corpse opened his eyes. His muscles tensed with the new power
+of immortality and the thirst for blood.
+{x
+"In my dreams, I am always dying 
+all the time. Then I wake, its catastrophic mind.
+Yesterday I felt so cold, I felt like I could die.
+Took the needles from my arms and put them to the sky.
+Watched the cold come take me pull me down like I did know,
+{x
+Hold myself up til tomorrow holds me down again.
+Feel the darkness coming over see how it begins.
+Come with me into the willow garden out tonight.
+Feel the darkness come my moon will touch you with its light.
+{x
+Help me life was over love I want to had you in my sights.
+See and I was overlooked I had you in my hands.
+Like a lid of no survivors nothing I don't mind.
+Help me broken baby help me break you with my mind."
+{x
+{x    Widowmaker chanted as his body sprang to a renewed life.
+{x
+{g         Acknowledgements to Moby and Blue Oyster Cult{x
+~
+E
+tarc1~
+{x
+{G                              T{garc{x
+{x
+{x    Born and raised on a farm in the outskirts of the city of Thalos, 
+baptised inside the female clan of Virago, taking the oath I would someday 
+be inducted into their clan code. I was plagued with the hellish dreams of
+an uncertain future. The nightmares as I call them, consisted out of 
+slaughtering of villages, destruction of clans and corruption of power, 
+without any doubt it must have given by Nikos, at least that was what I
+believed at the time.
+{x
+{x    When I was older, I offered my services to a landlord, to work the 
+field in exchange for pay and food and shelter. I enjoyed the aggreement 
+for some time, till I heard the animals in the barn making a lot of noise,
+I got out of bed and went outside to see what was making the animals the 
+way they acted, but I could find nothing. When I went back inside I 
+discovered the bloodless corpse of my master and several vampires feeding 
+from the rest of the servants. They turned to me, with lustfull eyes, 
+seeing me as yet another prey, till one of them suddenly turned around and 
+snarls at the others, backing them off. I suddenly recognized the vampire, 
+it was my own brother, since long lost and now I find him here, as a 
+bloodthirsty vampire. He took me apart from the other vampires and 
+explained how had luck had run out when he took shelter in a cave. He then 
+offered immortality to me, or death like my landlord. Taking the only 
+option given I turned towards my brother and offered him my life, to be 
+thrown into eternal damnation.
+{x
+{x    My first few years as vampire were fragile, learning everything step 
+by step, I found out soon that the light of the sun had severe effects on 
+my body, always covering myself in black clads and cloaks. Feeding of 
+small rodents and beasts I survived, till I stumbled onto a small temple 
+in the dense jungle near the war mountains. Here I found the graves of
+several men and one women, as I entered temple, I heard the door close 
+behind me. Ghosts, from the graves I just saw, were swirming around me. 
+They said they had been expecting my arrival, and the had been prepared 
+for hundreds of years to train me, and train me they did. Spending several 
+months within the temple, training my skills and sharpening my mind 
+through meditation, I learned to control my body as well as my mind in
+harmony. They also explained the dreams I have had since I was a child. 
+Forecasting the desctruction of Tempest and the downfall of Legions.
+{x
+    In the following years I have talked to my brother Zastull about the 
+matters that occupied us, the rise of a new clan and about our battles 
+against it. Finding love and losing is as fast as I found it, leaving me 
+cold and harsh, untill I found true love. I saw the breakdown of Virago 
+leaving me untied, except to my dearest Briana, she who fills my heart
+with joy.
+~
+E
+madison1~
+{x
+{G                             M{gadison{x
+{x 
+{x                On the wings of perfumed breath
+{x              He forgot the things his mummie said
+{x                Left behind her infinite kisses
+{x                And took along a million wishes
+{x
+{x              Pitch black sword from melting ice
+{x               Drew through the dirt of paradise
+{x               Losing height like a setting sun
+{x              Ending the life of the chosen one
+{x
+{x               The chosen one got chosen last
+{x             Tried to slow down but way too fast
+{x            Woken up on his way to heaven's gate
+{x            On earth with fangs and a deadly fate
+{x
+{x               Soft white skin of undead glory
+{x            Marks the start of his one-line story
+{x             Unquenced thirst as a long day end
+{x           Following the dark path wherever it went
+{x
+{x           At the end of the rainbow and God's rope
+{x         Immortal life needing blood instead of hope
+{x           Staring at eternity without pain or fear
+{x         He lost his humanity without shedding a tear
+~
+E
+gryphonx1~
+{x
+{G                              G{gryphonX{x
+{x
+{x     Not knowing my past is one of the hardest things I have ever had to 
+endure. I know nothing of my family, my heritage, or former self. The few 
+things I have remembered from my past are vague and may not even be the 
+truth, perhaps only what I want to remember, what I want to believe. I 
+know not where my history began but I can vaguely remember a grand forest,
+my home and the only place I felt safe. I learned from a vagrant once, 
+that the place I believed to be my home was destroyed hundreds of years 
+ago, but I can feel the spirit of the place, I know I am related to that 
+earth. I have no idea who my parents were, what they believed in or look 
+like, I can only imagine how they would look if I stood in front of them.
+I hope they would be proud of my accomplishments, my hope, goals, and 
+dreams. Hope is the only thing I have through which to remember them.
+{x
+{x    The part of my life that I do know started about 2 years ago. I can 
+remember taking care of myself and raising myself but not knowing where I
+learned how, or how I got where I am. When I realized that I existed I 
+knew I had to find my history, I had to learn who I am. I've spent the 
+last 2 years searching for some reason for my existence, some proof that
+I am who I am. The only realizations I have ever had of that history is
+short flashbacks of brief images and visions of people I know nothing 
+about. I recently discovered others in Alanthia knew of my existence. I 
+spoke with Torres IronCross and he told me that I had been in the 
+Alanthian realm before. My memories are slowly coming back to me now. My 
+form has changed, I was never always a dragon, but what I was I do not 
+know. I also can't remember any profession or following. I'm starting to 
+believe that my becoming a mage at my "mental rebirth" has something to 
+do with my apparent absence from the realm. The reasons for the leave I 
+took may be too dark and so lost I may never again regain the truth.
+{x
+{x    Today I had a vision. It was vague and I only recall bits and pieces 
+of what I saw. I remember seeing my home, but no family or friends, only 
+strangers. From where I was I saw a huge bird and lion-like creature 
+attacking people and destroying what we had worked so hard to create. I
+recollect the survivors, me included, standing in horror at what was left 
+of our forest. The next few days were worse than any hell I can imagine. 
+Everyone had to search for their loved ones, usually finding only a 
+corpse or scattered remains. Memories were destroyed and the peoples' 
+reasons for living were utterly crushed. After the initial attack, more 
+than half of the survivors passed by their own hands. It was like a chain 
+reaction. Someone would lose their grip on life, end their sadness, and 
+create more sadness. To stop the sadness, I was given the disgraced name
+GryphonX, to appease the creature, and cast away. I was never to see my 
+home again. I was to bear the weight and sadness that the whole community 
+felt. I was their solution; I was never asked, never consulted with. 
+Maybe now I don't want to know who I am, or why and how I am. I can see 
+know why I might have forgotten my past, It was my will.
+{x
+{x    Some visions last longer than others, but most are short and leave me 
+feeling more confused than I was to start with. Every day I search for 
+someone who can help me sort through all these thoughts and ideas, but 
+have not yet found any such help. I am just now forming beliefs about how 
+I feel, because it is so hard to know how you feel without knowing who you
+are. Recently I have decided to start from here. I am GryphonX, I am 
+myself, no matter how lonesome I feel, I know I will always be there for 
+myself. I know my physical self, 5'11", a small yet fierce dragon, a blue 
+dragon mage with the heart and freedom of the most powerful of the 
+gryphons. I may never know who I was but I know who I am now. I am a 
+visionary, wanting to enlighten the world through let my talents go to 
+waste, I must use them to my best ability and through channeling my 
+talents to help others, perhaps I might discover my former self and
+further the being I have become.
+~
+E
+garrick1~
+{x
+{G                               G{garrick{x
+{x        
+{x         "My dear friend, Garrick, it has been so long! I hope 
+{x         you haven't forgotten me, so please feel free to stop 
+{x         by some time. We'll sit out back by that apple tree, and 
+{x         it'll be like old times.
+{x                                Signed
+{x                                   Johnny"
+{x
+{x    In his one window cell, perhaps a bit roomy by normal standards with 
+enough room for a bed, writing table, and fireplace, and a small window 
+set into the wall, Garrick pondered the letter that arrived just this 
+morning. The single candle of his room gave just enough light to read 
+and write by, but it was still barely adequate. With a frown on his brow, 
+he lowered the crackling parchment and set it aside. Some of his earliest 
+memories had been of his friend Johnny..but unforunately, not very "fond" 
+memories. Johnny had been an old friend of Garrick's, true, and even a
+business partner in their...trade. By mentioning the "apple tree," and 
+"old times" he must be talking about their old shop, perhaps going back 
+into business. This was rather disturbing news, since Garrick had seen his 
+friend's body when he had died. A little known fact was that Garrick had 
+not always been a religious man, and if anything, his origins were of..
+dubious nature, at best. He had been working very hard for the last 10 
+years to bury that past, but it seems that many things were coming back 
+to haunt him.
+{x
+{x    I was a thief once. Nothing but a petty thief. The memories of his 
+violent ways, of his useless skills, came back to him with striking 
+clarity, reminding him that it really wasn't that long ago. He had stole 
+from the rich, stole from the poor, had even used his natural charm and 
+grace steal some hearts as well (though if a couple rings fell in the bag 
+along with those hearts, so what?). He had done quite well in fact, but 
+always lost it somehow, and had to steal again.
+{x
+{x    It wasn't until that horrible day that he returned to his home town 
+that he found most of it..well..gone. Almost nothing but a smoking crater 
+was left. Nothing... the town..destroyed..dark stains everywhere...so much
+blood..so much..He frantically slammed the door to those memories and 
+shuddered, still feeling unclean. It had been during those great wars, 
+when the powerful demi-gods, still barely mortal, had ravaged the world 
+and whole cities had dissappeared at an angry gesture.
+{x
+{x    He no longer remembered where the town was on any map, or even how old
+he had been when he fled from that place, screaming, mostly insane and 
+gibbering. He had felt crushed, destroyed, as if a hole the size of 
+mountain had replaced his soul. He remembered vaguely of stumbling into 
+a church, or perhaps a monastry, where the monks had cared for him and 
+eased his pain.
+{x
+{x    So much lost..and yet, so much gained as well, he thought. He had 
+entered that place a madman..and had come out a holy man..well, a cleric 
+anyways. Even if he was not devote as some of the monks, he still served
+the gods and goddesses as they asked him to.
+{x
+{x    He blinked, returning to the present, and looked down absently at the 
+letter. Pursing his lips, he lifted the note, and deliberately thrust its 
+end into the flame of the lighted candle. That part of me is dead now, he 
+thought, Gone with that town. Only Garrick the Cleric remains. Rising, he 
+dropped the already-burning letter into the cold hearth of the fireplace. 
+The firelight danced in his eyes as he watched the paper blacken and 
+crisp. Only Garrick remains.
+~
+E
+snitch1~
+{x
+{G                            S{gnitch{x
+{x
+As an infant Snitch was struck with a mysterious illness that kept his
+blood running hot and kept the poor babe wailing throughout both day
+and night. Frustrated, the parents finally called upon the local healer
+to help their ailing child. They had acted too late for the disease had
+already curled about the infant's mind infecting it - changing it.
+{x
+As a child, Snitch was prone to mad hallucinations in which he thought
+himself a master mage, often shouting out nonsensical curses to those
+nearby, playmates as well as adults. He often scared those about him
+and most learned to keep their children away.
+{x
+As the young elf grew in years the hallucinations grew in number and
+ferocity. Barely into his adolescent years, Snitch was cast out, his
+family forced by the other villagers to condemn him.
+{x
+Having been given a large backpack full of provisions from his family
+so that he would not starve, Snitch wandered alone for a long stretch
+of time. One autumn day he happened upon a man crouched in the woods
+amongst a patch of wild mushrooms. Another hallucination struck.  The
+old man, a wizard who was gathering some ingredients and components at
+the time, recognized some words of magic spilling from the young elf's
+lips and looked up in surprise.
+{x
+The lad was clearly unstable, but the old man decided to train him,
+seeing a source of great power within. The wizard took Snitch to his
+abode and began to teach him. But Snitch could not learn the proper
+discipline required to become a mage, and his hallucinations grew
+steadily worse, not better as the old man had assumed.
+{x
+One night, during Snitch's greatest mad fit, his words slew the wizard
+where he slept, the elf's plague-inspired mad gibberish calling down a
+bolt of lightning that incinerated the old man and set the house
+ablaze. More words spilled forth as Snitch half consciously groped for
+the exit, his skin darkening under their power, his mind further
+falling into their power.
+{x
+Snitch staggered outside of the burning home, and fell to his face
+while still murmuring mad words. His eyelids fell as did hisconsciousness.
+Snitch awoke hours later. The house was a smoldering ruin. His skin was
+as pitch as night. Snitch's mind reasoned that he was a dark elf and as
+far as his mind allowed him to remember, he had always been one. His
+eyes alive with the fire that destroyed both master and home, Snitch
+struck out, ready to face the world.
+~
+E
+wulf1~
+{x
+{G                         W{gulf{x
+{x 
+{x    He comes from the shadows, his mission unknown,
+{x                his only goal is profit.
+{x   Friend to all, neutral to the world. He will only
+{x   strike at those who strikes against himself or to
+{x                   a close friend.
+{x   The perfect assassin that can never truly die, for
+{x                 he is already dead.
+{x   Silent as the night, black as the shadows, you will
+never know he's there, until it's to late, then he's gone.
+{x    Now part of the Dark army, has has much support.
+{x   Fear this Vampire, for he has even the imp's trust.
+{x  Threaten him and you threaten the dark army who will
+{x   crush any opposition, then disappear leaving only the
+{x                      dead behind.
+~
+E
+skull3~
+{x
+{G                        S{gkull {G({gcontinued{G){x
+{x
+"It is of no consequence who I am. You should worry yourself with
+your life. In times of need, I shall look after you, watching to
+see if you stay the path upon which you have been set. I must
+now take my leave, Skull. Go forth into the land of Alanthia
+and prosper, forgetting not what the brothers have taught you.
+Be true, Skull." With those words, the woman faded swiftly into
+nothingness, leaving Skull alone...again.
+~
+E
+skull2~
+{x
+{G                        S{gkull {G({gcontinued{G){x
+{x
+When the last word fell heavily from the stranger's lips, Skull
+stood and strode from the room. Impossible.... Violence. War.
+Bloodshed. These were not words used to describe the cleric, or so
+he had believed up until this moment. A fable, a story from
+another land - another world - that's what the scroll was. But no...
+somehow the words had been true.
+{x
+Skull sought comfort and solace in the great forest of Alanthia
+in which stood the brotherhood's monastery. He struck off by
+himself, his feet falling where they may. In his aimless wandering,
+Skull eventually happened upon a clearing in the forest, the clearing
+where he had been found, the clearing that had since never been
+seen again despite long hours of searching.
+{x
+The matters of the day rested like a heavy backpack upon the
+cleric's shoulders. Much had been revealed to the man, and he
+needed time to muddle it all out. Appropriately enough, Skull found
+the tree against which he was discovered, and sat in the same
+spot in which he awoke years ago.
+{x
+Sitting in reverie, Skull let his eyes close and drifted back to his
+first memories.
+{x
+{G                      ************************{x
+{x
+Waking with a start, Skull's first action was to confirm the
+presence of a sword by his side, but what slight movements he
+could muster sent wracking pains through his body. He moaned in
+shocking pain, half-delirious to the point that he had not felt the
+gentle touch to his face until the woman spoke.
+{x
+"Rest, rest. Do not try to move." Her hand drifted to his chest and
+Skull felt the healing powers within her fingertips. But suddenly
+the hand was gone and Skull was left alone against the tree,
+recovering from some ailment or wound unseen by his eyes.
+{x
+Of how much time past, Skull was unsure. He sat watching the
+treetops, the clearing, the sky. After what seemed an eternity,
+he heard a voice hail him. Out of the woods and into the clearing
+came a tall man dressed in the simple gray robes of a cleric. Skull
+could not speak, his every attempt seizing him in agony.
+{x
+The man, seeing Skull's predicament, dashed off through the trees
+and soon returned with a few more clerics who set about easing
+the pain-filled man. When he had recovered sufficiently to walk
+half-dazed, the clerics carried him to their monastery, offering aid
+and shelter to the hapless man.
+{x
+During the weeks of recuperation, Skull learned much of the order
+and asked to join them for he had no recollection of who he was
+or where he had come from. The only thing he had remembered
+was that his name was Skull, an odd name for a man. With the
+brothers' help, Skull tried in vain to recover his lost memories, but
+they proved too elusive.
+{x
+{G                  *********************************{x
+{x
+She had returned. Dressed in a simple white gown with lace
+flowers interwoven into the hem and bodice, the woman was as
+elegant as any Skull had ever seen. Her long auburn hair flowed
+past her shoulders and her face reflected nothing but happiness
+and love. Somehow Skull knew this woman... yes it was she who
+had brought him to this world somehow. If only he could
+remember.
+{x
+She bent down next to him, and sat alongside him. "You wonder
+who I am, do you not?" she asked rhetorically. "Yes, Skull, I have
+brought you into this world, a second chance at life if you will.
+It was I who penned the scroll and I who read it. I am the one who
+lead you back here, to my home in the wood."
+{x
+Skull thought nothing as he listened, save for the fact that she was
+the key to his past.
+{x
+"Skull, you were once a great and evil man, tainted by a lust few
+dare possess. You and your legions ravaged Aloria and destroyed
+it, forever removing it from Life. And yet I was called to save
+you from your own diseased fate, to bring you into a new world...
+a new life to pay penance for the last."
+{x
+"You are destined to wander these lands, aiding those in peril,
+comforting those in need. You yet have the mark of the warrior
+upon you, yet you are a cleric in this lifetime, a holy man, good
+and pure."
+{x
+"But...who are you, milady?" Skull ventured.
+{x
+{g                Type look {G<{gskull3{G>{g to turn the page{x
+~
+E
+skull1~
+{x   
+{G                            S{gkull{x
+{x  
+  "Hail brother Skull," the cleric smiled, the name catching in 
+his teeth as it did years before when he had first spoken it. The
+name just wasn't normal, especially for a brother.
+{x
+"Well met, Brother Gregory," Skull replied with a smirk as he entered
+the cloistered meeting room. Virtually every brother in the order was
+present, even those formerly away on secluded sabbaticals. Nods and
+cautious smiles met Skull's eyes as he looked about the room.
+Only one man was a stranger to Skull, seated near the head of
+the large table around which all of the religious men sat. Brother
+Gregory, the order's leader if there really was one, sat at the
+far end of the table, directly across from Skull.
+{x
+Gregory motioned for Skull to sit in the only vacant chair. Once
+Skull took his seat, the elder brother proceeded: "No doubt you
+are curious as to the identity of the man to my right." The stranger
+sat with his head bowed, his eyes locked upon a scroll held
+between his slightly trembling hands. "And no doubt you are
+curious as to the nature of the meeting which I have called."
+{x
+Gregory paused and Skull felt a thunderous clap of trepidation
+strike him from above. Skull tensed and set himself on guard. He
+looked about warily. Something was not right within the room.
+Everyone's eyes were focused upon the stranger.
+{x
+"Skull...brothers, this traveler is known to us as Geraud. He hails
+from a distant land, but carries with him a scroll of great import.
+A scroll that concerns you, brother Skull." Gregory cleared his
+throat and let the moment fill with uneasy tension. "Skull, your past
+is as unknown to us as is the great journey of life into death. With
+the scroll, Geraud may have the key that may unlock the riddle
+that is your past." Geraud did not acknowledge anyone as he
+simply unfurled the scroll and began to read.
+{x
+{G                 ********************************{x          
+{x
+The piercing thrust sliced into the man's midsection and the sword's 
+tip emerged from his leather-clad back. Coughing out sinuous strands 
+of crimson blood and clutching at the length of forged steel protruding
+from his gut, the man fell to the ground, dead. The warrior god 
+wrenched his sword from the twitching corpse and swung it quickly in
+a precise arc, cleaving another man neatly in two. The carnage about
+the frenzied god grew: bodies lie mutilated in crimson heaps of 
+war-torn flesh all about the battlefield. With a vicious roar of
+sickening laughter aimed at the very heavens, the warrior god strode
+forth, his armies feeding upon the bloodshed left in his wake.
+{x
+He was tall, thin with war and hungry for death. His hair was coal 
+black, long past his shoulders, matted with blood. His eyes were 
+chaotic and insane, all colors having faded to a sinister gray. He 
+wore no proper armor, yet no sword could be said to have ever bitten 
+into his flesh. He wielded a mighty claymore, long and dark with
+licks of obsidian flame dancing upon its blade.
+{x
+The warrior spotted the keep on the horizon, past rolling hills and 
+an enormously deep valley no doubt filled with scores of defenders 
+armed to the fullest. Amongst the protectors the heroes of Aloria 
+would surely stand, each one famous in his or her own right 
+throughout the land. The warrior god faced uncountable forces, but he
+still held the upper hand: he could not die.
+{x
+He had been a warrior-king ever since he could ride upon a saddled 
+horse, slaying his father while out on his first hunting lesson. He 
+had raised an army at an early age and struck out against the many
+kingdoms, trampling each under his heavy boot. After years of 
+violent war, the remaining lords of the realm cried out to their 
+gods as the warrior's force grew unstoppable. Something had to be 
+done before everyone perished.
+{x
+The assembled gods, believing the warrior to desire power and 
+immortality, granted him such. The gifts they bestowed upon him 
+only succeeded in driving him further into the war-madness that 
+corrupted his soul, for the warrior lived solely for battle, only 
+for the death that he could administer.
+{x
+And now the warrior god led his horde into the only battle yet to 
+be waged, the final battle of Aloria.
+{x
+{G                   **************************
+{x
+{g                Type look {G<{gskull2{G>{g to turn the page{x
+~
+E
+lilu1~
+{x   
+{G                          L{gilu {GM{gina{x
+{D                      T{Whe {DD{Wark {DE{Wlement{x
+{x 
+{x                  There is a dreadful Hell
+{x                    and everything pains;
+{x            There sinners must with devils dwell
+{x              In darkness, Fire, and Chains.
+{x      -Isaac Watts, Divine and Moral Songs for children
+{x
+ Formerly a young half-elf, she was born in a land far from her 
+present home in the realms of Alanthia, in a humble place known 
+as Asgard. There she lived peacefully with her human father and 
+her beloved younger sister Silu. Upon coming of age, she left her
+family in search of a place to further her studies in the art of 
+healing. Kindly  gnomes in a remote village directed her to a 
+temple. There, she earned the class of a cleric and became 
+acquainted with a presence she had sensed since her early childhood,
+the gentle Goddess Ilya.
+{x
+Shortly after becoming a cleric, a halfling monk who taught her 
+wanted her to himself. She objected to these feelings
+but she felt obligated to him and so did wed him. One day,
+out of the blue he asked her if she loved him. Being honest,
+Lilu said she didn't and she never had. He was so infuriated
+that he cursed her to never be able to feel loved or needed.
+This curse swiftly took effect because she was a weak frail
+creature and hadn't learned yet how to defend herself. Lilu
+lived out her days healing and helping others but soon realized
+something was missing... she became so sad and lonely that she
+felt there was no reason to live. She seeked out a bridge and
+threw herself off of it... she made no attempt to stay above
+the surface.
+{x
+Now she is a walking spectre with a lost look about her. She
+is a mystery to most other wraiths because they can still see
+an innocence about her that is uncommon among them. Most
+mortals feel sorry for her until they see... her eyes. They
+reflect an understanding of life and the world that they will
+never possibly understand. They then realize it is HER who
+pities them. She pities them for being so weak to their human
+(or human-like) emotions... or maybe it's jealousy. Also...
+there is something else that glimmers faintly in her eyes.
+Something that goes along with the wisdom and knowledge that
+few ghosts know of... that something is fear.
+~
+E
+book mortal paths volume ii f z two~
+{x
+{y^{R <>{Y|{G<>{Y|{y** {CMortal Paths {y**{Y|{G<>{Y|{R<> {y^
+{y^                                ^{x
+{y^{x    Contained within these      {y^{x
+{y^{x  pages is a wealth of stories  {y^{x
+{y^{x about Alanthians of the past   {y^{x
+{y^{x         and present.           {y^{x
+{y^                                ^{x
+{y^{x (You may turn to the pages     {y^{x
+{y^{x about each person by typing    {y^{x
+{y^{x      'look <name1>)'           {y^{x
+{y^                                ^{x
+{y^{C       Table of Contents        {y^{x
+{y^{G       -----------------        {y^{x
+{y^                                ^{x
+{y^{x      1.......... Garrick       {y^{x
+{y^{x      2......... GryphonX       {y^{x
+{y^{x      3............. Lilu       {y^{x
+{y^{x      4.......... Madison       {y^{x
+{y^{x      5............ Skull       {y^{x
+{y^{x      8........... Snitch       {y^{x
+{y^{x      9............. Tarc       {y^{x
+{y^{x      10...... Widowmaker       {y^{x
+{y^{x      11............ Wulf       {y^{x
+{y^{x                                {y^{x
+{y^{B <>{Y|{G<>{Y|{y******************{Y|{G<>{Y|{B<>{y ^{x
+~
+#6718
+portal mist rift brilliant shimmering commons~
+a brilliant, shimmering rift~
+A brilliant white rift of jagged, geometric lines breaks through the mist.~
+unknown~
+portal A P
+0 0 0 6701 0
+1 1 0 0 P
+#6719
+portal mist sphere commons gryphon~
+the sphere of mist~
+Almost unnoticed in a corner, a glowing sphere of violet mist hovers in the air.~
+unknown~
+portal A P
+10000 0 0 6852 0
+1 0 0 0 P
+E
+portal mist sphere commons gryphon~
+The violet mist swirls and spirals into a spherical portal.  Deep within
+the sphere, the image of a strange creature appears.  This creature is a
+gryphon, and is the keeper of the portals leading to and from the peaceful
+place known as the Commons.
+~
+#6748
+commons scroll eyes yellowed parchment~
+a yellowed scroll covered with strange, stylized eyes~
+A thin, yellowy parchment is covered with diamond shaped eyes and arcane symbols.~
+paper~
+scroll A AO
+15 'detect hidden' 'detect invis' 'detect magic' 'detect evil'
+20 0 500 0 P
+#6749
+long rowan wand stick rod commons~
+a long wand of smooth, polished rowan~
+A slender stick of rowan has been polished and carved into an elegant rod.  An odd, fizzing energy cascades through the rod.~
+rowan~
+wand a AO
+26 5 5 'nova' 0
+30 1 750 0 P
+#6752
+commons vial crimson moxious liquid potion~
+a tiny vial holding a crimson, noxious liquid~
+A foul odor eminates in smokey tendrils from a boiling, crimson liquid.  A small glass vial covered by a thick, rubber stopper does little to keep the fumes at bay.~
+blood~
+potion C AO
+25 'infravision' 'haste' 'lethargy' 'curse'
+25 0 1500 0 P
+#6753
+commons pill small white powedery~
+a small, powedery white pill~
+A thin powder is encapsulated within a small, white gelatin tube.~
+unknown~
+pill 0 0
+35 'cure critical' 'cure disease' 'cure poison' 'blindness'
+40 0 1000 0 P
+#6754
+commons glowing opal orb~
+a glowing opal orb~
+A perfect opal has been polished and shaped into a perfect sphere.  A gentle, pearly white glow comes from the stone.~
+opal~
+warp_stone A AQ
+0 0 0 0 0
+50 0 15000 0 P
+A
+19 2
+A
+18 2
+A
+1 1
+#6755
+comfortable chair tan leather soft~
+a comfortable chair clad in soft, tan leather~
+A large, comfortable chair upholstered in soft, tan leather sits next to the coffee table.~
+leather~
+furniture 0 P
+2 10000 EH 105 105
+1 500 10000 0 P
+#6756
+commons wooden coffee table glass~
+a wooden coffee table topped in smooth glass~
+Four mahogony wooden posts support the smooth wooden frame of a coffee table.  A thin, cryastline pane of glass is set within the frame.~
+wood~
+furniture 0 P
+0 10000 N 0 0
+1 1000 15000 0 P
+#6757
+commons couch black leather ebony~
+a large, black leather couch~
+Layers of smooth, ebony leather clad a large couch.  Soft pillows and cushions of deep, velvet emerald provide contrast and comfort.~
+leather~
+furniture 0 P
+5 20000 EH 105 105
+1 500 10000 0 P
+#6758
+commons embroidered handkerchief cloth~
+an {Be{Mm{Bb{Mr{Bo{Mi{Bd{Me{Br{Me{Bd {Ch{xa{Cn{xd{Ck{xe{Cr{xc{Ch{xi{Ce{xf~
+A colorful pit of embroidered cloth lies here.~
+unknown~
+treasure 0 AO
+0 0 0 0 0
+10 1 100 0 P
+A
+5 1
+A
+13 4
+A
+3 -1
+E
+commons embroidered handkerchief cloth~
+This embroidered piece of cloth serves absolutely no purpose.  It is a
+handkerchief, but it would be a shame to wipe one's nose or mouth with
+something so delicately designed.  Nicetys are seldom useful.  
+~
+#6759
+commons book the everliving immortal histories thick tan hide~
+a thick book bound in tan hide entitled "The Everliving"~
+Thin strips of tan hide bind a thick, ancient book bearing the title "The Everliving".~
+paper~
+treasure 0 AP
+0 0 0 0 0
+1 10 100 0 P
+E
+shoshara2~
+{x
+{C                           S{choshara {C({cpage 2{C){x
+{x
+{x    Her childhood had been a quiet and lonely one, with only the forest 
+and her family as companions, but what grand companions they were. 
+Shoshara and Rhiannanon were the best of friends until they were separated. 
+When she reached 10 cycles of age, the forest reclaimed it's own and 
+spirited Shoshara away to the holy grove to be taught the holy ways of the 
+gods and spirits. She learned well and quickly, reaching the end of her 
+training in only 7 years. Upon her dismissal from tutelage, she remained 
+in the forest, longing to reunite with her mother and sister. Eventually 
+she resolved to leave the forest to which she had grown so attached and 
+joined the ranks of main-stream Alanthian society. She had even held 
+high-rank as a leader of Selohaar and was a respected healer and leader 
+through her quiet strength and wisdom. But still, she felt unfulfilled 
+and incomplete. Some essential part of her was missing, something she had 
+in her forest home. She thought back to her teachings and her birth and
+resolved to return to the grove where she learned her calling. The spirits 
+she had always loved and worshiped would guide her, for they had guided her 
+through all her life and work and would not fail her now.
+{x
+{C                    ____________________________{x
+{x
+{x    Shoshara closed her eyes and whispered words of meditation and prayer. 
+When she opened them, she saw the sun-rays twist and change to grow into a 
+giant tree, and then morph into a translucent emerald humanoid shape, 
+beautiful and nymph-like in appearance. Shoshara dropped to her knees and 
+cried "Why am I here? What is my purpose? What were those seven years of 
+learning for? Help me, forest, Sahma!"
+{x
+{x    The spirit extended a transparnet palm and touched Shoshara's 
+brilliant red hair tenderly. She whispered in a soft melodic voice, 
+"Because of your work and love for the forest, you have been gifted, 
+Shoshara, gifted with immortality. Keep the forest in your heart and 
+preserve it with your new power. Go, join the others in the immortal realm
+of Alanthia. Join your sister, Rhiannanon."
+{x
+{x    Shoshara gasped in disbelief as the figure slowly faded into the 
+sunlight and disappeared. She muttered a quick prayer for transportation 
+and disappeared into the immortal realm, where she remet her sister, the
+priestess of the sky. The two were mirror images of each other in beauty 
+and mystery- one cloaked in velvet green echoing of distant forests and 
+the other in pure blue reflecting the beauty and power of the sky and air.
+~
+E
+shoshara1~
+{x
+{C                              S{choshara{x
+{x
+{x    Rain poured down in a heavy, piercing blanket that cut and tore the 
+forest.  Loud claps of thunder echoed a low growl through the trees and 
+brilliant  flashes of lighting flashed and faded, plunging the forest into 
+hollow  darkness. In the split seconds of light, one could see two small 
+shadows  darting hastily for cover. The shadows turned and caught sight of 
+a hollow just large enough for both of them nested within a gnarled,  
+ancient tree. One figure hoisted the smaller into the knot, where she 
+collapsed, exhausted and ill. The larger figure lagged behind...peering
+intently and searching. The female, in the tree, fell into a fevered and 
+hasty slumber.
+{x
+{x    A blinding, burning explosion of heat and light caused the skin on the 
+female to prickle. She awoke alert and looked hastily for her mate. 
+Seconds later, a loud, ominous crash echoing with the sound of the instant 
+shattering of bones and bark filled the forest. Within moments, a 
+horrifying scream broke loose and a potent burning odor followed, sending 
+the forest into chill shock. The female froze, horrified.
+{x
+{x    The storm broke suddenly, leaving only a heavy rain that echoed the 
+female's mournful cries.
+{x
+{C                    ____________________________{x
+{x
+{x    Soft light filtered into the sylvan female's small haven. She awoke, 
+her pale face stained with tears and her long auburn hair wet with rain 
+and sobbing. She peered curiously out the hollow. Her vision was assailed 
+with the sight of a scarred and injured forest. Soft rays of sunlight 
+radiated through the canpoy. Her emerald green eyes gazed mournfully.
+Under the broken and splintered remains of a tree she saw the torn and 
+mutilated body of her mate. She turned from the ghastly scene in sorrowful 
+resolution and fell asleep. Hours later, she awoke from her restless 
+slumber, the pain in her heavy abdomen renewed. She sat up in sobbing pain. 
+How could she go through child-birth alone? How would her child live 
+without a father? She cried out in pain, her misery echoing through the 
+empty forest. A soft scent of pine and greens suddenly permeated her 
+senses and lulled her into a peaceful sleep.
+{x
+{x    She dreamed of the spirits speaking to her. They spoke of her child... 
+wait, her children. Two daughters. They told her each would follow holy
+paths and each was destined to be of different elements. She felt calm and 
+relaxed...The spirits would guide and care for her children. She awoke 
+with two small pale bundles nestled in each arm. One was wrapped in an 
+emerald leaf and the other in a blanket of the purest blue. She named the 
+one in green Shoshara, and the other Rhiannanon.
+{x
+{C                    ____________________________{x
+{x
+{x    Shoshara dashed lightly through the emerald green forest. Streams of 
+light radiated and casted heavenly glows on the forest floor. Shoshara 
+inhaled the fresh crisp air and pine scent happily. She loved the forest, 
+the trees and animals and plants, the fresh air, and the protection and 
+shelter offered. She continued to run until she arrived at a circular 
+grove of oaks and hemlocks. She said a brief prayer to the spirits and 
+entered. She removed her velvet cloak and kneeled upon the grove floor. 
+She took out several vials and flasks, took a small sip from each and 
+oiled her pale hands and face with a few. She finished her preparations
+and stared up toward the sun radiating down upon her. She began to pray 
+and mediate to the spirits of her forest, and Sahma of Alanthia.
+{x
+{C                  ({cType {Clook shoshara2{c to turn the page{C){x
+~
+E
+skyesong1~
+{x
+{C                           S{ckyesong
+{x 
+{x    Tymhestloedd, the only daughter of Ffrydiau, the great dragon mage, was 
+heavy of heart. She was many ages old, and yet she and her mate, Nwyfre, 
+had still not succeeded in bearing a child. Who then could she train in 
+the magic of her ancestors? One night, while sobbing profusely, 
+Tymhestloedd prayed to the goddess of magic, the mystical Sahma. She 
+prayed for a daughter to train in Sahma's ways of magic, brought back to 
+Alanthia by Aiden, the Devout. Her tears shimmered in the moonlight as 
+they fell to the floor. They created a small reflecting pool close to 
+Tymhestloedd's knees. Tymhestloedd was shocked when she glanced in the 
+pool and instead of her own reflection, saw the image of herself when she
+was but a youth. The young dragon in the reflecting pool blinked, and was 
+gone. Tymhestloedd was puzzled, and thought it only to be a hallucination.
+She curled up and went to sleep. The next morning, when she awoke, there 
+lying next to her was a perfect newborn dragon. Praising Sahma and crying
+with joy, Tymhestloedd gave her newborn the name Awyr-Caniadau, Skyesong.
+{x
+{x    Tymhestloedd taught me the magical ways of Sahma, what her mother, 
+Ffrydiau, had taught her, and her mother before that. My father, Nwyfre, 
+dissappeared when I was very small. I still had my mother to raise me, 
+and teach me. I became quite an expert young mage, as my mother was an 
+excellent teacher. Yet, my mother was very old, and even the greatest of 
+mages cannot prevent death. Tymhestloedd died quietly in her sleep one 
+warm summer night. I sadly and reverently cremated my mother's corpse, the
+firelight reflecting in my tears as my mother's ashes rose into the sky. 
+After the embers had completely faded, I went to my favorite place, the
+base of a beautiful tree in the midst of the forest. I had always loved 
+the forest. It was so peaceful, and restful. It was the perfect place to 
+sit and think, or mourn. With a heavy sigh, I collapsed at the base of the 
+tree.
+{x
+{x    "Oh, Sahma," I prayed, "what am I supposed to do now? My mother is no 
+longer here to guide me, and I am alone."
+{x
+{x    Weeping softly to myself, I fell asleep and had a strange dream. I was
+in a place of silver and crystal. It was like a maze of mirrors, lighted 
+by a cool, bright light. The maze spoke to me, "Skyesong, you are not 
+alone."
+{x
+{x    An orb of glass appeared in the air before me. In it, I saw the forest, 
+and all the creatures in it. Then, two elves and a sprite were shown to me.
+{x
+{x    "The forest is your element, Skyesong. These three have been called to 
+serve the gods forever. You have been called too."
+{x
+{x    The orb then showed places and creatures from all over Alanthia. There 
+was a vampire mistress, a demon, a human, a black dragon, and a gargoyle.
+{x
+{x    "Outside the mortal realm, time has no meaning. According to mortal 
+time, some of those you've seen have not been called yet, but they will
+be. However, once one is immortal, matters such as this have no importance. 
+Yes Skyesong, you will live forever, for you are immortal. Do not abuse 
+the power I have given you, Skyesong, for it is a privilage. You must 
+serve me and the other moons by using your powers to serve Alanthia. This 
+is your calling."
+{x
+{x    When I awoke, I was no longer in that forest, yet there was still that 
+tree. Within the base of that great tree was where I forged my lair, and 
+to this day I serve Alanthia as the liason for the clans. With the powers
+that Sahma gave me, I am able to help the mortals of Alanthia find 
+fellowship and protection within the clans. I think that so far, I am 
+fulfilling my calling.
+~
+E
+exeter1~
+{x
+{C                               E{cxeter{x
+{C                    W{catcher of {CO{crder and {CC{chaos{x
+{x 
+{x    *pLOp* A tendril of opaque goo dropped onto the High Lady's prone 
+body. She shuddered slightly turning onto her side. Slowly, the slime 
+leaked from the ceiling onto her prone form. Eyes suddenly opened and she 
+screamed. Or tried to. The goo quickly  covered her face and halted the 
+vain attempt to alert the guard. She suffered agony as the slime melted 
+her body. The next morning, everyone wondered why the Lady Drusilla seemed
+so happy... the next week, everyone in the fortress was dead.
+{x
+{x    Exeter stepped into the tavern. Full of purpose, he approached a booth 
+at the  rear. Eyes looked up in recognition. "So, I take it they are all 
+dead?" a man asked. "Yes," Exeter replied. "Do you have my pay?" Another 
+handed the  assassin a heavy pouch. He knew that every single cutpiece 
+would be there.  Few did not pay his fee. Those that did were dead. Silently, 
+he walked out of the tavern and made his way homeward. In his lair, he 
+stared into a mirror. His 'face' began to run in amorphous streams revealing 
+his true visage. That of a guileless, young man.
+{x
+A SCHOLAR'S NOTE
+{x
+{x    It is not known how many died at the assassin's hand. However, we do 
+know that Exeter belongs to a breed of changlings capable of transforming 
+into any form. I myself have never encountered any of these beings 
+although Exeter alone substantiates their presence in Alanthia. Past 
+studies by other scholars adhere to the belief that Exeter is a an ardent 
+student of the Places in Between. Case studies reveal that he communes with 
+spirits on a regular basis. It is in these same journals where we find 
+that Exeter considers his actions neither good or evil. Simply serving the 
+balance between order and chaos. The veil of time still obscures much we 
+know of this secretive figure. 
+~
+E
+grbrthrxs1~
+{x
+{C                                G{crbrthrxs{x
+{x
+{x    Long ago, a man named Roen lived alone by the sea. His was a dark and 
+quiet life, filled with the gentle wash of the surf in the cove, the call 
+of the seagull, the wind through his thatched roof. He was a man at peace 
+with himself, and at war with forces unseen. He was haunted, chased by a 
+demon most vile.
+{x
+{x    The demon's name was Grbrthrxs.
+{x
+{x    Roen was a mage, powerful beyond imagine. The land bent to his will, 
+the lightning ate from his fingers. He was a creator, spending his life 
+making the world around him better for those who came after.
+{x
+{x    He had, many years in the past, killed a Dark Knight in battle. The 
+knight was a the half-human child of the demon Grbrthrxs. Since then, his 
+nights had been filled with screams, his days filled with study, trying to 
+find a way to defeat the agent of pure evil.
+{x
+{x    Every night, the demon would come forth and try to take over the 
+mage's mind, to rip his soul from his body. Grbrthrxs hoped to enslave 
+Roen's life's essence, and keep him witness while the demon destroyed the
+land Roen so dearly loved.
+{x
+{x    While perusing tomes discovered deep in the library at Dre' Kesthai, he 
+found this: 
+{x
+{x        "... a mage of true power, of pure heart, and of iron
+{x          will may take over the body of another creature, and
+{x           use that body for his own purposes. This good chance
+{x         that, once switched, you will never be able to return.."
+{x
+{x    Roen formulated a plan. When the demon came, and attempted to take his 
+body, he would be doing the same. He assumed that in the form of a demon, 
+his power would be so immense that he could crush the will of Grbrthrxs, 
+return to his own body, and destroy Grbrthrx's avatar.
+{x
+{x    He made the grueling preparations, and readied himself in the center 
+of his protective runes. Grbrthrxs came to him, a huge black apparition,
+burning with hell's fire. Roen recited the incantation just as Grbrthrx's 
+huge black hands breached the protective circle...
+{x
+{x    ...and he watched, through his new eyes, as hands closed around his 
+own throat, and the life drained from his body.
+{x
+{x    He had no body to return to. He felt nothing of the demon's presence, 
+and his powers had increased a hundredfold.
+{x
+{x    Saddened, he vowed to spend his remaining days in seclusion, shaping 
+the land around him.
+~
+E
+book the everliving immortal histories thick tan hide~
+{x
+{Y*{B^{Y*{B^{Y*{B^{Y*{B^{Y*{B^{Y*{B^{Y*{B^{Y*{B^{Y*{B^{Y*{B^{Y*{B^{Y*{B^{Y*{B^{Y*{x
+{W     T{ch{We {WE{cv{We{cr{Wl{ci{Wv{ci{Wn{xg{x
+{x
+{x Within this book are the
+{x  histories of all those
+{x Alanthians who have been
+{x blessed with immortality.
+{x
+(In order to view the story
+{x of an immortal, type look 
+{x         <name1>)
+{x
+{G    T{ga{Gb{gl{Ge{g o{Gf{g C{Go{gn{Gt{ge{Gn{gt{Gs{x
+{x  
+{C  ----------------------{x
+{x   1......... Grbrthrxs
+{x   2............ Exeter
+{x   3............ Torres
+{x   5...............Fash
+{x   6.............. Xynq
+{x   7.......... Skyesong
+{x   8.......... Shoshara
+{x
+{Y*{B^{Y*{B^{Y*{B^{Y*{B^{Y*{B^{Y*{B^{Y*{B^{Y*{B^{Y*{B^{Y*{B^{Y*{B^{Y*{B^{Y*{B^{Y*
+~
+E
+torres1~
+{x   
+{C                             T{corres{x
+{x  
+{x   As a child, Torres lived in a quiet village in the mountains called
+Gorge's Fall, with his family and his brother, Sevyr. Torres was
+swayed into the divinity of the church while his brother took the
+path of a mage.
+{x
+{x  At an early age of three years, Torres received
+visions from the town's deity, Tamara. Some were peaceful, of
+lush rolling meadows with children playing games, and some were
+nightmarish, of burning houses and soldiers raping and executing
+villagers. During intense visions Torres would fall to the ground
+and convulse sporadically, his eyes rolling up in his head,
+screaming in pain. His parents didn't know what to do. The
+priests performed numerous exorcisms, thinking Torres was
+possessed by demons, to no avail. As he grew older, the visions
+became more frequent and extreme, from feeling in absolute
+ecstasy to having violent, painful seizures. The priests and his
+parents were baffled. They couldn't explain what was going on,
+or why it happened, and felt very helpless.
+{x
+{x  One day, at fourteen years of age, while playing with a group
+of his friends in a prairie, Torres dropped to the ground,
+clutching his eyes and ears in agony, and banged his head hard
+against a rock, barely retaining consciousness. Slowly his
+moaning became soft and he saw himself surrounded by his
+friends from a far away distance. His vision jerked to the
+left suddenly and he saw a phalanx of soldiers marching towards
+his town, flanked by rotting zombies and led by several mages.
+Absolute fear flooded into his body as he awoke to find himself
+laying in his bed, surrounded by his parents, brother, and a
+priestess of the town. He bolted out of his bed and aimed
+straight for the door, but his father grabbed him and laid him
+on the bed. Torres babbled like a madman about his terrifying
+vision, but his parents just stroked his head and said
+everything will be ok. Torres became delirious, and fearing for
+his safety, the priestess casted a calm and slumber spell over
+him, and slowly Torres' babblings trickled down to soft murmurs,
+then to slow breathing.
+{x
+{x  In his slumber, Tamara appeared to Torres, and revealed to him
+a horrifying vision of his town being devastated at that very
+moment. "Torres, I have given you these visions in hopes that
+your priests may listen to you and save and rescue your town
+and other towns, but they did not understand. You are my only
+guardian left in this mortal plane. Awake, and flee your
+homeland. All that you have lived and grown with will be no
+more. Your family and friends will not live through this night. It is
+beyond my powers to stop this holocaust. Fight your way out.
+Run like the wind to a neighboring land and don't look back.
+You are my only hope."
+{x
+{x  Tamara kissed Torres on the lips and suddenly his eyes fluttered
+open, his hands grasping a hilt of Tamara's holy blade.
+Billowing, black smoke stung his eyes, screams of death pierced
+his ears, and overwhelming stench of burning bodies assaulted
+his nose. Torres ran outside his house and tripped over his
+father's mangled, bloodless corpse. Torres' body and face
+pressed sickly against his mother's scattered flesh about the
+ground. Torres looked up and saw a huge zombie strangling Sevyr
+to death. He jumped to his feet and hacked off the zombies
+legs and arms and freed Sevyr. Torres hoisted his brother's
+comatose body onto his shoulder and fled his burning village.
+No one gave chase to the boy, too engrossed in pillaging the
+village, except for one mage. Sevyr weighed Torres down, and
+by the time Torres put a safe distance between them and the
+town he laid Sevyr down. Sevyr's hand turned a grotesque bright
+green. Fearful of a disease spreading to vital organs, Torres
+severed off his brother's hand and threw it in the woods. But
+he acted too late. He knew Sevyr would die from disease before
+they reached the next town. Torres feel to his knees and prayed.
+The mage following Torres revealed himself and laughed at the
+scene. "I will save your brother," the mage said and laughed
+even harder at Torres' hopeful expression. The mage uttered
+archaic words of sorcery and gestured at Sevyr. Sevyr's form
+slowly transformed into a hideous, transparent wraith as he
+opened his month and gave a silent scream. "And as for you,
+weakling, you will always have evil by your side. You shall
+remember this day's events, and Sevyr will remind you of
+{x
+{C              ({cType {Clook torres2{c to turn the page{C){x
+~
+E
+torres2~
+{x
+{C                      T{corres {C({ccontinued{C){x
+{x
+that for every day of your damned life!" He slapped Torres
+across the face with his wand and disappeared.
+{x
+{x  Torres took Sevyr with him still, and for years he wandered
+the lands and wept for his brother, family, friends, and
+homeland. With everything he knew lost or destroyed, Torres
+clung desperately to Tamara and her visions, the only source
+of strength that kept him alive, and entered into a new land.
+~
+E
+xynq1~
+{x
+{C                            X{cynq{x
+{x
+{x    Xynq is a slacker and has yet to produce a history documenting her 
+comming to Alanthia or her immhood.
+~
+E
+fash1~
+{x
+{G                            F{gash{x
+{x
+{x     Fash is a slacker and has yet to make an immortal history. :(. Yell at him.
+~
+#6791
+romana broken shackles~
+{DB{Wr{Do{Wk{De{Wn S{Dhackles{X~
+{WSome {DB{Wr{Do{Wk{De{Wn {WS{Dhackles {Ware lieing here in a coil.{X~
+unknown~
+armor HPZ AM
+97 97 97 97 0
+290 290 29000 0 P
+A
+17 -97
+A
+20 -29
+A
+19 14
+A
+18 19
+E
+shackles~
+{WThese {DB{Wr{Do{Wk{De{Wn S{Dhackles{W, ripped cleanly from a stone wall, have the entire length of the chain nearly touching the gound.{X
+~
+E
+broken~
+{WThese {DB{Wr{Do{Wk{De{Wn S{Dhackles{W, ripped cleanly from a stone wall, have the entire length of the chain nearly touching the gound.{X
+~
+#6792
+romana glittering star~
+{XA {WG{Yl{Wi{Yt{Wt{Ye{Wr{Yi{Wn{Yg {XS{Wt{wa{Wr{X~
+Delicate and soft to the touch, this feather is blessed with divinity to unlock your deams. ~
+unknown~
+light HPZ AO
+0 0 999 0 0
+100 1 10000 0 P
+A
+17 -30
+A
+20 -10
+A
+19 4
+A
+18 8
+A
+4 1
+E
+glittering star~
+Fallen from the Heavens, this glittering star is a gift from the Gods. 
+Given to those loyal, this star produces incredible light that enlightens
+the darkest of places.  The holder of this star will possess great magical
+energies.  
+~
+#6793
+romana eternal hex~
+{Wan {DEternal {rHex{X~
+{Wan {DEternal {rHex{X~
+unknown~
+scroll HPYZ A
+330 'curse' '' '' ''
+300 1 30000 0 P
+E
+eternal~
+{WBound in flesh and inked in {rblood{W from ancient times, when the rivers ran red with it, this scroll eminates a dark energy.{X
+~
+E
+hex~
+{WBound in flesh and inked in {rblood{W from ancient times, when the rivers ran red with it, this scroll eminates a dark energy.{X
+~
+#6794
+romana fulgerite tablet~
+a fulgerite tablet~
+A fulgerite tablet~
+unknown~
+scroll HPYZ A
+140 'chain lightning' 'chain lightning' 'chain lightning' 'reserved'
+200 1 20000 0 P
+E
+fulgerite tablet~
+A large carved tablet of fulgerite has ancients words inscribed on it. 
+ 
+{D        divus fulmen tu mortuus pulsare
+ 
+{XYou feel the gods eyes gaze upon you as you hold this tablet.
+~
+#6795
+romana tattoo~
+{gR{Wo{gm{Wa{gn{Wa {ytattoo{X~
+A green and white design is here.~
+unknown~
+armor HPZ AI
+67 67 67 67 0
+200 20 20000 0 P
+A
+17 -65
+A
+20 -20
+A
+19 10
+A
+18 14
+E
+romana tattoo~
+This green and white tattoo is given to those only who have proven
+themselves worthy.  It shows an intricate pattern of lines and circles that
+dazzle the human eyes.  
+~
+#6796
+romana platinum halo~
+{WA {WP{wl{Wa{wt{Wi{wn{Wu{wm {YH{Wa{Yl{Wo{X~
+{WA thin silver wire with mystical power hovers here.{X~
+unknown~
+armor HNZ AE
+73 73 73 73 0
+220 22 22000 0 P
+A
+19 16
+A
+17 -35
+A
+19 11
+A
+18 14
+A
+20 -22
+A
+17 -70
+E
+platinum halo~
+The Age of Changes has arrived.  Said to have long lost the ability to
+make this item, Romana's Blacksmith has done it again.  Noted for its
+ingenious, this platinum halo has magical quantities that no man can
+conceive.  
+~
+#6797
+romana chainmail shroud~
+{WA {yChainmail {DShroud{X~
+{WA long {DShroud {yChainmail{W lies here.{X~
+unknown~
+armor HPZ AK
+23 23 23 23 0
+70 70 7000 0 P
+A
+17 -35
+A
+18 5
+A
+19 3
+E
+chainmail shroud~
+Linked together with perfection, this Chainmail Shroud gives the bearer
+maximum stealth in battle.  Made with the tiniest of pieces, this
+masterpiece is one of its kind.  
+~
+#6798
+patch flowers romana~
+{WA small patch of {Gw{Yi{Gl{Yd {Gf{Ylow{Gers{x~
+{WA small patch of {Gw{Yi{Gl{Yd {Gf{Ylow{Gers.{x~
+unknown~
+furniture O P
+4 100000 EHK 150 150
+1 100 1 0 P
+E
+patch flowers romana~
+Amazing colors of blue, jade , and bright yellow wild flowers grow lively as if they seem to be swaying in the breeze.
+~
+#6801
+elaborate spider silk necklace romana~
+{WAn Elaborate {DSpider {WSilk {DNecklace{X~
+{WAn elaborate {Dspider {Wsilk {Dnecklace {Wcollects dirt.{X~
+unknown~
+armor HPZ AC
+50 50 50 50 0
+150 150 15000 0 P
+A
+17 -50
+A
+20 -15
+A
+19 6
+A
+18 9
+A
+4 2
+A
+14 20
+E
+elaborate spider silk necklace~
+Wisps of silk flow about as the wind blows on this piece of art.  Woven
+with the silk of a spider, it is the strongest of its kind.  The sunlight
+breaks into all the colors of the rainbow when it hits each strand of silk. 
+~
+#6802
+romana smoldering stilletto~
+{DA {yS{rm{yo{rl{yd{re{yr{ri{yn{rg {DStilletto{X~
+{DA Stilletto Smolders in the dirt.{X~
+unknown~
+weapon P AN
+dagger 150 1 stab A
+100 100 10000 0 P
+E
+smoldering stilletto~
+{DFrom the forges of Romana, a smoldering stilletto is created, steaming
+from the moment of it's creation.  Its edges are razor sharp, for the skill
+of the blacksmith is of the highest grade, said to be a disciple of the
+gods.  
+~
+#6804
+romana jade tooth~
+{gJ{ca{gd{ge {WT{yo{yo{yt{yh{X~
+It appears to be the severed tip of a jade penguin fang.~
+unknown~
+weapon P AN
+dagger 330 1 pierce ADF
+220 220 22000 0 P
+E
+jade tooth~
+This powerful weapon is but a sharp piece of tooth pried from the
+penguin's jaw.  Just by gazing at it, you can tell the Jade Penguin is to be
+feared.  This little piece of power fits your hand naturally.  
+~
+#6807
+romana supernova nova~
+{WS{Ru{Wp{Re{Wr{Yn{Ro{Yv{Ra{X~
+{WThe unrelenting power of many exploding stars is contained within this small parchment.{X~
+unknown~
+scroll HPYZ A
+80 'nova' 'nova' 'nova' ''
+115 1 11500 0 P
+E
+supernova~
+{WS{Ru{Wp{Re{Wr{Yn{Ro{Yv{Ra{W: A rare celestial phenomenon involving the
+explosion of most of the material in a star, resulting in an extremely
+bright, short-lived object that emits vast amounts of energy.  When recited
+all the unrelentless power of exploding stars is forced upon the victim.  
+~
+#6808
+romana red hot poker~
+{DA {RR{re{Rd H{ro{Rt {DPoker{X~
+{DA {RR{re{Rd H{ro{Rt{D Poker lies on an anvil.{X~
+unknown~
+wand HPYZ AO
+308 28 28 'heat metal' 0
+280 10 28000 0 P
+E
+red hot poker~
+{DThis red hot poker is actually a wand.  A wand conjured out of nothing
+from the Gods of Metalworks.  When used upon a victim, the victim is
+surrounded in immense heat, causing damage.  It heats up the metal equiment
+on the victim, causing him or her to yelp in pain and drop them.  {X 
+~
+#6809
+romana dark flame~
+{DA Dark {mF{Dl{ma{Dm{me{X~
+{DA Dark {mF{Dl{ma{Dm{me{D absorbs light.{x~
+unknown~
+weapon P AN
+sword 45 1 flame A
+30 30 3000 0 P
+E
+dark flame~
+{DA {mF{Dl{ma{Dm{me{D as dark as night kindles in your palm absorbing
+light, concealing itself from your enemies in the twilight.  {X 
+~
+#6810
+romana sword syphon~
+{DS{By{bp{Bh{bo{Dn{X~
+{DA longsword cursed with the name '{DS{By{bp{Bh{bo{Dn{D' twirls here.{X~
+unknown~
+weapon P AN
+sword 90 1 drain A
+60 60 6000 0 P
+A
+17 -20
+E
+syphon sword~
+{DYou hear the name Syphon being whispered as misty tendrils arise from
+this masterpiece.  Cursed by the greatest Sorcerers of Alanthia, and forged
+by the greatest Blacksmith, it is deadly even in the hands of the most inept
+of warriors.  
+{X
+~
+#6811
+romana magma spike~
+{RM{ragm{Ra {DS{Wp{wi{Wk{De{X~
+{DA {RM{ragm{Ra {DS{Wp{wi{Wk{De smolders here.{X~
+unknown~
+weapon P AN
+dagger 180 1 slice A
+120 120 12000 0 P
+A
+17 -30
+A
+20 -12
+#6812
+angelic sash romana~
+{WA{Cn{wg{Ce{Xl{Ci{Wc {WS{was{Wh{X~
+{XA string of feathers lies here, plucked from the purest of angel's wings.{X~
+unknown~
+armor HNZ AL
+70 70 70 70 0
+210 210 21000 0 P
+A
+17 -70
+A
+20 -20
+A
+19 9
+A
+18 14
+A
+3 2
+#6813
+soul drain romana~
+{DS{boul {DD{rrain{X~
+{DAn errie scroll irradates a softy evil hum.{X~
+unknown~
+scroll HPYZ A
+320 'energy drain' '' '' ''
+290 1 29000 0 P
+#6814
+romana illustrious legplates~
+{CI{cll{Wus{wt{Wri{cou{Cs {YL{yeg{Wp{Xl{Wa{yte{Ys{X~
+{cA pile of shimmering leg plates lays here, reflecting colors around the room.{x~
+unknown~
+armor HPZ AF
+93 93 93 93 0
+280 300 30000 0 P
+A
+17 -90
+A
+13 4
+A
+20 -28
+A
+19 14
+A
+18 19
+#6815
+essance romana absolution~
+{cE{Wss{we{Wnc{ce{W {wo{Wf {gA{Wb{gs{co{gl{Wu{gt{ci{go{Wn{X~
+{WA {gR{Wo{gm{Wa{gn{Wa potion is here.{X~
+unknown~
+potion HPYZ A
+325 'remove curse' '' '' ''
+295 1 29500 0 P
+#6816
+romana blood drenched bandages~
+{RBl{ro{Rod {DDr{rench{Ded {yB{Wa{Wn{yd{Wa{yg{We{ys{X~
+{rA swaddling of blood soaked rags lies here.{X~
+unknown~
+armor HPZ AH
+77 77 77 77 0
+230 230 23000 0 P
+A
+20 -23
+A
+19 9
+A
+18 14
+A
+17 -70
+A
+5 3
+A
+14 20
+#6817
+elite dagger romana~
+{CE{cl{wi{ct{Ce {WD{Dagger {Wo{Df {gR{Wo{gm{Wa{gn{Wa{X~
+{WA powerful dagger parts the soil it rests in.{x~
+unknown~
+weapon P AN
+dagger 225 3 drain AE
+300 300 30000 0 P
+E
+elite dagger romana~
+{WThis elegant blade barely qualifies as a dagger.  It's so massive you
+can fit your other hand onto the hilt.  It seems practically weightless in
+your hands.  With the Romana creast etched across the blade, this is a force
+to fear.  {X 
+~
+#6818
+romana green ivy vines~
+{gI{Gv{gy {GV{gines{X~
+{GGreen {gI{Gv{gy {GV{gines{W cut down from the gates of {gR{Wo{gm{Wa{gn{Wa{W lie here.{X~
+unknown~
+armor HPZ AT
+95 95 95 95 0
+285 285 28500 0 P
+A
+19 13
+A
+18 19
+A
+5 3
+A
+17 -95
+A
+4 1
+A
+20 -20
+E
+romana ivy vines~
+Long {Green {gI{Gv{gy {GV{gines{W cut down from the enchanted gates of
+{gR{Wo{gm{Wa{gn{Wa.  Said to give a great power to anyone lucky enough to
+touch them.  {X 
+~
+#6819
+demonspike spike buckler romana~
+{RD{remon{Rs{Dpike {yB{Wuc{Dk{Wle{yr{X~
+An evil shield that may prove more weapon than protection, lies before you~
+unknown~
+armor HPZ AJ
+80 80 80 80 0
+240 240 24000 0 P
+A
+20 -24
+A
+17 -80
+A
+19 10
+A
+18 16
+A
+5 2
+A
+3 1
+E
+demonspike spike buckler romana~
+{DA deadly shield pulled from hell by the gods exists to serve you.{X
+~
+#6821
+ripple heavens romana~
+{DRi{wpp{Wle {win {Wth{De {Whe{waven{Ds{x~
+{DRi{wpp{Wle {win {Wth{De {Whe{waven{Ds.{x~
+unknown~
+container O P
+100000 A 0 100000 1
+1 1000 100 0 P
+E
+ripple heavens romana~
+Mysteriously the ripple seems to be glowing an odd aura of bright yellow. It seems as if a cloud fades and reappears before you eyes.
+~
+#6825
+romana chaos~
+{DC{Rh{Wa{Ro{Ds{X~
+{DC{Rh{Wa{Ro{Ds{W in its purest form broods around you.{X~
+unknown~
+weapon P AN
+dagger 375 1 shock ABG
+250 25 25000 0 P
+#6858
+grim reaper scythe~
+{DGrim reaper's {rscythe{x~
+{DA wicked blade, once owned by Death himself, is doused with {rblood{D from a fresh kill.{X~
+unknown~
+weapon 0 AN
+sword 120 4 flame AE
+300 0 35000 0 P
+E
+grim reaper scythe~
+{DA wickedly curved and serrated blade is mounted on a black-pitched pole adorn with permanent blood stains, showing evidence of frequent mutilations. You hear faint soul searing screams emanate from the weapon.{x
+~
+#6900
+commons oaken conference table~
+an oaken conference table~
+A long table of highly polished oak sits magnificantly in the room's center.~
+wood~
+furniture O 0
+100 10000 BEN 0 0
+1 1000 0 0 P
+#6901
+commons round table~
+a round table~
+A round table of smooth maple stands here.~
+wood~
+furniture O P
+0 1000 N 0 0
+1 1000 0 0 P
+#6902
+commons circular couch~
+a soft, circular couch~
+A soft couch of green upholstry and maple encircles the table.~
+unknown~
+furniture O P
+10 10000 EFKL 120 120
+1 0 0 0 P
+#6903
+commons maple shelf bookshelf~
+a maple bookshelf~
+A bookshelf of of polished maple leans against the walls.~
+wood~
+container 0 P
+1000 E 0 100000 100
+1 1000 0 0 P
+#6904
+commons rapier~
+a {Dthin-edged {Wrapier{x~
+A long slender pole of gleaming white silver bends to a fine, sharp point.  A thick, sturdy hilt clothed in soft black leather supports the rapier.~
+bone~
+weapon 0 AN
+sword 5 7 pierce D
+20 3 3000 0 P
+A
+2 1
+A
+18 1
+#6905
+commons soft comfortable chair velvet~
+a soft, comfortable chair~
+A soft, comfortable chair clad in silky cornflower velvet sits here.~
+fabric~
+furniture 0 A
+1 1000 EHK 50 50
+1 10 10 0 P
+#6906
+commons grand fountain~
+a grand fountain~
+Water gently cascades down the obsidian and white figures and gathers in a pool of glittering grey.~
+stone~
+fountain AO P
+2000 2000 'water' 0 0
+1 10000 1000000 0 P
+#6907
+commons mahogany table~
+a mahogany table~
+An elegant table of smooth mahogany dominates the room.~
+wood~
+furniture O P
+0 1000 N 0 0
+1 1000 100000 0 P
+#6908
+commons apple pastry~
+an {Rapple {ypastry{x~
+A flakey {ypastry shell {xengulfs {ycinnamon {Rapple {xfilling.~
+unknown~
+food 0 A
+1 0 0 0 0
+10 1 100 0 P
+#6909
+commons blood glass wine~
+a glass of {Rblood{x~
+A tall slender wine glass stands here, containing some of the richest {Rblood{x to be had.~
+blood~
+drink 0 AO
+54 54 'blood' 0 0
+12 0 340 0 P
+#6910
+commons water flask glass~
+a {Bflask {xof {Cwater{x~
+A clear {Cglass flask {yis here, filled to the brim with fresh {Bmountain spring {Cwater{y.{x~
+liquid~
+drink 0 AO
+54 54 'water' 0 0
+1 0 10 0 P
+#6911
+commons meat pie~
+a {Rmeat pie{x~
+A delicious mound of {Rmeat {xlies within a crispy {ygolden crust{x.~
+meat~
+food 0 A
+4 0 0 0 0
+20 1 300 0 P
+#6912
+commons pasta cream~
+a {Wdish {xof {Ypasta{x~
+A steaming plate of {Ypasta {xis smothered in a creamy {Wwhite sauce {xwith a delectable aroma.~
+unknown~
+food 0 A
+5 0 0 0 0
+25 1 370 0 P
+E
+pasta cream~
+Upon a blue china plate is a veritable mountain of tender pasta.  The
+chef has made every attempt to create the smoothest edible sensation that
+the mouth has ever experienced.  The pasta is covered in a cream sauce that
+is flawless in silken texture.  The aroma attacks your nostrils and calls
+your name.  
+~
+#6914
+essay death alanthia ~
+Essay on the Process of Death and Physical Re-Giving in Alanthia~
+An old book lies glowing on the ground engraved with "Essay on the Process of Death and Physical Re-Giving in Alanthia" on the cover.~
+wood~
+trash 0 A
+0 0 0 0 0
+140 0 0 0 P
+E
+conclusion~
+In conclusion, my theory is that the gods give us new bodies to benefit both
+themselves and us.  I have also outlined some other general theories (about
+the relation of mana and souls, the relation of bodies and souls, and how
+gods receive energy).  Keep in mind, though, that this is all theory, and
+that there is nothing (that I am aware of) that proves it entirely.  It is
+merely logic. 
+
+Thirst for knowledge as a vampire thirsts for blood  -Conteo
+~
+E
+Physical regiving~
+This is where we can begin to delve into the physical re-giving.  CeleDi,
+Nikos, and Sahma are all very powerful considering that they are mere moon
+gods.  Now, how is it that they became so powerful?  Perhaps they learned
+from Kazimain.  Kazimain was a very generous god (she resurrected our world)
+and she also received much energy when stars died.  This would suggest that
+the mana favors gods with kind hearts (or at least with that illusion).  Now
+what would be kinder than allowing souls to live instead of reaping their
+energy?  So, when our bodies die, the gods create us new ones, at little or
+no expense to themselves.  And, in passing the potential chance of getting
+mana, they receive much more for their kindness.  
+Also, not allowing soul-deaths can and has given the realm a bit of extra
+prestige and fame.  Can you imagine how pitiful you would have been if your
+life had ended the first time you died?  The system of physical re-giving
+allows greater heroes to arise, as well as the evil that allows heroes to
+exist.
+Of course, dying is not recommended, which is why we undergo extreme pain
+and lose general strength when we die.  After all, we would in functionality
+be immortal if there were no disadvantages when we died.
+~
+E
+relation mana souls~
+On the other hand, there does seem to be a limited amount of mana in
+the universe.  I believe that mana is a sort of life force.  My theory is
+that, when organized, it can become magic (as utilized in spells) or souls. 
+I refer to the soul as the carriage of life and self-consciousness. 
+Self-consciousness is the true factor that sets us apart from machines; the
+awareness of ones existence.  The soul is attached to its body, which makes
+it more powerful and allows it to directly influence the physical world. 
+The brain is the main connection between the two, and accounts for actual
+intelligence and memory.  Without intervention by the gods, a soul dies
+shortly after its body does.  When a soul dies, the mana divides itself
+among the gods at its own discretion.  This is why we see from the legendary
+story of our planet that when stars die, select Gods receive power; when a
+star dies, its planets die, and when a planet dies, so do its inhabitants. 
+And thus the souls.  The gods create new worlds and souls with the mana, and
+so it is a constant cycle.  
+~
+E
+concept unlimited power~
+As any immortal could confirm, immortals can create as much of any
+matter as they desire.  This would suggest that there is unlimited matter in
+the universe, or at least that it undergoes cycles quickly enough that it
+would be inconsequential.  Either way, it is obvious that there is no
+shortage of physical material and never in eternity will be.  Therefore
+there is no particular reason that the gods should have any qualms in giving
+us new bodies when our old ones die.  
+~
+E
+introduction~
+The almost instant transportation from the state of the death to the
+state of living consciousness has been loosely referred to as reincarnation
+here in Alanthia.  However, it is not this phenomenon which occurs (by
+definition).  One would consider the transportation of Skull from one realm
+to another, his memories erased and warrior attitude changed, as closer to
+the definition reincarnation.  We, on the other hand, do not experience any
+changes other than a decrease in our overall might, and there are no easily
+evident reasons for this phenomenon.  Why and how, then, does this happen to
+every living creature in the realm of Alanthia, and why doesn’t it happen in
+all realms?  I have done extensive research on these subjects and the
+purpose of this essay is to discuss them in detail.  
+Throughout the rest of this discussion I will refer to the process we
+undergo immediately after death as a physical re-giving by the gods, the
+receiving of a copy of ones body.
+~
+E
+essay death alanthia~
+Chapter 1: Introduction
+Chapter 2: Concept of Unlimited Matter
+Chapter 3: The Relation of Mana and Souls
+Chapter 4: Physical Re-giving
+Chapter 5: Conclusion
+ 
+Thirst for knowledge as a vampire thirsts for blood  -Conteo
+~
+#6927
+mystic falls romana~
+{WThe {Cr{Wa{cd{Ci{Wa{cn{Ct {Wwaters of {CM{Wy{cs{Ct{Wi{cc {CF{Wa{Cl{Cl{Ws{x~
+{WThe {Cr{Wa{cd{Ci{Wa{cn{Ct {Wwaters of {CM{Wy{cs{Ct{Wi{cc {CF{Wa{Cl{Cl{Ws{x.~
+unknown~
+fountain O P
+-1 -1 'water' 0 0
+1 1000 1 0 P
+E
+mystic falls romana~
+A beautiful waterfall is gushing down the mountain side. This divine water seems to bring life to the garden. Somehow it seems to vanish into the ground only leaving behind a small spring of water to run through the garden.
+~
+#6930
+commons goblet red wine~
+a goblet of {rred wine{x~
+A sparkling, faceted crystal goblet is brimming with the finest {rred wine{x.~
+unknown~
+drink 0 AO
+60 60 'red wine' 0 0
+20 1 450 0 P
+E
+goblet red wine~
+The wine contained within this flawless goblet looks almost too perfect
+to drink.  It is sweet, yet has been aged to perfection.  The pure faceted
+crystal goblet compliments the wine much as a gilded frame compliments a
+fine work of art.  The smooth stem of the glass is molded to just the right
+shape.  The room, when viewed through the burgundy depths of the goblet,
+takes on a sensual, dark character which is exciting and relaxing in the
+same moment.  
+~
+#6933
+commons sauteed vegetables plate~
+a plate of {gsauteed {Gvegetables{x~
+An ornately arranged plate of {gsauteed {Gvegetables {xrests in fragrant perfection.~
+unknown~
+food 0 A
+4 0 0 0 0
+15 1 250 0 P
+E
+sauteed vegetable plate~
+This plate of perfectly sauteed vegetables is the defining example of
+culinary art.  Sliced vegetables, lightly cooked in butter and herbs,
+resemble a flower garden in spring.  Carrot daisys, onion crysanthamums,
+radish roses, celery, potatoes, broccoli, cauliflower, and sweet peas are
+heaped onto the plate and expertly arranged.  
+~
+#6948
+godsmack~
+{BGo{CdS{cma{bck{x~
+Hey! Who said you could look at this. PISS OFF!!~
+iron~
+weapon ABGOYa AN
+exotic 30 30 wrath AGI
+295 3 1 0 P
+A
+19 29
+A
+18 29
+A
+17 -50
+#6997
+aura romana~
+{WAura of {gR{Wo{gm{Wa{gn{Wa{X~
+{WThe Aura of {gR{Wo{gm{Wa{gn{Wa{W gives you a sense of security.{X~
+unknown~
+armor HPZ AQ
+10 10 10 10 0
+30 0 3000 0 P
+A
+5 3
+A
+4 2
+E
+aura romana~
+This Aura is seen on all members of Romana for it is set upon them on
+their initiation.  When the Leaders of Romana approve of the recruit, the
+recruit is linked to the clan physically, and magically.  
+~
+#6998
+romana silver leaf~
+{XA {WSilver {gLeaf{X~
+{XA {WSilver {gLeaf{W picked from a {gR{Wo{gm{Wa{gn{Wa tree lies here. {X~
+unknown~
+scroll HPYZ A
+27 'haste' 'talon' '' ''
+30 1 3000 0 P
+E
+silver leaf~
+{WTrees of Romana possess magical powers for they are enchanted by the
+most powerful sorcerers when planted.  When recited, the person will be
+enhanced with speed, and superstrength.  
+~
+#6999
+romana corrosive fang~
+{yC{Do{yrr{Do{ys{Di{yv{De {WFang{X~
+{WA {yC{Do{yrr{Do{ys{Di{yv{De {WFang{W surrounded with a pool of {DBlack Dragon {rblood{W lies here.{X~
+unknown~
+weapon P AN
+dagger 435 1 acbite ADE
+290 290 29000 0 P
+E
+corrosive fang~
+During the Quest to prove themselves to their Gods, Romana's members went
+on a journey to slay the dreaded Black Dragon.  They removed all the teeth
+from the Dragon which was many, for the Dragon was large, and brought it
+back to the Gods.  The Gods have found their followers worthy, and have
+given Romana the teeth of the Dragon.  Sharpened and hoed to perfection by
+their Blacksmith, this corrosive fang is fatal to the wielder's opponent.  
+~
+#0
+
+
+
+#ROOMS
+#6700
+The Clan Liason Office~
+Firelight gleams, reflecting off the highly polished mahoghany walls. 
+The fireplace is of smooth, black obsidion, mirroring the room in darkened
+hues.  A large, cluttered desk dominates the center of the room.  It has
+been seamlessly carved from the mahoghany floor.  Papers are strewn about
+everywhere, bearing the names of the clans of Alanthia.  There is a sign on
+the wall, and a plaque on the desk.  
+~
+0 12 0
+E
+plaque desk~
+A brass colored plaque reads:
+ 
+{yThe Desk of {GS{gkyesong{y, Clan Liason{x
+~
+E
+sign wall~
+A small, delicately embroidered tapestry
+reads in the finest language, wisdom to{/ remember:
+ 
+{b:{g\{m^{g/{b: {BNo Whining!{g {b:{g\{m^{g/{b:{x
+{b:{g\{m^{g/{b:{r   When in   {b:{g\{m^{g/{b:{x
+{b:{g\{m^{g/{b:{r doubt, read {b:{g\{m^{g/{b:{x
+{b:{g\{m^{g/{b:{r   the help  {b:{g\{m^{g/{b:{x
+{b:{g\{m^{g/{b:{r    files!   {b:{g\{m^{g/{b:{x
+{b:{g\{m^{g/{b:{c <Help Clan> {b:{g\{m^{g/{b:{x
+{b:{g\{m^{g/{b:{c <Formulas>  {b:{g\{m^{g/{b:{x
+{b:{g\{m^{g/{b:{c   <Prices>  {b:{g\{m^{g/{b:{x
+{b:{g\{m^{g/{b:{c   <Clans>   {b:{g\{m^{g/{b:{x
+{b:{g\{m^{g/{b:{c   <J{bclan{c>   {b:{g\{m^{g/{b:{x
+{b:{g\{m^{g/{b:{c  <LDR{bclan{c>  {b:{g\{m^{g/{b:{x
+{b:{g\{m^{g/{b:{c    <{bclan{c>   {b:{g\{m^{g/{b:{x
+{b:{g\{m^{g/{b:{Y  And have a {b:{g\{m^{g/{b:{x
+{b:{g\{m^{g/{b:{Y  Nice Day!  {b:{g\{m^{g/{b:{x
+~
+D1
+~
+~
+1 0 3170
+S
+#6715
+Archway to Paradise~
+The remarkable architecture of this angelic archway is outstanding. 
+Carvings of angels and demons are presenting the everlasting battle between
+the light of the heavens and the darkness in your soul.  Magnificent in its
+sight, it excites the glory that is Bella Roma.  Around its extravagant
+Ivory Gates.  Ravishing patches of wild flowers represent the courage and
+bravery of the people.  While the trademark white rose shows the grace and
+elegance of their souls.  
+~
+0 532480 0
+D3
+~
+~
+0 0 1020
+C romana~
+S
+#6716
+Ivory Foyer~
+Not a breath stirs in this amazing pure ivory hall.  The backwall is
+lined with beautiful Emerald Tapstries and Awesome Picture Frames of the
+Nobles of House of Romana.  The East Wing leads to the Beautiful Garden of
+Prayers.  The West Wing leads to the Armoury where the finest equipment is
+forged.  The Eastern wall is covered with beautiful trimmings of Silver and
+White gold.  An oaken table stands here by the Arches of the Eastern Wing. 
+Laying on it is Dozens of Bouqets of Roses in their extravagent vases.  Each
+flower is distinguished by their own color.  
+~
+0 524288 0
+D0
+~
+~
+0 0 6718
+D1
+~
+~
+0 0 6719
+D3
+~
+~
+0 0 6717
+C romana~
+S
+#6717
+Reality~
+Radiant colors of yellow and bright greens vials and potions line the
+walls carefully placed in its order.  The scent of jasmine sooths your aura
+and begins to swirl your mind with images of incredible magic never seen
+before in ages.  
+~
+0 525312 0
+D1
+~
+~
+0 0 6716
+C romana~
+S
+#6718
+Garden of Faith~
+The very essense of the garden souths your soul.  The beautiful songs of
+the many birds that inhabit this garden sings you into Nirvana itself.  A
+small river creek runs through which seems to bring life to all that lives
+in these plains.  A radical rose seems to have caught your eye.  In the far
+end of the Garden floats an amazing Crystal Rose.  The aura that surrounds
+your very body seems to calm your mind.  
+~
+0 525312 0
+D2
+~
+~
+0 0 6716
+M 200 H 200
+C romana~
+S
+#6719
+White Ivory Hall~
+A Long white ivory hall leads you to many different rooms with large
+archway doors that seem to be carved by the magnifcence of architects from
+the era of illumicense.  Great Painting of Battles , and of many
+accoplishments of the Romana Empire.  The roof is painted to match the sky
+of a beautiful sunrise and sunset of those that once painted the heavens of
+the Eternal City.  The scent of heather flowers seem to liven the
+beautifully painted walls.  
+~
+0 524288 0
+D3
+~
+~
+0 0 6716
+D4
+~
+~
+0 0 6720
+D5
+~
+~
+0 0 6722
+C romana~
+S
+#6720
+The Armoury of Romana~
+Lining the walls is armor from around the realms.  This small shop
+carries the armor of past heroes long since forgotten....  Heroes who once
+filled the pages of history with tales of honor and heroics.  On the back
+wall you can see faded images of armor which have been worn by the greatest
+of heroes.  The weary man stands here awaiting to here you request.  
+~
+0 268960768 0
+D3
+~
+~
+0 0 6721
+D5
+~
+~
+0 0 6719
+C romana~
+S
+#6721
+The Weapon Shoppe of Bella Roma~
+Entering the room you notice the beautiful girl playing with an unusual
+sword, curved in length and lined with a darkend blue.  Statues of warrior
+displays the man weapons once used by heroes.  Portraits of weapons and
+armor exicte the walls and bring out the spirit of discipline and glory in
+your soul.  
+~
+0 268960768 0
+D1
+~
+~
+0 0 6720
+C romana~
+S
+#6722
+Ivory Balcony~
+An extravagant sight of the moonlight lighting every inch of this well
+made balcony.  Decorated in tapestries of light blue, trimmed a shadowy
+black to represent the tear in the night.  Radiant night-n-gael flowers
+surround an extravagant statue of an angel spreading its wings in the
+moonlight to pray.  To the heavens.  
+~
+0 525312 0
+D4
+~
+~
+0 0 6719
+D5
+~
+~
+0 0 14153
+C romana~
+S
+#6734
+The Army of Darkness~
+Before you lies the sacrificial pit where Lichim brought 665 Wraith's
+into existance.  The complete void of sound fills you with a deep respect
+and honor for acts completed here.  This dank chamber seems to be in
+darkness yet there is light about you.  The smell of fresh flesh bubbling
+and boiling fill your nostrils sharply.  On the north wall, a symbol that
+feels very comfortable to you, gleams, welcoming your arrival.  You can see
+a red glow coming from the west.  
+~
+0 8 0
+D1
+~
+~
+0 0 6735
+D3
+~
+~
+0 0 6737
+D4
+~
+~
+0 0 8005
+S
+#6735
+Room of Sanctuary~
+
+~
+0 8 0
+D3
+~
+~
+0 0 6734
+M 200 H 200
+S
+#6737
+Army of Darkness Armor Shop~
+You have entered the Army of Darkness' specialized armor shop.  The red
+glow about you is very refreshing.  THere is a large scroll on the north
+wall.  A large glass display case in the shape of a crescent takes up the
+entire east wall.  The low pitched hum emanating from the armor fills you
+with drive and inspires you to attain the levels needed for these items.  
+~
+0 0 0
+D1
+~
+~
+0 0 6734
+S
+#6800
+Dark Hallway~
+Sconces cast flickering circles of dim light through the chill stone
+hallway.  A dark granite floor proceeds toward a thick mahogany door.  Small
+glimmers of light reflect off the door, as though it were a mirror.  
+~
+0 525324 0
+D3
+~
+~
+1 0 6801
+S
+#6801
+The Dueling Chamber~
+A haunting mist fills this room with a ghastly chill.  Rusty brown stains
+of aged dried blood are spattered upon the polished hardwood floor.  Bone
+white walls bear the scars of ill-fated strikes.  Ebony panels frame the
+walls in stark contrast.  A crystalline chandelier, tucked high in the
+vaulted ceiling, showers the chamber in light.  
+~
+0 532492 0
+D1
+~
+~
+1 0 6800
+S
+#6909
+a room~
+
+~
+0 268443660 0
+S
+#6910
+a room~
+
+~
+0 1036 0
+M 200 H 200
+S
+#6919
+The Library~
+Towering bookshelves reach toward the high, faceted ceiling.  Light
+filters through the crystalline structure and envelops the room in dazzling
+light.  Nestled into the polished maple shelves are an assortment of books. 
+These books contain all the information about the varied clans of Alanthia. 
+Situated in the middle of the room is a small indentation in the floor,
+containing a circular couch around its periphery.  The couch surrounds a
+small, round table above which floats a gentle blue-green sphere of light.  
+~
+0 533512 0
+E
+sphere~
+Upon closer examination, the blue-green sphere reveals itself to be a
+globe of Alanthia.  A large town, Midgaard, dominates the central part of
+the sphere.  To the east lies a great sea bordered by the town of New
+Thalos.  Several villages and caverns dot the landscape.  West of the city,
+a great forest blankets the land.  Several rivers flow through the city,
+feeding into the swampy land to the south.  The southern part of the globe
+is covered in dark greens and mountains.  North of the town is great jagged
+range of mountains, beyond which lies no one knows.  A large desert is
+situated to the southeast and several islands litter the coast-lines.  
+~
+D3
+~
+~
+0 0 9421
+S
+#6930
+{WRoom of Fatigue{X~
+{DUpon entering this room, you see nothing special about it, except that
+a very large {GStatue {Dof our {GG{Dod {GN{Dikos stands at the other end. 
+It seems to smell faintly of smoke, given off by the torches hanging on the
+walls which are lighting the beds beneath them.  The beds seem to have
+{rreddish {Dstains upon them from the {rb{Rl{ro{Ro{rd {Dof our clansmen
+wounded in battle.  Here they come to rest and heal for yet another battle
+is still to come, {GT{Dhe {GF{Dinal {GB{Dattle!!  {X 
+~
+0 0 0
+D1
+~
+east~
+1 6834 6931
+D3
+~
+west~
+1 6834 6932
+S
+#6931
+{WArmoury for the {GW{Darriors {Wof {GN{Dikos{X~
+{DUpon entering this room, you notice it's almost pitch black except for
+a {rreddish {Dglow appearing behind a giant statue.  As you get closer you
+see three huge pillars and a {GS{Dtatue of {GN{Dikos.  As you scan the room
+more, you notice another statue...  But it moves toward you!  It appears to
+be a giant of a man holding a hammer.  {X 
+~
+0 268435456 0
+D3
+~
+~
+1 6834 6930
+S
+#6932
+{WBlacksmith for the {GA{Wrmy of {GN{Dikos{X~
+{DAs you enter this room, you notice it looks much like the last, except
+there are only two pillars here.  It seems they had to make room for all the
+forges of {GN{Dikos.  As you take another step forward, a giant of a man
+steps from behind you, holding a gleaming {rred {Dhot, sword.  You notice
+many more hanging on the walls.  {X 
+~
+0 268435456 0
+D1
+~
+~
+1 6834 6930
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 6700 1 1
+D 0 6800 3 1
+D 0 6801 1 1
+D 0 6930 1 2
+D 0 6930 3 2
+D 0 6931 3 2
+D 0 6932 1 2
+M 0 6700 1 6715 1
+M 0 6991 1 6717 1
+G 0 6998 0
+G 0 6807 0
+G 0 6794 0
+G 0 6808 0
+G 0 6813 0
+G 0 6815 0
+G 0 6793 0
+O 0 6798 0 6718
+O 0 6927 0 6718
+O 0 6821 0 6718
+M 0 6703 1 6718 1
+M 0 6809 1 6720 1
+G 0 6997 0
+G 0 6797 0
+G 0 6792 0
+G 0 6801 0
+G 0 6795 0
+G 0 6812 0
+G 0 6796 0
+G 0 6816 0
+G 0 6819 0
+G 0 6818 0
+G 0 6814 0
+E 0 6791 0 17
+M 0 6808 1 6721 1
+G 0 6809 0
+G 0 6810 0
+G 0 6802 0
+G 0 6811 0
+G 0 6804 0
+G 0 6825 0
+G 0 6999 0
+G 0 6817 0
+M 0 6810 1 6722 1
+M 0 6802 1 6800 1
+M 0 6803 1 6801 1
+O 0 6903 0 6919
+P 0 6759 3 6903 1
+P 0 6713 3 6903 1
+P 0 6714 3 6903 1
+P 0 6710 3 6903 1
+O 0 6901 0 6919
+O 0 6902 0 6919
+P 0 6914 1 6903 1
+M 0 6931 1 6931 1
+M 0 6932 1 6932 1
+S
+
+
+
+#SHOPS
+6803 0 3 0 0 0 100 50 0 23
+6804 0 12 0 0 0 100 50 0 23
+6808 5 0 0 0 0 100 50 0 23
+6809 9 0 0 0 0 100 50 0 23
+6850 19 17 0 35 0 100 50 0 23
+6851 9 5 1 8 13 100 50 0 23
+6852 2 3 10 26 30 100 50 0 23
+6931 9 0 0 0 0 100 50 0 23
+6932 5 0 0 0 0 100 50 0 23
+6991 2 3 10 26 4 100 50 0 23
+0
+
+
+
+#$

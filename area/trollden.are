@@ -1,0 +1,381 @@
+#AREADATA
+Name Troll Den~
+Builders Fluffy Halodar~
+VNUMs 2800 2899
+Credits {280 300} Merc        Troll Den~
+Security 9
+Version 1
+End
+
+
+
+#MOBILES
+#2800
+guardian beast~
+the guardian beast~
+A guardian beast stares at you and snarls in rage.
+~
+Jet black fur covers this beast.  You stare at his two huge red eyes.  You can
+count at least 50 teeth on this monster.  You can't tell whether it is blood or
+saliva dripping from the beast's jaw.  The guardian beast snarls again.
+~
+unique~
+ABCDEFG ABCDEFGPQ -200 0
+280 0 2d6+85 3d9+100 1d8+1 none
+4 4 4 9
+ABCDEFGNU ABC ABC ABC
+stand stand male 0
+ABCHMV ABCDEFGHIJK medium 0
+#2801
+young troll~
+the young troll~
+A young troll is sitting down, chewing on a bone.
+~
+The young green troll happily munches on a bone.  It seems to be enjoying himself.  It spots you and grins, revealing many sharp teeth.
+~
+unique~
+ABCDEFG ABCDEFG -705 0
+285 0 2d7+71 3d9+100 1d7+1 none
+4 4 4 9
+ABCDEFGNU ABC ABCE ABCHK
+sit stand male 25
+ABCHMV ABCDEFGHIJKUV medium 0
+#2802
+troll~
+a grooming troll~
+A troll is grooming his pet, a guardian beast.
+~
+This troll is a large furry humanoid. It appears to be busy licking off the ticks of its pet beast.
+~
+unique~
+ABCDEFG ABCDEFGP -500 0
+290 0 2d7+96 4d9+100 1d7+2 none
+3 3 3 9
+ABCDEFGNU ABC ABC ABC
+stand stand male 75
+ABCHMV ABCDEFGHIJK huge 0
+#2803
+baby troll~
+a baby troll~
+A baby troll is playing around with a cadaver.
+~
+Even though it's a baby troll, it's still quite large.  Its skin glistens a healthy green, free of bugs and boils.
+~
+unique~
+ABCDEFG ABCDEFGP -750 0
+290 0 2d6+60 2d9+100 1d6+1 none
+5 5 5 9
+ABCDEFGNU ABC ABCE ABCHK
+sit stand male 12
+ABCHMV ABCDEFGHIJKUV medium 0
+#2804
+giant troll~
+the giant troll~
+A giant troll is lying on a pile of carnage, pleasing his mistress.
+~
+This one is by far the ugliest troll in the den.  He is gigantic, muscular,
+and covered with bugs, boils, and glistens sickenly in sweat.  He snarls at
+your intrusion.
+~
+unique~
+ABCDEFG ABCDEFGP -1000 0
+300 0 2d10+170 6d9+100 2d5+3 none
+-1 -1 -1 8
+ABCDEFGNR ABC ABCEHI ABCHJKP
+rest stand male 150
+ABCHMV ABCDEFGHIJKUV huge 0
+M grall 25800 95~
+#2805
+large troll female~
+the large female troll~
+A large female troll is blissfully writhing on a pile of carnage.
+~
+This is by far the largest troll in the den.  She is huge, grotesque, and
+drenched in some weird fluid.  She moans in passion, sounding like a gurgle
+of a drowning dog.
+~
+unique~
+ABCDEFG ABCDEFGP -800 0
+300 0 2d8+134 5d9+100 1d10+2 none
+1 1 1 8
+ABCDEFGNUX ABC ABCE ABCHK
+rest stand female 125
+ABCHMV ABCDEFGHIJKUV medium 0
+#2806
+fat worm~
+a fat worm~
+A fat worm scurries around, looking for food.
+~
+A large worm slithers on the ground, from corpse to corpse.  It resembles
+a huge maggot.
+~
+unique~
+ABCDEFGH ABCDEFG 0 0
+282 0 2d6+35 1d9+100 1d6+0 none
+7 7 7 10
+ABCDEFGN ABC ABC ABC
+stand stand none 0
+ABCHMV ABCDF medium 0
+#2807
+roving beast~
+the roving beast~
+A roving beast is searching for prey.
+~
+Jet black fur covers this beast.  You can count at least 50 teeth on this
+beast.  You can't tell whether it is blood or saliva dripping from the beast's
+jaw.  The roving beast snarls at you.
+~
+unique~
+ABCDEFG ABCDEFGP -200 0
+287 0 2d6+85 3d9+100 1d8+1 none
+4 4 4 9
+ABCDEFGNU ABC ABC ABC
+stand stand male 0
+ABCHMV ABCDEFGHIJK medium 0
+#2808
+drooling troll~
+a drooling troll~
+A troll drools all over himself while looking for fresh meat.
+~
+A large green troll, with ugly green skin speckled with boils and crawling bugs.  He drools all over itself hungrily.
+~
+unique~
+ABCDEFG ABCDEFG -500 0
+295 0 2d7+96 4d9+100 1d7+2 none
+3 3 3 9
+ABCDEFGNU ABC ABCE ABCHK
+stand stand male 75
+ABCHMV ABCDEFGHIJKUV large 0
+#2809
+crazy swamp giant~
+a crazy swamp giant~
+A crazy swamp giant is here, frothing on the ground.
+~
+This giant here has been poisoned and diseased by the vicious troll attacks.
+It's gone delirious, left crippled here to either slowly die or be toyed with
+and eaten by the trolls.
+~
+unique~
+ABCDEFGT ABCDEFGMX 0 0
+284 0 0d0+0 0d0+0 0d0+0 pound
+0 0 0 0
+ABCDEFGKNX ABC ABC ABC
+sit sit male 0
+ABCHMV ABCDEFGHIJK huge flesh
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#2800
+The Playpen~
+The walls are covered with blood, along with squished body parts that
+have dried up on it.  More bodies lie strewn about, some nearly devoured,
+others just torn up as though it were a play toy.  
+~
+0 9 0
+D2
+~
+~
+0 0 2806
+D3
+~
+~
+0 0 2804
+S
+#2801
+Wastedump~
+This room is filled with bone shards and fragments.  Something (or
+things) very big lives here.  
+~
+0 9 0
+D2
+You find the stench is stronger inside.
+~
+~
+0 0 2803
+S
+#2802
+Troll's Larder~
+This room has blood and grime all over the walls.  You see maggots and
+other insects crawling up them.  The resident is definitely uncivilized. 
+Half-eaten and rotting body parts scatter the floor, each having its own
+colony of flies, worms, and maggots.  Above is a small chute.  
+~
+0 9 0
+E
+Half-eaten body rotting corpse~
+YUCK!  You find worms crawling in and out this poor unfortunate former human.
+~
+D1
+To the east you see the entrance to the troll den.
+~
+~
+0 0 2803
+D4
+~
+~
+1 0 2808
+S
+#2803
+Troll's Living Room~
+This small cave's stench is horrible.  Its source is strongest to the
+west, but you smell it all over.  To the east you see what looks like a play
+pen.  To the west is a storage room of bodies.  To the south is a bedroom.  
+~
+0 9 0
+D0
+There is a trail of bone shards and fragments leading north.
+~
+~
+0 0 2801
+D1
+To the east you see many corpses strewn about like toys.
+~
+~
+0 0 2804
+D2
+You see what looks like a bedroom.
+~
+~
+0 0 2805
+D3
+You see tons of maggots crawling in and out of many bodies on the ground.
+~
+~
+0 0 2802
+S
+#2804
+The Playpen~
+The walls are covered with blood, and a few small body parts.  Plastered
+on the far wall you see what looks like a human arm.  Half-eaten bodies lie
+all around like toys left from disinterest.  
+~
+0 9 0
+E
+arm rotting~
+This reminds you of what a baby would do to its formula during dinnertime,
+plastering it on the wall.
+~
+D1
+~
+~
+0 0 2800
+D2
+~
+~
+0 0 2807
+D3
+You see the entrance to the troll den.
+~
+~
+0 0 2803
+S
+#2805
+Troll's Bedroom~
+Something really big lives here as you see huge footprints imprinted into
+the ground.  The stench is almost unbearable.  There are piles and piles of
+rotten and half-eaten body parts of animals, orcs, and humans.  Strewn
+across the floor, there seems to be a larger more prominent pile of rotten
+parts.  It seems to have been flattened by something.  
+~
+0 13 5
+D0
+To the north you see the entrance to the troll den.
+~
+~
+0 0 2803
+S
+#2806
+The Playpen~
+This room looks no different from the rest.  Blood covers the walls as
+though it were common pigment, unrecognizable body parts laid all about,
+sometimes even stuck to the wall.  This playpen is incredibly gory.  
+~
+0 0 0
+D0
+~
+~
+0 0 2800
+D3
+~
+~
+0 0 2807
+S
+#2807
+The Playpen~
+Not much body parts are in this room, but it more than makes up for it by
+the amount of blood on the walls, ceiling, and floor.  Most of it is dry
+from the passage of time, but you do see some fresh puddles of blood.  
+~
+0 0 0
+D0
+~
+~
+0 0 2804
+D1
+~
+~
+0 0 2806
+S
+#2808
+A Small Chute~
+Up here you see freshly stored bodies.  Most look like they came right
+from the marsh, as you spot gnoll and snake bodies.  Some of the bodies
+still twitch with life, and a few moan in agony.  
+~
+0 0 0
+D5
+~
+~
+1 0 2802
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 2802 4 1
+D 0 2808 5 1
+M 0 2803 4 2800 4
+M 0 2806 10 2800 4
+M 0 2800 2 2801 1
+M 0 2801 2 2802 2
+M 0 2801 2 2802 2
+M 0 2806 10 2802 4
+M 0 2806 10 2802 4
+M 0 2807 1 2802 1
+M 0 2800 2 2803 1
+M 0 2806 10 2803 4
+M 0 2806 10 2803 4
+M 0 2808 2 2803 1
+M 0 2806 10 2804 4
+M 0 2803 4 2804 4
+M 0 2804 1 2805 1
+M 0 2805 1 2805 1
+M 0 2803 4 2806 4
+M 0 2806 10 2806 4
+M 0 2808 2 2806 1
+M 0 2803 4 2807 4
+M 0 2806 10 2807 4
+M 0 2809 1 2808 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

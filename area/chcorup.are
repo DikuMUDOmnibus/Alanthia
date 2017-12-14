@@ -1,0 +1,158 @@
+#AREADATA
+Name clancorruption~
+Builders Fluffy Halodar~
+VNUMs 20800 20899
+Credits Alanthia~
+Security 9
+Version 1
+End
+
+
+
+#MOBILES
+#20800
+kordaek coruption nikos~
+{GK{Dordaek the {GA{Dr{Gm{Do{Gr{De{Gr{X~
+{GK{Dordaek, {GA{Dr{Gm{Do{Gr{De{Gr {Dfor the {GA{Dr{Gm{Dy.{X
+~
+{WSweat pours off his head as he pounds away at the magical pieces of
+metal, gifted to the army by their Lord, Nikos.  {X 
+~
+unique~
+ABM 0 0 0
+300 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 AB 0 0
+stand stand none 100000
+0 0 medium unknown
+#20801
+adoran coruption nikos~
+{GA{Ddoran the {GB{Dl{Ga{Dc{Gk{Ds{Gm{Di{Gt{Dh{X~
+{GA{Ddoran, {GB{Dl{Ga{Dc{Gk{Ds{Gm{Di{Gt{Dh for the {GA{Dr{Gm{Dy.{X
+~
+{WBefore you stands a tall, muscular man with a blade of some sort in one
+hand, and a smithing hammer in the other.  {X 
+~
+unique~
+ABM 0 0 0
+300 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 AB 0 0
+stand stand none 100000
+0 0 medium unknown
+#20802
+corruption nikos aleika~
+{GA{Dleikia, {GH{De{Ga{Dl{Ge{Dr of the {GA{Dr{Gm{Dy{X~
+{GA{Dleika, the {GH{De{Ga{Dl{Ge{Dr of {GN{De{Gc{Dr{Go{Dm{Ga{Dn{Gt{Di{Gc {Dways.{X
+~
+{WBefore you is a tall Necromancer, cureing those who have been touched
+by the jagged edge of battle.  {X 
+~
+unique~
+ABa 0 0 0
+150 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+#20803
+coruption nikos Aleika~
+Aleika, the Necromancer~
+Aleika, the healer of Necromantic ways.
+~
+You gaze into the eyes of an evil Necromancer, keeping the Army of Nikos at their full power.
+~
+unique~
+ABZ 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#20800
+{WBlacksmith for the Army of Nikos{X~
+{DAs you enter this room, you notice it looks much like the last, except
+there are only two pillars here.  It seems they had to make room for all the
+forges of Nikos.  As you take another step forward, a giant of a man steps
+from behind you, holding a gleaming red hot, sword.  You notice many more
+hanging on the walls.  {X 
+~
+0 268444672 0
+D1
+~
+~
+3 20800 20801
+S
+#20801
+{WRoom of Fatigue{X~
+{DUpon entering this room, you see nothing special about it, except that
+a very large Statue of our God Nikos stands at the other end.  It seems to
+smell faintly of smoke, given off by the torches hanging on the walls which
+are lighting the beds beneath them.  The beds seem to have reddish stains
+upon them from the blood of our clansmen wounded in battle.  Here they come
+to rest and heal for yet another battle is still to come, The Final Battle!!
+{X 
+~
+0 0 0
+D1
+~
+~
+3 20800 20802
+D3
+~
+~
+3 20800 20800
+S
+#20802
+{WArmoury for the Warriors of Nikos{X~
+{DUpon entering this room, you notice it's almost pitch black except for
+a reddish glow appearing behind a giant statue.  As you get closer, you see
+three huge pillars and a Statue of Nikos.  As you scan the room more, you
+notice another statue...  But it moves toward you!  It appears to be a giant
+man holding a hammer.  {X 
+~
+0 268444680 0
+D3
+~
+~
+3 20800 20801
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 20800 1 2
+D 0 20801 1 2
+D 0 20801 3 2
+D 0 20802 3 2
+M 0 20801 1 20800 1
+M 0 20802 1 20801 1
+M 0 20800 1 20802 1
+S
+
+
+
+#SHOPS
+20800 9 0 0 0 0 100 50 0 23
+20801 0 5 0 0 0 100 50 0 23
+0
+
+
+
+#$

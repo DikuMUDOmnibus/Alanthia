@@ -1,0 +1,38 @@
+#AREADATA
+Name <areaname>~
+Builders <buildername>~
+VNUMs <low> <high>
+Credits {low hig} <buildername> <areaname>~
+Security <1-9>
+End
+
+
+MOBILES
+#0
+
+
+#MOBPROGS
+#0
+
+
+#OBJECTS
+#0
+
+
+#ROOMS
+#0
+
+
+#SPECIALS
+S
+
+
+#RESETS
+S
+
+
+#SHOPS
+0
+
+
+#$

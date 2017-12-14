@@ -1,0 +1,287 @@
+#AREADATA
+Name Hurricane Stix II~
+Builders Amir~
+VNUMs 5400 5499
+Credits {200 230} Amir        Hurricane Stix II~
+Security 0
+Version 1
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#5400
+Open sky~
+You are in open sky.  Great gusts of wind blow from below keeping you
+aloft.  To the east is a great swirling storm.  To the west is a cluster of
+white fluffy clouds.  
+~
+0 0 0
+D1
+~
+~
+0 0 1021
+D3
+~
+~
+0 0 5401
+S
+#5401
+White {mFluffy {RClouds~
+It seems you are standing on nothing.  An invisible platform seems to be
+holding you up.  A fluffy cloud seems to surround the whole area.  Both to
+the north and south lie swirling gateways.  
+~
+0 0 0
+D0
+~
+~
+0 0 5402
+D1
+~
+~
+0 0 5400
+D2
+~
+~
+0 0 5403
+S
+#5402
+Gateway to Elsewhere~
+A gaping hole between worlds, this place is a bridge over the abyss.  A
+span of space and time which is here only to serve you safe passage.  To the
+south you see a speck of light.  
+~
+0 0 0
+D2
+~
+~
+0 0 5401
+S
+#5403
+Gateway to Elsewhere~
+This place seems to be a mix of nonexistence and existence, nothing yet
+everything.  The ground itself is swirling yet it doesn't move at all.  You
+try to see up ahead and just see light.  Looking back it is the same.  
+~
+0 0 0
+D0
+~
+~
+0 0 5401
+S
+#5404
+Escape Tunnel~
+This long passageway is filled with cobwebs and dust.  The silence is
+reminiscent of a tomb.  The west you can see a black portal.  
+~
+0 0 0
+D1
+~
+~
+5 0 1060
+D3
+~
+~
+0 0 5405
+S
+#5405
+{DA {!Shimmering {DBlack Portal {x~
+This hole into the abyss is a puncture wound connecting two planes.  Dark
+magics are keeping this portal open.  Eddies of black smoke billow around
+you.  Screaming and horrendous laughter echo from some far off corner.  
+~
+0 0 0
+D1
+~
+~
+0 0 5404
+S
+#5420
+{!Sh{!ri{!ne {!to {!Am{!ir{x~
+{gYou are deep within the temple of {GCeleste{g.  This room is lit by
+numerous candles strewn all over the floor and candlebras.  A great statue
+of some dead king is in the center of the room.  {g Through the door to the
+south you can access the main hall of the temple.  
+~
+0 1028 0
+D2
+~
+~
+1 0 5421
+M 200 H 200
+S
+#5421
+{GT{ge{Gm{gp{Gl{ge {GC{ge{Gl{ge{Gs{gt{Ge{x~
+There is a pulpit in the center of the room protruding from the central
+column holding up the roof.  The room is lit by color changing candles
+placed in the chandelier over head.  There are doors to the north, east, and
+west.  
+~
+0 0 0
+D0
+~
+~
+1 0 5420
+D1
+~
+~
+1 0 5423
+D2
+~
+~
+0 0 5422
+D3
+~
+~
+1 0 5424
+S
+#5422
+{GT{ge{Gm{gp{Gl{ge {GC{ge{Gl{ge{Gs{gt{Ge{x~
+This hallway is illuminated by a bright light coming from where the
+ceiling should be.  The pillars here are real trees.  The trees form a
+canopy above your head.  The stone walls to the east and west have oak doors
+placed in the middle of them.  
+~
+0 0 0
+D0
+~
+~
+0 0 5421
+D1
+~
+~
+1 0 5426
+D2
+~
+~
+0 0 5425
+D3
+~
+~
+1 0 5427
+S
+#5423
+{mRoom in Flux{x~
+This room is in the shape of a triangle.  The door to the west is place
+in a corner opposite a window in the wall.  The window is covered in
+turquoise drapes.  
+~
+0 0 0
+D3
+~
+~
+1 0 5421
+S
+#5424
+{mRoom in Flux{x~
+You are standing on a ledge sticking out of a wall.  The guard rails are
+the only things between you and the abyss below you.  A cold draft blows up
+from the empty space beneath you.  
+~
+0 0 0
+D1
+~
+~
+1 0 5421
+S
+#5425
+{GT{ge{Gm{gp{Gl{ge {GC{ge{Gl{ge{Gs{gt{Ge{x~
+This cathedral size chamber is held up by massive arches.  Twenty four
+pillars line the room.  Each pillar contains a carved image and a coat of
+arms.  Looking at the pillar beside you you see a rendering of a humanoid
+warrior weilding a samurai sword.  The figure's face is covered and only its
+eyes can be seen.  The coat of arms reads "Flathgar".  
+~
+0 0 0
+D0
+~
+~
+0 0 5422
+D2
+~
+~
+0 0 5428
+S
+#5426
+{mRoom in Flux{x~
+This square shaped room has a pillar in each corner.  Nothing seems to be
+out of the ordinary here.  You can feel a slight breeze coming from the
+north wall.  
+~
+0 0 0
+D3
+~
+~
+1 0 5422
+S
+#5427
+{mRoom in Flux{x~
+This round room is made of ordinary brick.  The walls curve into the
+ceiling making a nice dome.  The only thing unusual is the round stone in
+the middle of the floor with a rune painted on it.  
+~
+0 0 0
+D1
+~
+~
+1 0 5422
+S
+#5428
+{GT{ge{Gm{gp{Gl{ge {GC{ge{Gl{ge{Gs{gt{Ge{x~
+The walls are lined with roots which have wiggled through the stones. 
+This room is the base of the whole spire.  Four great columns in the shape
+of Oak trees hold up the roof.  Torches circling the room give off a green
+light.  There is a stairway that leads up and a passage leading north.  
+~
+0 0 0
+D0
+~
+~
+0 0 5425
+D4
+~
+~
+0 0 1052
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 5404 1 1
+D 0 5420 2 1
+D 0 5421 0 1
+D 0 5421 1 1
+D 0 5421 3 1
+D 0 5422 1 1
+D 0 5422 3 1
+D 0 5423 3 1
+D 0 5424 1 1
+D 0 5426 3 1
+D 0 5427 1 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

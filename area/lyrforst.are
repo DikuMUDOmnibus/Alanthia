@@ -1,0 +1,2327 @@
+#AREADATA
+Name Forest of Llyr~
+Builders Fluffy Halodar~
+VNUMs 25600 25799
+Credits {260 290} Ali/Puls    Forest of Llyr~
+Security 9
+Version 1
+End
+
+
+
+#MOBILES
+#25600
+black wolf~
+a black wolf~
+{DA large black wolf emits a low growl upon seeing you.{X
+~
+A large black wolf, teeth bared and growling, seems to be offended by
+your intrusion.  
+~
+unique~
+AG JPV 0 0
+265 0 0d0+0 0d0+0 0d0+0 bite
+0 0 0 0
+FMW 0 0 Y
+stand stand male 650
+AGV ACDEFJKQV medium unknown
+#25601
+gray wolf~
+a gray wolf~
+{wAn aggressive {Dgr{wa{Dy{w wolf starts to lunge for your throat.{X
+~
+This wolf's skin could be worth a fortune, but he isn't going to give it
+up very easily.  
+~
+unique~
+AFG DJVd 0 0
+265 0 0d0+0 0d0+0 0d0+0 claw
+0 0 0 0
+KMW 0 0 Y
+stand stand male 650
+AGV ACDEFJKQV medium unknown
+#25602
+white wolf~
+a white wolf~
+{wA graceful {Wwhite{w wolf looks upon you with arrogance.{X
+~
+This delicate female doesn't seem to believe she has any reason to fear
+the likes of you.  
+~
+unique~
+AG DVa 0 0
+267 0 0d0+0 0d0+0 0d0+0 bite
+0 0 0 0
+FMNX 0 0 Y
+stand stand female 670
+AGV ACDEFJKQV medium unknown
+#25603
+wolf pup~
+a wolf pup~
+{wA yipping {ywolf pup{w is huddled here.{X
+~
+The little one yelps for assistance as it tries to huddle against the
+back wall of the den.  
+~
+unique~
+AB d 0 0
+269 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+Fa 0 0 Y
+sleep stand either 690
+AGV ACDEFJKQV small unknown
+#25604
+leader wolf~
+the lead wolf~
+{wThe {Dleader {yof the {Wwolf {wpack simply watches you with glowing eyes.{X
+~
+There is no fear in her eyes.
+~
+unique~
+ABF BDFVacd 0 0
+271 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+CFHNW 0 GHL Y
+stand stand female 0
+AGV ACDEFJKQV large unknown
+#25605
+little troll~
+a feisty little troll~
+{gA little troll is napping here.{X
+~
+Tho, awakened he might be quite feisty.
+~
+unique~
+ABHS V -1000 0
+273 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+DIJNOV 0 BE HK
+sleep stand male 730
+ABHMV ABCDEFGHIJKUV large unknown
+#25606
+slobbering troll~
+a slobbering troll~
+{gA slobbering troll, covered in sores, stares down upon you.{X
+~
+The small puddles of drool seem to be corroding the stone floor.
+~
+unique~
+ABF Vd -1000 0
+275 0 0d0+0 0d0+0 0d0+0 pound
+0 0 0 0
+CDIJNO 0 BE HK
+stand stand none 750
+ABHMV ABCDEFGHIJKUV large unknown
+#25607
+nasty looking troll~
+a nasty looking troll~
+{gA nasty looking troll sits here scratching his behind.{X
+~
+He looks very pleased with himself.
+~
+unique~
+AB V -1000 0
+278 0 0d0+0 0d0+0 0d0+0 smash
+0 0 0 0
+DFIJNVa 0 BE HK
+sit stand none 780
+ABHMV ABCDEFGHIJKUV large unknown
+#25608
+little troll~
+a sneaky little troll~
+{gA sneaky troll steps out of the shadows just to see you die.{X
+~
+It is a born assassin.
+~
+unique~
+AFGS BPQVd -1000 0
+280 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+BCDGIKNWY 0 BE HK
+stand stand none 800
+ABHMV ABCDEFGHIJKUV large unknown
+#25609
+wee pixie~
+a wee pixie~
+{WA wee {Mpixie{W zips past.{X
+~
+It zips about like a streak of golden magic.
+~
+unique~
+ACGR DFILTVc 750 0
+283 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+FHKQ 0 F 0
+stand stand either 830
+AHMV ABCDEFGHIJK tiny unknown
+#25610
+a giggling pixie~
+a giggling pixie~
+{WA {mpixie{W flits by, illuminated with laughter.{X
+~
+She seems to be laughing at you.
+~
+unique~
+AFGR FLOTV 750 0
+285 0 0d0+0 0d0+0 0d0+0 slap
+0 0 0 0
+FHVW 0 FN G
+stand stand female 0
+AHMV ABCDEFGHIJK tiny unknown
+#25611
+frightened pixie~
+a frightened pixie~
+{WA timid little {Cpixie{W tries to go unnoticed.{X
+~
+It seems to be very afraid.
+~
+unique~
+AG BPQTV 0 0
+287 0 0d0+0 0d0+0 0d0+0 shock
+0 0 0 0
+DEFGHNX 0 F M
+stand stand none 870
+AHMV ABCDEFGHIJK tiny unknown
+#25612
+kind pixie~
+a kindly old pixie~
+{WA kind-looking {Ypixie{W quietly hovers in one spot.{X
+~
+Healing is in her nature if you but ask.
+~
+unique~
+ABMQZ H 0 0
+150 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 AB F 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium unknown
+M greet 25612 100~
+#25613
+light streak~
+a streak of shimmering light~
+{WA streak of {ysh{Yim{yme{Yri{yng {Ylight{W flies about.{X
+~
+The tiny bit of magic will most likely get away from the likes of you.
+~
+unique~
+AGH DFLPQTa 0 0
+289 0 0d0+0 0d0+0 0d0+0 sting
+0 0 0 0
+FHKNVW 0 F H
+stand stand either 890
+AHMV ABCDEFGHIJK tiny unknown
+#25614
+Dispeth pixie peddler~
+Dispeth~
+{GDispeth{W, a peddler of pixie magic, is here with his bag of goodies.{X
+~
+He'll be glad to part with some it for a bit of gold.  
+~
+unique~
+ABM CDFGH 1000 0
+300 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 AB F 0
+stand stand male 100000
+AHMV ABCDEFGHIJK medium unknown
+M greet 25614 100~
+#25615
+Pixie King~
+the Pixie King~
+{WHis eyes sparkling with evil mirth, the {GPixie {YKing{W bids you welcome.{X
+~
+He seems to have something to ask you, if you want to leave this magical
+place.  
+~
+unique~
+ABM H -1000 0
+309 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 AB 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+M speech 25617 tomorrow~
+M speech 25616 yes~
+M greet 25615 100~
+#25616
+Pixie Prince~
+the Pixie Prince~
+{WThe {YPixie {BPrince{W will give his life protecting his father's kingdom.{X
+~
+Would you give yours to try and find the King, or shall you say a
+prisoner here in this mystical tree.  
+~
+unique~
+ABT BDFVd 0 0
+290 0 0d0+0 0d0+0 0d0+0 drain
+0 0 0 0
+EFNX 0 F M
+stand stand male 920
+AHMV ABCDEFGHIJK tiny unknown
+#25617
+a black wolf~
+a black wolf~
+{DA large black wolf emits a low growl upon seeing you.{X
+~
+A large black wolf, teeth bared and growling, seems to be offended by
+your intrusion.  
+~
+unique~
+AB V 0 0
+268 0 0d0+0 0d0+0 0d0+0 bite
+0 0 0 0
+MW 0 G 0
+stand stand male 60
+AGV ACDEFJKQV medium unknown
+M death 25618 100~
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#25600
+{GA {gFo{yr{ge{Gs{gt{y Path{X~
+{GHere t{ghe forest gl{yade begins to thicken a bit.  Th{ge air be{Gcomes
+cooler and the sou{gnds of the anima{yl life begins to incre{gase.  The
+combined od{Gors of dying veg{getation and ne{yw growth drift in the
+bree{gze.  {X 
+~
+0 4 3
+D0
+~
+~
+0 0 25601
+S
+#25601
+{GA{g Fo{yr{ge{Gs{gt {yPath{X~
+The forest path continues.  Going north leads one in deeper into the
+thicket.  Taking the same path south will lead one away from the adventure. 
+~
+0 0 3
+D0
+~
+~
+0 0 25602
+D2
+~
+~
+0 0 25600
+S
+#25602
+{GA {gFo{yr{ge{Gs{Gt {yPath{X~
+The forest path continues.  Going north leads one in deeper into the
+thicket.  Taking the same path south will lead one away from the adventure. 
+A whispered rustling sound comes from the west.  
+~
+0 0 3
+D0
+~
+~
+0 0 25604
+D2
+~
+~
+0 0 25601
+D3
+~
+~
+0 0 25603
+S
+#25603
+{GA {gFo{yr{ge{Gs{Gt {yPath{X~
+This bit of the forest is almost like a tiny nook.  There is a small
+charred circle directly in the middle of this small spot.  It seems as
+though someone or something must of camped here for the night.  Or perhaps a
+bolt of lightning struck the ground.  
+~
+0 524804 3
+D1
+~
+~
+0 0 25602
+S
+#25604
+{GA {gFo{yr{ge{Gst {yPath{X~
+The small path continues.  Going north leads one in deeper into the
+thicket.  The lilting sounds of nature seem to begin to sing its way through
+this ancient forest.  
+~
+0 0 3
+D0
+~
+~
+0 0 25605
+D2
+~
+~
+0 0 25602
+S
+#25605
+{GA {gFo{yr{ge{Gst {yPath{X~
+The small path continues.  Going north leads one in deeper into the
+thicket.  The lilting sounds of nature seem to begin to sing its way through
+this ancient forest.  
+~
+0 0 3
+D0
+~
+~
+0 0 25606
+D2
+~
+~
+0 0 25604
+S
+#25606
+{GA {gFo{yr{ge{Gst {yPath{X~
+The trail widens here as one goes north.  The faint sound of rushing
+water can be heard if one stands perfectly still.  During the sunlit hours a
+glistening mist twinkles all about like tiny specks of magic floating in the
+air.  
+~
+0 0 3
+D0
+~
+~
+0 0 25607
+D2
+~
+~
+0 0 25605
+S
+#25607
+{GA {gFo{yr{ge{Gst {yPath{X~
+Branching off to the east and west, this leg of the path almost is hidden
+because of the HUGE birch tree right in the middle of it.  This tree is
+obviously the home of some type of mystical creatures, seeing how it glows a
+swirl of rainbowed hues.  The magic seems to be inviting one to enter into
+the myriad of colors.  
+~
+0 0 3
+D1
+~
+~
+0 0 25668
+D2
+~
+~
+0 0 25606
+D3
+~
+~
+0 0 25670
+S
+#25608
+{WInside the Magic{X~
+Mystical forces allows one to become apart of this magical tree.  Up and
+up to its branches of colorful mysteries.  Tiny whispers and giggled
+laughter can be heard, seems someone knows they have company.  And they that
+reside here in this magic know the only way out is to find the {GPixie
+{yKing{x and answer his maddening riddle...  Or you can just leave south.  
+~
+0 8192 0
+D2
+~
+~
+0 0 25607
+D4
+~
+~
+0 0 25609
+S
+#25609
+{WInside the Magic{X~
+Up and up to its branches of colorful mysteries.  Tiny whispers and
+giggled laughter can be heard, seems someone knows they have company.  A
+soft vibration runs in and about the wood of this ancient giant, the magic
+contained within has kept this tree safe and sound throughout the ages.  
+~
+0 8192 11
+D4
+~
+~
+0 0 25610
+S
+#25610
+{WInside the Magic{X~
+Tiny knotholes in the white flesh of the wood seem to glow with a golden
+light.  They seem to be lit by tiny lanterns.  Making one wonder who could
+of put them there.  
+~
+0 8192 0
+D4
+~
+~
+0 0 25611
+S
+#25611
+{WInside the Magic{X~
+The magic begins to transform from gold and white to a rainbow of colors.
+Streaks of different hues begin to invade the tree's flesh as darts of light
+can be seen zipping to and fro from above.  
+~
+0 8192 0
+D4
+~
+~
+0 0 25612
+S
+#25612
+{WThe Magic Begins to Branch Off.{X~
+The great birch begins to spread its arms across the vast sky.  It's
+leaves all shades of color and light.  Sounds of what seems to be child-like
+laughter tinkle in the air as trails of what looks like shimmering gold dust
+goes whizzing past.  
+~
+0 8196 0
+D0
+~
+~
+0 0 25613
+D1
+~
+~
+0 0 25615
+D2
+~
+~
+0 0 25614
+D3
+~
+~
+0 0 25616
+D4
+~
+~
+0 0 25631
+D5
+~
+~
+0 0 25634
+S
+#25613
+{WLeafed in Magic{X~
+The branches of this mystical birch extend in all directions.  Magical
+energy swirls and weaves in and amongst the colorful leaves.  
+~
+0 8192 3
+D0
+~
+~
+0 0 25617
+D2
+~
+~
+0 0 25612
+S
+#25614
+{WLeafed in Magic{X~
+The branches of this mystical birch extend in all directions.  Magical
+energy swirls and weaves in and amongest the colorful leaves.  
+~
+0 8192 3
+D0
+~
+~
+0 0 25612
+D2
+~
+~
+0 0 25620
+S
+#25615
+{WLeafed in Magic{X~
+The branches of this mystical birch extend in all directions.  Magical
+energy swirls and weaves in and amongest the colorful leaves.  
+~
+0 8192 3
+D1
+~
+~
+0 0 25624
+D3
+~
+~
+0 0 25612
+S
+#25616
+{WLeafed in Magic{X~
+The branches of this mystical birch extend in all directions.  Magical
+energy swirls and weaves in and amongest the colorful leaves.  
+~
+0 0 3
+D1
+~
+~
+0 0 25612
+D3
+~
+~
+0 0 25627
+S
+#25617
+{WLeafed in Magic{X~
+The branches of this mystical birch extend in all directions.  Magical
+energy swirls and weaves in and amongest the colorful leaves.  
+~
+0 8192 3
+D0
+~
+~
+0 0 25618
+D2
+~
+~
+0 0 25613
+S
+#25618
+{WLeafed in Magic{X~
+The branches of this mystical birch extend in all directions.  Magical
+energy swirls and weaves in and amongest the colorful leaves.  
+~
+0 8192 3
+D0
+~
+~
+5 0 25619
+D2
+~
+~
+0 0 25617
+S
+#25619
+{WLeafed in Magic{X~
+The branches of this mystical birch extend in all directions.  Magical
+energy swirls and weaves in and amongest the colorful leaves.  
+~
+0 8192 3
+D0
+~
+~
+0 0 25623
+D2
+~
+~
+5 0 25618
+S
+#25620
+{WLeafed in Magic{X~
+The branches of this mystical birch extend in all directions.  Magical
+energy swirls and weaves in and amongest the colorful leaves.  
+~
+0 8192 3
+D0
+~
+~
+0 0 25614
+D2
+~
+~
+0 0 25621
+S
+#25621
+{WLeafed in Magic{X~
+The branches of this mystical birch extend in all directions.  Magical
+energy swirls and weaves in and amongest the colorful leaves.  
+~
+0 8192 3
+D0
+~
+~
+0 0 25620
+D2
+~
+~
+0 0 25622
+S
+#25622
+{WLeafed in Magic{X~
+The branches of this mystical birch extend in all directions.  Magical
+energy swirls and weaves in and amongest the colorful leaves.  
+~
+0 8192 3
+D0
+~
+~
+0 0 25621
+D2
+~
+~
+5 0 25623
+S
+#25623
+{WLeafed in Magic{X~
+The branches of this mystical birch extend in all directions.  Magical
+energy swirls and weaves in and amongest the colorful leaves.  
+~
+0 8192 3
+D0
+~
+~
+5 0 25622
+D2
+~
+~
+0 0 25619
+S
+#25624
+{WLeafed in Magic{X~
+The branches of this mystical birch extend in all directions.  Magical
+energy swirls and weaves in and amongest the colorful leaves.  
+~
+0 8192 3
+D1
+~
+~
+0 0 25625
+D3
+~
+~
+0 0 25615
+S
+#25625
+{WLeafed in Magic{X~
+The branches of this mystical birch extend in all directions.  Magical
+energy swirls and weaves in and amongest the colorful leaves.  
+~
+0 8192 3
+D1
+~
+~
+5 0 25626
+D3
+~
+~
+0 0 25624
+S
+#25626
+{WLeafed in Magic{X~
+The branches of this mystical birch extend in all directions.  Magical
+energy swirls and weaves in and amongest the colorful leaves.  
+~
+0 8192 3
+D1
+~
+~
+0 0 25630
+D3
+~
+~
+5 0 25625
+S
+#25627
+{WLeafed in Magic{X~
+The branches of this mystical birch extend in all directions.  Magical
+energy swirls and weaves in and amongest the colorful leaves.  
+~
+0 8192 3
+D1
+~
+~
+0 0 25616
+D3
+~
+~
+0 0 25628
+S
+#25628
+{WLeafed in Magic{X~
+The branches of this mystical birch extend in all directions.  Magical
+energy swirls and weaves in and amongest the colorful leaves.  
+~
+0 8192 3
+D1
+~
+~
+0 0 25627
+D3
+~
+~
+0 0 25629
+S
+#25629
+{WLeafed in Magic{X~
+The branches of this mystical birch extend in all directions.  Magical
+energy swirls and weaves in and amongest the colorful leaves.  
+~
+0 8192 3
+D1
+~
+~
+0 0 25628
+D3
+~
+~
+5 0 25630
+S
+#25630
+{WLeafed in Magic{X~
+The branches of this mystical birch extend in all directions.  Magical
+energy swirls and weaves in and amongest the colorful leaves.  
+~
+0 8192 3
+D1
+~
+~
+5 0 25629
+D3
+~
+~
+0 0 25626
+S
+#25631
+{WThe Magic Begins to Branch Off.{X~
+Still more arms extending in all directions.  The {gFo{yr{Ge{gst {yof
+{GL{gly{Gr{X can been seen as one rises up higher and higher in this giant
+of a tree.  Looking even more beautiful through the hues of magic.  
+~
+0 8196 0
+D0
+~
+~
+0 0 25636
+D1
+~
+~
+0 0 25642
+D2
+~
+~
+0 0 25639
+D3
+~
+~
+0 0 25645
+D4
+~
+~
+0 0 25632
+D5
+~
+~
+0 0 25612
+S
+#25632
+{WThe Magic Begins to Branch Off.{X~
+A few wisps of fog can be seen in the distant from this high place
+rolling down the mountain side and brushing the tops of trees.  At night the
+glow from this tree would most certainly be a beacon for any lost.  
+~
+0 8196 3
+D0
+~
+~
+0 0 25648
+D1
+~
+~
+0 0 25652
+D2
+~
+~
+0 0 25650
+D3
+~
+~
+0 0 25654
+D4
+~
+~
+0 0 25633
+D5
+~
+~
+0 0 25631
+S
+#25633
+{WThe Magic Begins to Branch Off.{X~
+The air begins to thin at this high altitude.  A raven soars in the sky,
+searching for some unsuspecting prey.  Still the magic reaches up even to
+this range and is neverending.  
+~
+0 8192 3
+D0
+~
+~
+0 0 25656
+D1
+~
+~
+0 0 25660
+D2
+~
+~
+0 0 25658
+D3
+~
+~
+0 0 25662
+D4
+~
+~
+0 0 25634
+D5
+~
+~
+0 0 25632
+S
+#25634
+{WThe Magic begins to Branch off.{X~
+Almost to the top now.  Such beauty to behold as one scans the view of
+the forest.  The snow capped top of Mount Gilead can be seen.  Standing
+magestic as a back drop of this part of Alanthia.  
+~
+0 8192 3
+D0
+~
+~
+5 0 25664
+D1
+~
+~
+5 0 25666
+D2
+~
+~
+5 0 25665
+D3
+~
+~
+5 0 25667
+D4
+~
+~
+5 0 25635
+D5
+~
+~
+0 0 25633
+S
+#25635
+{WThe Tip Top of the Magic{X~
+At the very top of the tree, falling would be instant death as the ground
+below can barely be seen.  Getting down takes a bit of knowledge.  But the
+view, is that of the strongest of eagles.  
+~
+0 8192 3
+D5
+~
+~
+5 0 25634
+S
+#25636
+{WLeafed in Magic{X~
+The branches of this mystical birch extend in all directions.  Magical
+energy swirls and weaves in and amongest the colorful leaves.  
+~
+0 8192 3
+D0
+~
+~
+0 0 25637
+D2
+~
+~
+0 0 25631
+S
+#25637
+{WLeafed in Magic{X~
+The branches of this mystical birch extend in all directions.  Magical
+energy swirls and weaves in and amongest the colorful leaves.  
+~
+0 8192 3
+D0
+~
+~
+0 0 25638
+D2
+~
+~
+0 0 25636
+S
+#25638
+{WLeafed in Magic{X~
+The branches of this mystical birch extend in all directions.  Magical
+energy swirls and weaves in and amongest the colorful leaves.  
+~
+0 8192 3
+D0
+~
+~
+0 0 25641
+D2
+~
+~
+0 0 25637
+S
+#25639
+{WLeafed in Magic{X~
+The branches of this mystical birch extend in all directions.  Magical
+energy swirls and weaves in and amongest the colorful leaves.  
+~
+0 8192 3
+D0
+~
+~
+0 0 25631
+D2
+~
+~
+0 0 25640
+S
+#25640
+{WLeafed in Magic{X~
+The branches of this mystical birch extend in all directions.  Magical
+energy swirls and weaves in and amongest the colorful leaves.  
+~
+0 8192 3
+D0
+~
+~
+0 0 25639
+D2
+~
+~
+5 0 25641
+S
+#25641
+{WLeafed in Magic{X~
+The branches of this mystical birch extend in all directions.  Magical
+energy swirls and weaves in and amongest the colorful leaves.  
+~
+0 8192 3
+D0
+~
+~
+5 0 25640
+D2
+~
+~
+0 0 25638
+S
+#25642
+{WLeafed in Magic{X~
+The branches of this mystical birch extend in all directions.  Magical
+energy swirls and weaves in and amongest the colorful leaves.  
+~
+0 8192 3
+D1
+~
+~
+0 0 25643
+D3
+~
+~
+0 0 25631
+S
+#25643
+{WLeafed in Magic{X~
+The branches of this mystical birch extend in all directions.  Magical
+energy swirls and weaves in and amongest the colorful leaves.  
+~
+0 8192 3
+D1
+~
+~
+0 0 25644
+D3
+~
+~
+0 0 25642
+S
+#25644
+{WLeafed in Magic{X~
+The branches of this mystical birch extend in all directions.  Magical
+energy swirls and weaves in and amongest the colorful leaves.  
+~
+0 8192 3
+D1
+~
+~
+0 0 25647
+D3
+~
+~
+0 0 25643
+S
+#25645
+{WLeafed in Magic{X~
+The branches of this mystical birch extend in all directions.  Magical
+energy swirls and weaves in and amongest the colorful leaves.  
+~
+0 8192 3
+D1
+~
+~
+0 0 25631
+D3
+~
+~
+0 0 25646
+S
+#25646
+{WLeafed in Magic{X~
+The branches of this mystical birch extend in all directions.  Magical
+energy swirls and weaves in and amongest the colorful leaves.  
+~
+0 8192 3
+D1
+~
+~
+0 0 25645
+D3
+~
+~
+5 0 25647
+S
+#25647
+{WLeafed in Magic{X~
+The branches of this mystical birch extend in all directions.  Magical
+energy swirls and weaves in and amongest the colorful leaves.  
+~
+0 8192 3
+D1
+~
+~
+5 0 25646
+D3
+~
+~
+0 0 25644
+S
+#25648
+{WLeafed in Magic{X~
+These smaller branches hold more of the new growth than the lower larger
+ones.  The leaves are softer to the touch yet do not hold as much color as
+the elder limbs do.  
+~
+0 8192 3
+D0
+~
+~
+5 0 25649
+D2
+~
+~
+0 0 25632
+S
+#25649
+{WLeafed in Magic{X~
+These smaller branches hold more of the new growth than the lower larger
+ones.  The leaves are softer to the touch yet do not hold as much color as
+the elder limbs do.  
+~
+0 8192 3
+D0
+~
+~
+0 0 25651
+D2
+~
+~
+5 0 25648
+S
+#25650
+{WLeafed in Magic{X~
+These smaller branches hold more of the new growth than the lower larger
+ones.  The leaves are softer to the touch yet do not hold as much color as
+the elder limbs do.  
+~
+0 8192 3
+D0
+~
+~
+0 0 25632
+D2
+~
+~
+5 0 25651
+S
+#25651
+{WLeafed in Magic{X~
+These smaller branches hold more of the new growth than the lower larger
+ones.  The leaves are softer to the touch yet do not hold as much color as
+the elder limbs do.  
+~
+0 8192 3
+D0
+~
+~
+5 0 25650
+D2
+~
+~
+0 0 25649
+S
+#25652
+{WLeafed in Magic{X~
+These smaller branches hold more of the new growth than the lower larger
+ones.  The leaves are softer to the touch yet do not hold as much color as
+the elder limbs do.  
+~
+0 8192 3
+D1
+~
+~
+5 0 25653
+D3
+~
+~
+0 0 25632
+S
+#25653
+{WLeafed in Magic{X~
+These smaller branches hold more of the new growth than the lower larger
+ones.  The leaves are softer to the touch yet do not hold as much color as
+the elder limbs do.  
+~
+0 8192 3
+D1
+~
+~
+0 0 25655
+D3
+~
+~
+5 0 25652
+S
+#25654
+{WLeafed in Magic{X~
+These smaller branches hold more of the new growth than the lower larger
+ones.  The leaves are softer to the touch yet do not hold as much color as
+the elder limbs do.  
+~
+0 8192 3
+D1
+~
+~
+0 0 25632
+D3
+~
+~
+5 0 25655
+S
+#25655
+{WLeafed in Magic{X~
+These smaller branches hold more of the new growth than the lower larger
+ones.  The leaves are softer to the touch yet do not hold as much color as
+the elder limbs do.  
+~
+0 8192 3
+D1
+~
+~
+5 0 25654
+D3
+~
+~
+0 0 25653
+S
+#25656
+{WLeafed in Magic{X~
+The limbs here are rather thin and could hardly hold any weight at all. 
+Still, tho, they magically lend support to those who are in need of such.  
+~
+0 8192 3
+D0
+~
+~
+5 0 25657
+D2
+~
+~
+0 0 25633
+S
+#25657
+{WLeafed in Magic{X~
+The limbs here are rather thin and could hardly hold any weight at all. 
+Still, tho, they magically lend support to those who are in need of such.  
+~
+0 8192 3
+D0
+~
+~
+0 0 25659
+D2
+~
+~
+5 0 25656
+S
+#25658
+{WLeafed in Magic{X~
+The limbs here are rather thin and could hardly hold any weight at all. 
+Still, tho, they magically lend support to those who are in need of such.  
+~
+0 8192 3
+D0
+~
+~
+0 0 25633
+D2
+~
+~
+5 0 25659
+S
+#25659
+{WLeafed in Magic{X~
+The limbs here are rather thin and could hardly hold any weight at all. 
+Still, tho, they magically lend support to those who are in need of such.  
+~
+0 8192 3
+D0
+~
+~
+5 0 25658
+D2
+~
+~
+0 0 25657
+S
+#25660
+{WLeafed in Magic{X~
+The limbs here are rather thin and could hardly hold any weight at all. 
+Still, tho, they magically lend support to those who are in need of such.  
+~
+0 8192 3
+D1
+~
+~
+5 0 25661
+D3
+~
+~
+0 0 25633
+S
+#25661
+{WLeafed in Magic{X~
+The limbs here are rather thin and could hardly hold any weight at all. 
+Still, tho, they magically lend support to those who are in need of such.  
+~
+0 8192 3
+D1
+~
+~
+0 0 25663
+D3
+~
+~
+5 0 25660
+S
+#25662
+{WLeafed in Magic{X~
+The limbs here are rather thin and could hardly hold any weight at all. 
+Still, tho, they magically lend support to those who are in need of such.  
+~
+0 8192 3
+D1
+~
+~
+0 0 25633
+D3
+~
+~
+5 0 25663
+S
+#25663
+{WLeafed in Magic{X~
+The limbs here are rather thin and could hardly hold any weight at all. 
+Still, tho, they magically lend support to those who are in need of such.  
+~
+0 8192 3
+D1
+~
+~
+5 0 25662
+D3
+~
+~
+0 0 25661
+S
+#25664
+{WLeafed in Magic{X~
+This is but a small new branch of this great magical monument.  
+~
+0 8192 3
+D0
+~
+~
+0 0 25665
+D2
+~
+~
+5 0 25634
+S
+#25665
+{WLeafed in Magic{X~
+This is but a small new branch of this great magical monument.  
+~
+0 8192 3
+D0
+~
+~
+5 0 25634
+D2
+~
+~
+0 0 25664
+S
+#25666
+{WLeafed in Magic{X~
+This is but a small new branch of this great magical monument.  
+~
+0 8192 3
+D1
+~
+~
+0 0 25667
+D3
+~
+~
+5 0 25634
+S
+#25667
+{WLeafed in Magic{X~
+This is but a small new branch of this great magical monument.  
+~
+0 8192 3
+D1
+~
+~
+5 0 25634
+D3
+~
+~
+0 0 25666
+S
+#25668
+{GA {gFo{yr{ge{Gst {yPath{X~
+This way the sound of rushing water seems to increase.  The path is well
+trodden and carpeted with dead vegatation.  Things scurry to and fro, yet
+keep unseen and away from harms reach.  
+~
+0 0 3
+D1
+~
+~
+0 0 25669
+D3
+~
+~
+0 0 25607
+S
+#25669
+{GA {gFo{yr{ge{Gst {yPath{X~
+This way the sound of rushing water seems to increase.  The path is well
+trodden and carpeted with dead vegatation.  Things scurry to and fro, yet
+keep unseen and away from harms reach.  
+~
+0 0 3
+D1
+~
+~
+0 0 25672
+D3
+~
+~
+0 0 25668
+S
+#25670
+{GA {gFo{yr{ge{Gst {yPath{X~
+The path that leads to the west seems to become more rocky and begins to
+gently elevate.  Going east one might stumble upon a tree that seems
+magical.  
+~
+0 0 3
+D1
+~
+~
+0 0 25607
+D3
+~
+~
+0 0 25671
+S
+#25671
+{GA {gFo{yr{ge{Gst {yPath{X~
+The western path turns much more rocky at this point, winding back into
+some stone ledges and such.  Going east leads one back to the tree, the glow
+of magical colors are almost faded this far from the sight.  
+~
+0 0 3
+D1
+~
+~
+0 0 25670
+D3
+~
+~
+0 0 25707
+S
+#25672
+{GA {gFo{yr{ge{Gst {yPath{X~
+This way the sound of rushing water seems to increase.  The path is well
+trodden and carpeted with dead vegatation.  Things scurry to and fro, yet
+keep unseen and away from harms reach.  The scent of wild lemongrass
+suddenly fills the air, the fragrant herb being newly crushed by some
+passerby.  
+~
+0 0 3
+D1
+~
+~
+0 0 25673
+D3
+~
+~
+0 0 25669
+S
+#25673
+{GA {gFo{yr{ge{Gst {yPath{X~
+Like the sweet sound of babbling childern, nearby water can be heard
+moving along is well worn path.  The surrounding growth seems to flourish
+even more, tho in the wintry days of Alanthia one could see through the
+spindly arms of sleeping plants to the river to the east.  
+~
+0 0 3
+D1
+~
+~
+0 0 25674
+D3
+~
+~
+0 0 25672
+S
+#25674
+{GA {gFo{yr{ge{Gst {yPath{X~
+The path takes a sharp turn here.  Going north, the sound of crashing
+water gets louder.  If one should be traveling west they would find
+themselves at the base of an old birch tree.  
+~
+0 0 3
+D0
+~
+~
+0 0 25675
+D3
+~
+~
+0 0 25673
+S
+#25675
+{GA {gFo{yr{ge{Gst {yPath{X~
+The smell of clear fresh water perfumes the air.  This leg of the path
+has a steep hill along its edge, looking down one can almost see the river's
+bank.  Howling can be heard in the distance.  It would seem something has
+been spotted by a wolf as worthy prey.  
+~
+0 0 3
+D0
+~
+~
+0 0 25680
+D2
+~
+~
+0 0 25674
+D5
+~
+~
+0 0 25676
+S
+#25676
+{gA {GSte{gep {yHill{X~
+This hill is very steep, sure place foot holds must be carefully sought
+out to climb either up or down.  The view from the east is that of a rushing
+river and it's bank.  
+~
+0 0 3
+D1
+~
+~
+0 0 25677
+D4
+~
+~
+0 0 25675
+S
+#25677
+{gT{Ghe {yBa{gn{yk {wof a {CRiver{X~
+The path narrows considerably as it glides along this river bank.  The
+current moves at a swift pace, and a roaring sound can be heard coming from
+the north.  
+~
+0 0 3
+D0
+~
+~
+0 0 25678
+D3
+~
+~
+0 0 25676
+S
+#25678
+{gT{Ghe {yBa{gn{yk {wof a {CRiver{X~
+The path narrows considerably as it glides along this river bank.  The
+current moves at a swift pace, and a roaring sound can be heard coming from
+the north.  Something pokes it head up from the water's edge for but a
+moment then disappears.  
+~
+0 0 0
+D0
+~
+~
+0 0 25684
+D2
+~
+~
+0 0 25677
+S
+#25680
+{GA {gFo{yr{ge{Gst {yPath{X~
+Continuing on north, the sound now is more intense.  It overtakes most of
+the surrounding forest chatter.  
+~
+0 0 3
+D0
+~
+~
+0 0 25681
+D2
+~
+~
+0 0 25675
+S
+#25681
+{GA {gFo{yr{ge{Gst {yPath{X~
+Through the thicket, to the west, a barely visible path has been made. 
+The cascading sound of falling water, growing evermore resounding, comes
+from the northern path of this forest.  
+~
+0 0 3
+D0
+~
+~
+0 0 25683
+D2
+~
+~
+0 0 25680
+D3
+~
+~
+0 0 25682
+S
+#25682
+{gA {GRe{gst{yin{gg {yPlace{X~
+This small cubbyhole, made from the thicket of forest, is almost hidden. 
+Yet in the center of this humble place is a statue and a small bench, both
+made of polished wood.  
+~
+0 0 3
+D1
+~
+~
+0 0 25681
+S
+#25683
+{gThe {GVe{yr{Gy {yEdge {wof a {WW{Ca{Wt{Ce{Wr{Cf{Wa{Cl{Wl{X~
+Here one comes to the very edge of a spectacular waterfall.  Its awesome
+power displayed as millions and millions of gallons of water go crashing
+over its ledge.  The roar of the falls is almost deafening.  This is a force
+few could survive.  
+~
+0 0 3
+D2
+~
+~
+0 0 25681
+S
+#25684
+{gT{Ghe {yBa{gn{yk {wof a {CRiver{X~
+The simple path widens now, and a few boulders have just their heads
+poking up from the ground.  The lulling sound of the falls can be heard and
+stereo through trees like a song.  A cool breeze seems ever present, caused
+by the force of the water, it teases those that past by this way.  Through
+the trees, the sight of this magnificant river can be easily viewed.  It's
+grace and power clearly evident by the strong current as it moves along,
+knowing it will conquer all it wishes too.  
+~
+0 0 3
+D0
+~
+~
+0 0 25685
+D2
+~
+~
+0 0 25678
+S
+#25685
+{gT{Ghe {yBa{gn{yk {wof a {CRiver{X~
+Here the bank ends at the bottom of the crashing waterfalls.  Billows of
+misty fog rolls about and lingers a bit over the rivers top caused from the
+forceful splashing of the liquid.  If one is fortunate enough the sunlight
+will illuminate a most beautiful bow of colors arched in the clouds of
+water.  Also, revealing what looks to be a cave of some sort just behind the
+rushing falls.  
+~
+0 0 3
+D2
+~
+~
+0 0 25684
+S
+#25686
+{BBeyond the Mis{X{Bt{X~
+Hidden beneath the beauty of the waterfalls, seems to be a small
+labyrinth of somekind.  Though very dark, with a light of some kind one can
+see the sparkling damp walls have been not only been carved from the forces
+of nature, but some chiseling has been done as well.  And from the smell of
+things, it would appear that trolls are the culprits.  
+~
+0 5 0
+D0
+~
+~
+0 0 25687
+S
+#25687
+A Small Labrynith~
+To the north seems to be the glow of some kind of light.  The sounds of
+clanking and what seems to be cussing of sorts gently echoes through the
+stone passageway.  Back south, the waterfall can still be seen crashing
+down.  Although, the mist that revealed this place is now gone and a new
+exit out of this place must be found.  
+~
+0 1 0
+D0
+~
+~
+0 0 25691
+D1
+~
+~
+0 0 25688
+D2
+~
+~
+0 0 25686
+S
+#25688
+A Small Labrynith~
+A narrow tunnel, leaving to the east, has been made here.  Mostly formed
+from what would of been a crack in the rock, then something seems to of
+hammered the path wider.  The floor is slippery with moist slime adding to
+the awful perfume of the air.  
+~
+0 1 0
+D1
+~
+~
+0 0 25689
+D3
+~
+~
+0 0 25687
+S
+#25689
+A Small Labrynith~
+The narrow slimed path takes a turn here, while going east takes you back
+to almost the very begining of this place.  A dim glow decorated with the
+shadow of something as it moves about comes from the north.  
+~
+0 1 0
+D0
+~
+~
+0 0 25690
+D3
+~
+~
+0 0 25688
+S
+#25690
+A Small Labrynith~
+This seems to be the residence of one of the labyrinth's trolls.  A dirty
+pile of moss and leaves are off to the corner.  An old greasy oil lantern
+gives off a dark curly smoke, the flame barely able to survive in this dank
+place.  
+~
+0 1 0
+D2
+~
+~
+0 0 25689
+S
+#25691
+A Small Labrynith~
+Occasionally drips of cold water fall from the roof of this stone
+pathway.  Some splashing off of jags of rock jutting from the sides, wearing
+away at the rugged place.  Others just come crashing down upon the floor.  A
+few torches dare to dodge the sprinkles and stick randomly out of the wall,
+the stale wisps of air keeping the flames alive.  
+~
+0 1 0
+D0
+~
+~
+0 0 25694
+D2
+~
+~
+0 0 25687
+D3
+~
+~
+0 0 25692
+S
+#25692
+A Small Labrynith~
+Here is another arm of this underground lair.  This one seems to branch
+off to the west.  Getting back to the main tunnel one would have to travel
+east.  Sounds of something scuttling seems to be coming from somewhere, the
+echoes disguising its location.  
+~
+0 1 0
+D1
+~
+~
+0 0 25691
+D3
+~
+~
+0 0 25693
+S
+#25693
+A Small Labrynith~
+The path comes to a sudden hault.  Where another inhabitant of this area
+seems to of made it it's home.  A few pieces of rusted armor lie scattered
+about, along with a few chains and well chewed upon bones.  
+~
+0 1 0
+D1
+~
+~
+0 0 25692
+S
+#25694
+A Small Labrynith~
+Here the few torches have been replaced with glowing gems protruding from
+the walls.  The scent of trolls remains but the rock pathway seems to dry up
+some.  The ground trembles from time to time.  Giving the impression that
+something large is moving about, perhaps.  
+~
+0 1 0
+D0
+~
+~
+0 0 25695
+D1
+~
+~
+0 0 25696
+D2
+~
+~
+0 0 25691
+S
+#25695
+A Small Labrynith~
+Here the tunnels "T" off to the east and west.  Both sides equally as
+dark and eerie.  Something akin to huffed breathing comes from the west and
+to the east is slight echoing cackling laughter.  
+~
+0 1 0
+D0
+~
+~
+0 0 25686
+D1
+~
+~
+0 0 25697
+D2
+~
+~
+0 0 25694
+D3
+~
+~
+0 0 25700
+S
+#25696
+A Small Labrynith~
+There would seem no way out of this dark pitiful hole.  The stench of
+animal secrections is strong and the earth roof seems to the moving.  
+~
+0 5 0
+D4
+~
+~
+5 0 25671
+S
+#25697
+A Small Labrynith~
+The darkened cold tunnel corners off to the north, while the west takes
+one back to the center of the labrynith.  
+~
+0 1 0
+D0
+~
+~
+0 0 25698
+D3
+~
+~
+0 0 25695
+S
+#25698
+A Small Labrynith~
+The tunnel begins to zig and zag along it's way.  Sharp corners could
+lead to nothingness or something fierce.  No way one could tell except to be
+brave enough to explore.  
+~
+0 1 0
+D0
+~
+~
+0 0 25686
+D1
+~
+~
+0 0 25699
+D2
+~
+~
+0 0 25697
+S
+#25699
+A Small Labrynith~
+A small cave ends this branch of the tunnel.  It's housed with a small
+heap of rotting flesh of other Alanthia creatures and the smell is probably
+delightful to the trolls that are fabled to reside here.  
+~
+0 1 0
+D3
+~
+~
+0 0 25698
+S
+#25700
+A Small Labrynith~
+Chains and broken leg shackels lie about, still ringed to the walls.  The
+antique iron leaves rusty puddles for someone to splash through.  A waft of
+what might be fresh air comes from the north.  
+~
+0 1 0
+D0
+~
+~
+0 0 25701
+D1
+~
+~
+0 0 25695
+D3
+~
+~
+0 0 25686
+S
+#25701
+A Small Labrynith~
+The echoes that seemed to bounce off all the other rock walls now begin
+to fade and a shaft of natural light comes from the north.  
+~
+0 1 0
+D0
+~
+~
+0 0 25702
+D1
+~
+~
+0 0 25686
+D2
+~
+~
+0 0 25700
+S
+#25702
+A Small Labrynith~
+The rocked corner is tight and makes a quick turn to the west, where the
+light seems to be getting stronger.  Back to the south the shades of gray
+are growing darker and would lead one back to the center of this place.  
+~
+0 1 0
+D2
+~
+~
+0 0 25701
+D3
+~
+~
+0 0 25703
+S
+#25703
+A Small Labrynith~
+Twists and turns are abundant in this section of the underground den of
+trolls.  The feel of fresh air getting stronger now, chasing away the odor
+of flaking flesh and drooling slobber.  
+~
+0 1 0
+D1
+~
+~
+0 0 25702
+D3
+~
+~
+0 0 25704
+S
+#25704
+A Small Labrynith~
+The ground begins to slope upwards as the rock begins to give way to more
+of a dirt like floor.  During the daylight hours one would hardly need a
+light if the sun were shining.  
+~
+0 1 0
+D1
+~
+~
+0 0 25703
+D2
+~
+~
+0 0 25705
+S
+#25705
+A Small Labrynith~
+The crack in the above earth grows wider as the floor of the labrynith
+tilts up towards it.  The light illuminates the whole place now and one can
+even feel a steady breeze.  
+~
+0 0 0
+D0
+~
+~
+0 0 25704
+D3
+~
+~
+0 0 25706
+S
+#25706
+A Small Labrynith~
+Going up takes one somewhere in the Forest of Llyr.  East leads one into
+a dark, smelly and winding labrynith of trolls.  A trickle of water wiggles
+out of a crack in the wall and runs hiding to the east.  
+~
+0 4 0
+D1
+~
+~
+0 0 25705
+D4
+~
+~
+0 0 25682
+S
+#25707
+{DA Shaded {wRo{Dck{wy {dPath{X~
+As one moves more to the west, the earthen path gives way to cobbles of
+rock and moss.  The stony path wandering quietly on, with small ledges
+siding the way.  Back to the east it's once again a carpet of mulching
+folage from the surrounding flora.  
+~
+0 0 3
+D1
+~
+~
+0 0 25671
+D3
+~
+~
+0 0 25708
+S
+#25708
+{DA Shaded {wRo{Dck{wy {dPath{X~
+Continuing on westerly, the surrounding ledges of slate and sandstone
+begin to heighten considerably.  The layers of rock overlapping with jagged
+edges poking out here and there.  Sun finds it difficult to land upon the
+floor of the rocky path, making it a bit slimy from the moss growth.  The
+scent of earthiness and mold perfume the air as one moves along.  Whispers
+of leaves from the neighboring trees come wandering in from the east.  
+~
+0 0 3
+D1
+~
+~
+0 0 25707
+D3
+~
+~
+0 0 25709
+S
+#25709
+{DA Shaded {wRo{Dck{wy {dPath{X~
+The rock path takes a turn here and heads off north.  A small cul-de-sac
+can be seen up ahead aways.  The walls of ledged stone easily overshadow a
+normal human, making one understand that the east is the only escape from
+this cool, quiet place.  The stony layers of stone are home to a plethora of
+insects and small creatures.  
+~
+0 0 3
+D0
+~
+~
+0 0 25710
+D1
+~
+~
+0 0 25708
+S
+#25710
+{DA Shaded {wRo{Dck{wy {dPath{X~
+A small trickle of water squeezes out between two layers of the western
+ledge.  To the east it would appear that some of the ledge is washed away at
+the base, but darkness prevents anyone from seeing what, if anything, could
+possibly be hidden in the shadowy den.  North leads to the stone dead-end,
+while going south shows one the way back to the forest.  
+~
+0 0 3
+D0
+~
+~
+0 0 25711
+D1
+~
+~
+0 0 25715
+D2
+~
+~
+0 0 25709
+S
+#25711
+{DA Shaded {wRo{Dck{wy {dPath{X~
+The subdued path contines.  The sound of travelers footfalls echo off the
+tall stone walls.  A brave delicate flower miraculously has managed to grow
+from between two of the layers of rock.  However, the blossom is pale and
+weak.  
+~
+0 0 3
+D0
+~
+~
+0 0 25712
+D2
+~
+~
+0 0 25710
+S
+#25712
+{DA Shaded {wRo{Dck{wy {dPath{X~
+Again the silty dirt has washed away at the western base of the ledge and
+created a nice sized hole.  Twould be a good place for something nasty to
+curl up in.  The slick hard path goes just a bit further north or south,
+back to the lush forest.  
+~
+0 0 3
+D0
+~
+~
+0 0 25713
+D2
+~
+~
+0 0 25711
+D3
+~
+~
+0 0 25714
+S
+#25713
+{DA Shaded {wRo{Dck{wy {DCul-de-Sac{X~
+The path neatly ends in a semi-circle, the ledges making a formidable
+fortress.  Layers upon layers of stone rise up to cloud out almost any kind
+of light that might try to find it's way down to the rock floor.  
+~
+0 0 3
+D2
+~
+~
+0 0 25712
+S
+#25714
+{wR{Doc{wk Ledges{X~
+Not large at all, this dank hole could be the nest for any number of vile
+little creatures.  The stench of putrefied flesh assailes one's nostrils the
+moment they wedge themselves in.  
+~
+0 0 3
+D1
+~
+~
+0 0 25712
+S
+#25715
+{wR{Doc{wk Ledges{X~
+This seems to be a good place for a den of sorts.  Tuffs of fur and well
+cleaned bones litter the floor.  The strong scent of wolf seems to be a
+permanent part of the small place.  
+~
+0 1 3
+D3
+~
+~
+0 0 25710
+S
+#0
+
+
+
+#SPECIALS
+M 25606 spec_breath_acid
+M 25607 spec_nasty
+M 25608 spec_assassin
+M 25609 spec_cast_mage
+M 25610 spec_cast_undead
+M 25611 spec_cast_cleric
+M 25612 spec_cast_cleric
+M 25613 spec_cast_adept
+S
+
+
+
+#RESETS
+D 0 25618 0 1
+D 0 25619 2 1
+D 0 25622 2 1
+D 0 25623 0 1
+D 0 25625 1 1
+D 0 25626 3 1
+D 0 25629 3 1
+D 0 25630 1 1
+D 0 25634 0 1
+D 0 25634 1 1
+D 0 25634 2 1
+D 0 25634 3 1
+D 0 25634 4 1
+D 0 25635 5 1
+D 0 25640 2 1
+D 0 25641 0 1
+D 0 25646 3 1
+D 0 25647 1 1
+D 0 25648 0 1
+D 0 25649 2 1
+D 0 25650 2 1
+D 0 25651 0 1
+D 0 25652 1 1
+D 0 25653 3 1
+D 0 25654 3 1
+D 0 25655 1 1
+D 0 25656 0 1
+D 0 25657 2 1
+D 0 25658 2 1
+D 0 25659 0 1
+D 0 25660 1 1
+D 0 25661 3 1
+D 0 25662 3 1
+D 0 25663 1 1
+D 0 25664 2 1
+D 0 25665 0 1
+D 0 25666 3 1
+D 0 25667 1 1
+D 0 25696 4 1
+M 0 25602 4 25605 1
+M 0 25600 4 25605 1
+M 0 25601 4 25606 1
+M 0 25609 12 25618 4
+M 0 25609 12 25618 4
+M 0 25609 12 25618 4
+M 0 25609 12 25618 4
+M 0 25609 12 25623 4
+M 0 25609 12 25623 4
+M 0 25609 12 25623 4
+M 0 25609 12 25625 3
+M 0 25609 12 25625 3
+M 0 25609 12 25625 3
+M 0 25614 1 25626 1
+M 0 25609 12 25630 2
+M 0 25609 12 25630 2
+M 0 25616 1 25634 1
+M 0 25615 1 25635 1
+M 0 25610 10 25638 3
+M 0 25610 10 25638 3
+M 0 25610 10 25638 3
+M 0 25610 10 25641 2
+M 0 25610 10 25641 2
+M 0 25610 10 25644 2
+M 0 25610 10 25644 2
+M 0 25610 10 25647 3
+M 0 25610 10 25647 3
+M 0 25610 10 25647 3
+M 0 25611 8 25649 2
+M 0 25611 8 25649 2
+M 0 25611 8 25651 2
+M 0 25611 8 25651 2
+M 0 25611 8 25653 2
+M 0 25611 8 25653 2
+M 0 25611 8 25655 2
+M 0 25611 8 25655 2
+M 0 25613 10 25657 2
+M 0 25613 10 25657 2
+M 0 25613 10 25659 2
+M 0 25613 10 25659 2
+M 0 25613 10 25661 2
+M 0 25613 10 25661 2
+M 0 25613 10 25663 2
+M 0 25613 10 25663 2
+M 0 25613 10 25665 1
+M 0 25613 10 25666 1
+M 0 25612 1 25667 1
+M 0 25601 4 25673 1
+M 0 25600 4 25673 1
+M 0 25602 4 25675 1
+M 0 25601 4 25675 1
+M 0 25602 4 25676 1
+M 0 25601 4 25683 1
+M 0 25600 4 25683 1
+M 0 25617 1 25683 1
+M 0 25602 4 25685 1
+M 0 25600 4 25685 1
+M 0 25605 4 25690 1
+M 0 25606 4 25693 1
+M 0 25608 1 25695 1
+M 0 25605 4 25696 1
+M 0 25607 2 25699 1
+M 0 25606 4 25702 1
+M 0 25607 2 25705 1
+M 0 25604 1 25713 1
+M 0 25603 8 25714 4
+M 0 25603 8 25714 4
+M 0 25603 8 25714 4
+M 0 25603 8 25714 4
+M 0 25603 8 25715 4
+M 0 25603 8 25715 4
+M 0 25603 8 25715 4
+M 0 25603 8 25715 4
+S
+
+
+
+#SHOPS
+25614 10 26 0 0 0 100 50 0 23
+0
+
+
+
+#$

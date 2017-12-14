@@ -1,0 +1,938 @@
+#AREADATA
+Name Madrigal~
+Builders None~
+VNUMs 26000 26099
+Credits { 5 30} Run/Arc Castle Madrigal~
+Security 9
+End
+
+
+
+#MOBILES
+#26002
+loyal town upkeeper~
+the Town Upkeeper~
+One of the loyal town's upkeepers is here trimming the hedges.
+~
+~
+unique~
+AGW 0 500 26002
+8 0 2d9+95 13d8+100 2d3+2 none
+2 2 2 2
+F 0 0 0
+stand stand either 70
+M ABCDEFGHIJK medium unknown
+M GREET 26002 100~
+#26005
+ugly troll~
+an UgLy Troll~
+An ugly troll sees you and charges!!!
+~
+~
+unique~
+ABFGTY FJc -500 26005
+22 0 5d15+410 13d22+100 2d8+6 none
+-4 -4 -4 -4
+D 0 BE HK
+sit stand male 350
+ABHMV ABCDEFGHIJKUV medium unknown
+#26008
+ice gatherer~
+an ice gatherer~
+One of the towns loyal ice gatherers takes a short break.
+~
+The only way to cool such a large castle and those items inside which need cooling is by constantly getting ice from the high mountains. It is these ice gatherers' job to do so.
+~
+unique~
+AGY 0 400 26008
+10 0 2d10+126 13d10+100 2d4+2 none
+0 0 0 0
+0 0 I 0
+stand stand either 100
+M ACDEFGIJ medium unknown
+#26010
+Trained Madrigal Knight~
+a Trained Madrigal Knight~
+A Trained Madrigal Knight courteously nods his head in your direction.
+~
+~
+unique~
+AGTY a 1000 26010
+25 0 5d16+550 13d25+100 2d10+7 pound
+-7 -7 -7 -7
+CEFK 0 E C
+stand stand male 1500
+AHMV ABCDEFGHIJK large unknown
+#26014
+noble child~
+a noble's child~
+A noble's child plays here joyfully in the street.
+~
+~
+unique~
+AG 0 500 26014
+4 0 2d7+42 13d4+100 1d7+0 none
+6 6 6 6
+N 0 0 EI
+stand stand either 30
+M BCDFGHK small unknown
+#26015
+Jester~
+A jester~
+A jester is here entertaining the crowd.
+~
+~
+unique~
+AGHY 0 100 26015
+10 0 2d10+126 13d10+100 2d4+2 sting
+0 0 0 0
+EFKN 0 0 0
+stand stand either 300
+M ABCDEGHIJK medium unknown
+#26016
+lord laethor~
+Lord Laethor~
+An adventurer, Lord Laethor stands here selling his wares.
+~
+~
+unique~
+ABGUY 0 0 26016
+200 500 5d5+20000 1d1+1000 10d10+50 none
+-20 -20 -20 -20
+0 ABCDEOQ 0 0
+stand stand male 10000000
+M AE medium unknown
+#26018
+duke fortrox large warrior~
+Duke Fortrox~
+A large warrior who goes by the name Duke Fortrox stands here.
+~
+~
+unique~
+ABGY 0 0 26018
+200 10 1d1+999 0d0+0 5d5+150 none
+-40 -40 -40 -40
+0 ABCDE 0 0
+stand stand male 2000000
+M 0 medium unknown
+M GREET 26018 100~
+#26019
+Lady Keothra~
+Lady Keothra~
+Lady Keothra stands here waiting to sell you something.
+~
+~
+unique~
+ABGUY 0 0 26019
+200 500 5d5+20000 1d1+1000 20d20+200 none
+-20 -20 -20 -20
+0 ABCDEOQ 0 0
+stand stand female 10000000
+M AE medium unknown
+#26021
+nice young overlook waitress~
+an Overlook Waitress~
+A nice young Overlook waitress smiles your way.
+~
+~
+unique~
+ACGY 0 0 26021
+200 10 1d1+999 0d0+0 5d5+150 none
+-40 -40 -40 -40
+0 ABCD 0 0
+stand stand female 200000000
+AHMV ABCDEFGHIJK medium unknown
+M GREET 26021 100~
+#26024
+Atho Banker~
+Atho the Banker~
+Hard at work, Atho the banker writes down numbers on a notepad.
+~
+~
+unique~
+ABDd J 0 26024
+100 200 1d1+1000 0d0+0 100d1+100 none
+0 0 0 0
+0 ABCD 0 0
+stand stand either 2147483
+AHMV ABCDEFGHIJK huge unknown
+#26025
+Madrigal Bellhop~
+a Madrigal Bellhop~
+The Madrigal Bellhop is here stealing your keys.
+~
+~
+unique~
+ABa 0 0 26025
+35 100 1d2000+2000 0d0+0 20d20+200 none
+0 0 0 0
+0 ABCD 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+M SPEECH 26025 wow,~
+M SPEECH 26028 done~
+#26026
+Janice hotel lobbyist~
+Janice, the Madrigal Hotel Lobbyist~
+Janice, the Madrigal Hotel Lobbyist, greets you.
+~
+~
+unique~
+ABCGY 0 0 26026
+200 0 1d1+999 0d0+0 100d1+100 none
+0 0 0 0
+0 ABCD 0 0
+stand stand female 1000
+M 0 medium unknown
+M DELAY 26029 100~
+M GREET 26026 100~
+#26027
+Madrigal Prison Guard~
+a Madrigal Prison Guard~
+A Madrigal Prison Guard does a bad job of guarding.
+~
+~
+unique~
+ABY J -200 26027
+3 0 2d7+31 13d3+100 1d6+0 none
+7 7 7 7
+0 0 L 0
+sleep rest male 30
+AHMV ABCDEFGHIJK medium unknown
+M GRALL 26027 100~
+#26028
+Drug Dealer~
+a drug dealer~
+A drug dealer is here deciding what to buy.
+~
+~
+unique~
+AHS 0 0 26028
+7 0 2d9+81 13d7+100 1d8+1 none
+3 3 3 3
+BFIJN 0 0 0
+stand stand male 100
+MV ABCDEFGHIJK medium unknown
+#26030
+Hotel Security Guard~
+a Madrigal Hotel Security Guard~
+A Madrigal Hotel Security Guard stands firmly
+~
+~
+unique~
+AB 0 0 26030
+100 0 50d50+23000 13d100+100 13d14+35 none
+-83 -83 -83 -83
+0 ABCD 0 0
+stand stand male 0
+0 0 medium unknown
+M SPEECH 26032 emerald~
+M SPEECH 26031 sapphire~
+M SPEECH 26030 ruby~
+#26035
+Sinister little child~
+a Sinister little child~
+A child with a sinister look in his eye stares at you.
+~
+~
+unique~
+AS 0 200 26035
+7 0 2d9+81 13d7+100 1d8+1 none
+3 3 3 3
+FN 0 0 0
+stand stand either 400
+MV ABCDEFGHIJK medium unknown
+#26039
+Strong Convict~
+a strong convict~
+A strong convict plans his escape.
+~
+~
+unique~
+AF 0 -476 26039
+15 0 3d10+214 13d15+100 2d6+3 none
+-2 -2 -2 -2
+CDFK 0 0 0
+stand stand male 1000
+MV ABCDEFGHIJK medium unknown
+#26040
+east wing prison guard~
+The East Wing Prison Guard~
+The East Wing Prison Guard watches you carefully.
+~
+~
+unique~
+A 0 0 26040
+16 16 3d11+236 13d16+100 2d6+4 none
+-2 -2 -2 -2
+0 0 0 0
+stand stand male 2000
+MV ABCDEFGHIJK medium unknown
+M GRALL 26040 100~
+M DELAY 26041 100~
+#26045
+Galileo~
+Galileo~
+Galileo leans against the wall looking out the window.
+~
+~
+unique~
+ABFH 0 600 26045
+18 0 3d13+286 13d18+100 2d7+4 none
+-3 -3 -3 -3
+H 0 0 0
+stand stand male 1500
+AHMV ABCDEFGHIJK medium unknown
+#26046
+Pablo Picasso~
+Pablo Picasso~
+Pablo Picasso paints a picture about how its gonna be.
+~
+~
+unique~
+AB 0 300 26046
+19 0 3d14+314 13d19+100 3d4+5 none
+-3 -3 -3 -3
+K 0 0 0
+stand stand male 2100
+AHMV ABCDEFGHIJK medium unknown
+#26047
+Shakespeare~
+Shakespeare~
+Shakespeare points your way.
+~
+~
+unique~
+ABH 0 200 26047
+21 0 4d15+376 13d21+100 4d4+5 none
+-4 -4 -4 -4
+O 0 0 0
+stand stand male 2500
+MV ABCDEFGHIJK medium unknown
+#26048
+Leonardo DiVinci~
+Leonardo DiVinci~
+Leonardo Divinci commands his crew here.
+~
+~
+unique~
+AB 0 1000 26048
+23 20 5d15+450 13d23+100 3d6+6 none
+-5 -5 -5 -5
+FK 0 0 0
+stand stand male 3000
+MV ABCDEFGHIJK medium unknown
+#26049
+Johann Sebastian Bach~
+Johann Sebastian Bach~
+Johann Sebastian Bach pretends to conduct a symphony here.
+~
+~
+unique~
+ABH 0 500 26049
+25 0 5d16+550 13d25+100 2d10+7 none
+-7 -7 -7 -7
+0 0 0 0
+stand stand male 3000
+AHMV ABCDEFGHIJK medium unknown
+#26050
+Odysseus~
+Odysseus~
+Odysseus, King of Ithaca is here.
+~
+~
+unique~
+ABFT 0 1000 26050
+27 0 5d15+450 13d23+100 3d6+6 none
+-5 -5 -5 -5
+CEO 0 0 0
+stand stand male 3100
+MV ABCDEFGHIJK medium unknown
+#26051
+Magellan~
+Magellan~
+Magellan draws a map.
+~
+~
+unique~
+ABF 0 1000 26051
+25 0 5d16+550 13d25+100 2d10+7 none
+-7 -7 -7 -7
+0 0 0 0
+stand stand male 3000
+AHMV ABCDEFGHIJK medium unknown
+#26053
+Copernicus~
+Copernicus~
+Copernicus is here gazing at the stars.
+~
+~
+unique~
+ABF 0 500 26053
+30 41 5d17+855 13d30+100 4d6+8 beating
+-9 -9 -9 -9
+FN 0 0 0
+stand stand male 3500
+MV ABCDEFGHIJK medium unknown
+#26055
+healer~
+a healer of ^B[^zWergild^B]^x~
+A healer of the great ^B[^zWergild^B]^x lives on here.
+~
+~
+unique~
+Aa 0 0 26055
+0 0 50d50+23000 13d100+100 13d14+35 none
+-83 -83 -83 -83
+0 0 0 0
+stand stand either 10000000
+0 0 medium unknown
+#26056
+healer~
+a healer of ^B[^zWergild^B]^x~
+A healer of the great ^B[^zWergild^B]^x lives on here.
+~
+~
+unique~
+Aa 0 0 26056
+0 0 50d50+23000 13d100+100 13d14+35 none
+-83 -83 -83 -83
+0 0 0 0
+stand stand none 10000000
+0 0 medium unknown
+#26058
+Proteus~
+Proteus~
+A creature capable of morphing called Proteus, waits here for a chance to escape.
+~
+~
+unique~
+AFZ 0 -1000 26058
+50 2 25d25+4250 13d50+100 5d8+19 magic
+-20 -20 -20 -20
+0 0 EHI JP
+stand stand male 1000
+AHMV ABCDEFGHIJK huge unknown
+#26094
+boom~
+^zThe Great Pirate Ship of ^B[^zWergild^B]^x~
+The most grand ship in all the land floats here
+~
+~
+unique~
+AEI 0 -1000 26094
+100 1000 50d50+25500 13d105+100 15d14+43 none
+-90 -90 -90 -90
+0 0 0 0
+stand stand male 0
+0 0 medium unknown
+#26095
+jruss~
+^B[^zWergild^B] ^zAssassin^x~
+You're dead
+~
+~
+unique~
+ARV HPQVae -1000 26095
+102 1000 50d50+23000 13d100+100 50d50+1000 none
+-83 -83 -83 -83
+CDEFIKN CDENa 0 A
+stand stand male 100000
+0 0 medium unknown
+#26096
+Michaelangelo~
+Michaelangelo~
+Michaelangelo mutters softly to himself.
+~
+~
+unique~
+AB 0 900 26096
+23 0 5d15+450 13d23+100 3d6+6 none
+-5 -5 -5 -5
+EH 0 0 0
+stand stand male 2000
+MV ABCDEFGHIJK medium unknown
+M DELAY 26049 100~
+M GREET 26048 100~
+#26097
+Raphael~
+Raphael~
+Raphael practices in the corner.
+~
+~
+unique~
+AB 0 900 26097
+23 0 5d15+450 13d23+100 3d6+6 none
+-5 -5 -5 -5
+0 0 0 0
+stand stand male 2400
+MV ABCDEFGHIJK medium unknown
+#26098
+Donatello~
+Donatello~
+Donatello looks out a window.
+~
+~
+unique~
+AB 0 900 26098
+23 0 5d15+450 13d23+100 3d6+6 none
+-5 -5 -5 -5
+0 0 0 0
+stand stand male 2500
+MV ABCDEFGHIJK medium unknown
+#26099
+Customs officer~
+customs officer~
+A customs officer is here checking your bags.
+~
+~
+unique~
+ABM 0 0 26099
+0 0 100d100+1000 0d0+0 100d100+1000 none
+0 0 0 0
+0 CD 0 0
+stand stand either 0
+0 0 medium unknown
+#0
+
+
+
+#MOBPROGS
+#26000
+mob oload 26032 1
+mob at 26026 give key $n
+~
+#26001
+if players > 1
+   mob gtransfer $n 26026
+   mob echoat $n Sorry, try another room.
+endif
+~
+#26002
+if ispc $n
+say Good day traveller!
+endif
+~
+#26010
+~
+#26018
+bow $n
+say Type 'list' to see what i have for sale.
+~
+#26021
+if sex $n == 1
+say Hello mi' lord, Please come sit down. I have a table waiting for you.
+endif
+if sex $n == 2
+say Pleasure to have you here mi' lady. Please, right this way.
+endif
+mob force $n sit table
+delay 100
+say here is your menu, type 'list' to read what items we have to offer tonight. I personally reccomend the Filet Mignon.
+delay 50
+say May I start you off with something to drink?
+~
+#26022
+say I shall return in a moment, i have other customers to attend to.
+wave
+~
+#26025
+if players > 1
+say Sorry, this room is occupied, try another.
+   mob gtransfer $n 26026
+   mob echoat $n Sorry, try another room.
+endif
+mob force $n give g9crft bell
+say Thank you for your keycard, when you are finished with this room just say 'done'
+close south
+lock south
+close west
+lock west
+close north
+lock north
+~
+#26026
+mob delay 1
+~
+#26027
+mob echo The guard dozes off and begins to snore loudly.
+snore
+~
+#26028
+say Thank for your stay at the Madrigal Hotel, have a safe journey home!
+mob gtransfer $n 26026
+~
+#26029
+say Welcome to Hotel Madrigal.
+say We offer 3 luxorious rooms for you to stay in, the Ruby, Sapphire, and Emerald suites. Simply buy a card and say the name of the room you wish to stay in. ('say ruby' will put you in the ruby room)
+~
+#26030
+if carries $n g9crft
+mob transfer $n 26025
+mob goto 26025
+mob force $n say wow, this is an incredible room 
+mob goto 26026
+else
+say You must buy a keycard from Janice.
+endif
+~
+#26031
+if carries $n g9crft
+mob transfer $n 26030
+mob goto 26030
+mob force $n say wow, this is an incredible room 
+mob goto 26026
+else
+say You must buy a keycard from Janice.
+endif
+~
+#26032
+if carries $n g9crft
+mob transfer $n 26031
+mob goto 26031
+mob force $n say wow, this is an incredible room 
+mob goto 26026
+else
+say You must buy a keycard from Janice.
+endif
+~
+#26040
+mob delay 2
+~
+#26041
+if room $i == 26040
+  say To the north we have the great Galileo.
+  say He's a feisty one so watch out!
+  say To the south is a lonely artist, Pablo Picasso
+endif
+if room $i == 26041
+  say To the north is one of the greats, Shakespeare, If you go in he'll most likely be writing a play.
+  say To the south are the Teenage Mutant-....
+  think
+  say ...somethings, cant remember really... ah well.
+endif
+if room $i == 26042
+  say To the north Bach plays a tune.
+  say To the south is Odysseus, beware this warrior.
+endif
+if room $i == 26043
+  say To the north Magellan thinks of what he once was, agressive little guy...
+  say To the south Copernicus gazes at the stars.
+endif 
+~
+#26048
+mob delay 2
+~
+#26049
+say who are these people?!!? I want my own cell!
+~
+#26058
+scan
+say I'm free at last!
+south
+shout I'm free at last!
+~
+#26099
+if name != ArchShark
+  or name != UgLyJaY
+  or name != Offerror mob remove $n 26000
+mob remove $n 26001
+endif
+~
+#0
+
+
+
+#OBJECTS
+#26000
+Creed~
+^BArc^bhSh^Bark^z's ^RC^rree^Rd^x~
+^BArc^bhSh^Bark^z's ^RC^rree^Rd^x~
+Creed~
+weapon CEGHJY AN
+exotic 19 12 none BCEGH
+110 330 6600 P
+A
+18 500
+A
+19 500
+A
+17 -4000
+A
+0 0
+A
+0 0
+A
+0 0
+#26001
+MPman~
+an ^wMP^zman^x~
+Looks like one of ArchSharks MPmans...~
+Metal~
+treasure HT AO
+0 0 0 0 0
+1 110 2200 P
+A
+0 0
+A
+0 0
+A
+0 0
+#26002
+deadly looking dual-bladed axe madrigal~
+a Madrigal dual-bladed axe~
+A deadly looking dual-bladed axe of Madrigal origin glistens.~
+metal~
+weapon I AN
+axe 4 3 thwack DF
+20 60 240 P
+A
+19 2
+A
+18 2
+A
+5 -1
+#26003
+three point silk jester hat~
+a jester's hat~
+A three point silk jester hat is flopped over here.~
+nylon~
+clothing S AE
+0 0 0 0 0
+10 13 11 P
+A
+2 2
+#26005
+ugly troll club~
+an UgLy Troll's club~
+A club representative of one UgLy troll lies here.~
+blackness~
+weapon CEJL AN
+mace 4 2 crush 0
+18 54 216 P
+A
+18 2
+A
+19 1
+#26008
+fountain iced tea lemon~
+^xIced Tea Fountain~
+A huge fountain flowing with the best lemon iced tea in the land begs you to drink.~
+tea~
+fountain I 0
+10000 10000 'tea' 0 0
+1 1 2 P
+#26009
+giant wool coat~
+giant wool coat~
+A giant wool coat that has seen its days up on the cold mountains lies here.~
+wool~
+armor 0 AD
+2 2 2 0 0
+6 8 36 P
+A
+2 -1
+A
+0 0
+A
+0 5
+#26010
+cold icy ice pick~
+an ice pick~
+A cold icy pick is jammed in the floor.~
+metal~
+weapon 0 AN
+dagger 2 1 stab D
+6 18 24 P
+A
+18 1
+A
+1 -1
+#26014
+Madrigal Children's Leggings~
+a pair of Madrigal children's leggings~
+A pair of child size leggings of Madrigal origin lie here.~
+nylon~
+armor S AF
+0 0 0 0 0
+2 2 8 P
+#26016
+dull flaming sword flame~
+a dull flaming sword~
+A dull but still fiery sword lies here.~
+fire~
+weapon G AN
+sword 1 1 slice A
+2 6 0 P
+A
+19 -1
+A
+1 -1
+#26017
+psionic rod~
+a psionic rod~
+A rod generating psionic power floats here.~
+psi~
+weapon AGT AN
+exotic 2 2 shock G
+10 30 80 P
+A
+3 1
+A
+4 1
+#26018
+White Crystal~
+a white crystal~
+A white sphere glows on the floor.~
+Crystal~
+weapon AG AN
+exotic 3 2 divine 0
+15 45 120 P
+A
+13 10
+A
+19 2
+A
+18 1
+#26019
+ivory club~
+an ivory club~
+A club made of ivory lies here.~
+ivory~
+weapon 0 AN
+mace 1 1 beating 0
+3 9 0 P
+A
+17 -5
+#26020
+sturdy pair red madrigal boots~
+a pair of red Madrigal boots~
+A sturdy pair of red Madrigal boots seem to have been left here.~
+leather~
+armor 0 AG
+1 1 1 0 0
+5 6 25 P
+A
+14 7
+#26021
+Wooden Shield Madrigal~
+a wooden Madrigal shield~
+A wooden shield with Madrigal hand-carved into it lies here.~
+wood~
+armor S AJ
+1 1 1 0 0
+4 5 20 P
+A
+18 -1
+A
+19 1
+#26022
+shining metallic reflection madrigal helm~
+a shining Madrigal helm~
+A shining metallic reflection proves to be of Madrigal origin.~
+metal~
+armor 0 AE
+2 2 2 1 0
+6 8 36 P
+A
+4 1
+#26023
+thin pair leather madrigal gloves~
+a pair of leather Madrigal gloves~
+A thin pair of leather Madrigal gloves lies here.~
+leather~
+armor 0 AH
+1 1 1 1 0
+3 4 15 P
+#26024
+magic madrigal rain cloud~
+a Madrigal Rain Cloud~
+A magical Madrigal Rain Cloud floats gently in the air, waiting to pour out its water.~
+cloud~
+drink G AQ
+1 1 'water' 0 0
+1 1 5 P
+#26026
+long polished table~
+a long polished table~
+A long polished wooden table stands firmly here waiting to seat 10 nobles.~
+wood~
+furniture 0 0
+10 2147483647 DG 150 150
+1 1 2 P
+#26027
+nice fresh cut filet mignon~
+filet mignon~
+A nice, fresh cut of filet mignon lies here.~
+BEEF~
+food 0 A
+12 0 0 0 0
+1 12 60 P
+#26028
+madrigal steamed crabs dozen~
+a dozen Madrigal Steamed Seasoned Crabs~
+A tasty dozen of Madrigal Steamed Crabs lies here with the perfect touch of spice.~
+crabs~
+food 0 A
+23 0 0 0 0
+1 23 115 P
+#26029
+coca cola coke coca-cola~
+a bottle of Coca-Cola~
+A discarded bottle lies here.~
+glass~
+drink 0 A
+1 1 'coke' 0 0
+1 0 5 P
+#26030
+bottle lite ice beer~
+a Bottle of Lite Ice Beer~
+A refreshing bottle of lite ice beer is pulled from the cooler with condensation still flowing down the sides.~
+glass~
+drink 0 A
+1 1 'beer' 0 0
+1 20 5 P
+#26031
+Prison Desk~
+a Prison Desk~
+A large faded wood desk stands here.~
+wood~
+container 0 P
+1 0 0 3 100
+1 0 5 P
+#26033
+Madrigal Prison Key~
+a Madrigal Prison Key~
+A Madrigal Prison key lies discarded on the ground.~
+iron~
+key 0 AO
+0 0 0 0 0
+1 1 2 P
+#26034
+pair magnetic boots~
+a pair of magnetic boots~
+A pair of magnetic boots lies here.~
+steel~
+armor GM G
+0 0 0 0 0
+1 1 4 P
+#26035
+Angel dust pill~
+an angel dust pill~
+A small white pill with an 'A' engraved in it sits on the floor.~
+dust~
+pill 0 AO
+7 'frenzy' 'haste' '' ''
+7 1 28 P
+#26036
+large pair madrigal oversized prison boots~
+a pair of Madrigal prison boots~
+A large pair of oversized boots stands firmly in the ground.~
+Titanium~
+clothing M AG
+0 0 0 0 0
+5 6 6 P
+A
+2 -2
+A
+1

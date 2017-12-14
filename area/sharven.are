@@ -1,0 +1,446 @@
+#AREADATA
+Name Sharven's Gem~
+Builders Buu~
+VNUMs 20900 20999
+Credits {200 255} Buu         Sharven's Gem~
+Security 1
+End
+
+
+
+#MOBILES
+#20900
+{gElven Guard{X~
+(no short description)~
+(no long description)
+~
+~
+unique~
+AF DFJNPVa 750 0
+255 0 0d0+0 255d10+100 0d0+0 none
+0 0 0 0
+EFKW 0 B Z
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#20900
+herb plant medicinal~
+a Medicinal Herb~
+{yA {ggreen {yplant grows out of the ground.~
+plant~
+trash 0 AO
+0 0 0 0 0
+1 0 200 0 P
+E
+2~
+~
+E
+herb~
+A small plant, has a wierd odor and a distinctive 5 pronged leaf.  
+~
+E
+medicinal~
+A small plant, has a wierd odor and a distinctive 5 pronged leaf.  
+~
+E
+plant~
+A small plant, has a wierd odor and a distinctive 5 pronged leaf.  
+~
+#0
+
+
+
+#ROOMS
+#20900
+A bend in the path.~
+The path continues along the wall of New Thalos for a few yards than
+turns east.  You can see the path leading into a forest in the distance.  
+~
+0 0 0
+D0
+~
+~
+0 0 9670
+D1
+~
+~
+0 0 20901
+S
+#20901
+Along the path~
+The path continues eastward.  Short grasses covers the land on both sides
+of you.  To the west, you can see the walls of New Thalos.  
+~
+0 0 0
+D1
+~
+~
+0 0 20902
+D3
+~
+~
+0 0 20900
+S
+#20902
+Along the path~
+The path continues eastward.  Short grasses covers the land on both sides
+of you.  To the west, you can barely make out the walls of New Thalos.  
+~
+0 0 0
+D1
+~
+~
+0 0 20903
+D3
+~
+~
+0 0 20901
+S
+#20903
+A bend in the path.~
+Here the path bends southward into the forest.  You look west but can no
+longer make out the city of New Thalos.  
+~
+0 0 0
+D2
+~
+~
+0 0 20904
+D3
+~
+~
+0 0 20902
+S
+#20904
+{gBefore the Forest of Kierrinell.{X~
+{WYou are standing before the entrance of a great forest.  The trees path
+leads in between two trees tall trees and into the forest.  {X 
+~
+0 0 0
+D0
+~
+~
+0 0 20903
+D2
+~
+~
+0 0 20905
+S
+#20905
+{gIn the Forest of Kierrinell.{X~
+{WThe entrance to the forest is just but a small glimmer of light behind
+you.  Luckly the canopy isn't too think to keep light out, so you can see
+your way onward.  A tall bushy plant grows between two trees to the east of
+the trail.  
+~
+0 0 0
+D0
+~
+~
+0 0 20904
+D1
+~
+bushes~
+5 0 20906
+D2
+~
+~
+0 0 20909
+S
+#20906
+{gA trail off the main path.~
+
+~
+0 0 0
+D1
+~
+~
+0 0 20907
+D3
+~
+~
+5 0 20905
+S
+#20907
+{gAlong the hidden path.~
+
+~
+0 0 0
+D2
+~
+~
+0 0 20908
+D3
+~
+~
+0 0 20906
+S
+#20908
+{gBreak {Yin the {gcanopy.~
+
+~
+0 0 3
+D0
+~
+~
+0 0 20907
+S
+#20909
+{gThe trail ends.~
+{WThe trail has come to an end.  You must roam the forest with out it's
+aid.  Or you can just turn you tail and run.  
+~
+0 0 0
+D0
+~
+~
+0 0 20905
+D2
+~
+~
+0 0 20910
+S
+#20910
+{gDeep in the forest~
+
+~
+0 0 0
+D0
+~
+~
+0 0 20909
+D1
+~
+~
+0 0 20911
+D2
+~
+~
+0 0 20912
+D3
+~
+~
+0 0 20913
+S
+#20911
+{gDeep in the forest~
+
+~
+0 4 0
+D1
+~
+~
+0 0 20914
+D2
+~
+~
+0 0 20913
+D3
+~
+~
+0 0 20912
+S
+#20912
+{gDeep in the forest~
+
+~
+0 4 0
+D0
+~
+~
+0 0 20917
+D1
+~
+~
+0 0 20919
+D2
+~
+~
+0 0 20915
+D3
+~
+~
+0 0 20916
+S
+#20913
+{gDeep in the forest~
+
+~
+0 4 0
+D0
+~
+~
+0 0 20912
+D2
+~
+~
+0 0 20912
+D3
+~
+~
+0 0 20914
+S
+#20914
+{gDeep in the forest~
+
+~
+0 4 0
+D0
+~
+~
+0 0 20916
+D1
+~
+~
+0 0 20917
+D2
+~
+~
+0 0 20921
+D3
+~
+~
+0 0 20913
+S
+#20915
+{gDeep in the forest~
+
+~
+0 4 0
+D0
+~
+~
+0 0 20920
+D1
+~
+~
+0 0 20915
+D2
+~
+~
+0 0 20919
+D3
+~
+~
+0 0 20915
+S
+#20916
+{gDeep in the forest~
+
+~
+0 4 0
+D0
+~
+~
+0 0 20914
+D1
+~
+~
+0 0 20922
+D2
+~
+~
+0 0 20920
+D3
+~
+~
+0 0 20918
+S
+#20917
+{gDeep in the forest~
+
+~
+0 4 0
+D1
+~
+~
+0 0 20917
+D2
+~
+~
+0 0 20920
+D3
+~
+~
+0 0 20917
+S
+#20918
+{gDeep in the forest~
+
+~
+0 4 0
+D0
+~
+~
+0 0 20918
+D2
+~
+~
+0 0 20918
+D3
+~
+~
+0 0 20913
+S
+#20919
+{gA forest trap.~
+{WAs soon as you step into the clearing the bushes closed behind you. 
+The ground starts to shake as the trees move in around you forming a perfect
+circle, blocking all exits.  
+~
+0 4 0
+S
+#20920
+{gDeep in the forest~
+
+~
+0 4 0
+S
+#20921
+{WBefore the Great Plain~
+Leaving the forest behind you, you step out into bright light.  Once your
+eyes adjust to the sun you see a massive plain stretching out before you.  
+~
+0 0 0
+D0
+~
+~
+0 0 20914
+S
+#20922
+{GBefore the City of Norn.{X~
+
+~
+0 0 0
+D3
+~
+~
+0 0 20916
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 20905 1 1
+D 0 20906 3 1
+O 0 20900 0 20908
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

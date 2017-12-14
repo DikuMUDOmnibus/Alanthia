@@ -1,0 +1,77 @@
+[ 3054] Luke: in the Orc Fortress, it says Fortress, Enterance...shouldn't it be Entrance?
+[ 3054] Andy: on the eq i am wearing, it says <worn ght wrist> instead <worn on right wrist>
+[ 3112] Sphinxan: ?
+[ 3040] GryphonX: in animate dead help file... Similiar to a type (OR) resurrection. I think it should be of
+[19223] GryphonX: on melodie the king's slut - Melodie's grep misses you. [0] Is it supposed to be grip?
+[ 3001] Kraggor: yout
+[ 3365] Yoni: moon-eyes (eyed?) dieties (deities?)
+[ 3001] Ryu: should
+[ 3015] Zann: knee
+[10415] Droin: day
+[18724] Wilhelm: when i con'd a chicken, it said "A chicken is a little healther than you"
+[ 4010] Hespin: bounty help file says max bounty is 99999, not 999999.
+[ 6103] Jacen: in the generic housing help file home is misspelled homer
+[ 6103] Jacen: in the advanced portection help file protection is misspelled
+[ 3001] Pulsar: again..
+[ 3001] Pulsar: what the hell is this channel?
+[ 3001] Pulsar: can everyone see it?
+[ 3001] Pulsar: ..
+[11029] Ramika: hey
+[ 3001] Pulsar: sorry about that imms i accidently found out about this channel and dont have any typos
+[ 6906] Exeter: When someone sees you trying to invade a room, it says someone tryed rather then tried
+[ 3472] Drakkul: in the room labeled "The Short Way to Hell ..." there's a line that says "your hair evaporates"... how about disentigrate?  Hair is not a liquid.
+[ 1236] Jared: yowl Dex laughs at her own stupidity!  Laugh at _his_, not with him!
+[ 3001] Wilhelm: sorry
+[ 3054] Karma: Krater!
+[ 1802] Krater: what?
+[ 9410] Gunter: oops, mistake
+[ 3001] Chameleon: bug is reported
+[ 3001] Ritley: Go
+[ 3001] Shabazz: :( i wasnt trespassing!!!
+[ 3206] Paladine: remove ear
+[ 3212] Somebody: his
+[ 3001] Ghini: stfu
+[ 3001] Ghini: bitch
+[    2] Ghini: bleh
+[ 3016] Ritley: stuf
+[ 3054] Ritley: Oh
+[    2] Ghini: doobie doobie doo
+[    2] Ghini: BORED
+[    2] Ghini: BORED
+[    2] Ghini: BORED
+[    2] Ghini: BORED
+[    2] Ghini: BORED
+[    2] Ghini: BORED
+[    2] Ghini: BORED
+[    2] Ghini: BORED
+[    2] Ghini: BORED
+[ 9666] Ghini: BOB ROCKS!!!
+[ 5072] Ghini: bleh bleh bleh
+[ 5727] Havok: In vorax...Amongst the rocj and rubble,
+[ 1227] Whisperwolf: there is an invisible wraith in I think dragon tower that is called a wrath!
+[ 1227] Whisperwolf: help bug and help typo need the syntax: idea <message> removed :P
+[ 3001] Whisperwolf: i misspelled beneath.
+[ 1373] Wilhelm: The master scribe is here lookinga little upset
+[ 1201] Grbrthrxs: cart  horse
+[ 1201] Grbrthrxs: statue of sahma needs a capital s
+[20086] Tamara: Rooms 20078-20088 "...gloomy.  The are mourningful howls and strange..." The should be There
+[16530] Torres: Room 16530, "north is the main coridor."
+[ 3001] Karma: Grbr's name should be spelled G r b r l i x b a l z
+[ 6716] Buu: ( 9) (Glowing) (Vibrating) a sulPHur acid elixir
+[ 3001] Tamara: Guardian Angel desc -> of wisdom and kindess.  
+[ 3001] Tamara: If you look at yourself, it'll say "You is in excellent condition".  Grb MUST be black because this is ebonics at its finest!
+[ 3009] Whisperwolf: I was going to point this out a while ago, but when you look at a wolf char in a room it says Wolfen... when it should say Wolven.
+[ 5267] Realm: "The hole fox is closed"
+[ 8954] Whisperwolf: I probably logged this before, but AFK on look room is alternating magenta and on who its the green red combo... mayhaps an alteration is in order?
+[22028] Torres: object godly spectre should be godly sceptre
+[14106] Fluffy: Your skin loses it's diamond-like quality.  Spell "diamond skin" text of wearing off.  There should not be an ' in "it's"
+[ 3001] Tamara: In oedit on buildport for a container, when type v1 it says An up-to-date list of flags can be obtained by typing ? CONTAINTER   interesting place for a typo
+[ 6718] Artanis: in the help file for Vampire, 13 lines down fourth word in, maigics should be magics.
+[ 3706] Fornia: "A wear combatant awaits slaughter at your hands". in the mud school
+[ 3209] Tara: assasins
+[ 3054] Aerineth: when I wear something that's worn about the body, it says I wear (whatever) about your torso. when I wear something that's supposed to go on my torso, it says about your torso. the one should be "You wear ___ about your body" and the other should be
+[ 3054] Aerineth: "You wear ___ ON your torso"
+[18703] Stick: In room 18703 the word the needs a T added after the words "madly away from"
+[18703] Stick: also room 18704 needs the word "to"between the words struck and make.
+[18702] Stick: in room 18702 the third sentence makes no sence as it is... it either needs something elae to go with the roses carved in the blocks, or the ward and needs to be taken out.
+[18702] Stick: also in room 18702 third sentence, take out the "," after arching and ad "of this" it will flow better.

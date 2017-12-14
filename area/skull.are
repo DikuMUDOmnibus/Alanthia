@@ -1,0 +1,2435 @@
+#AREADATA
+Name City of the Damned~
+Builders Skull~
+VNUMs 11200 11399
+Credits {1   300} Skull       City of the Damned~
+Security 0
+Version 1
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#11200
+The Gates to the City of the Damned~
+A monolithic arch towers above your head, crafted from a sinister dark
+granite.  The arch holds a large iron gate painted with flakes of rust the
+color of old blood.  A mist echoes forth from the bowels of the city, the
+stench of decay riding upon the wispy fumes.  
+~
+0 0 0
+D2
+~
+~
+0 0 11205
+S
+#11201
+Street of Dark Desires~
+A worn cobblestone path lies broken in places and completely shattered in
+others.  Torn bits of clothing and dried hunks of flesh litter the way,
+signs of the wretched pleasures this city contains.  
+~
+0 0 1
+D1
+~
+~
+0 0 11202
+D2
+~
+~
+0 0 11210
+S
+#11202
+Street of Dark Desires~
+Trails of blood and gore cross the street at odd intervals, remnants of
+unspeakable acts and wicked displays of sin.  The Street of Dark Desires is
+a path well-traversed by those seeking the most ruthless of perverted
+pleasures.  
+~
+0 0 1
+D1
+~
+~
+0 0 11203
+D3
+~
+~
+0 0 11201
+S
+#11203
+Street of Dark Desires~
+A worn cobblestone path lies broken in places and completely shattered in
+others.  Torn bits of clothing and dried hunks of flesh litter the way,
+signs of the wretched pleasures this city contains.  
+~
+0 0 1
+D1
+~
+~
+0 0 11204
+D3
+~
+~
+0 0 11202
+S
+#11204
+Street of Dark Desires~
+Trails of blood and gore cross the street at odd intervals, remnants of
+unspeakable acts and wicked displays of sin.  The Street of Dark Desires is
+a path well-traversed by those seeking the most ruthless of perverted
+pleasures.  
+~
+0 0 1
+D1
+~
+~
+0 0 11205
+D3
+~
+~
+0 0 11203
+S
+#11205
+Street of Dark Desires~
+A worn cobblestone path lies broken in places and completely shattered in
+others.  Torn bits of clothing and dried hunks of flesh litter the way,
+signs of the wretched pleasures this city contains.  
+~
+0 0 1
+D0
+~
+~
+0 0 11200
+D1
+~
+~
+0 0 11206
+D2
+~
+~
+0 0 11214
+D3
+~
+~
+0 0 11204
+S
+#11206
+Street of Dark Desires~
+Trails of blood and gore cross the street at odd intervals, remnants of
+unspeakable acts and wicked displays of sin.  The Street of Dark Desires is
+a path well-traversed by those seeking the most ruthless of perverted
+pleasures.  
+~
+0 0 1
+D1
+~
+~
+0 0 11207
+D2
+~
+~
+0 0 8
+D3
+~
+~
+0 0 11205
+S
+#11207
+Street of Dark Desires~
+A worn cobblestone path lies broken in places and completely shattered in
+others.  Torn bits of clothing and dried hunks of flesh litter the way,
+signs of the wretched pleasures this city contains.  
+~
+0 0 1
+D1
+~
+~
+0 0 11208
+D3
+~
+~
+0 0 11206
+S
+#11208
+Street of Dark Desires~
+Trails of blood and gore cross the street at odd intervals, remnants of
+unspeakable acts and wicked displays of sin.  The Street of Dark Desires is
+a path well-traversed by those seeking the most ruthless of perverted
+pleasures.  
+~
+0 0 1
+D1
+~
+~
+0 0 11209
+D3
+~
+~
+0 0 11207
+S
+#11209
+Street of Dark Desires~
+A worn cobblestone path lies broken in places and completely shattered in
+others.  Torn bits of clothing and dried hunks of flesh litter the way,
+signs of the wretched pleasures this city contains.  
+~
+0 0 1
+D2
+~
+~
+0 0 11218
+D3
+~
+~
+0 0 11208
+S
+#11210
+The Street of Dark Desires~
+Trails of blood and gore cross the street at odd intervals, remnants of
+unspeakable acts and wicked displays of sin.  The Street of Dark Desires is
+a path well-traversed by those seeking the most ruthless of perverted
+pleasures.  
+~
+0 0 1
+D0
+~
+~
+0 0 11201
+D2
+~
+~
+0 0 11219
+S
+#11211
+Devil's Dance Bar~
+The walls here are lined with the severed heads of many a great
+adventurer.  They peer out soulessly to the patrons of the bar, their mouths
+agape in the frozen final cry of agony and pain.  
+~
+0 8 0
+D1
+~
+~
+0 0 11212
+D2
+~
+~
+0 0 11220
+S
+#11212
+Devil's Dance Bar~
+The floor here has been scorched with a plethora of arcane, evil symbols
+that glow eerily in the faint light of the bar.  Dried pools of blood are
+evident, signs of some rituals best left undescribed.  
+~
+0 8 0
+D2
+~
+~
+0 0 11221
+D3
+~
+~
+0 0 11211
+S
+#11214
+Fountain~
+A stunning three tier fountain of brightest silver and keenest gold
+shimmers in the soft lights of the City of the Damned, a vision of
+excellence and purity.  Upon closer inspection, however, the fountain fades
+to a dull crimson-streaked black and the crisp crackling water fades to a
+sewer-thick sludge of dark design.  Cascading rivulets of waste spill out
+onto the ground, staining it a dark and diseased brown.  {GTEMP LINE: 3
+gates to lower level.  On on northern exit here, 2 below.  
+~
+0 0 0
+D0
+~
+~
+0 0 11205
+D5
+~
+~
+0 0 11257
+S
+#11216
+The Graveyard~
+The shattered remnants of tortured lives lie strewn about, gravestones
+desecrated long ago.  The bones of a band of once-mighty adventurers have
+been cracked open, now tools for untold dark rituals.  
+~
+0 0 0
+D1
+~
+~
+0 0 11217
+D2
+~
+~
+0 0 11224
+S
+#11217
+The Graveyard~
+The path here is stable, held up by festering rows of molars and cuspids
+torn from the mouths of innocent children.  The teeth have been smashed
+level with the path and have all faded to a putrid grey.  
+~
+0 0 0
+D2
+~
+~
+0 0 11225
+D3
+~
+~
+0 0 11216
+S
+#11218
+The Street of Dark Desires~
+Trails of blood and gore cross the street at odd intervals, remnants of
+unspeakable acts and wicked displays of sin.  The Street of Dark Desires is
+a path well-traversed by those seeking the most ruthless of perverted
+pleasures.  
+~
+0 0 1
+D0
+~
+~
+0 0 11209
+D2
+~
+~
+0 0 11226
+S
+#11219
+The Street of Dark Desires~
+Haunted shadows permeate the road, casting frightening shapes along the
+buildings.  The cobblestone street seeps a sour mist that creeps up and
+hovers in the dank air.  
+~
+0 0 1
+D0
+~
+~
+0 0 11210
+D1
+~
+~
+0 0 11220
+D2
+~
+~
+0 0 11227
+S
+#11220
+Devil's Dance Bar~
+Dried heaps of rotten flesh are slumped against the walls of this dank,
+disgusting bar.  Small insects dart about the decayed scraps, feeding upon
+the bloated hunks of meat.  A sickening slime covers the walls and floor, a
+mucous-slick concotion of bodily fluids.  
+~
+0 8 0
+D0
+~
+~
+0 0 11211
+D1
+~
+~
+0 0 11221
+D2
+~
+~
+0 0 11228
+D3
+~
+~
+0 0 11219
+S
+#11221
+Devil's Dance Bar~
+A long bar crafted from the skeletal remains of hundreds of adventurers
+stands to the immediate east.  The polished surface of the bar is made of
+peeled eyes that have been squished flat and covered with a pane of tinged
+glass.  A list of vile libations has been hung along the wall, pinned by the
+extracted fingernails of some of the more noble patrons.  
+~
+0 8 0
+D0
+~
+~
+0 0 11212
+D1
+~
+~
+0 0 11222
+D2
+~
+~
+0 0 11229
+D3
+~
+~
+0 0 11220
+S
+#11222
+The Back Room~
+This small room is crammed with shelves that are weighed down with heaps
+of papers.  Old web-strewn kegs line the walls and a ramshackle desk is
+crammed along the back wall.  The air in the tight room is dusky and stinks
+of rancid mildew.  {GKEYMOB{X 
+~
+0 8 0
+D3
+~
+~
+0 0 11221
+S
+#11223
+The Mausoleum~
+A statuesque edifice looms to the west, built from pillars of granite and
+obsidian.  A gigantic thorn-ridden skull sits atop the hellish shrine of
+death, bright emeralds set within the large sockets.  Each wall of the
+monolithic structure is solid; no door leads into the mausoleum.  {GKEYMOB{X
+~
+0 0 0
+D1
+~
+~
+0 0 11224
+S
+#11224
+The Graveyard~
+Shambling piles of flesh twitter and twitch and low, soulful moans gurgle
+and cry.  The ripe musty funk of maggot-thick corpses stacked upon one
+another is thick enough to unsettle the heartiest of stomachs.  
+~
+0 0 0
+D0
+~
+~
+0 0 11216
+D1
+~
+~
+0 0 11225
+D2
+~
+~
+0 0 11231
+D3
+~
+~
+0 0 11223
+S
+#11225
+The Graveyard~
+A sludge-brown path runs along here, gravestones and half-devoured
+corpses lining each side.  The rotten smell of filth and decay lingers,
+forming a light fog that permeates the area.  
+~
+0 0 0
+D0
+~
+~
+0 0 11217
+D1
+~
+~
+0 0 11226
+D2
+~
+~
+0 0 11232
+D3
+~
+~
+0 0 11224
+S
+#11226
+The Street of Dark Desires~
+Haunted shadows permeate the road, casting frightening shapes along the
+buildings.  The cobblestone street seeps a sour mist that creeps up and
+hovers in the dank air.  
+~
+0 0 1
+D0
+~
+~
+0 0 11218
+D2
+~
+~
+0 0 11233
+D3
+~
+~
+0 0 11225
+S
+#11227
+The Street of Dark Desires~
+Sifting moans and pained groans linger upon the stale, musty air.  A
+thick pus-like ooze covers each stone of the street, making travel
+throughout the accursed city fairly dangerous.  The city has been carved
+from dementia, a form of chaos given a twist and charred life.  
+~
+0 0 1
+D0
+~
+~
+0 0 11219
+D2
+~
+~
+0 0 11234
+S
+#11228
+Devil's Dance Bar~
+Deep gouges have scarred the walls of the bar, evidence of a hellacious
+battle.  No effort has been made to clean the area of the gore and blood
+that cakes every surface.  
+~
+0 8 0
+D0
+~
+~
+0 0 11220
+D1
+~
+~
+0 0 11229
+S
+#11229
+Devil's Dance Bar~
+The shattered remains of tables lie scattered about the floor.  The
+Devil's Dance caters to the foulest denizens of Alanthia, those who enjoy
+thrashing and fighting at a moment's notice.  
+~
+0 8 0
+D0
+~
+~
+0 0 11221
+D3
+~
+~
+0 0 11228
+S
+#11230
+closet or hidden room or something~
+Keymob 
+~
+0 8 0
+D2
+~
+~
+0 0 11237
+S
+#11231
+The Graveyard~
+Upon a small granite bench reclines the soft, somber form of a young
+girl, her hair tied back into two tails and lovingly tied with faded pink
+bows.  She holds in her hands a small painted doll, the head cracked and
+seeping blood.  The little girl whispers her little song to the doll,
+singing of escape.  
+~
+0 0 0
+D0
+~
+~
+0 0 11224
+D1
+~
+~
+0 0 11232
+S
+#11232
+The Graveyard~
+Unlike the rest of the accursed graveyard, no headstones stand here.  The
+ground has been churned and destroyed, the deep cuts of sinister strikes
+riddle the area.  Small bits of flesh and little shards of stained bone lie
+scattered upon the ravaged ground.  
+~
+0 0 0
+D0
+~
+~
+0 0 11225
+D3
+~
+~
+0 0 11231
+S
+#11233
+The Street of Dark Desires~
+Sifting moans and pained groans linger upon the stale, musty air.  A
+thick pus-like ooze covers each stone of the street, making travel
+throughout the accursed city fairly dangerous.  The city has been carved
+from dementia, a form of chaos given a twist and charred life.  
+~
+0 0 1
+D0
+~
+~
+0 0 11226
+D2
+~
+~
+0 0 11240
+S
+#11234
+The Street of Dark Desires~
+Haunted shadows permeate the road, casting frightening shapes along the
+buildings.  The cobblestone street seeps a sour mist that creeps up and
+hovers in the dank air.  
+~
+0 0 1
+D0
+~
+~
+0 0 11227
+D1
+~
+~
+0 0 11235
+D2
+~
+~
+0 0 11241
+S
+#11235
+Weapons~
+A sickening stench permeates the room, sifting upwards from the rotten
+heaps of entrails that stain the wood floor.  A buzzing mass of feasting
+insects dart about the shop, droning endlessly to dull all senses.  
+~
+0 8 0
+D3
+~
+~
+0 0 11234
+S
+#11236
+The Last Resort~
+
+~
+0 8 0
+D1
+~
+~
+0 0 11237
+D2
+~
+~
+0 0 11243
+S
+#11237
+The Last Resort~
+
+~
+0 8 0
+D0
+~
+~
+0 0 11230
+D1
+~
+~
+0 0 11238
+D3
+~
+~
+0 0 11236
+S
+#11238
+The Last Resort~
+
+~
+0 8 0
+D2
+~
+~
+0 0 11245
+D3
+~
+~
+0 0 11237
+S
+#11239
+Mirithul's Creatures~
+Rusted cages of all sizes line the walls, each filled with one savage
+beast or another.  A din of gutteral growls and vicious shrieks fills the
+air of the small shop.  The stench of thick waste hangs damp in the air.  
+~
+0 8 0
+D1
+~
+~
+0 0 11240
+S
+#11240
+The Street of Dark Desires~
+Haunted shadows permeate the road, casting frightening shapes along the
+buildings.  The cobblestone street seeps a sour mist that creeps up and
+hovers in the dank air.  
+~
+0 0 1
+D0
+~
+~
+0 0 11233
+D2
+~
+~
+0 0 11247
+D3
+~
+~
+0 0 11239
+S
+#11241
+The Street of Dark Desires~
+Sifting moans and pained groans linger upon the stale, musty air.  A
+thick pus-like ooze covers each stone of the street, making travel
+throughout the accursed city fairly dangerous.  The city has been carved
+from dementia, a form of chaos given a twist and charred life.  
+~
+0 0 1
+D0
+~
+~
+0 0 11234
+D1
+~
+~
+0 0 11242
+D2
+~
+~
+0 0 11248
+S
+#11242
+Armor~
+A disgusting black and green ichor has been sprayed about the walls, a
+feeble attempt to mask the obvious crimson-tinged stains of one hapless
+adventurer or another.  Archaic runes have been carved into the floor, wards
+to protect the shop and its owner from one thing or another.  
+~
+0 8 0
+D3
+~
+~
+0 0 11241
+S
+#11243
+The Last Resort~
+
+~
+0 8 0
+D0
+~
+~
+0 0 11236
+D1
+~
+~
+0 0 11244
+S
+#11244
+The Last Resort~
+The wooden tavern is musty, the air thick and sweltering.  Dark stains
+have trickled down the walls, the wood rotten along their murky paths.  The
+floorboards whine under the slightest pressure, the sound akin to the
+soulful cry of newborn kittens seeking their mother.  
+~
+0 8 0
+D1
+~
+~
+0 0 11245
+D2
+~
+~
+0 0 11252
+D3
+~
+~
+0 0 11243
+S
+#11245
+The Last Resort~
+Crooked chairs of dilapitated wood and large, misshapen tables have been
+arranged sporadically about the tavern.  The top of each table has a series
+of archaic runes carved into the wood, wards against various disturbances.  
+~
+0 8 0
+D0
+~
+~
+0 0 11238
+D3
+~
+~
+0 0 11244
+S
+#11246
+Berglethorn's Magicks~
+The hum of dark magicks bristle in the air, ebbing and flowing as if some
+phantom force were breathing quite slowly.  Black twinges of arcane power
+glint along the walls and a heavy mist lies thick along the ground.  
+~
+0 8 0
+D1
+~
+~
+0 0 11247
+S
+#11247
+The Street of Dark Desires~
+Sifting moans and pained groans linger upon the stale, musty air.  A
+thick pus-like ooze covers each stone of the street, making travel
+throughout the accursed city fairly dangerous.  The city has been carved
+from dementia, a form of chaos given a twist and charred life.  
+~
+0 0 1
+D0
+~
+~
+0 0 11240
+D2
+~
+~
+0 0 11256
+D3
+~
+~
+0 0 11246
+S
+#11248
+The Street of Dark Desires~
+Haunted shadows permeate the road, casting frightening shapes along the
+buildings.  The cobblestone street seeps a sour mist that creeps up and
+hovers in the dank air.  
+~
+0 0 1
+D0
+~
+~
+0 0 11241
+D1
+~
+~
+0 0 11249
+S
+#11249
+The Street of Dark Desires~
+Sifting moans and pained groans linger upon the stale, musty air.  A
+thick pus-like ooze covers each stone of the street, making travel
+throughout the accursed city fairly dangerous.  The city has been carved
+from dementia, a form of chaos given a twist and charred life.  
+~
+0 0 1
+D1
+~
+~
+0 0 11250
+D3
+~
+~
+0 0 11248
+S
+#11250
+The Street of Dark Desires~
+A worn cobblestone path lies broken in places and completely shattered in
+others.  Torn bits of clothing and dried hunks of flesh litter the way,
+signs of the wretched pleasures this city contains.  
+~
+0 0 1
+D1
+~
+~
+0 0 11251
+D3
+~
+~
+0 0 11249
+S
+#11251
+The Street of Dark Desires~
+The withered remains of monolithic plants and the bones of lecherous
+patrons little the sides of the street, half covered in piles of fragrant
+dung ridden with disease.  The street lies in ruin, shards of stones once
+chiseled to perfection lie shattered about the path.  
+~
+0 0 1
+D1
+~
+~
+0 0 11252
+D3
+~
+~
+0 0 11250
+S
+#11252
+The Street of Dark Desires~
+A thick fog has vomited about, hanging heavy in the air above the street.
+A solitary light shines to the north, its radiance muffled by the choking
+wisps of the fog.  
+~
+0 0 1
+D0
+~
+~
+0 0 11244
+D1
+~
+~
+0 0 11253
+D3
+~
+~
+0 0 11251
+S
+#11253
+The Street of Dark Desires~
+The withered remains of monolithic plants and the bones of lecherous
+patrons little the sides of the street, half covered in piles of fragrant
+dung ridden with disease.  The street lies in ruin, shards of stones once
+chiseled to perfection lie shattered about the path.  
+~
+0 0 1
+D1
+~
+~
+0 0 11254
+D3
+~
+~
+0 0 11252
+S
+#11254
+The Street of Dark Desires~
+A worn cobblestone path lies broken in places and completely shattered in
+others.  Torn bits of clothing and dried hunks of flesh litter the way,
+signs of the wretched pleasures this city contains.  
+~
+0 0 1
+D1
+~
+~
+0 0 11255
+D3
+~
+~
+0 0 11253
+S
+#11255
+The Street of Dark Desires~
+Sifting moans and pained groans linger upon the stale, musty air.  A
+thick pus-like ooze covers each stone of the street, making travel
+throughout the accursed city fairly dangerous.  The city has been carved
+from dementia, a form of chaos given a twist and charred life.  
+~
+0 0 1
+D1
+~
+~
+0 0 11256
+D3
+~
+~
+0 0 11254
+S
+#11256
+The Street of Dark Desires~
+Haunted shadows permeate the road, casting frightening shapes along the
+buildings.  The cobblestone street seeps a sour mist that creeps up and
+hovers in the dank air.  
+~
+0 0 1
+D0
+~
+~
+0 0 11247
+D3
+~
+~
+0 0 11255
+S
+#11257
+Entrance to Dark Spiral~
+Gate to north.  2nd key.  
+~
+0 8 0
+D0
+~
+~
+0 0 11258
+D4
+~
+~
+0 0 11214
+S
+#11258
+~
+
+~
+0 8 0
+D2
+~
+~
+0 0 11257
+D3
+~
+~
+0 0 11259
+S
+#11259
+~
+
+~
+0 8 0
+D1
+~
+~
+0 0 11258
+D2
+~
+~
+0 0 11260
+S
+#11260
+~
+
+~
+0 8 0
+D0
+~
+~
+0 0 11259
+D1
+~
+~
+0 0 11261
+S
+#11261
+~
+
+~
+0 8 0
+D0
+~
+~
+0 0 11262
+D3
+~
+~
+0 0 11260
+S
+#11262
+~
+
+~
+0 8 0
+D2
+~
+~
+0 0 11261
+D3
+~
+~
+0 0 11263
+S
+#11263
+~
+
+~
+0 8 0
+D1
+~
+~
+0 0 11262
+D2
+~
+~
+0 0 11264
+S
+#11264
+~
+
+~
+0 8 0
+D0
+~
+~
+0 0 11263
+D1
+~
+~
+0 0 11265
+S
+#11265
+~
+
+~
+0 8 0
+D0
+~
+~
+0 0 11266
+D3
+~
+~
+0 0 11264
+S
+#11266
+~
+
+~
+0 8 0
+D2
+~
+~
+0 0 11265
+D3
+~
+~
+0 0 11267
+S
+#11267
+~
+
+~
+0 8 0
+D1
+~
+~
+0 0 11266
+D2
+~
+~
+0 0 11268
+S
+#11268
+~
+
+~
+0 8 0
+D0
+~
+~
+0 0 11267
+D1
+~
+~
+0 0 11269
+S
+#11269
+~
+
+~
+0 8 0
+D0
+~
+~
+0 0 11270
+D3
+~
+~
+0 0 11268
+S
+#11270
+The Dark Spiral~
+Gate to the north.  3rd and final key 
+~
+0 8 0
+D0
+~
+~
+0 0 11335
+D2
+~
+~
+0 0 11269
+S
+#11271
+~
+
+~
+0 8 0
+D1
+~
+~
+0 0 11272
+D2
+~
+~
+0 0 11274
+S
+#11272
+~
+
+~
+0 8 0
+D1
+~
+~
+0 0 11273
+D2
+~
+~
+0 0 11275
+D3
+~
+~
+0 0 11271
+S
+#11273
+~
+
+~
+0 8 0
+D2
+~
+~
+0 0 11276
+D3
+~
+~
+0 0 11272
+S
+#11274
+~
+
+~
+0 8 0
+D0
+~
+~
+0 0 11271
+D1
+~
+~
+0 0 11275
+S
+#11275
+Courtyard~
+
+~
+0 8 0
+D0
+~
+~
+0 0 11272
+D1
+~
+~
+0 0 11276
+D2
+~
+~
+0 0 11281
+D3
+~
+~
+0 0 11274
+S
+#11276
+~
+
+~
+0 8 0
+D0
+~
+~
+0 0 11273
+D3
+~
+~
+0 0 11275
+S
+#11277
+Moat~
+
+~
+0 8 0
+D0
+~
+~
+0 0 11378
+D1
+~
+~
+0 0 11278
+S
+#11278
+Moat~
+
+~
+0 8 0
+D1
+~
+~
+0 0 11279
+D3
+~
+~
+0 0 11277
+S
+#11279
+Moat~
+
+~
+0 8 0
+D1
+~
+~
+0 0 11280
+D3
+~
+~
+0 0 11278
+S
+#11280
+Moat~
+
+~
+0 8 0
+D1
+~
+~
+0 0 11281
+D3
+~
+~
+0 0 11279
+S
+#11281
+Gate~
+Murder traps 
+~
+0 8 0
+D0
+~
+~
+0 0 11275
+D1
+~
+~
+0 0 11282
+D2
+~
+~
+0 0 11289
+D3
+~
+~
+0 0 11280
+S
+#11282
+Moat~
+
+~
+0 8 0
+D1
+~
+~
+0 0 11283
+D3
+~
+~
+0 0 11281
+S
+#11283
+Moat~
+
+~
+0 8 0
+D1
+~
+~
+0 0 11284
+D3
+~
+~
+0 0 11282
+S
+#11284
+Moat~
+
+~
+0 8 0
+D1
+~
+~
+0 0 11285
+D3
+~
+~
+0 0 11283
+S
+#11285
+Moat~
+
+~
+0 8 0
+D0
+~
+~
+0 0 11379
+D3
+~
+~
+0 0 11284
+S
+#11286
+Slaves~
+
+~
+0 8 0
+D1
+~
+~
+0 0 11287
+D2
+~
+~
+0 0 11294
+S
+#11287
+Auction Block~
+
+~
+0 8 0
+D1
+~
+~
+0 0 11288
+D3
+~
+~
+0 0 11286
+S
+#11288
+Slaves~
+
+~
+0 8 0
+D2
+~
+~
+0 0 11296
+D3
+~
+~
+0 0 11287
+S
+#11289
+Ascension Lane~
+
+~
+0 8 0
+D0
+~
+~
+0 0 11281
+D1
+~
+~
+0 0 11290
+S
+#11290
+~
+
+~
+0 8 0
+D1
+~
+~
+0 0 11291
+D3
+~
+~
+0 0 11289
+S
+#11291
+~
+
+~
+0 8 0
+D2
+~
+~
+0 0 11297
+D3
+~
+~
+0 0 11290
+S
+#11292
+~
+
+~
+0 8 0
+D1
+~
+~
+0 0 11293
+D2
+~
+~
+0 0 11299
+S
+#11293
+~
+
+~
+0 8 0
+D2
+~
+~
+0 0 11300
+D3
+~
+~
+0 0 11292
+S
+#11294
+Slaves~
+
+~
+0 8 0
+D0
+~
+~
+0 0 11286
+D1
+~
+~
+0 0 11295
+S
+#11295
+Slave Market~
+
+~
+0 8 0
+D1
+~
+~
+0 0 11296
+D2
+~
+~
+0 0 11303
+D3
+~
+~
+0 0 11294
+S
+#11296
+Slaves~
+
+~
+0 8 0
+D0
+~
+~
+0 0 11288
+D3
+~
+~
+0 0 11295
+S
+#11297
+Ascension Lane~
+
+~
+0 8 0
+D0
+~
+~
+0 0 11291
+D2
+~
+~
+0 0 11307
+S
+#11298
+~
+
+~
+0 8 0
+D1
+~
+~
+0 0 11299
+D2
+~
+~
+0 0 11308
+S
+#11299
+~
+
+~
+0 8 0
+D0
+~
+~
+0 0 11292
+D3
+~
+~
+0 0 11298
+S
+#11300
+~
+
+~
+0 8 0
+D0
+~
+~
+0 0 11293
+D2
+~
+~
+0 0 11310
+S
+#11301
+Path of Regret~
+
+~
+0 8 0
+D1
+~
+~
+0 0 11302
+D2
+~
+~
+0 0 8
+S
+#11302
+~
+
+~
+0 8 0
+D1
+~
+~
+0 0 11303
+D3
+~
+~
+0 0 11301
+S
+#11303
+~
+
+~
+0 8 0
+D0
+~
+~
+0 0 11295
+D1
+~
+~
+0 0 11304
+D3
+~
+~
+0 0 11302
+S
+#11304
+~
+
+~
+0 8 0
+D1
+~
+~
+0 0 11305
+D3
+~
+~
+0 0 11303
+S
+#11305
+Path of Regret~
+
+~
+0 8 0
+D1
+~
+~
+0 0 11306
+D2
+~
+~
+0 0 11312
+D3
+~
+~
+0 0 11304
+S
+#11306
+~
+
+~
+0 8 0
+D1
+~
+~
+0 0 11307
+D3
+~
+~
+0 0 11305
+S
+#11307
+Path of Regret~
+
+~
+0 8 0
+D0
+~
+~
+0 0 11297
+D1
+~
+~
+0 0 11308
+D3
+~
+~
+0 0 11306
+S
+#11308
+River~
+
+~
+0 8 0
+D0
+~
+~
+0 0 11298
+D2
+~
+~
+0 0 11314
+D3
+~
+~
+0 0 11307
+S
+#11309
+~
+
+~
+0 8 0
+D1
+~
+~
+0 0 11310
+D2
+~
+~
+0 0 11315
+S
+#11310
+~
+
+~
+0 8 0
+D0
+~
+~
+0 0 11300
+D3
+~
+~
+0 0 11309
+S
+#11311
+Cage~
+
+~
+0 8 0
+D3
+~
+~
+0 0 11312
+S
+#11312
+~
+
+~
+0 8 0
+D0
+~
+~
+0 0 11305
+D1
+~
+~
+0 0 11311
+D2
+~
+~
+0 0 11317
+D3
+~
+~
+0 0 11313
+S
+#11313
+Cage~
+
+~
+0 8 0
+D1
+~
+~
+0 0 11312
+S
+#11314
+~
+
+~
+0 8 0
+D0
+~
+~
+0 0 11308
+D2
+~
+~
+0 0 11320
+S
+#11315
+~
+
+~
+0 8 0
+D0
+~
+~
+0 0 11309
+D2
+~
+~
+0 0 11321
+S
+#11316
+Cage~
+
+~
+0 8 0
+D1
+~
+~
+0 0 11317
+S
+#11317
+~
+
+~
+0 8 0
+D0
+~
+~
+0 0 11312
+D1
+~
+~
+0 0 11318
+D2
+~
+~
+0 0 11324
+D3
+~
+~
+0 0 11316
+S
+#11318
+Cage~
+
+~
+0 8 0
+D3
+~
+~
+0 0 11317
+S
+#11319
+~
+
+~
+0 8 0
+D1
+~
+~
+0 0 11320
+D2
+~
+~
+0 0 11326
+S
+#11320
+~
+
+~
+0 8 0
+D0
+~
+~
+0 0 11314
+D3
+~
+~
+0 0 11319
+S
+#11321
+~
+
+~
+0 8 0
+D0
+~
+~
+0 0 11315
+D1
+~
+~
+0 0 11322
+S
+#11322
+~
+
+~
+0 8 0
+D2
+~
+~
+0 0 11329
+D3
+~
+~
+0 0 11321
+S
+#11323
+Cage~
+
+~
+0 8 0
+D1
+~
+~
+0 0 11324
+S
+#11324
+~
+
+~
+0 8 0
+D0
+~
+~
+0 0 11317
+D1
+~
+~
+0 0 11325
+D2
+~
+~
+0 0 11331
+D3
+~
+~
+0 0 11323
+S
+#11325
+Cage~
+
+~
+0 8 0
+D3
+~
+~
+0 0 11324
+S
+#11326
+~
+
+~
+0 8 0
+D0
+~
+~
+0 0 11319
+D1
+~
+~
+0 0 11327
+S
+#11327
+~
+
+~
+0 8 0
+D2
+~
+~
+0 0 11333
+D3
+~
+~
+0 0 11326
+S
+#11328
+~
+
+~
+0 8 0
+D1
+~
+~
+0 0 11329
+D2
+~
+~
+0 0 11334
+S
+#11329
+~
+
+~
+0 0 0
+D0
+~
+~
+0 0 11322
+D3
+~
+~
+0 0 11328
+S
+#11330
+Cage~
+
+~
+0 8 0
+D1
+~
+~
+0 0 11331
+S
+#11331
+~
+
+~
+0 8 0
+D0
+~
+~
+0 0 11324
+D1
+~
+~
+0 0 11332
+D2
+~
+~
+0 0 11335
+D3
+~
+~
+0 0 11330
+S
+#11332
+Cage~
+
+~
+0 8 0
+D3
+~
+~
+0 0 11331
+S
+#11333
+~
+
+~
+0 8 0
+D0
+~
+~
+0 0 11327
+D1
+~
+~
+0 0 11334
+S
+#11334
+~
+
+~
+0 8 0
+D0
+~
+~
+0 0 11328
+D3
+~
+~
+0 0 11333
+S
+#11335
+Before the Cages~
+
+~
+0 0 0
+D0
+~
+~
+0 0 11331
+D2
+~
+~
+0 0 11270
+S
+#11356
+Escherian Steps~
+
+~
+0 12 0
+D0
+~
+~
+0 0 8
+S
+#11357
+Escherian Steps~
+
+~
+0 8 0
+D0
+~
+~
+0 0 11358
+D4
+~
+~
+0 0 8
+S
+#11358
+Escherian Steps~
+
+~
+0 8 0
+D1
+~
+~
+0 0 11356
+D2
+~
+~
+0 0 11357
+D3
+~
+~
+0 0 11362
+D4
+~
+~
+0 0 11360
+D5
+~
+~
+0 0 11360
+S
+#11359
+Escherian Steps~
+
+~
+0 8 0
+D0
+~
+~
+0 0 11357
+D1
+~
+~
+0 0 11360
+D4
+~
+~
+0 0 11356
+D5
+~
+~
+0 0 11362
+S
+#11360
+Landing~
+
+~
+0 8 0
+D1
+~
+~
+0 0 11361
+D4
+~
+~
+0 0 11358
+S
+#11361
+A Landing~
+
+~
+0 8 0
+D1
+~
+~
+0 0 11362
+D3
+~
+~
+0 0 11360
+S
+#11362
+~
+
+~
+0 8 0
+D3
+~
+~
+0 0 11361
+S
+#11363
+Gate or walled path~
+
+~
+0 0 0
+D2
+~
+~
+0 0 11372
+D4
+~
+~
+0 0 11361
+S
+#11368
+~
+
+~
+0 8 0
+D1
+~
+~
+0 0 11369
+D2
+~
+~
+0 0 11374
+S
+#11369
+~
+
+~
+0 8 0
+D1
+~
+~
+0 0 11370
+D3
+~
+~
+0 0 11368
+S
+#11370
+~
+
+~
+0 8 0
+D1
+~
+~
+0 0 11371
+D3
+~
+~
+0 0 11369
+S
+#11371
+~
+
+~
+0 8 0
+D1
+~
+~
+0 0 11372
+D3
+~
+~
+0 0 8
+S
+#11372
+Courtyard~
+
+~
+0 8 0
+D0
+~
+~
+0 0 11363
+D1
+~
+~
+0 0 11373
+D3
+~
+~
+0 0 11371
+S
+#11373
+~
+
+~
+0 8 0
+D1
+~
+~
+0 0 8
+D2
+~
+~
+0 0 11375
+D3
+~
+~
+0 0 11372
+S
+#11374
+~
+
+~
+0 8 0
+D0
+~
+~
+0 0 11368
+D2
+~
+~
+0 0 11376
+S
+#11375
+~
+
+~
+0 8 0
+D0
+~
+~
+0 0 11373
+D2
+~
+~
+0 0 11377
+S
+#11376
+~
+
+~
+0 8 0
+D0
+~
+~
+0 0 11374
+D2
+~
+~
+0 0 11378
+S
+#11377
+~
+
+~
+0 8 0
+D0
+~
+~
+0 0 11375
+D2
+~
+~
+0 0 11379
+S
+#11378
+~
+
+~
+0 8 0
+D0
+~
+~
+0 0 11376
+D2
+~
+~
+0 0 11277
+S
+#11379
+~
+
+~
+0 8 0
+D0
+~
+~
+0 0 11377
+D2
+~
+~
+0 0 11285
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

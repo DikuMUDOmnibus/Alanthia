@@ -1,0 +1,2008 @@
+#AREADATA
+Name Tower of the Fey-Born~
+Builders Fluffy Halodar~
+VNUMs 25500 25599
+Credits {100 130} Rihan       Fey-Born Tower~
+Security 9
+Version 1
+End
+
+
+
+#MOBILES
+#25501
+elzarian mage~
+Elzarion~
+Elzarian looks you over searching for who knows what.
+~
+Elzarian is a strange looking man, tall, gangly, with extremely dry
+brown skin.  He wears an outlandishly huge red rimmed hat with a
+pointy tip, and a ridiculously large purple robe.  Few in Khaipur
+understand why he is allowed to keep his little shop in such a prime
+location like the Fey-Born Tower market since he deals in oddities
+only.  All know few fey-worked items are sold or bought here, yet
+his little shop continues to stay open.  Most believe the Nomads buy
+in bulk from him for their strange rituals, but this has yet to be
+proven.
+~
+unique~
+ABGMR DFHJNT 200 0
+300 50 4d20+20 4d20+20 4d20+20 pound
+0 0 0 0
+ART BCOP 0 M
+stand stand male 100000
+AHMV ABCDEFGHIJK medium 0
+#25502
+azhdeen mage~
+Azhdeen~
+Azhdeen carefully mixes a new batch of chemicals.
+~
+Azhdeen is an enormous muscular man, who is suppose to be burned on
+half his body by the very chemicals he mixes.  Rumors are whispered
+throughout the city this is the only reason Azhdeen attempts to perfect
+the revitalizing Spring Tonic potion, to restore his physique to its
+former glory.  Many more whisper that it was the BloodWatch Lord who
+was the one who burned Azhdeen for offering aid to a vampire, a vampire
+who, when mortal was Azhdeens' friend.  Don't stand between the two if
+ever they meet again.
+~
+unique~
+ABGMT DFJNT 200 0
+300 50 4d20+30 4d20+10 4d20+30 crush
+10 10 10 10
+DEFHIKORT ABEFHIKMOPQ 0 0
+stand stand male 100000
+AHMV ABCDEFGHIJK large 0
+#25503
+venkelos turtle~
+Venkelos~
+Venkelos is fretting about.
+~
+Venkelos, or the Turtle of Fey as he is occasionally called by his fellow
+mages, is a mature gnome.  With small wire-rimmed glasses, he is forever
+cataloging the ancient scrolls and staves that make their way into his
+grand shop.  Known to be ever stubborn as he is curious, Venkelos is known
+to spend years dechiphering scrolls that turn out to be mere love letters
+from a long forgotten time.  Still, he is unyielding once he sets his mind
+on something, truly he is a master of lore, and he indeed holds that very
+post in the Fey-Wielders' Brotherhood.
+~
+unique~
+ABCGMR 0 500 0
+300 50 3d10+10 3d20+20 3d10+10 punch
+5 5 5 5
+AQRT BCDFKMOP 0 0
+stand stand male 100000
+AMV ADE small 0
+#25504
+kiy mage~
+Kiy~
+Kiy grins with a knowing smile at you.
+~
+Standing a mere four and a half feet tall, this ancient looking woman
+looks more like a pale raisin then a powerful sha`ir.  Still, her powers
+are renowned throughout the lands of Nidus and fooling with her is not
+something to be taken lightly.  It is said even the Taken pay heed not
+to anger Kiy, though that would be hard indeed, for Kiy is also known to
+be highly carefree.  Still, her knowing smile can sometimes be irritating,
+for you know not why she smiles, or why her gen is forever cackling.
+~
+unique~
+ABGMR DFJN 500 0
+300 50 3d10+20 4d30+30 2d30+40 none
+20 20 20 20
+AT BFNOP 0 0
+stand stand female 100000
+AHMV ABCDEFGHIJK small 0
+#25505
+Mage sentry~
+the Battle-Mage Sentry~
+A Battle-Mage watches over the inner Chambers of Fey
+~
+Versed in all forms of combat magic's, this Sha`ir Battle-Master has
+adapted his gen for power and ingenuity.  One does not only face a
+Sha`ir Battle Master, but also his Gen.  A Battle Master is mighty
+indeed, for how else could one explain the existence of all those Fey
+Wielding Taken.  Only a fool would attempt to enter the inner Chambers
+of Fey by force, a fool indeed.
+~
+unique~
+ABFGJRT BDJNT 300 0
+125 60 2d30+20 3d10+20 3d20+20 none
+20 20 20 20
+ADEFHKQTU BOP B Z
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#25506
+apprentice mage~
+the apprentice~
+The apprentice tries to make sure you are comfortable in your stay
+~
+Very few apprentice's are as lucky as this one, for this young man is
+apprenticed to the Mistress of Fey herself.  In exchange for such a grand
+honor, the apprentice must make sure all visitors are comfortable here
+while they learn to shape and mold the Fey.  Thus does the apprentice go
+willingly to extremes to make sure you are happy here.
+~
+unique~
+ABGR N 700 0
+110 30 3d10+20 2d10+10 2d10+20 punch
+0 0 0 0
+LNQU 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#25507
+gen purple~
+a purple gen~
+A 2 foot purple gen snickers at your pathetic bargaining skills
+~
+This gen is by far one of the most capricious of his kind, and quite
+unfriendly.  He has been here for years now, awaiting a foolish sha`ir
+to try to strike a bargain with him.  This gen will only entertain a
+bargain if the conditions of servitude are high, the servitude of the
+sha`ir that is. Muhahaha!!!
+~
+unique~
+ADFGJR DNTU -500 0
+117 30 1d10+10 2d10+20 1d10+10 blast
+0 0 0 0
+HR COP 0 0
+stand stand male 0
+V BCF small 0
+#25508
+gen bounce bouncing~
+a bouncing gen~
+A gen bounces continually on a fey-made ball
+~
+This particular gen seems quite content in waiting here for a sha`ir to
+pick him.  This gen is like most gens, carefree and fun-loving before
+bargaining with a sha`ir.  However, once a deal is struck, almost all gens
+become quite serious, for the relationship between a gen and a sha`ir is
+a great deal indeed.
+~
+unique~
+ADFGJR DNTU 500 0
+130 30 1d10+10 2d20+20 1d10+10 blast
+0 0 0 0
+FGHR COP 0 0
+stand stand male 0
+V BCF small 0
+#25509
+caliph sha`ir lady master guildmaster~
+the Lady Caliph~
+The Lady Caliph is attended by numerous gens of power
+~
+Gens of every known plane attend this beautiful and tremendously powerful
+sha`ir.  Once prisoner to soldiers of Dream's evil army, she escaped and
+dedicated her life to attaining powers to gain her revenge.  Thus she is
+here freely offering her knowledge to all who would see Dream's minions
+brought low.  Even the followers of Dreams' way are welcomed, for how much
+sweeter is revenge, when served from within...
+~
+unique~
+ABCDFGHJKNQRTUVY DFHLNOTU 200 0
+130 70 3d20+20 3d40+30 4d20+30 wrath
+20 20 0 0
+AEFGHQRSU ABFGHIJKNOPQ C EM
+stand stand female 0
+CDHMV ABCDEFGHIJK medium 0
+#25510
+master magician member~
+a Magician Council Member~
+A Magician Council Member sits here judging your worth
+~
+This Magician Master is one of the thirteen council members that has the
+right to deny you into the Fey-Wielders Brotherhood.  However, almost
+always there are merely three Council Memebers ever present for judging,
+since most magician masters are off on personal missions.  Never anger
+this man, for he holds your fate in his hands.
+~
+unique~
+ABGR DFJLN 0 0
+125 50 3d20+20 3d30+30 3d20+20 none
+0 0 0 0
+AQU ABFMOPQ 0 Y
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#25511
+sha`ir master member~
+a Sha`ir Council Member~
+This Sha`ir Master is assessing your mettle from within
+~
+This lovely elfin sha`ir female looks kindly at you with such soft and
+beautiful features.  Somehow, you believe she would never turn anyone
+down from the chance to become a mage, even you.  Still, you better
+not stare to much, lest she be offended, for lovely as she is, she is
+still determining your fate in life.
+~
+unique~
+ABFGJR DFHJNT 450 0
+127 50 3d20+20 3d30+30 3d20+20 none
+0 0 0 0
+AQU ABFMOPQ B Z
+stand stand female 0
+AHMV ABCDEFGHIJK medium 0
+#25512
+elemental master member~
+an Elemental Council Member~
+A huge rock shaped creature grins evilly at you
+~
+This Elemental Master stands before you as an earth elemental, a truly
+powerful feat.  Even behind the stony visage of the elementals face,
+you can see the contempt in the eyes of the Earth Master.  'It' will
+not let you in, of this you are sure, your only hope is that the other
+two Fey-Wielding Masters find you worthy.
+~
+unique~
+ABCGRT DFHJN -500 0
+124 70 3d20+30 3d20+30 4d20+30 crush
+0 0 0 0
+ACDEIOQU ABCFGHIJLMOPQR D 0
+stand stand male 0
+HMV B huge 0
+#25513
+battle sha`ir master~
+a Sha`ir Battle Master~
+A Sha`ir Battle Master guards the passage to the Chambers of Fey
+~
+A Sha`ir Battle Master, standing ever ready against any threat, percieved
+and imagined.  One of the well known traits of all the Battle Masters are
+their extreme eagerness to use violence to settle any disagreements.  With
+dirks and battle-globes at their disposal, and with the helping hands of
+their gens, these sha`irs' are truly one of the most dangerous powers on
+all of Nidus.
+~
+unique~
+ABCGRT DFJN 0 0
+128 40 2d20+10 3d20+30 2d20+20 none
+0 0 0 0
+EFHIJKLNOPU ABFLMNOPQ 0 HIZ
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#25514
+apprentice~
+an apprentice mage~
+An apprentice tries to study over the noise
+~
+This apprentice is trying to cram in some more Fey lore before he meets
+with the Mistress of Fey.  Unfortunately, his fellow roommates are making
+it tough on him with all the noise they are making.  It's ok though, he
+plans on returning the favor when THEY have to go and finally meet with
+the Mistress of Fey.  Revenge, it makes the world go round.
+~
+unique~
+ABCG N 350 0
+104 20 2d5+10 2d5+10 2d5+10 punch
+0 0 0 0
+U 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#25515
+apprentice bully~
+an apprentice~
+An apprentice throws pillows at his fellow classmates
+~
+Bored just waiting for his meeting time to be assigned to him, he decides
+to make life terrible for them.  With general mayhem on his mind, he is
+truly the bully of the class.  Go ahead, pick on him, stand up to him.
+~
+unique~
+ABCGH N 555 0
+105 20 2d5+10 2d5+10 2d5+10 pound
+0 0 0 0
+0 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#25516
+apprentice~
+an apprentice~
+An apprentice goes along with the class bully
+~
+This apprentice is rather shy, and starved for power and attention.  Thus,
+this apprentice is willing to follow whatever person is in power at the
+moment.  What a terrible thing peer pressure is, isn't it?  Oh well, thus
+is life in the Fey-Born Tower.
+~
+unique~
+ABCG N 750 0
+104 10 2d5+10 2d5+10 2d5+10 punch
+0 0 0 0
+0 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#25517
+elemental earth~
+an Earth Elemental~
+A large Earth Elemental protects the gates of the Fey-Born Tower
+~
+The Earth of Nidus itself protects the majestic gates of the Fey-Born
+Tower.  Just one of the many powers at the command of the mighty and
+grand Fey-Wielders inside, to attempt forced entry would be a foolhardy
+task indeed.  The Earth Elemental is totally impassive, awaiting some
+unknown trigger to occur so as to quickly spring to the defense of the
+Tower.  Dangerous indeed is the force of nature known as the Fey.
+~
+unique~
+ABGT JN -500 0
+120 0 3d20+20 0d0+0 3d20+20 crush
+0 0 0 0
+CDEIOP FGHILQ C 0
+stand stand male 0
+HMV B huge 0
+#25518
+librarian mage magician~
+The Tower Librarian~
+The Tower Librarian catalogues yet another series of books here.
+~
+The Tower Librarian is always busy cataloging yet another series of
+ancient history books.  The Tower Magicians are very proud of its vast
+and famous collection of history books dating back further then almost
+any other known texts.  The ancient proverb of 'Knowledge is Power' is
+very sacred to the Fey-Wielder's Brotherhood, and well it should be.
+~
+unique~
+ABCGR N 0 0
+115 30 2d20+10 2d20+10 2d20+10 none
+0 0 0 0
+0 BFLMOPQ 0 EZ
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#25519
+magician mage magician master~
+the Magician Master~
+One of the Magician Masters is immersed in a book of lore
+~
+One of the teachers of the apprentice mages, this particular master is
+obsessed with some long forgotten mask of power.  The Tower could crash
+down upon him, and he would never noticed, for the Mask of Dream is all
+he wishes to possess.  Sleep is a word unknown to this Master, thus are
+his lessons getting shorter and shorter.  This will one day get him in
+trouble with the Mistress of Fey if he is not careful.
+~
+unique~
+ABGR DFHJN 0 0
+128 40 2d20+10 4d20+20 2d20+10 none
+0 0 0 0
+P ABFLMOPQ 0 Z
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#25520
+apprentice~
+an apprentice ~
+One of many apprentices who hopes to uncover a secret also.
+~
+One of the many apprentices who has fallen prey to the allure of quick
+power.  Spending all his free time here, he hopes that with just one of
+these volumes he will uncover a relic of unimaginable power.  Such are
+the dreams of all apprentices, but some don't recognize them as just
+that, a dream.
+~
+unique~
+ABG DFHJN 0 0
+103 0 0d0+0 0d0+0 0d0+0 pound
+0 0 0 0
+0 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#25521
+magician mage fey-wielder wielder~
+a Magician~
+A Fey-Wielder goes about his own business. 
+~
+Just relaxing within the Tower after some grand adventure in the Plains of
+Faraim, the magician strolls along.  Once accepted into the Brotherhood of
+the Fey-Wielders, a magician will always belong, and be welcomed into the
+Fey-born Tower.  Many Fey-Wielders in fact, donate many fey-worked items
+for study and gold into the Tower Treasury, to pay back for the knowledge
+they gained there.
+~
+unique~
+AFGJR DFJN -300 0
+129 40 2d20+30 3d20+20 3d20+30 none
+0 0 0 0
+S ACFLMOPQ B Z
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#25522
+apprentice~
+an apprentice~
+An apprentice jumps up and down with some gold in his hands.
+~
+Screaming and jumping about, this apprentice cheers on his choice to
+win the wrestling bout.  He has a small handful of gold coins in his
+hands, what he probably has bet on the match.  He'd bet with you too,
+if you have the gold to bet that is.
+~
+unique~
+ABGH N -300 0
+103 0 0d0+0 0d0+0 0d0+0 pound
+0 0 0 0
+0 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#25523
+apprentice~
+an apprentice~
+An apprentice struggles to pin his opponent.
+~
+Fighting with all his strength to pin his fellow apprentice's shoulders
+to the floor, he isn't to successful.  Still, he has a weeks worth of
+chores on this, not the mention some gold on his success, so he struggles
+on.  Try not to get in the way, you may cost one of them the match if you
+do.
+~
+unique~
+ABGH N 0 0
+103 0 0d0+0 0d0+0 0d0+0 pound
+0 0 0 0
+0 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#25524
+apprentice~
+an apprentice~
+A sleeping apprentice is sprawled on the floor.
+~
+This apprentice is quite tired from his daily lessons with the Sha`ir
+Masters.  Most of the elder apprentices stay in this room, so they can
+try and get some peace and quiet.  Step carefully lest you step on one
+of them, and try to keep it down, for they would be very anger if you
+woke them up.
+~
+unique~
+ABG N 100 0
+104 0 0d0+0 0d0+0 0d0+0 pound
+0 0 0 0
+0 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#25525
+grendek master battle battle-mage mage~
+Grendek the Battle-Mage Master~
+Grendek prepares to strike you down!
+~
+You look upon the Master of Battle, the Battle-Mage Master in charge
+of teaching apprentices the art of battle.  By entering his private
+quarters you have forfeited your life, for his privacy is considered
+sacred.  Know then, that you have been killed by one of the Masters
+of Death, a true professional killer.  Say hello to the Taken while
+you wallow in the Abyss.
+~
+unique~
+ABCFGRT DFHJLNTU -400 0
+130 60 3d20+40 4d30+30 4d20+40 wrath
+0 0 0 0
+ADEFHKO ABFLMNOPQ CG Z
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#25526
+magician mage master~
+a Magician Master~
+A sleeping magician master snores quietly.
+~
+Sleeping after a long day of lessons, the magician snores ever so quietly.
+Awaking him would be one of the greatest mistakes ever made in the history
+of Nidus, for everyone knows the price for entering the private quarters
+of a Magician Master.  Well then, with all that now hanging over your head,
+dare you snoop around some more and risk awaking him?
+~
+unique~
+ABGR DFJN 250 0
+125 40 2d20+30 3d30+30 3d20+20 none
+0 0 0 0
+AP ABFLMOPQ 0 Z
+sleep stand male 0
+AHMV ABCDEFGHIJK medium 0
+#25527
+master magician mage~
+a Magician Master~
+A Magician Master plots his next lesson.
+~
+This Magician Master is one of the most devious and sadistic Masters. Any
+foolish apprentices who decide to take out their personal aggression and
+duels inside the Learning Grounds are considered to be personal pawns by
+the Magician Master.  All those who enter are subject to all the Fey-made
+creatures the Master deems to throw into the Grounds.  Cackle!
+~
+unique~
+ABFGJR DEFJN -625 0
+129 30 2d20+20 3d20+30 3d20+10 none
+0 0 0 0
+AH ABFMOPQ L EHNSZ
+stand stand male 0
+AHZ ACDEFHJKLOPQUVWXY medium 0
+#25528
+tiger fey~
+a fey-made tiger~
+A fey-made tiger leaps to the attack!
+~
+This tiger is a product made up entirely of Fey, formed at the behest of
+the Magician Master to 'teach his pawns' true battle skills.  This creaure
+knows no pain or fear, only hate for anything in sight.  Such is the whim
+of its' sadistic master.  Inside the Learning Grounds, all is fair.
+~
+unique~
+ABFG N -500 0
+110 10 10d10+10 10d10+10 10d10+10 claw
+0 0 0 0
+DP CO 0 Z
+stand stand none 0
+CDGMV ACDEFU large 0
+#25529
+citizen fey~
+fey-made citizen~
+A fey-made citizen crowds you so you can't use your weapon.
+~
+Such are the games the Master Magician plays with his apprentices. These
+fey-made citizens are here just to harass and slow you down, so your
+opponent can gain an advantage.  No one ever said becoming a magician was
+easy, and now you know why.
+~
+unique~
+ABG N -200 0
+107 10 1d10+10 0d0+0 1d10+10 punch
+0 0 0 0
+P CO 0 Z
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#25530
+mammoth~
+a fey-made mammoth~
+A fey-made mammoth munches on some fey-made lichen.
+~
+Large and hairy, this mammoth goes along its way just munching on some
+lichen.  Large and dumb, and quite extinct, this beast is just here for
+scenery.  Or is it?
+~
+unique~
+ABFG N 200 0
+110 10 1d10+10 0d0+0 2d10+10 smash
+0 0 0 0
+OP CO 0 Z
+stand stand none 0
+CDGMV ACDEFY huge 0
+#25531
+muck feces creature~
+a creature of feces~
+Something grabs at your leg from below the muck.
+~
+A creature covered in feces and muck, or maybe made up of muck.  Who
+knows, all you know is that it wants to drag you down to either feed
+on you, or just to kill you.  Either way, you can't let that happen,
+not when you are so close to escaping this hell.
+~
+unique~
+AFGY PQ -950 0
+105 10 1d10+10 1d10+10 1d10+10 slime
+0 0 0 0
+0 CFGO 0 EZ
+stand stand male 0
+JSc EFN giant 0
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#25501
+Elzarian's Exotica~
+One of the many little fey-shops surrounding the vaunted Fey-Born Tower,
+this particular shop is probably the strangest.  All about you are the
+strangest and the most rare items in all of Nidus.  Beside the arm of a
+snake, and the leg of a dismembered eye, are also curious little eggs of
+wyverns, and eggs merely marked 'Dragons of Lore'.  Even an odd human hand,
+or dwarf head has been bottled and preserved for some of the odder rituals
+performed by fey-less witch doctors.  Yet hidden on some of these shelves
+beside the eyes of newt and the bat guano are some rare little treasures, if
+you know what to look for.  Elzarian is both willing to sell you his so
+called Exotica or buy some of yours, if you even knew you had any.  
+~
+0 1032 0
+D3
+The spiraling staircase of Fey's glow reaches even here.
+~
+door~
+1 -1 25508
+S
+#25502
+Curious Castings~
+Upon entering you are quickly overwhelmed by a sweet musty scent, that of
+ancient books and manuscripts.  The entirety of this shop is filled with
+shelves upon shelves of scrolls, books, and numerous little diaries and
+curious scribblings.  The age of some of these documents must surely date
+back to before the Holy Wars, and yet these scrolls are all strewn about
+carelessly upon racks of shelves.  Behind all this mess is an ancient little
+man mumbling out loud about cataloging yet one more series of ancient texts.
+Looking straight over the man's tiny wizened head you see the entire back
+wall lined with staves and wands of every conceivable height, style, shape,
+and material.  How anyone could ever find anything they needed in this shop
+is even more amazing then actually seeing so many fey-worked staves and
+wands in one place.  Of course, where else would such a collection be, but
+at the foot of the Fey-Born Tower, where the Chambers of Fey are said to be
+located and where every magician is said to gain their control over the Fey.
+~
+0 1032 0
+D1
+The spiraling staircase of Fey's glow reaches even here.
+~
+door~
+1 -1 25508
+S
+#25503
+Azhdeen's Apothecary Shoppe~
+The acidic stench of chemicals assaults your sense of smell the moment
+you open the door, causing tears to stream from your eyes.  Jars holding
+almost every known chemical agent are carefully secured behind the massive
+counter, each meticulously labeled in a strange and cryptic code.  Azhdeen's
+Apothecary Shoppe is known throughout Khaipur for the magical revitalizing
+elixir known as Spring Tonic.  Other tonics, pills, potions, and balms of
+health are also sold in some abundance here, so long as the Mistress of Fey
+continues to permit Azhdeen to share the Necromantic secrets of prolonged
+and healthy life...  At a cost.  
+~
+0 1032 0
+D0
+The spiraling staircase of Fey's glow reaches even here.
+~
+door~
+1 -1 25508
+S
+#25504
+Wonders of Fey~
+The small and faded wooden sign above this quaint little shop is quite
+deceiving indeed.  A more appropriate name would be useless odds and ends. 
+While some of the trinkets found in this store are in fact fey-worked, they
+are no wonders of fey as the sign claims.  Keys, moldy foods, antique
+furniture's, and some of the worst tasting drinks in all of Nidus make up
+the wares in this so called Fey-shop.  The shriveled old woman running this
+shop merely smiles and giggles at the disdain on your face for her wares. 
+Almost a knowing smile, maybe this witch does sell something of value here,
+how else does one explain this shop being allowed to stay and operate at the
+foot of the Fey-Born Tower?  How else indeed.  
+~
+0 1032 0
+D2
+The spiraling staircase of Fey's glow reaches even here.
+~
+door~
+1 -1 25508
+S
+#25505
+Entrance to the Lands Beyond~
+To the Lands Beyond, the central meeting place for all Sha`irs' and their
+mighty gens.  Rumors say that it is here, and only here that would be
+Sha`ir's may bargain with the Lands Beyond to gain their own gens and become
+true Sha`irs, the Masters of GensGens, the source of a Sha`ir's power, the
+bringers and shapers of the mystic force of Nidus known only as Fey.  Power
+awaits those wishing to shape and control the Fey, for those wanting to be a
+Sha`ir, for those willing to bargain for a gen...  At almost any cost.  
+~
+0 525324 0
+D4
+You see before you a wall of pure raw fey.
+~
+~
+0 -1 25506
+D5
+~
+~
+0 -1 25526
+S
+#25506
+The Lands Beyond~
+Into the Lands Beyond you enter.  Gens of every size, sex, color, and
+power appear and disappear faster then you can form a thought.  Many gens
+here already have masters, while many still await to bargain with a would-be
+sha`ir.  All about you raw fey is transformed by the sheer will of the gens
+into energies and powers useable by mere mortals.  No, not mere mortals, by
+the mighty Sha`ir!  Strike then your deal, and then proceed upwards into the
+very heart of the Lands Beyond, where awaits the Lady Caliph of all
+Shai`irs.  
+~
+0 525324 0
+D4
+The heart of the Lands Beyond.
+~
+~
+0 -1 25507
+D5
+You see before you a wall of pure raw fey.
+~
+~
+0 -1 25505
+M 115 H 115
+S
+#25507
+Lands Beyond~
+Floating within the center of the chamber is the Lady Caliph of all
+Sha`irs, known also as the Bringer of Gens, the FeyBride, and Keeper of the
+Fey.  This sha`ir is someone to be inspired by, to be awed by, to lust
+after, and especially to fear.  Numerous gens attend to her every whim and
+desire, for even they have learned to respect the power at her command.  It
+is here, within her strong guiding hands that all sha`irs learn coexists and
+work with their gens to shape the mystic force of Nidus, the power of Fey. 
+Go forth now, back into the dark torrent of the ^Crimson^Lust^, or descend
+once more into the Lands Beyond to deal with the capricious gens, all in the
+name of Fey.  
+~
+0 525324 0
+D4
+.
+~
+~
+0 -1 25509
+D5
+.
+~
+~
+0 -1 25506
+M 150 H 150
+S
+#25508
+Fey-Shop Market ~
+The Fey-Born Tower looms above.  It is home to the Masters of the Mystic
+Life-Force of Nidus, the Wielders of Fey.  Power pulsates from every stone,
+almost strong enough to drown out the all-encompassing aura of peace that
+the Cathedral radiates.  The inhabitants of the Tower are known to be
+powerful and there is a chance to see and buy some of their creations while
+here in the Fey-Shop Market.  Up the spiraling stairs is the entrance to the
+Tower, while down the stairs take you back to New Thalos.  
+~
+0 1024 1
+D0
+A tiny store with a faded sign lays this way.
+~
+door~
+1 -1 25504
+D1
+Elzarian's Exotica is located here.
+~
+door~
+1 -1 25501
+D2
+Azhdeen's Apothecary Shoppe stinks to high heaven.
+~
+door~
+1 -1 25503
+D3
+A shop with the sign of Curious Castings above its door is here.
+~
+door~
+1 -1 25502
+D4
+The rocky steps to the Fey-Born Tower begin here.
+~
+~
+0 -1 25518
+S
+#25509
+The Fey-Gates~
+Up the last few steps, you reach the very top level of the Fey-born
+Tower.  The chamber is made up of four amethyst archways, each facing out in
+one of the four main cardinal directions.  The fey-energies that the Tower
+has been funneling upwards culminate here, focusing the Fey energy upon the
+open space between each archway.  Thus is the chamber turned into The
+Fey-Gates, a series of magical and permanent portals, making travel within
+the vast city of Khaipur quick and relatively safe for all Magicians.  
+~
+0 532488 0
+D5
+The Lady Caliph awaits your return.
+~
+~
+0 -1 25507
+S
+#25510
+The Sewers of the Tower~
+Foolish indeed were you to consider yourself worthy to become one with
+the Brotherhood of Feywielders.  Banished, now and always, to be forever
+forsaken in the grime and muck of the Towers waste.  No hope of escape now,
+or ever, truly your life is over.  
+~
+0 532489 5
+D0
+No hope, no chance.
+~
+~
+0 -1 25511
+M 0 H 0
+S
+#25511
+The Sewers of the Tower~
+Moving through the feces of a hundred magicians, you are overcome by the
+sheer stench as you gag and choke.  Adding your own vomit into the waist
+high muck, you are even deprived the sheer joy of screaming.  You despair in
+disgust, for such is the sentence you now face, to forever live in silence
+and failure.  Know ye now that hope cannot exist here, you are truly
+wretched indeed.  
+~
+0 532489 5
+D0
+No hope, no chance.
+~
+~
+0 -1 25512
+D2
+No hope, no chance.
+~
+~
+0 -1 25510
+M 0 H 0
+S
+#25512
+The Sewers of the Tower~
+Lowest of the low, you are truly one to be shown pity to, but alas, none
+will ever give it here.  You are doomed to die here, alone with the dead or
+dying failures such as yourself, to tear at each other for food and from
+hatred.  Soon, the end will come soon, when you shall finally give up any
+hope of survival and escape, and lay down face first into the human feces,
+and breath in the glorious death.  
+~
+0 532993 5
+D0
+No hope, no chance.
+~
+~
+0 -1 25513
+D2
+No hope, no chance.
+~
+~
+0 -1 25511
+M 0 H 0
+S
+#25513
+The Sewers of the Tower~
+More grime and muck, as you continue to move along the stagnant lake of
+waste and garbage.  You continue to hope, when there is no hope, when there
+is no escape, as all the floating skeletons can attest to.  Yet you continue
+on, and for once, your stupidity pays off.  High above you is a tiny beam of
+sunlight shinning through an iron grate.  If only you could reach it, and
+what is that pulling at your leg?  
+~
+0 532489 5
+D2
+No hope, no chance.
+~
+~
+0 -1 25512
+D3
+A small grate is high above you, shining in sunlight.
+~
+grate~
+1 25543 25509
+M 0 H 0
+S
+#25514
+Fey-born Tower Council Chamber~
+High and deep into the Fey-Born Tower you enter what appears to be the
+council chamber of the Master Magicians.  The northern side of the chamber
+has set into it thirteen chairs arranged in a semi-circle.  The center chair
+is slightly more elevated then the others and appears to be more of a throne
+then an actual chair.  A similar semi-circle of chairs is set against the
+south end of the room, with the only difference being that the chairs are
+about thirteen feet lower then those on the opposite side.  Here then is
+where a would-be magician is accepted for training or rebuffed to the role
+of a lowly sewer slave for even daring to consider themselves worthy to
+become a Magician.  LOOK upon the FEY and speak the words out aloud and see
+if you shall be accepted into the lofty ranks of the mighty Fey-Wielders.  
+~
+0 1036 0
+E
+FEY~
+Fey, the great and mystical force of Nidus.  Responsible for all life,
+and for all death, the great creator and the dreaded destroyer.  This
+force is the source for the CHAOS visited upon Nidus, the reason for
+all that is and shall be.  This is the force you seek to control and
+tame, power incarnate.  This is the reason you are willing to trade
+your soul in a bargain with a gen, or risk your life and soul to become
+a necromancer, just in order to control the very deadly and powerful
+life force of Nidus.  Speak then the words and know ye that you shall
+be either welcomed into the ancient Brotherhood of Fey-Wielders, or be
+forever sentenced to the bowls of the Fey-born Tower, to toil in the
+sewers for all eternity Speak The Words   Speak Them!
+
+ "Fey is Life, and Life is Fey, I am Fey for I am Life"
+
+~
+D5
+The spiraling staircase of Fey takes you back to the fey-shop market.
+~
+~
+0 -1 25508
+M 50 H 50
+S
+#25515
+Apprentices' Quarters~
+Littered throughout the entire room are huge piles of blankets and
+pillows along with books of Fey lore.  Most of these apprentices await the
+Mistress of Fey to appoint them each to their own particular master so that
+they may begin their training in earnest.  They are quite content in the
+meantime to merely learn and study what little Fey lore is made available to
+them at this time, and to rough-house and bond with the other young men, for
+almost all Mages begin their training at the age of 17, when puberty won't
+interfere with the channeling of Fey energies.  
+~
+0 8 0
+D2
+The dormitory mess hall is just outside.
+~
+door~
+1 -1 25535
+M 50 H 50
+S
+#25516
+Fey-Master's' Quarters~
+Inside the quarters of one of the Fey-Master, you know that if you are
+caught you will face the ultimate punishment, death.  Yet, the threat of
+death just for a tiny peek inside the private quarters of a Fey-Master seems
+well worth the risk.  As it is always said, Life is Fey, and Fey is
+capricious, so ultimately you are highly disappointed with what you find
+within the Fey-Master's quarters.  Nothing, nothing but a comfortable bed
+and a few scattered personal belongings are to be seen, not a single book
+with earth-shattering secrets or a single staff of power to be seen.  What a
+waste of time, for the Fey-Master must not trust the prying eyes of the
+apprentices, and for good reason it seems.  Wouldn't you agree?  
+~
+0 8 0
+D2
+The only exit is here.
+~
+door~
+1 -1 25539
+M 50 H 50
+S
+#25517
+Into the Fey-Born Tower~
+Higher up you continue to climb on the spiraling staircase of Fey, up
+into the Fey-Born Tower.  You can see the fey being directed upwards through
+the very stones of the Fey-born Tower, being focused to the tip of the
+Tower, or so you guess.  Why, you do not know, but you hope it will all be
+made clear to you, if you are accepted into the Brotherhood of the
+Fey-Wielders that is.  No, not If you are accepted, but When you are
+accepted you tell yourself.  The spiraling staircase leads further up to yet
+another landing, for you have traveled to far to think about turning back
+now.  
+~
+0 8200 0
+D2
+The third landing lays before you.
+~
+~
+0 -1 25525
+D5
+The spiraling staircase lights your way back down.
+~
+~
+0 -1 25523
+S
+#25518
+The Gates of the Fey-Born Tower~
+The rocky steps wind up to a set of ivory doors, the very entrance into
+the Fey-Born Tower.  Beyond the ivory double-doors is the spiraling
+staircase of Fey, one of the greatest wonders of Khaipur.  The staircase is
+made of pure Fey harnessed and changed into solid energy by the most
+powerful Fey-Masters and helped by the most powerful gens, and this all at
+the behest of the Mistress of Fey herself.  Entering into the Fey-Born Tower
+is strictly forbidden, lest one is of the Brotherhood, or if one plans to
+petition admittance into the Brotherhood of Fey-Wielders.  Make your choice,
+enter and be subject to the ruling of the Fey-Born Council, or turn back, to
+the safety of the streets of Khaipur.  
+~
+0 0 5
+D0
+The Ivory doors of the Fey-Born Tower stand before you.
+~
+Ivory-doors door doors~
+1 -1 25519
+D5
+The Fey-Shope Market is at the foot of the steps.
+~
+~
+0 -1 25508
+S
+#25519
+Into the Fey-Born Tower~
+What lays before you could never be fully described with any mere words. 
+The shimmering energies of solid Fey hypnotize and mesmerize you as stare in
+awe at the spiraling staircase that leads you up into the heart of the
+Fey-Born Tower.  Behind you, the ivory doors close as you need but take a
+single step onto the staircase to begin your grand journey into the heart of
+the Fey-born Tower.  One small step for man, one giant leap for...  Well,
+you know.  
+~
+0 8200 0
+D0
+~
+~
+0 0 25546
+D2
+The rocky steps lead back the way to the Fey-Shop Market.
+~
+Ivory-doors door doors~
+1 -1 25518
+D4
+~
+~
+0 -1 25520
+S
+#25520
+Into the Fey-Born Tower~
+Up the spiraling staircase you move with ease, as the Fey energies seem
+to refresh you as you make your way along.  Every step you make is greeted
+with a sparkling shower of Fey energies dazzling to the eye and yet soothing
+to the mindThe first landing is here to the south, or you may return down to
+the spiraling staircase and to the ivory doors of the Fey-Born Tower.  
+~
+0 8200 0
+D2
+The first landing awaits you.
+~
+~
+0 -1 25521
+D5
+The spiraling staircase lights your way back down.
+~
+~
+0 -1 25519
+S
+#25521
+A Landing ~
+A quaint little window shaped like the Tower itself greets you as you
+step upon the first of what will surely be many landings along the spiraling
+staircase.  Looking upwards into the Tower you are unable to see to the very
+top and end of the spiraling staircase.  The staircase continues upwards
+into the heart of the Tower, while those unwilling or unable to make the
+climb may return north now, and back down to the streets below.  
+~
+0 8200 0
+E
+window~
+Looking out the Tower window you realize that you
+have somehow managed to climb further up then you
+first thought.  Fully three stories up you can see
+the citizens of Khaipur moving about like busy little
+ants.  The Cathedral Bell Tower looms high in the
+distance, almost like a beacon to those seeking a
+respite in the non-stop battle against the dreaded
+^Crimson^Lust^.
+~
+D0
+The spiraling staircase sparkles and shines with fey energy.
+~
+~
+0 -1 25520
+D4
+The spiraling staircase continues ever upwards.
+~
+~
+0 -1 25522
+S
+#25522
+Into the Fey-Born Tower~
+Onwards and upwards you continue your never-ending climb into the heart
+of the Fey-Born Tower.  What awaits at the end of the spiraling staircase is
+unknown to you, all you know is that you must continue, that you must meet
+your destiny.  With every energy splashing step you make your determination
+strengthens, the powers to wield and control Fey were made for you, they
+await you even now, and absolutely nothing can convince you otherwise.  The
+second landing is now within view as you are still unable to see the end of
+the staircase, and now you are even unable to see the beginning of it
+either.  
+~
+0 8200 0
+D0
+The second landing lays before you.
+~
+~
+0 -1 25523
+D5
+The spiraling staircase lights your way back down.
+~
+~
+0 -1 25521
+S
+#25523
+A Landing~
+Stepping onto the second landing on your journey to the top of the
+Fey-Born Tower you feel a nice strong gust of fresh air.  Again, another
+window shaped like the Tower is here on the northern wall, over-looking the
+Strait of Torments.  The spiraling staircase continues on, leading you ever
+closer to the Fey-Born Council Chamber, and then to the very heart of the
+Tower, the Chambers of Fey themselves.  
+~
+0 8200 0
+E
+window~
+In the distance you can make out the dark clouds that
+always cover the Strait of Torments.  The shinning
+brilliance of the BloodWatch Guards catch your eye as
+they seem to be amassing in force as the Crimson Pike
+is readied for yet another voyage into the Strait of
+Torments, and if luck is with her, into the Serenity
+Sea.  The size of the storm at the Strait of Torments
+looks to be huge indeed, you hope they make it back,
+if only so you may brave the Strait yourself one day.
+~
+D2
+The spiraling staircase sparkles and shines with fey energy.
+~
+~
+0 -1 25522
+D4
+The spiraling staircase continues ever upwards.
+~
+~
+0 -1 25517
+S
+#25524
+Into the Fey-Born Tower~
+Now, as you continue along the spiraling staircase, you begin to tire of
+the endless and monotonous motion of step, stair, step, stair, step, stair. 
+This never-ending stairway would try even the patience of a Taken.  You
+begin to think that the Chambers of Fey may not actually exist, and that
+flinging yourself over the edge of the staircase would indeed be a wiser
+choice then continuing onwards.  Stubborn as a dwarf though, you continue
+onwards with the drudgery of each step and of each stair.  Step, stair,
+step, stair, step, stair.  
+~
+0 8200 0
+D4
+The spiraling staircase continues ever upwards.
+~
+~
+0 -1 25514
+D5
+The spiraling staircase lights your way down.
+~
+~
+0 -1 25525
+S
+#25525
+A Landing~
+Again you are greeted with a tower-shaped window on the southern wall. 
+Looking down the Tower your head begins to swim as a small case of vertigo
+overcomes you.  You begin to wonder if there is even an end to the spiraling
+staircase, for if you do not reach the end soon, you will surely explode
+with frustration.  The staircase continues to wind further and further
+upwards, ever closer to the Chambers of Fey, ever closer to the Fey-Born
+Tower Council Chamber.  Always ever closer and yet always seemingly out of
+reach, soon, the end must be soon, or so you try and convince yourself.  
+~
+0 8200 0
+E
+window~
+So high are you, that you are unable to make out
+any citizens along the streets of Khaipur.  Few
+specific buildings can be made out now, and among
+those that you can make out are the Cathedral, and
+the Bedouin Enclave.  You are unsure exactly how
+high you are, or even if you are near the top of
+the Tower, you do however notice that the air seems
+to be thinning out quite a bit.  The view is quite
+spectacular, when you are not being overcome by
+lightheadedness.
+~
+D0
+The spiraling staircase lights your way down.
+~
+~
+0 -1 25517
+D4
+The spiraling staircase continues ever upwards and onwards.
+~
+~
+0 -1 25524
+S
+#25526
+Into the Chambers of Fey~
+Up the final steps, the final goal of every would-be Magician is at hand.
+You stand before the very entrance to the Chambers of Fey, where the powers
+of the Fey are at their strongest, and where new Fey-Masters are made.  If
+you feel you are ready, then enter into the wonders of the Chambers of Fey,
+but if you still doubt, dare not enter, lest the Fey find your weakness and
+consume you with it's power.  
+~
+0 8 0
+D4
+You see before you a wall of pure raw fey.
+~
+~
+0 -1 25505
+D5
+The Tower Center is just a few steps down.
+~
+~
+0 -1 25527
+M 50 H 50
+S
+#25527
+The Tower Center~
+Finally, within the inner chambers of the Tower, you find yourself at an
+intersection of hallways, the Tower Center.  Above each hallway entrance, a
+plaque marks what lies at the end of each of the particular hallways. 
+Northward lies the Tower Library, westward are the Apprentice Dorm rooms,
+eastward are all the Fey-Masters' Personal Quarters, and to the south awaits
+the actual Learning Grounds of the Fey-Wielders.  One may also continue up
+into the actual Chambers of Fey to stand before and converse with the
+Mistress of Fey, or return down, back to the Council Chamber.  
+~
+0 8 0
+E
+plaque~
+.
+ Tower Map Ke*******  
+ ------------********
+   * NORTH:  Librar  * **
+ **  **********  SOUTH:  Learning Ground ***  ***
+ **  **********  EASTMaster Chamber  ***  ***
+   **    WESTApprentice Dor  ********
+ ********
+  .
+~
+D0
+The Tower Library lays this way.
+~
+~
+0 -1 25529
+D1
+The hallway leads to the personal quarters of the Fey-Masters.
+~
+~
+0 -1 25538
+D2
+The Learning Grounds lies just through the hallway.
+~
+~
+0 -1 25523
+D3
+The Apprentice Dorm rooms lay this way.
+~
+~
+0 -1 25534
+D4
+The final steps into the Chambers of Fey.
+~
+~
+0 -1 25526
+D5
+The steps lead back down into the Council Chamber.
+~
+~
+0 -1 25528
+M 50 H 50
+S
+#25528
+Steps to the Tower Center~
+The words once spoken can never be denied.  Now awaits the final verdict
+of your chosen path, that of the Fey-Wielders.  Within this chamber the very
+Fey of the Tower measures your aptitude and affinity for the Fey.  If you
+are found lacking in any aspect, you may never be allowed entry into the
+Tower Center, but if you are found to be worthy of learning the art of the
+Fey-Wielders, then you will become one with the Brotherhood of Fey-Wielders,
+a society of power, a brotherhood of the Fey.  Go then, upwards into the
+Tower Center, if you are able that is.  Otherwise, return to your miserable
+life and know ye that the Fey will forever be out of your grasp.  
+~
+0 8 0
+D4
+The steps lead up into the center of the Tower.
+~
+~
+0 -1 25527
+D5
+The Council Chamber lies directly below you.
+~
+~
+0 -1 25514
+M 50 H 50
+S
+#25529
+A Hallway in the Tower~
+Northward you go, seeking out the knowledge to be found in the now famous
+Fey-Born Tower Library.  The hallway itself seems to be pulsating with
+fey-born energies, almost as if the very walls were alive.  Purple mist
+creeps along the floor from further north, but you recognize it as what it
+truly is, raw Fey.  Truly knowledge is power, and soon you hope to
+manipulate that power for your own needs.  Such is the way of things, and
+you shant disappoint.  
+~
+0 8 0
+D0
+The Tower Library lays this way.
+~
+~
+0 -1 25530
+D2
+The Tower Center lies to the south of you.
+~
+~
+0 -1 25527
+M 50 H 50
+S
+#25530
+The Tower Library Entrance~
+Entering the library, you are greeted with the sweet, musty scent of old
+books and parchments.  This library is reknown for having one of the largest
+collection of ancient history.  Within these very books are suppose to be
+the records of Janus's birth, and of all the Taken, and with that, the True
+Names of the powers of Nidus.  With such knowledge one could lay claim to
+the powers of the Taken, and rule over the world of Nidus.  However, if all
+this is true, why hasn't anyone found those names yet?  Maybe they weren't
+as thorough as they should of been, or as you will be?  Maybe.  The library
+is separated into three sections, the legends and lore to the east, to the
+west the histories of Nidus, and all available knowledge of the Fey to the
+north.  
+~
+0 8 0
+D0
+The Fey-Lore section of the library is this way.
+~
+~
+0 -1 25531
+D1
+The Legends and Lore section of the library is this way.
+~
+~
+0 -1 25533
+D2
+The Tower Center is at the end of the hallway.
+~
+~
+0 -1 25529
+D3
+The History section of the library is this way.
+~
+~
+0 -1 25532
+M 50 H 50
+S
+#25531
+The Tower Library~
+Shelves and shelves of ancient scrolls and books cover almost every inch
+of space.  Some of these scrolls are so old that they aren't even written on
+actual parchment, but are written on everything from electrum sheets to
+sheep skin.  The tomes range in almost every Fey-born topics, from the great
+CHAOS to the current discoveries of manipulation of the Fey.  A small round
+table in the corner with a cushioned chair offers you a nice little place to
+put down your texts and relax while you drink in the knowledge.  
+~
+0 8 0
+D2
+The Library Entrance is here.
+~
+~
+0 -1 25530
+M 50 H 50
+S
+#25532
+The Tower Library~
+Books the size of small tables line the south and north wall from the
+ceiling to the floor.  The walls are in actuality ready made stone shelves,
+for only stone shelving's could support the sheer weight of all these
+enormous volumes of history.  All the books are neatly arranged in
+chronological order, supposedly dating as far back as the birth of Janus
+himself.  All of those records are suppose to be contained right here in
+this library, within one of these very volumes.  A small alcove is located
+at the western wall with a small table and a wooden chair set into it, lit
+by a small shimmering mage-globe to read by.  
+~
+0 8 0
+D1
+The Library Entrance is here.
+~
+~
+0 -1 25530
+M 50 H 50
+S
+#25533
+The Tower Library~
+The Legends and Lore section, possibly the most popular section of the
+entire library, is always full by both apprentices and by the Fey Masters. 
+Both, apprentice and master, have dreams and fantasies of being the one to
+uncover the location of some long forgotten artifact or place of power. 
+This entire section is brimming with rumors and folklore now ancient by even
+dwarven standards.  Still, the slight hope of uncovering just one of these
+ancient relics of the past, when the Fey of Nidus was as yet untapped and
+real weapons of power existed, drive even the wisest of the Fey-Wielder
+brotherhood to spend hours upon hours locked away just reading ancient tomes
+day after day for that hidden clue to the past.  
+~
+0 8 0
+D3
+The Library entrance is here.
+~
+~
+0 -1 25530
+M 50 H 50
+S
+#25534
+A Hallway in the Tower~
+Heading towards the Apprentice Dorm rooms, you are greeted with the
+sounds of laughter reverberating down the hallway.  This section of the
+Fey-Born Tower is one of the few where the would-be Wielders of Fey have
+full, and complete reign of their limited free time.  The small hallway
+continues further west to the actual dorm rooms, the living center for the
+apprentices, while the Tower Center is just a bit east of here.  
+~
+0 8 0
+D1
+The Tower Center is just a bit to the east.
+~
+~
+0 -1 25527
+D3
+Loud laughter and noises seem to be coming from the end of the hallway.
+~
+~
+0 -1 25535
+M 50 H 50
+S
+#25535
+The Apprentice Dormitory~
+Closed doors greet you to the north, west, and south as you come into the
+Apprentice Dormitory.  Loud noises and laughter spill forth from almost
+every door as the apprentices take full advantage of their own time, what
+little of it is ever provided.  This room is set with an enormous stone
+table with stone benches running along on each side of it.  Some small
+scraps of food are all that is left on the table, as it seems that most of
+today's grub has already been eaten and taken back into the apprentice's
+quarters.  You may enter the sleeping quarters of the apprentices, though
+you doubt you would ever get much sleep with all the loud noises and
+laughter coming from them.  
+~
+0 8 0
+D0
+A small wooden door is closed here.
+~
+door~
+1 -1 25515
+D1
+The Tower Center is a ways off to the east from here.
+~
+~
+0 -1 25534
+D2
+A small wooden door is closed here.
+~
+door~
+1 -1 25537
+D3
+A small wooden door is closed here.
+~
+door~
+1 -1 25536
+M 50 H 50
+S
+#25536
+Apprentice's Quarters~
+Entering you are almost bowled over by what at first appears to be a
+fight.  You instinctively pull out your weapon and prepare to defend
+yourself, until you take a closer look.  All the other apprentices seem to
+be cheering on one combatant or the other with money clutched tightly in
+their hands, in what appears to be an intense wrestling match.  Maybe you
+can get in on the action.  
+~
+0 8 0
+D1
+The dormitory mess hall is just outside.
+~
+door~
+1 -1 25535
+M 50 H 50
+S
+#25537
+Apprentice's Quarters~
+Oddly enough, this room is extremely quiet compared to the ruckus
+emanating from the other rooms.  Bathed in darkness, not a single candle nor
+mage-globe lights the room.  Stepping in to get a closer look you see strewn
+about the room are exhausted apprentices, all sprawled out trying to get
+what little sleep they can get before their next session with their
+Fey-Master .  These must be those apprentices that have met with the
+Mistress of Fey and have been assigned to a Fey-Master to guide their
+training, before they are finally allowed to tap the power that is the Fey. 
+Be nice and don't wake them, just let them sleep.  
+~
+0 9 0
+D0
+The dormitory mess hall is just outside.
+~
+door~
+1 -1 25535
+M 50 H 50
+S
+#25538
+A Hallway in the Tower~
+Down the hallway, you walk cautiously for fear that someone may see you
+sneaking about.  Only the Fey-Masters are allowed down this way, for the
+personal quarters of all the Fey-Masters are the only things in the eastern
+section of the Tower.  All apprentices have been warned not to venture down
+this hallway, for if they are caught, the punishment for trespassing is
+death.  Privacy is a staple of Fey-Wielders, and ware all those who would
+encroach upon the privacy of any Fey-Master, for their mastery of the Fey is
+mighty indeed, and their wrath is known to be even greater.  Continue on
+then, if you dare, but know ye that you have been warned for the last time. 
+~
+0 8 0
+D1
+Down the hallway lay the private quarters of the Fey-Masters.
+~
+~
+0 -1 25539
+D3
+The Tower Center is directly to the east of you.
+~
+~
+0 -1 25527
+M 50 H 50
+S
+#25539
+Fey-Master's Dormitory~
+Here then, at the end of the eastern section of the Tower you find
+yourself facing three closed oak doors.  The grand secrets of the Fey
+Masters that they won't teach you yet may await inside, or maybe only death
+awaits inside, if you are caught that is.  Looking closely about you can't
+seem to spot any guard-runes or sigils protecting the doors from entry. 
+Putting your ear up against each door, you convince yourself that all the
+Fey-Masters are either in a session, in the library, or off on some business
+in Khaipur.  Dare you enter and risk being caught, or are the secrets within
+worth even the price of death?  
+~
+0 8 0
+D0
+A large oak door is shut before you.
+~
+door~
+1 -1 25516
+D1
+A large oak door is sealed before you, for a reason.
+~
+door~
+1 -6889 25540
+D2
+A large oak door is shut before you.
+~
+door~
+1 -1 25541
+D3
+The Tower Center is directly to the east of you.
+~
+~
+0 -1 25538
+M 50 H 50
+S
+#25540
+Fey-Master's Quarters~
+Foolish indeed you have been for ever daring to enter the private
+chambers of one of the Fey-Masters.  Before you in all his grand and
+glorious might stands Grendek, the Master of Battle Globes, and he is not
+pleased.  You knew the price for trespassing, and now Grendek shall be the
+one to be collecting the price for your audacity and most foolish arrogance.
+Prepare for your final lesson in the use of Fey in battle, a lesson you
+shall wish you had never learned.  
+~
+0 8 0
+D3
+The only exit is here.
+~
+door~
+1 -6889 25539
+M 50 H 50
+S
+#25541
+Fey-Master's Quarters~
+Slowly opening the door, you peek inside to discover a sleeping Fey
+Master.  The room is bathed in a soft golden light from a mage-globe on the
+night table, showering the entire contents of the room in an eerie light. 
+From what you can see, no books or items of power can be readily seen.  Dare
+you enter and risk waking your teacher, a powerful Fey-Master, just for the
+hope of finding something of power inside?  Well, you have come this far
+haven't you, whats a little further...  
+~
+0 8 0
+D0
+The only exit is here.
+~
+door~
+1 -1 25539
+M 50 H 50
+S
+#25542
+A Hallway in the Tower~
+Sparks light the entire passageway as you get closer to the Learning
+Grounds.  Within this section of the Tower the would-be Fey-Wielder learn
+how to best apply their new found knowledge and skills with fey in both
+creative and destructive forms.  It is here that all magicians must learn to
+not just use the Fey, but to actually thrive in unison, as one with the Fey
+for a chance to survive the dreaded ^Crimson^Lust^ that plagues this, oh so
+harsh land of Nidus.  Southward then, into the Learning Grounds, or return
+back north to the Tower Center.  
+~
+0 8 0
+D0
+The Tower Center is just a few steps away.
+~
+~
+0 -1 25527
+D2
+~
+~
+0 -1 25543
+M 50 H 50
+S
+#25543
+Entrance to the Learning Grounds~
+Entering the Learning Grounds is not recommended for any magician, lest
+they be the bravest and the strongest, for deaths are common place within
+the Grounds.  The entire southern section of the Fey-Born Tower has been
+altered to reflect every terrain and condition currently known in the lands
+of Nidus.  Personal duels and challenges occur here almost daily, and are
+fully sanctioned by the very Fey-Masters, but ware for they are known and
+quite fond of throwing in unforeseen obstacles, such as sneak attacks from
+other apprentices, and Fey-worked areas, in order to add the element of the
+unknown.  Enter then, but know ye that death may follow you in, and you may
+never leave...  
+~
+0 1036 2
+D1
+The unknown.
+~
+~
+0 -1 25547
+D2
+The unknown.
+~
+~
+0 -1 25546
+D3
+The unknown.
+~
+~
+0 -1 25544
+M 50 H 50
+S
+#25544
+The Learning Grounds~
+High above the billowing clouds, you suddenly find yourself on a steep
+mountain side.  Boulders the size of rooms surround you, providing an
+excellent place for an unseen assailant to lay in wait, and to look for the
+most opportune moment in which to strike you down in.  The air up here is so
+thin that you find yourself struggling for every breath of air.  Just then,
+you hear the same labored breathing as your own just beyond a set of boulder
+to the south, or was that just your imagination?  
+~
+0 8192 5
+D1
+The unknown.
+~
+~
+0 -1 25543
+D2
+The unknown.
+~
+~
+0 -1 25545
+D4
+The unknown.
+~
+~
+0 -1 25552
+D5
+The unknown.
+~
+~
+0 -1 25547
+S
+#25545
+The Learning Grounds~
+Into a sandstorm you trudge along, with the noon sun beating down upon
+your weary shoulders, blistering your skin where-so-ever it finds it
+exposed.  Parched from thirst, you don't know how much longer you can
+continue on, for even your thoughts are drowned out from the ever constant
+howling of the stinging sands upon your beaten body.  Yet, with every single
+step you take, you know you near closer to your target, or is it that you
+yourself are now the target?  Within the confines of this sandstorm, one
+would never know, for a person could walk right beside someone and be only a
+mere five feet away, and none would be the wiser.  
+~
+0 8704 10
+D2
+The unknown.
+~
+~
+0 -1 25551
+D1
+The unknown.
+~
+~
+0 -1 25546
+D0
+The unknown.
+~
+~
+0 -1 25544
+S
+#25546
+The Learning Grounds~
+Upon a tiny life-raft you find yourself, with only the endless sea to be
+seen in every direction.  Adrift on a skiff, barely able to hold two, you
+take comfort in the knowledge that the intimacy of the moment will not be
+spoiled, for death is such a personal thing after all.  Here on this raft,
+your victim will receive no S.  O.  S.  , no last appeal to the Taken, just
+you and them, in a dark and ever final embrace, the coldest embrace, the
+embrace of death.  
+~
+0 8705 7
+D3
+The unknown.
+~
+~
+0 -1 25545
+D1
+The unknown.
+~
+~
+0 -1 25548
+D2
+The unknown.
+~
+~
+0 -1 25550
+S
+#25547
+The Learning Grounds~
+Night falls over you as you step into a tropical jungle, into a dark
+jungle in search of your prey.  This jungle however is home to so many wild
+predators, where even you can become the one hunted, instead of the hunter. 
+Swarms of insects continuously bite and harass you while the sounds of the
+jungles fill your ears.  A low and guttural growl suddenly emanates from a
+dark shadow in a tree branch directly above you, your prey perhaps?  Or
+maybe you're the prey now,...  Perhaps....  
+~
+0 8193 3
+D2
+The unknown.
+~
+~
+0 -1 25548
+D3
+The unknown.
+~
+~
+0 -1 25543
+S
+#25548
+The Learning Grounds~
+Alone in the darkness of the deepest sea, here the only death you shall
+know is the one you make for yourself.  Not even the feared ruler of the
+sea, the gargantuan Leviathan, ventures so far down in the ocean floor.  The
+pressure starts to rise as your control over the Fey begins to wane, for so
+deep along the ocean bottom have you ventured.  Staying here any longer
+would be folly, for without the protection of your most precious Fey, the
+sheer pressure of the ocean would crush the very life from you in but an
+instant.  
+~
+0 10241 7
+D0
+The unknown.
+~
+~
+0 -1 25547
+D1
+The unknown.
+~
+~
+0 -1 25551
+D3
+The unknown.
+~
+~
+0 -1 25546
+D2
+The unknown.
+~
+~
+0 -1 25549
+D4
+The unknown.
+~
+~
+0 -1 25550
+S
+#25549
+The Learning Grounds~
+On a busy thoroughfare, you find yourself moving through a throng of
+people in search of your elusive prey.  With so many people crowding the
+streets, you just can't be sure if your prey is even here, and if they are,
+whether they are lurking in the crowd waiting to strike, or moving with the
+throng of people to a safer battleground.  Your target could be anywhere,
+here or there.  Best to keep moving along lest you are caught off guard, no
+need to hurt the innocent, is there?  
+~
+0 8200 1
+D0
+The unknown.
+~
+~
+0 -1 25548
+D3
+The unknown.
+~
+~
+0 -1 25550
+S
+#25550
+The Learning Grounds~
+The biting cold of the snow causes even your Fey-protected body to
+shiver.  Blinded by the sheer starkness of the pure white sea of snow, your
+breath is crystallized the moment it leaves the warm safety of your lungs. 
+Here in the open, even you are an easy target, much like that wholly mammoth
+searching for food in this nature made hell, the hell of the frozen tundra. 
+~
+0 8193 10
+D1
+The unknown.
+~
+~
+0 -1 25549
+D3
+The unknown.
+~
+~
+0 -1 25551
+D0
+The unknown.
+~
+~
+0 -1 25546
+S
+#25551
+The Learning Grounds~
+Inside the privacy of an abandoned room, you prepare to make your stand. 
+There are no places to hide in here, only the air between you and your foe
+stands in your way.  The final stand will be made here, with no tricks, no
+hidden surprises, just you and your target, skill against skill.  Prepare
+yourself, for only one person will walk away from here alive, the other will
+be paying a quick visit to the Angel of Death.  Die then.  
+~
+0 8200 0
+D1
+The unknown.
+~
+~
+0 -1 25550
+D0
+The unknown.
+~
+~
+0 -1 25545
+S
+#25552
+The Learning Grounds~
+In the open air, among the clouds and the care free birds.  Far in the
+distance you can see a white dragon out on the hunt for live stock, or
+humans, whatever it may prefer today.  Out in the open, away from the Fey
+that you rely upon to create the spells and affects you shall use in combat.
+Of course, this also means that your opponent will be unable to use their
+Fey-born powers to their fullest potential also...  Who would need them
+more, you or your opponent, only time will tell.  
+~
+0 1 9
+D5
+The unknown.
+~
+~
+0 -1 25544
+S
+#0
+
+
+
+#SPECIALS
+M 25501 spec_breath_any
+M 25502 spec_breath_fire
+M 25503 spec_breath_acid
+M 25504 spec_cast_mage
+M 25507 spec_cast_mage
+M 25508 spec_cast_mage
+M 25509 spec_breath_frost
+M 25510 spec_breath_fire
+M 25511 spec_breath_frost
+M 25512 spec_breath_lightning
+M 25513 spec_cast_mage
+M 25518 spec_cast_mage
+M 25525 spec_breath_gas
+M 25526 spec_cast_mage
+M 25527 spec_cast_mage
+S
+
+
+
+#RESETS
+D 0 25513 3 2
+D 0 25515 2 1
+D 0 25516 2 1
+D 0 25518 0 1
+D 0 25519 2 1
+D 0 25535 0 1
+D 0 25535 3 1
+D 0 25536 1 1
+D 0 25537 0 1
+D 0 25539 0 1
+D 0 25539 1 1
+D 0 25539 2 1
+D 0 25540 3 2
+D 0 25541 0 1
+M 0 25501 1 25501 1
+M 0 25503 1 25502 1
+M 0 25502 1 25503 1
+M 0 25504 1 25504 1
+M 0 25505 1 25505 1
+M 0 25506 1 25506 1
+M 0 25508 1 25506 1
+M 0 25507 1 25506 1
+M 0 25509 1 25507 1
+M 0 25531 1 25513 1
+M 0 25510 1 25514 1
+M 0 25511 1 25514 1
+M 0 25512 1 25514 1
+M 0 25514 1 25515 1
+M 0 25515 1 25515 1
+M 0 25516 1 25515 1
+M 0 25522 1 25517 1
+M 0 25517 2 25518 2
+M 0 25517 2 25518 2
+M 0 25513 8 25521 8
+M 0 25513 8 25521 8
+M 0 25513 8 25523 8
+M 0 25513 8 25523 8
+M 0 25513 8 25525 8
+M 0 25513 8 25525 8
+M 0 25521 2 25527 2
+M 0 25513 8 25528 8
+M 0 25513 8 25528 8
+M 0 25518 1 25530 1
+M 0 25526 2 25532 2
+M 0 25519 1 25533 1
+M 0 25520 2 25533 2
+M 0 25520 2 25533 2
+M 0 25523 2 25536 2
+M 0 25523 2 25536 2
+M 0 25524 4 25537 4
+M 0 25524 4 25537 4
+M 0 25524 4 25537 4
+M 0 25524 4 25537 4
+M 0 25525 1 25540 1
+M 0 25526 1 25541 1
+M 0 25527 1 25543 1
+R 0 25544 4
+R 0 25545 4
+R 0 25546 4
+R 0 25547 4
+M 0 25528 1 25547 1
+R 0 25548 4
+R 0 25549 4
+M 0 25529 2 25549 2
+M 0 25529 2 25549 2
+R 0 25550 4
+M 0 25530 1 25550 1
+R 0 25551 4
+R 0 25552 4
+S
+
+
+
+#SHOPS
+25501 9 13 0 0 0 100 50 0 23
+25502 0 10 0 0 0 100 50 0 23
+25503 2 4 3 0 0 100 50 0 23
+25504 0 13 0 0 0 100 50 0 23
+0
+
+
+
+#$

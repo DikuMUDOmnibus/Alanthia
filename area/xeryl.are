@@ -1,0 +1,1211 @@
+#AREADATA
+Name Xeryl~
+Builders Fluffy Halodar~
+VNUMs 8000 8099
+Credits {235 265} Glory       Xeryl~
+Security 9
+Version 1
+End
+
+
+
+#MOBILES
+#8000
+hellion~
+a hellion~
+A hellion's eyes glitter at you.
+~
+The demonspawn is the result of human and demonic coupling.  The
+creature's soul has been tainted dark as night, embracing the worst of both
+races.  
+~
+unique~
+AC 0 -400 0
+235 0 2d6+60 2d9+100 1d6+1 none
+5 5 5 9
+EFNU 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#8001
+cendrid~
+a cendrid~
+A cendrid scurries up your leg.
+~
+The cendrid has the body of a giant centipede, and the head of a human
+infant.  Patches of skin cover the eye sockets, and its mouth opens and
+closes as if searching for its mother's teat.  
+~
+unique~
+ACG Z -500 0
+240 0 2d7+121 5d9+100 2d4+2 none
+1 1 1 8
+EFNU 0 FI E
+stand stand none 0
+ABGHMOV ABCDEFGHIJK medium 0
+#8002
+gutter snipe~
+a gutter snipe~
+A gutter snipe plays in the muck.
+~
+A vampire child frequents the gutters in search for a rat to feed from. 
+The child is obviously well fed.  
+~
+unique~
+AGT DGTZ -600 0
+247 0 3d9+258 8d9+100 3d4+4 bite
+-3 -3 -3 7
+EFNU LQ Q HNS
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+M greet 8000 7~
+#8003
+ice demon~
+an ice demon~
+An ice demon gazes at you coldly.
+~
+Ice shards hang from its wings and frost forms in the air with each
+breath it exhales.  
+~
+unique~
+ACG GJTZ -600 0
+246 0 3d9+233 8d9+100 2d6+4 none
+-2 -2 -2 7
+EFNU I LQ HKNS
+stand stand male 0
+AHMV ABCDEFGHIJKUVW medium 0
+#8004
+drow spectre~
+a drow spectre~
+A drow spectre flickers in and out of sight.
+~
+A spectral vision of a drow floats before you, mouthing words in an
+unintelligble tongue.  
+~
+unique~
+ACGHS DEFGJQTU -600 0
+240 0 2d6+110 5d9+100 1d8+2 none
+2 2 2 8
+BEFJNU Q L HNS
+stand stand none 0
+AHMVZ ABCDEFGHIJKLOPQUVWXY medium 0
+#8005
+little devil~
+a little devil~
+A little devil dances around you cackling.
+~
+She has a shapely body and is quite young.  She has a lot to learn about
+the virtues of darkness.  Perhaps you can be her teacher.  
+~
+unique~
+ACG GTZ -400 0
+244 0 2d10+190 7d9+100 1d12+3 none
+-1 -1 -1 8
+EFNU 0 HLQ IKNS
+stand stand female 0
+AHMV ABCDEFGHIJKUVW medium 0
+#8006
+incubus~
+an incubus~
+An incubus gazes around for women to seduce.
+~
+A striking being with jet black hair and crystal blue eyes, he has wings
+sprouting from his shoulders.  His body is lean and muscular and able to
+satisfy even the most frigid of women.  
+~
+unique~
+AG DFGTZ -1000 0
+250 0 3d9+333 10d9+100 2d8+5 none
+-4 -4 -4 7
+EFNU 0 HLQ IKNS
+stand stand male 0
+AHMV ABCDEFGHIJKUVW medium 0
+M bribe 8003 1000~
+M greet 8002 9~
+#8007
+succubus~
+a succubus~
+A succubus rubs her hands slowly along her body.
+~
+She is dark and sultry with full ruby red lips.  
+~
+unique~
+ACQ DFGJTZ -600 0
+252 0 5d10+400 11d9+100 4d4+6 none
+-5 -5 -5 7
+EFNU 0 HLQ IKNS
+stand stand female 0
+AHMV ABCDEFGHIJKUVW medium 0
+M bribe 8003 1000~
+M greet 8002 9~
+#8008
+skaven~
+a skaven~
+A skaven looks rabid.
+~
+The skaven stands about 6 feet tall and is covered in coarse grey fur. 
+Its rat-like face peers at you with beady little eyes.  
+~
+unique~
+ABCS DF -900 0
+255 0 5d10+550 12d9+100 2d10+7 none
+-7 -7 -7 6
+EFNU 0 0 0
+stand stand none 0
+AGHMV ABCDEFGHIJK medium 0
+#8009
+human assassin~
+an assassin~
+A human assassin attempts to cloak his presence.
+~
+The assassin is shrouded with a thick cloak.  It is difficult to hold him
+in your sights.  
+~
+unique~
+ACS DFQ -400 0
+249 0 3d9+308 9d9+100 2d7+5 none
+-4 -4 -4 7
+EFNU 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#8010
+archfiend~
+the Archfiend~
+The Archfiend watches over his thriving town.
+~
+He is a powerful demon, resolved to provide the citizens with their
+utmost pleasures.  His wings extend widely from his body, ready to crush all
+that stand in his way.  
+~
+unique~
+ABGR BDFGHTZ -1000 0
+260 3 6d12+853 15d9+100 4d6+8 none
+-9 -9 -9 6
+EFNU 0 HLQ IKNS
+stand stand male 0
+AHMV ABCDEFGHIJKUVW medium 0
+#8011
+shopkeeper crystal~
+the shopkeeper~
+The shopkeeper is cleaning a crystal.
+~
+You see a tall lean man, his fangs barely noticeable.  He has the hands
+of an artisan, but you instinctively know his craft does not deter him from
+his feedings.  
+~
+unique~
+ABG DFGTZ -600 0
+300 0 4d10+360 10d9+100 4d4+5 none
+-5 -5 -5 7
+0 CDLQ Q HNS
+stand stand male 100000
+AHMV ABCDEFGHIJK medium 0
+#8012
+butcher demon~
+the butcher~
+A demon stands behind the counter, his apron splattered with blood.
+~
+He does not seem pleased this day.  Bits of flesh are buried under his
+talons, and his wings have lost their luster.  
+~
+unique~
+ABG GTZ -600 0
+300 0 4d10+360 10d9+100 4d4+5 none
+-5 -5 -5 7
+EFNU CD HLQ IKNS
+stand stand male 100000
+AHMV ABCDEFGHIJKUVW medium 0
+#8013
+shopkeeper herbal~
+the shopkeeper~
+The shopkeeper is covered with dust.
+~
+A surly looking man with a head full of scraggly white hair.  
+~
+unique~
+ABG DF -600 0
+300 0 4d10+360 10d9+100 4d4+5 none
+-5 -5 -5 7
+0 CDLQ 0 0
+stand stand male 100000
+AHMV ABCDEFGHIJK medium unknown
+#8014
+barkeeper female orc orkagna~
+Orkagna~
+A female orc tends to the bar.
+~
+She is a stocky, drooling, disgusting orc who seems to be fluttering her
+eyelashes at you.  
+~
+unique~
+ABG DFJ -600 0
+300 0 4d10+360 10d9+100 4d4+5 none
+-5 -5 -5 7
+0 CD Q S
+stand stand female 100000
+AHMV ABCDEFGHIJK medium unknown
+#8015
+dominatrix marlina~
+Marlina~
+A statuesque dominatrix eyes you.
+~
+She stands about 6 feet tall and gives you the impression she means
+business.  You feel restless in her presence.  
+~
+unique~
+ABT DFH -600 0
+260 0 6d12+850 15d9+100 4d6+7 none
+-9 -9 -9 3
+EFIK 0 0 0
+stand stand female 3000
+AHMV ABCDEFGHIJK medium unknown
+M greet 8001 50~
+#8016
+christoff man~
+Christoff~
+A muscular man awaits your approach.
+~
+His muscles are clearly defined, yet not overstated.  His black leggings
+leave nothing to the imagination, and the top of his billowing silken white
+shirt is unbuttoned half-way.  He has soft dark brown hair that rests
+lightly at his shoulders.  
+~
+unique~
+ABGT DFH -600 0
+260 0 6d12+900 15d9+100 4d6+7 punch
+-9 -9 -9 3
+FIKNV 0 0 0
+stand stand male 3000
+AHMV ABCDEFGHIJK medium unknown
+#8017
+gryphon~
+a gryphon~
+A gryphon is here.
+~
+~
+unique~
+ABIU DFLT 0 0
+30 3 1d1+450 1d1+499 4d7+7 claw
+-9 -9 -9 6
+CFH L 0 S
+stand stand either 0
+ABGHMVZ ABCDEFGHIJKQVX medium unknown
+#8018
+petkeeper~
+petkeeper~
+The petkeeper grumbles at you.
+~
+His is a thankless job.  
+~
+unique~
+ABM DJ -600 0
+300 0 5d10+450 11d9+100 3d6+6 none
+-6 -6 -6 6
+EFNU ABCD Q S
+stand stand male 1000
+AHMV ABCDEFGHIJK medium unknown
+#8019
+werebear~
+a werebear~
+A werebear is here.
+~
+~
+unique~
+ABIU 0 0 0
+35 4 1d1+525 1d1+499 6d4+11 claw
+-11 -11 -11 3
+DEO 0 EI 0
+stand stand either 0
+AGV ABCDEFHJKUV medium unknown
+#8020
+wyvern~
+a wyvern~
+A wyvern is here.
+~
+~
+unique~
+ABIU DFLT 0 0
+40 4 1d1+600 1d1+499 4d8+13 claw
+-13 -13 -13 5
+CFH L 0 S
+stand stand either 0
+ABGZ ACDEFHJKQVX medium unknown
+#8021
+highland elf~
+a highland elf~
+A highland elf has been left here to rot.
+~
+What a pitiful looking soul.  He appears gaunt and malnourished.  
+~
+unique~
+ABU 0 0 0
+230 0 1d1+7 1d1+99 1d3+0 none
+10 10 10 10
+EFJV AB 0 C
+stand stand male 10
+AMV ABCDEFHJKQU medium unknown
+#8022
+sprite princess~
+a sprite princess~
+A sprite princess spits in your face.
+~
+What a little priss!  She tosses her head at you and gives you that
+'holier than thou' look.  Why don't you just kill her and get it over with! 
+~
+unique~
+ABFHU 0 0 0
+230 0 1d1+7 1d1+99 1d3+0 claw
+10 10 10 10
+EFHJKV AB 0 C
+stand stand none 10
+AMV ABCDEFHJKQU medium unknown
+#8023
+giant slime~
+a giant slime~
+A giant slime slurps in your direction.
+~
+You see a non-descript quivering pile of green slime.  
+~
+unique~
+ABU 0 0 0
+230 0 1d1+7 1d1+99 1d3+0 claw
+10 10 10 10
+EFV AB 0 C
+stand stand none 10
+AMV ABCDEFHJKQU medium unknown
+#8024
+giant millipede~
+a giant millipede~
+An aggressive millipede lunges for you!
+~
+So many legs with which to kill, so little time.  
+~
+unique~
+ABFU 0 0 0
+230 0 1d1+7 1d1+99 1d4+0 none
+10 10 10 10
+EK AB 0 C
+stand stand none 10
+AMV ABCDEFHJKQU medium unknown
+#8025
+young vampire~
+a young vampire~
+A young vampire awaits you.
+~
+This creature keeps itself nourished by feeding off of initiates' corpses.  
+~
+unique~
+ABU JT 0 0
+233 1 2d4+30 1d1+99 1d6+1 bite
+8 8 8 10
+EFN AB 0 C
+stand stand none 30
+AMV ABCDEFHJKQU medium unknown
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#8001
+Dimension Gate~
+Rising high out of the shifting sands is a distortion flickering in and
+out of sight.  The desert heat bears down against you, causing you to melt
+beneath your armor.  
+~
+0 0 1
+D0
+~
+~
+0 0 5062
+S
+#8002
+Entrance to Xeryl~
+A stone archway bridges the rocky path south.  Atop the archway, a small
+stone demon rests its head in its hands, flashing a mischevous grin.  The
+sky seems to be frozen with twilight hues.  The passing of time means
+nothing here.  
+~
+0 4 1
+D2
+~
+~
+0 0 8003
+S
+#8003
+Intersection of Perversity and Impiety~
+An eight foot post has a latern dangling from it, marking the
+intersection.  East is the Path of Impiety.  South is the Path of
+Perversity.  To the west is a merchant surrounded by cages.  North is the
+entrance to Xeryl.  
+~
+0 0 1
+E
+sign~
+Young Initiates Only!  
+~
+D0
+~
+~
+0 0 8002
+D1
+~
+~
+0 0 8010
+D2
+~
+~
+0 0 8004
+D3
+~
+~
+0 0 8021
+D5
+~
+~
+0 0 8035
+S
+#8004
+Path of Perversity~
+You continue along the Path of Perversity.  A group of winged imps flutter 
+~
+0 0 1
+D0
+An intersection lies in this direction.
+~
+~
+0 0 8003
+D2
+~
+~
+0 0 8005
+S
+#8005
+Intersection of Perversity and Rage~
+A circular structure rests in the middle of the intersection.  It has
+been carved from a dark glittering stone and is filled with liquid.  Roadway
+of Rage stretches to the west.  Path of Perversity extends north and south. 
+~
+0 0 1
+D0
+~
+~
+0 0 8004
+D1
+~
+~
+0 0 8011
+D2
+~
+~
+0 0 8006
+D5
+~
+~
+0 0 6734
+S
+#8006
+Intersection of Perversity and Suffering~
+A young elven woman is bound and gagged sitting up against a lantern
+pole.  Open wounds along her bare skin are oozing puss.  A shaker of salt
+has been tied to the pole at an angle, allowing a slow stream of salt to
+pour into her wounds.  She writhes in unbearable agony.  
+~
+0 0 1
+D0
+~
+~
+0 0 8005
+D1
+~
+~
+0 0 8012
+D2
+~
+~
+0 0 8007
+D3
+~
+~
+0 0 8023
+S
+#8007
+Intersection of Perversity and Obscenity~
+Something knocks against your head as you pass by a lantern post.  You
+look up to see an unclothed castrated man dangling peacefully from the top
+of the post, a grim reminder of the sickening deeds the residents of this
+town revel in.  Perversity continues north and south.  Obscenity extends to
+the east.  
+~
+0 0 1
+D0
+~
+~
+0 0 8006
+D1
+~
+~
+0 0 8013
+D2
+~
+~
+0 0 8008
+D3
+~
+~
+0 0 8024
+S
+#8008
+Path of Perversity~
+Raucous laughter eminates from the south, and a gang of demons exit the
+southern building, stumbling past you.  Luckily, they are too intoxicated to
+bother with the likes of you.  Path of Perversity extends to the north.  
+~
+0 0 1
+D0
+~
+~
+0 0 8007
+D2
+~
+door~
+1 0 8009
+S
+#8009
+A Dingy Tavern~
+The floor is sticky with spilled alcohol and various other fluids.  The
+tavern, as always, is doing a healthy amount of business.  You see the bar
+to the south.  
+~
+0 8 1
+D0
+~
+door~
+1 0 8008
+D1
+~
+~
+0 0 8014
+D2
+~
+~
+0 0 8020
+D3
+~
+~
+0 0 8025
+S
+#8010
+Path of Impiety~
+The path is illuminated with a dim glow, a mixture of the hues of
+twilight and a scattering of hanging lanterns.  Scuttling across the path
+are large multi-legged insects with very tiny human infant heads.  Their
+quiet squallings grate against your nerves.  
+~
+0 0 1
+D1
+~
+~
+0 0 8015
+D3
+~
+~
+0 0 8003
+S
+#8011
+Roadway of Rage~
+A disconcerting crunch vibrates through your footwear with each step you
+take.  A fear gnaws at you as your gaze is drawn downward.  Partially
+decomposed body parts litter the roadway, rats swarming over the rotting
+meat.  Nausea is quickly becoming your best friend.  
+~
+0 1 1
+D1
+~
+~
+0 0 8017
+D3
+~
+~
+0 0 8005
+S
+#8012
+Path of Suffering~
+You find yourself in an open square.  The shadows from the lanterns
+splash over various torturing devices.  A spiked column stained with a dark
+substance stands at the northern end of the square, while scattered around
+you are tables and chairs with pulleys, levers, and spikes.  In the center
+of the square is a massive whetstone.  
+~
+0 0 1
+D1
+~
+~
+0 0 8018
+D3
+~
+~
+0 0 8006
+S
+#8013
+Obscenity Road~
+A large statue of a winged demon adorns the center of the road.  The
+detail is breathtakingly real.  You can see every ripple of muscle, every
+crease of skin.  It is quite apparent that this demon is ready and able to
+spread his demonseed to the next fertile female he finds.  
+~
+0 0 1
+D1
+~
+~
+0 0 8019
+D3
+~
+~
+0 0 8007
+S
+#8014
+A Dingy Tavern~
+This part of the tavern is brightly lit, allowing you a full view of a
+succubus performing a lap dance for a human.  A Mul is chained in a corner,
+beating upon a drum in time with the succubus's gyrations.  
+~
+0 8 1
+D3
+~
+~
+0 0 8009
+S
+#8015
+Corner of Impiety and Debauchery~
+Gazing north into the falling night, you see small winged demons dancing
+in a circle around a young human girl.  She is strapped to a stone slab with
+a transparent covering that hides nothing.  Even from this distance you can
+see the demons' hungry eyes glittering.  
+~
+0 0 1
+D2
+~
+~
+0 0 8016
+D3
+~
+~
+0 0 8010
+S
+#8016
+Debauchery Lane~
+The smell of sweat and lust drifts in on a breeze from the east.  This
+lane seems to be a bit busier than the rest.  An unfamiliar aching begins to
+course through your body.  
+~
+0 0 1
+E
+sign~
+Throt and Gleep's Megger Store est. 2107
+~
+D0
+~
+~
+0 0 8015
+D1
+~
+none~
+0 0 8026
+D2
+~
+~
+0 0 8017
+S
+#8017
+Intersection of Debauchery and Rage~
+Shadowy forms slip by you, sending a chill along your skin everytime they
+brush against you.  Roadway of Rage extends to the west while Debauchery
+continues north and south.  You are shocked to find you are beginning to
+enjoy the feel of this town.  
+~
+0 0 1
+D0
+~
+~
+0 0 8016
+D2
+~
+~
+0 0 8018
+D3
+~
+~
+0 0 8011
+S
+#8018
+Intersection of Debauchery and Suffering~
+It is becoming more and more difficult not to feel at home here.  The
+freedom of exploring your darkest fantasies is enticing.  Debauchery
+continues north and south.  Path of Suffering extends west.  
+~
+0 0 1
+D0
+~
+~
+0 0 8017
+D1
+~
+~
+0 0 8034
+D2
+~
+~
+0 0 8019
+D3
+~
+~
+0 0 8012
+S
+#8019
+Intersection of Debauchery and Obscenity~
+Obscenity Road to the west seems to be shrouded in darkness.  You must
+journey in that direction if you wish to discover what the darkness is
+protecting.  Debauchery extends north of you.  
+~
+0 0 1
+D0
+~
+~
+0 0 8018
+D3
+~
+~
+0 0 8013
+S
+#8020
+The Bar~
+A long wooden bar stretches the length of the southern wall.  Everything
+you touch is sticky and wet.  You opt not to take a seat on any of the
+stools before you.  Your throat is very dry, and you eye the collection of
+liquid filled bottles behind the bar.  
+~
+0 8 1
+D0
+~
+~
+0 0 8009
+S
+#8021
+Keeper of Sins~
+Cages surround a crouched being.  High-pitched whinings and quiet growls
+invade your ears as the creatures restlessly stir within their cages.  You
+notice that others are examining the cages and haggling with the merchant.  
+~
+0 4104 0
+D0
+~
+~
+0 0 8041
+D1
+~
+~
+0 0 8003
+S
+#8022
+Pet Storage~
+Pet storage.  Remember to _always_ put this directly after petshop.  
+~
+0 12 0
+E
+case~
+The display case contains the deadly nightshade and a curious root in the
+shape of a human.  
+~
+S
+#8023
+Demon Deli~
+The deli is in desperate need of cleaning.  Chunks of unidentifiable meat
+lie in bloody heaps on the floor.  You start to drool uncontrollably.  What
+is wrong with you??  
+~
+0 8 0
+D1
+~
+~
+0 0 8006
+S
+#8024
+Herbal Shop~
+A fine dust surrounds you as you enter, making your eyes water.  Tightly
+packed shelves cover every wall in the shop.  The herbs are stored in a
+collection of jars and vials shoved together onto the shelves.  
+~
+0 8 0
+D1
+~
+~
+0 0 8007
+S
+#8025
+A Dingy Tavern~
+Several of the tables and chairs lie broken on the floor.  Smashed
+glasses and bits of trash are scattered about.  Rats are busy nosing through
+the debris.  
+~
+0 8 0
+D1
+~
+~
+0 0 8009
+S
+#8026
+A Dark Dwelling~
+You stand before a two-story building crafted in reflection of gothic
+architecture.  You hear a variety of muffled sounds from within, intermixed
+with animalistic moans and cries.  The ache in your body has taken over.  It
+is difficult to resist entering the structure.  
+~
+0 8 0
+E
+sign~
+To open insert card.
+~
+D0
+~
+door~
+1 8013 8027
+D3
+~
+none~
+0 0 8016
+S
+#8027
+Lustful Gathering~
+You are no longer thinking with your mind, but rather by instinct. 
+Intoxicating smells reach your nose, causing your blood to pump heatedly
+throughout your body.  Lounging about the room are various forms entwined
+closely, oblivious to your entrance.  An open staircase leads up.  
+~
+0 8 0
+D2
+~
+door~
+1 8013 8026
+D4
+~
+~
+0 0 8028
+S
+#8028
+Hall of Pleasures~
+A short hallway stretches before you with doors on either side.  Heavy
+breathing can be heard filling the hall, and loud rustlings bring shocking
+images to mind.  
+~
+0 8 0
+D0
+~
+~
+0 0 8029
+D5
+~
+~
+0 0 8027
+S
+#8029
+Hall of Pleasures~
+Heavy wooden doors are to the east and west.  You consider peeping in
+through the keyholes.  The hall extends north and south.  
+~
+0 8 0
+D0
+~
+~
+0 0 8030
+D1
+~
+door~
+1 0 8032
+D2
+~
+~
+0 0 8028
+D3
+~
+door~
+1 0 8031
+S
+#8030
+Hall of Pleasures~
+A door is to the north at the end of the hall.  The walls to the east and
+west are adorned with pictures of beings in various stages of carnal
+pleasures.  The hall extends south.  
+~
+0 8 0
+D0
+~
+door~
+1 0 8033
+D2
+~
+~
+0 0 8029
+S
+#8031
+Room of Bondage~
+The walls are dark grey in color and hold several brightly blazing
+torches.  A large pile of straw has been spread out to create a makeshift
+bed.  Bottles of oil are warming over a small fire.  
+~
+0 8 0
+D1
+~
+door~
+1 0 8029
+S
+#8032
+Room of Seduction~
+The walls are mauve in color, and several soft plush fur rugs cover the
+wooden floor.  Fragrant flowers have been placed around the room, filling
+your head with visions of grassy fields.  Your muscles relax as a heavy
+warmth washes through you.  
+~
+0 8 0
+D3
+~
+door~
+1 0 8029
+S
+#8033
+Aftermath~
+The room appears to have been recently used.  Tousled sheets and soft
+blankets have been discarded on the floor.  The air is warm, and a soft hint
+of musk tickles your nose.  
+~
+0 8 0
+D2
+~
+door~
+1 0 8030
+S
+#8034
+Rocks and Crystals~
+You have wandered into a shop cluttered with a variety of rocks and
+crystals.  There is a display case set apart from the rest.  Encased within
+are two prize specimen of nightshade and mandrake.  A set of protective
+gloves rest upon the display case.  
+~
+0 12 0
+D3
+~
+~
+0 0 8018
+S
+#8035
+Training Dungeon~
+The floor is deep with muck, and you find yourself hoping that your boots
+have no holes.  The room has been carved from the land and lends a musty
+smell to the air.  Exits lead north, east, south, and west.  
+~
+0 131084 0
+D0
+~
+~
+0 0 8039
+D1
+~
+~
+0 0 8036
+D2
+~
+~
+0 0 8038
+D3
+~
+~
+0 0 8037
+D4
+~
+~
+0 0 8003
+D5
+~
+~
+0 0 8040
+M 150 H 150
+S
+#8036
+Dungeon~
+The room is small and claustrophobic.  The dungeonkeeper is apprently not
+concerned with sanitation.  
+~
+0 131080 0
+D3
+~
+~
+0 0 8035
+S
+#8037
+Dungeon~
+Globs of dirt and grime shower down against you as creatures plod along
+the roads above.  The sight of this room is truly offensive.  Fluids and
+debris are puddled on the floor.  
+~
+0 131072 0
+D1
+~
+~
+0 0 8035
+S
+#8038
+Dungeon~
+The air is oppressive in this little room, as if a giant suction is
+slurping up all the oxygen.  You begin to feel light-headed.  
+~
+0 131080 0
+D0
+~
+~
+0 0 8035
+S
+#8039
+Dungeon~
+Watch Out!  Scurrying sounds surround you.  You feel as if a horde of
+insects are about to attack!  
+~
+0 131080 0
+D2
+~
+~
+0 0 8035
+S
+#8040
+The Final Test~
+You have done well, young initiate, but can you defeat he who walks the
+night?  This shall be your new beginning.  
+~
+0 131080 0
+D4
+~
+~
+0 0 8035
+S
+#8041
+Pier~
+A small path ends at a sturdy pier.  You can see the great expanse of the
+sea in the distance, the waves rhythmically pounding against the wooden
+structure.  In contrast to the rest of Xeryl, the pier area is well-kept.  
+~
+0 0 0
+D2
+~
+~
+0 0 8021
+S
+#0
+
+
+
+#SPECIALS
+M 8003 spec_cast_mage
+M 8004 spec_thief
+M 8006 spec_cast_mage
+M 8007 spec_cast_mage
+M 8008 spec_thief
+M 8009 spec_thief
+M 8010 spec_cast_mage
+S
+
+
+
+#RESETS
+D 0 8008 2 1
+D 0 8009 0 1
+D 0 8026 0 1
+D 0 8027 2 1
+D 0 8029 1 1
+D 0 8029 3 1
+D 0 8030 0 1
+D 0 8031 1 1
+D 0 8032 3 1
+D 0 8033 2 1
+M 0 8000 8 8003 2
+M 0 8000 8 8003 2
+M 0 8009 6 8004 2
+M 0 8009 6 8004 2
+M 0 8002 6 8005 2
+M 0 8002 6 8005 2
+M 0 8004 3 8006 1
+M 0 8002 6 8008 2
+M 0 8002 6 8008 2
+M 0 8005 4 8009 2
+M 0 8005 4 8009 2
+M 0 8000 8 8009 2
+M 0 8000 8 8009 2
+M 0 8001 5 8010 3
+M 0 8001 5 8010 3
+M 0 8001 5 8010 3
+M 0 8005 4 8011 2
+M 0 8005 4 8011 2
+M 0 8008 3 8011 1
+M 0 8008 3 8012 1
+M 0 8009 6 8012 2
+M 0 8009 6 8012 2
+M 0 8001 5 8013 2
+M 0 8001 5 8013 2
+M 0 8003 2 8014 1
+M 0 8007 9 8014 1
+M 0 8002 6 8015 2
+M 0 8002 6 8015 2
+M 0 8000 8 8016 2
+M 0 8000 8 8016 2
+M 0 8009 6 8017 2
+M 0 8009 6 8017 2
+M 0 8004 3 8018 1
+M 0 8000 8 8019 2
+M 0 8000 8 8019 2
+M 0 8004 3 8020 1
+M 0 8010 1 8020 1
+M 0 8014 1 8020 1
+M 0 8018 1 8021 1
+M 0 8017 1 8022 1
+M 0 8019 1 8022 1
+M 0 8020 1 8022 1
+M 0 8012 1 8023 1
+M 0 8013 1 8024 1
+M 0 8003 2 8025 1
+M 0 8006 8 8025 1
+M 0 8008 3 8025 1
+M 0 8006 8 8026 2
+M 0 8006 8 8026 2
+M 0 8007 9 8026 2
+M 0 8007 9 8026 2
+M 0 8006 8 8027 2
+M 0 8006 8 8027 2
+M 0 8007 9 8027 2
+M 0 8007 9 8027 2
+M 0 8006 8 8028 2
+M 0 8006 8 8028 2
+M 0 8007 9 8028 2
+M 0 8007 9 8028 2
+M 0 8015 1 8031 1
+M 0 8016 1 8032 1
+M 0 8011 1 8034 1
+M 0 8021 1 8036 1
+M 0 8022 1 8037 1
+M 0 8023 1 8038 1
+M 0 8024 1 8039 1
+M 0 8025 1 8040 1
+S
+
+
+
+#SHOPS
+8011 8 0 0 0 0 100 50 0 23
+8012 19 0 0 0 0 100 50 0 23
+8013 8 0 0 0 0 100 50 0 23
+8014 17 0 0 0 0 100 50 0 23
+0
+
+
+
+#$

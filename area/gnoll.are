@@ -1,0 +1,920 @@
+#AREADATA
+Name Gnoll Village~
+Builders Fluffy Halodar~
+VNUMs 100 199
+Credits {125 145} Alexander   Gnoll Village~
+Security 9
+Version 1
+End
+
+
+
+#MOBILES
+#101
+gnoll~
+a gnoll~
+A gnoll is standing here eating something.
+~
+A dog-faced humanoid stands before you.  It has brown fur and long
+pointed teeth.  Though they seem to have intelligence, it doesn't seem to be
+very much.  
+~
+unique~
+AGHS DF 100 0
+125 0 2d4+2 0d9+100 1d2+0 none
+10 10 10 10
+BEFJNU 0 0 0
+stand stand male 1
+AHMV ABCDEFGHIJK medium 0
+#102
+gnoll~
+a gnoll~
+A gnoll is standing here eating something.
+~
+~
+unique~
+ABHS DF 100 0
+125 0 2d4+2 0d9+100 1d2+0 none
+10 10 10 10
+BEFJNU 0 0 0
+stand stand male 1
+AHMV ABCDEFGHIJK medium 0
+#103
+gnoll~
+a gnoll~
+A gnoll is here tring to read a book.
+~
+~
+unique~
+AGHS DF 100 0
+131 0 2d7+21 1d9+100 1d5+0 none
+8 8 8 10
+BEFJNU 0 0 0
+stand stand male 1
+AHMV ABCDEFGHIJK medium 0
+#104
+gnoll strong~
+strong gnoll~
+A strong gnoll stands here.
+~
+Standing before you is the strongest gnoll you have ever seen.  I don't
+know if i would mess with him if i were you.  
+~
+unique~
+AGHS DF 100 0
+131 0 2d7+21 1d9+100 1d5+0 none
+8 8 8 10
+BEFJNU 0 0 0
+stand stand male 1
+AHMV ABCDEFGHIJK medium 0
+#105
+gnoll~
+a gnoll~
+A gnoll is standing here, yawning.
+~
+Standing before you is a gnoll.  They aren't the prettiest creatures in
+the realm, but you can't expect much from a dog.  
+~
+unique~
+AGHS DF 100 0
+131 0 2d7+21 1d9+100 1d5+0 none
+8 8 8 10
+BEFJNU 0 0 0
+stand stand male 1
+AHMV ABCDEFGHIJK medium 0
+#106
+strong gnoll~
+strong gnoll~
+A strong gnoll is standing here.
+~
+You see a strong gnoll standing before you.  The sight of him disgusts
+you.  Why don't you just kill it?  
+~
+unique~
+AGHS DF 100 0
+131 0 2d7+21 1d9+100 1d5+0 none
+8 8 8 10
+BEFJNU 0 0 0
+stand stand male 1
+AHMV ABCDEFGHIJK medium 0
+#107
+gnoll~
+a gnoll~
+A gnoll is here, eating wild berries.
+~
+Making a big mess of himself, the gnoll gnawls away at the berries.  If
+you are quick you can kill him before he knows what hit him.  
+~
+unique~
+AGHS DF 100 0
+131 0 2d25+80 1d9+100 1d10+30 none
+8 8 8 10
+BEFJNU 0 0 0
+stand stand male 1
+AHMV ABCDEFGHIJK medium 0
+#108
+gnoll~
+a gnoll~
+A gnoll is standing here pulling pranks on the other gnolls.
+~
+This gnoll just loves to play jokes on others.  Why don't you teach him
+not to pull pranks?  
+~
+unique~
+AGHS DF 100 0
+131 0 2d7+21 1d9+100 1d5+0 none
+8 8 8 10
+BEFJNU 0 0 0
+stand stand male 1
+AHMV ABCDEFGHIJK medium 0
+#109
+gnoll woman~
+a gnoll woman~
+A gnoll woman stand here waiting for her mate.
+~
+She is not much to look at, even though she is probably the best looking gnoll.
+~
+unique~
+AGHS DF 100 0
+131 0 2d7+21 1d9+100 1d5+0 none
+8 8 8 10
+BEFJNU 0 0 0
+stand stand female 1
+AHMV ABCDEFGHIJK medium 0
+#110
+gnoll chief~
+the gnoll chief~
+The gnoll chief is here, carving something out of bone.
+~
+Standing before you is the leader of the gnolls.  He is the one who has caused
+all of this carnage!! KILL HIM!!
+~
+unique~
+AGHR 0 100 0
+145 0 2d6+110 10d9+100 1d8+1 none
+2 2 2 6
+FU 0 0 0
+stand stand male 2
+AHMV ABCDEFGHIJK medium 0
+#111
+dwarf~
+a dwarf~
+A dwarf is here spying on the gnolls.
+~
+A brave looking dwarf stands before you.  He is pretty short compared to
+a normal dwarf, that must be the reason that he was sent to spy on the
+gnolls.  
+~
+unique~
+ABH J -100 0
+140 0 2d10+130 10d9+100 1d10+4 none
+1 1 1 7
+EIKU 0 LQ FR
+stand stand male 2
+AHMV ABCDEFGHIJK medium 0
+#112
+wardog war dog~
+a wardog~
+A wardog is here, awaiting its commands.
+~
+Before you stands a large wardog.  His large teeth are showing and he is
+fully dressed in armor.  
+~
+unique~
+ABH 0 -100 0
+138 0 2d7+96 4d9+100 1d7+2 none
+3 3 3 9
+EFNU 0 0 0
+stand stand male 1
+AHMV ABCDEFGHIJK medium 0
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#101
+Dimly Lit Path~
+This path is made of crushed granite with curious blue streaks in it. 
+The path continues north to a village, or south to the eastern road.  
+~
+0 0 3
+D0
+The path continues toward the village.
+~
+~
+0 -1 102
+S
+#102
+Dimly Lit Path~
+This section of the road is badly worn and frequently traversed.  The
+path back to the road lies to the south.  
+~
+0 4 3
+D0
+The path continues toward the village.
+~
+~
+0 -1 103
+D2
+The dimly lit path.
+~
+~
+0 -1 101
+S
+#103
+Dimly Lit Path~
+This section of the road is badly worn and frequently traversed.  The
+path back to the road lies to the south.  
+~
+0 0 3
+D0
+The entrance to smurf village.
+~
+~
+0 -1 104
+D2
+The dimly lit path.
+~
+~
+0 -1 102
+S
+#104
+Entrance to Gnoll Village~
+You stand at the entrance to the gnoll village.  You can see deep into
+the village.  Little gnolls scamper about the village eating and killing
+things.  
+~
+0 0 2
+D0
+Smurfy Road
+~
+~
+0 -1 105
+D2
+Dimly Lit Path
+~
+~
+0 -1 103
+S
+#105
+A Dirt Road~
+You stand in the south end of the Gnoll town.  You can see most of the
+village from here.  The gnolls seem to be too busy doing there own stuff to
+notice you.  
+~
+0 0 1
+D0
+Smurfy Road
+~
+~
+0 -1 106
+D1
+Smurfy Road
+~
+~
+0 -1 110
+D2
+Entrance to smurf village
+~
+~
+0 -1 104
+D3
+Smurfy Road
+~
+~
+0 -1 111
+S
+#106
+A Dirt Road~
+You stand in what used to be the center of town.  You can see that this
+town was once a beautiful place.  The path continues north, south, east and
+west.  There is a hut to the east.  
+~
+0 0 1
+D0
+Smurfy Road
+~
+~
+0 -1 107
+D1
+Smurfy Home
+~
+~
+0 -1 120
+D2
+Smurfy Road
+~
+~
+0 -1 105
+D3
+Smurfy Road
+~
+~
+0 -1 112
+S
+#107
+A Dirt Road~
+You stand on the dirt road where you used to be able to see the splendors
+of this town.  Now that the gnolls have overthrown the township, there is
+nothing left to look at.  
+~
+0 0 1
+D0
+Smurfy Road
+~
+~
+0 -1 108
+D1
+Smurfberry Patch
+~
+~
+0 -1 116
+D2
+Smurfy Road
+~
+~
+0 -1 106
+D3
+A Smurfy Home
+~
+~
+0 -1 129
+S
+#108
+A Dirt Road~
+The road continues to the south.  There is a stone path to the west, and
+the wild berries are to the east.  
+~
+0 0 1
+D0
+Smurfy Road
+~
+~
+0 -1 109
+D1
+Smurfberry patch
+~
+~
+0 -1 117
+D2
+Smurfy Road
+~
+~
+0 -1 107
+D3
+A stone path
+~
+~
+0 -1 113
+S
+#109
+A Dirt Road~
+A stone well is here in the middle of the road.  It no longer wields
+water, only the blood of the dead townsfolk.  You peer into the well.  The
+blood is all that remains.  
+~
+0 0 1
+E
+smurfy well~
+A small well is here.  Just the right size if you're a smurf.  But big
+enough for you to get some water from.  I'm sure the smurfs wont mind.
+~
+D1
+Smurfberry Patch
+~
+~
+0 -1 118
+D2
+Smurfy Road
+~
+~
+0 -1 108
+D3
+Smurfy Road
+~
+~
+0 -1 114
+S
+#110
+A Dirt Road~
+From here you can smell the swamp.  The smell of death is not what you
+thought it would smell like.  You can see a hut to the north.  
+~
+0 0 1
+D0
+Smurfy Home
+~
+~
+0 -1 119
+D3
+Smurfy Road
+~
+~
+0 -1 105
+S
+#111
+A Dirt Road~
+You stand at the western corner of the dirt road.  You can go east, north
+or south into a hut.  
+~
+0 0 1
+D0
+Smurfy Road
+~
+~
+0 -1 112
+D1
+Smurfy Road
+~
+~
+0 -1 105
+D2
+Smurfy Home
+~
+~
+0 -1 121
+S
+#112
+A Dirt Road~
+There is a hut to the west.  You can continue to the south and to the
+east.  As you stand here, you notice that there is blood spilled all over
+the place.  A great battle once took place here.  
+~
+0 0 1
+D1
+Smurfy Road
+~
+~
+0 -1 106
+D2
+Smurfy Road
+~
+~
+0 -1 111
+D3
+Smurfy Home
+~
+~
+0 -1 122
+S
+#113
+Stone Path~
+You are walking along a nice stone path.  To the south is the gnoll
+chief's hut.  Another hut lies to the west.  The path continues to the east.
+Everything looks so peaceful from here.  You could stay here forever.  
+~
+0 0 1
+D1
+Smurfy Road
+~
+~
+0 -1 108
+D2
+Papa Smurf's House
+~
+door~
+1 107 125
+D3
+Smurfy House
+~
+~
+0 -1 123
+S
+#114
+A Dirt Road~
+You are nearing the base of the mountain.  If you continue to the west
+you will reach the mountain base.  If you continue to the east you will go
+back into the town.  
+~
+0 0 1
+D1
+Smurfy Road
+~
+~
+0 -1 109
+D3
+Smurfy Road
+~
+~
+0 -1 115
+S
+#115
+A Dirt Road~
+You are standing at the base of a mountain.  There is a house to the
+south.  The road continues to the east.  
+~
+0 0 1
+D1
+Smurfy Road
+~
+~
+0 -1 114
+D2
+Smurfy Home
+~
+~
+0 -1 124
+D4
+~
+~
+0 0 126
+S
+#116
+A Wild Berry Patch~
+Delicious wild berries grow here.  You could sit here and eat all day. 
+The road goes back to the west, and there is another patch of berries to the
+north.  
+~
+0 0 1
+D0
+Smurfberry Patch
+~
+~
+0 -1 117
+D3
+Smurfy Road
+~
+~
+0 -1 107
+S
+#117
+A Wild Berry Patch~
+Another patch of berries is growing here.  The smell of the berries is
+pulling at you.  Pa hut.  
+~
+0 0 1
+D0
+Smurfy Road
+~
+~
+0 -1 112
+D1
+Smurfy Road
+~
+~
+0 -1 105
+D2
+Smurfy Home
+~
+~
+0 -1 121
+S
+#112
+A Dirt Road~
+There is a hut to the west.  You can continue to the south and to the
+east.  As you stand here, you notice that there is blood spilled all over
+the place.  A great battle once took place here.  
+~
+0 0 1
+D1
+Smurfy Road
+~
+~
+0 -1 106
+D2
+Smurfy Road
+~
+~
+0 -1 111
+D3
+Smurfy Home
+~
+~
+0 -1 122
+S
+#113
+Stone Path~
+You are walking along a nice stone path.  To the south is the gnoll
+chief's hut.  Another hut lies to the west.  The path continues to the east.
+Everything looks so peaceful from here.  You could stay here forever.  
+~
+0 0 1
+D1
+Smurfy Road
+~
+~
+0 -1 108
+D2
+Papa Smurf's House
+~
+door~
+1 107 125
+D3
+Smurfy House
+~
+~
+0 -1 123
+S
+#114
+A Dirt Road~
+You are nearing the base of the mountain.  If you continue to the west
+you will reach the mountain base.  If you continue to the east you will go
+back into the town.  
+~
+0 0 1
+D1
+Smurfy Road
+~
+~
+0 -1 109
+D3
+Smurfy Road
+~
+~
+0 -1 115
+S
+#115
+A Dirt Road~
+You are standing at the base of a mountain.  There is a house to the
+south.  The road continues to the east.  
+~
+0 0 1
+D1
+Smurfy Road
+~
+~
+0 -1 114
+D2
+Smurfy Home
+~
+~
+0 -1 124
+D4
+~
+~
+0 0 126
+S
+#116
+A Wild Berry Patch~
+Delicious wild berries grow here.  You could sit here and eat all day. 
+The road goes back to the west, and there is another patch of berries to the
+north.  
+~
+0 0 1
+D0
+Smurfberry Patch
+~
+~
+0 -1 117
+D3
+Smurfy Road
+~
+~
+0 -1 107
+S
+#117
+A Wild Berry Patch~
+Another patch of berries is growing here.  The smell of the berries is
+pulling at you.  Perhaps you should kill a gnoll and eat some.  There is
+another patch of berries to the north and to the south.  
+~
+0 0 1
+D0
+Smurfberry Patch
+~
+~
+0 -1 118
+D2
+Smurfberry Patch
+~
+~
+0 -1 116
+D3
+Smurfy Road
+~
+~
+0 -1 108
+S
+#118
+A Wild Berry Patch~
+The northernmost of the wild berry patches grows here.  It looks just
+tasty as all the rest.  Just take a few and eat them.  No one will ever
+notice.  The road continues to the west.  A wild berry patch is to the
+south.  
+~
+0 0 1
+D2
+Smurfberry Patch
+~
+~
+0 -1 117
+D3
+Smurfy Road
+~
+~
+0 -1 109
+S
+#119
+A Gnoll Hut~
+You stand in front of a strange hut.  It looks almost like a library. 
+What a strange sight to see in a gnoll village.  Wonder if this was once the
+dwelling of humans?  
+~
+0 0 1
+D2
+Smurfy Road
+~
+~
+0 -1 110
+S
+#120
+A Broken Down House~
+This home was well built.  It still has most of its structure.  The
+gnolls have just about destroyed everything else in the town.  As you look
+around at the carnage, your blood starts to boil.  
+~
+0 0 1
+D3
+Smurfy Road
+~
+~
+0 -1 106
+S
+#121
+A Gnoll Hut~
+You stand in a hut.  There are a few pieces of furniture scattered about.
+It looks as if the gnolls didn't always inhabit this town.  
+~
+0 0 1
+D0
+Smurfy Road
+~
+~
+0 -1 111
+S
+#122
+A Small Hut~
+
+~
+0 0 1
+D1
+Smurfy Road
+~
+~
+0 -1 112
+S
+#123
+A Gnoll Hut~
+This is a rundown old shack.  It looks as if it was rundown even before
+the gnolls attacked.  Perhaps you should set fire to it and run all the
+gnolls out of the township.  
+~
+0 0 1
+D1
+Smurfy Road
+~
+~
+0 -1 113
+S
+#124
+A Rundown House~
+You can see the remains of this house.  It wasn't totally destroyed in
+the battle.  There are a few chickens running around the remains of half
+eaten human bodies.  
+~
+0 0 1
+D0
+Smurfy Road
+~
+~
+0 -1 115
+S
+#125
+Gnoll Chief's Hut~
+This is the hut of the gnoll chief.  It looks the cleanest of all the
+other huts.  There are battle plans on the table just inside what remains of
+the front door.  There are two bodies of young children lying in their beds.
+~
+0 0 1
+D0
+Stone Path
+~
+door~
+1 107 113
+S
+#126
+Path up the Mountain~
+
+~
+0 0 5
+D4
+~
+~
+0 0 127
+D5
+~
+~
+0 0 115
+S
+#127
+Path up the Mountain~
+You can see the top from here.  It's not that much further.  You can see
+the mass destruction of the township from here.  The gnolls truely are a
+brutal race indeed.  
+~
+0 0 5
+D0
+Gargamel's Castle
+~
+door~
+1 109 128
+D5
+~
+~
+0 0 126
+S
+#128
+Lookout above Gnoll Village~
+You are standing in a clearing beside a wall of trees.  This is the best
+view of what used to be a beautiful township, but has now been destroyed by
+the gnolls.  You can almost see Midgaard, but it is obscured by smoke from
+the village.  
+~
+0 0 1
+D2
+Outside Gargamel's Castle
+~
+door~
+1 109 127
+S
+#129
+The Gnoll Woman's Hut~
+This hut is decorated in the remains of the house that used to stand
+here.  You can see the clothes of young children scattered about.  
+~
+0 0 1
+D1
+Smurfy Road
+~
+~
+0 -1 107
+S
+#0
+
+
+
+#SPECIALS
+M 101 spec_thief
+M 102 spec_thief
+M 103 spec_thief
+M 104 spec_thief
+M 105 spec_thief
+M 106 spec_thief
+M 107 spec_thief
+M 108 spec_thief
+M 109 spec_thief
+M 110 spec_cast_mage
+M 112 spec_poison
+S
+
+
+
+#RESETS
+M 0 101 8 104 1
+G 0 102 0
+M 0 101 8 105 1
+M 0 101 8 107 1
+M 0 101 8 108 1
+G 0 102 0
+O 0 108 0 109
+M 0 101 8 109 1
+M 0 101 8 110 1
+G 0 102 0
+M 0 101 8 111 1
+M 0 101 8 112 1
+G 0 102 0
+M 0 102 3 116 1
+M 0 102 3 117 1
+M 0 102 3 118 1
+G 0 100 0
+M 0 103 1 119 1
+E 0 101 0 6
+M 0 104 1 120 1
+E 0 103 0 16
+M 0 106 1 121 1
+E 0 103 0 16
+M 0 105 1 122 1
+M 0 107 1 123 1
+M 0 108 1 124 1
+M 0 110 1 125 1
+G 0 105 0
+M 0 111 1 128 1
+E 0 106 0 16
+M 0 112 1 128 1
+M 0 109 1 129 1
+E 0 104 0 3
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

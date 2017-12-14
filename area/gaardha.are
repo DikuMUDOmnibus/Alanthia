@@ -1,0 +1,510 @@
+#AREADATA
+Name Clan Gaarde~
+Builders Fluffy Halodar~
+VNUMs 21500 21599
+Credits {  ALL  } Staff       Clan Gaarde Hall~
+Security 9
+Version 1
+End
+
+
+
+#MOBILES
+#21500
+Gaarde Zoltar Warrior~
+{WZ{Dol{Wtar {Wt{Dh{We {WW{Dar{Wrior{X~
+{WZ{Dol{Wtar {Wt{Dh{We {WW{Dar{Wrior stands guarding the clan hall.{X
+~
+Standing before you is a giant of a man.  Formidable in height and
+strength, his muscles flex and strain against his tempered cuirass.  His
+eyes rake over your form appraisingly, wondering if you are of high enough
+caliber to get past him.  
+~
+unique~
+ABMT CDEFGLa 0 0
+300 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 EI H
+stand stand male 100
+AHMV ABCDEFGHIJK large horse
+M speech 21500 at knights dawn the day is done~
+#21501
+Gaarde Kadrian Chef~
+{WK{Dad{Wrian t{Dh{We C{Dh{Wef{X~
+{WK{Dad{Wrian t{Dh{We C{Dh{Wef stands here, preparing a wonderful meal.{X
+~
+A frantic cook at the easiest of times, the healers husband prepares
+dishes for the hungry clansmen.  His apron splotched with an artist array of
+variable stains, is a pleasant reminder of his loyalty.  
+~
+unique~
+ABCM DFH 600 0
+300 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 B Z
+stand stand male 100000
+AHMV ABCDEFGHIJK medium unknown
+#21502
+Podril Armorer Gaarde~
+{WP{Dod{Wril t{Dh{We A{Drm{Worer{X~
+{WP{Dod{Wril t{Dh{We A{Drm{Worer stands here, admiring his latest creations.{X
+~
+Packed with muscles gained from a lifetime of molding and mending metals,
+an imposing gentleman stands and greets you.  He seems a happy fellow
+despite his constant efforts to produce the best armor to be found.  
+~
+unique~
+ABMT DFH 0 0
+300 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand male 100000
+AHMV ABCDEFGHIJK medium unknown
+#21503
+gaarde eboarel sorceress~
+{WE{Dbo{Warel t{Dh{We S{Dorc{Weress{x~
+{wE{Dbo{Warel t{Dh{We S{Dorc{Werous slowly appears before you.{x
+~
+A shimmering apparition appears before taking true form and gracing you
+with a smile.  An aura of power radiates from her body, reassuring you that
+only the best of the arcane can be found in her shop.  
+~
+unique~
+ABMR DFH 0 0
+300 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 L JQ FHN
+stand stand female 100000
+AHMV ABCDEFGHIJK medium unknown
+#21504
+Gaarde Wahrstig Weaponsmith~
+{WW{Dahr{Wstig t{Dh{We W{Deapo{Wnsmith{X~
+{WW{Dahr{Wstig t{Dh{We W{Deapo{Wnsmith adjusts his wares and checks his equipment.{X
+~
+The greatest forger of weapons to be found in all of Alanthia stands
+hunched before you.  His hands are callused and scarred from his personal
+test of each weapon.  His eyes fierce and loyal as he acknowledges you with
+a nod, ready to take his orders.  
+~
+unique~
+ABMT DFH 0 0
+300 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 BE HK
+stand stand male 100000
+ABHMV ABCDEFGHIJKUV huge unknown
+#21505
+Gaarde Flaressa Healer~
+{WF{Dlar{Wessa t{Dh{We H{Dea{Wler{X~
+{WF{Dlar{Wessa t{Dh{We H{Dea{Wler gently tends to the garden.{X
+~
+An attractive, yet not entirely beautiful, serene creature welcomes your
+arrival.  Her healing touch and wondrous comforts lure all her wounded
+family into her magical embrace.  She moves lightly about tending to the
+flowers as she would her clansmates.  
+~
+unique~
+ABMQa DFH 600 0
+150 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 B Z
+stand stand female 0
+AHMV ABCDEFGHIJK medium unknown
+M speech 21501 to battle~
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#21500
+{cThe Gates of the {WG{Daa{Wrde F{Dor{Wtr{De{Wss{x~
+You stand upon a white stone bridge before the grand gates of
+{WG{Daa{Wrde{x.  A swift river flows beneath you, curving away to the east
+and west.  A wall as tall as five men rises up to surround the great Hall
+within.  Made of {Wwhite marble{x streaked with {Dblack{x, it shines
+gloriously in the light of day.  
+~
+0 1024 0
+D2
+~
+~
+0 0 9814
+C Gaarde~
+S
+#21501
+{cInside The Gates{x~
+You are within the walls of {WG{Daa{Wrde{x, and it is a beautiful place. 
+Well tended, immaculate gardens spread out all around you, seperating the
+gorgeous {Wwhite marble {xbuildings.  A cobbled path leads north, towards
+the Halls of {WG{Daa{Wrde.  {x To the west is a simple grass path into the
+gardens.  
+~
+0 1024 0
+D0
+~
+~
+0 0 21502
+D3
+~
+~
+0 0 21503
+C Gaarde~
+S
+#21502
+{cThe Path of {WG{Daa{Wrde{x~
+You're on a cobblestone path between two huge {Wmarble{x buildings,
+monuments to the glory of {WG{Daa{Wrde{x.  The splendor lays out before you
+to the north, and the gates still stand strong to the south.  
+~
+0 1024 0
+D0
+~
+~
+0 0 21504
+D2
+~
+~
+0 0 21501
+C Gaarde~
+S
+#21503
+{cThe Gardens of {WG{Daa{Wrde{x~
+This path is filled with some of the most breathtaking plantlife you have
+ever seen.  A thousand vibrant colors surround you, the beauty of an ever
+blooming garden.  To the east are the gates.  
+~
+0 1024 0
+D1
+~
+~
+0 0 21501
+C Gaarde~
+S
+#21504
+{cThe Path of {WG{Daa{Wrde{x~
+You stand between two large {Wmarble{x buildings, their archways open
+before you to the east and west.  To the north, you can see the largest
+building of the {WG{Daa{Wrde{x {WF{Dor{Wtr{De{Wss{x, the {WG{Daa{Wrde{x
+meeting hall.  
+~
+0 1024 0
+D0
+~
+~
+0 0 21507
+D1
+~
+~
+0 0 21506
+D2
+~
+~
+0 0 21502
+D3
+~
+~
+0 0 21505
+C Gaarde~
+S
+#21505
+{cThe {WG{Daa{Wrde {cRestaurant{x~
+A wave of delicious scents almost bowls you over as you enter this place.
+Dishes for every taste are prepared here, to feed all the members of
+{WG{Daa{Wrde{x.  Huge, well stocked buffets line the walls, tempting you
+with their delicious treats.  You could spend a lot of time here.  
+~
+0 1032 0
+D1
+~
+~
+0 0 21504
+C Gaarde~
+S
+#21506
+{cThe {WA{Drm{Wour{Dy{x~
+This is where {WG{Daa{Wrde{x members purchase their armor.  The sounds of
+smiths' hammers clashing against anvils echoes through the shop, as
+{WG{Daa{Wrde{x workers prepare their wares.  The room is nearly bare besides
+the counter at the far end.  
+~
+0 1032 0
+D3
+~
+~
+0 0 21504
+C Gaarde~
+S
+#21507
+{cThe Path of {WG{Daa{Wrde{x~
+You're on a cobblestone path between two huge {Wmarble{x buildings,
+monuments to the glory of {WG{Daa{Wrde{x.  To the north is a footbridge
+crossing a sizeable river, and to the south you can see the gates of
+{WG{Daa{Wrde F{Dor{Wtr{De{Wss{x standing tall.  
+~
+0 1024 0
+D0
+~
+~
+0 0 21508
+D2
+~
+~
+0 0 21504
+C Gaarde~
+S
+#21508
+{cThe River Crossing{x~
+The sounds of rushing water fill your ears as you stand over the powerful
+{WG{Daa{Wrde{x river.  You stand a few mere feet above it on a stone
+footbridge.  To the north, you can see more of the impressive {Wmarble{x
+structures of the {WG{Daa{Wrde F{Dor{Wtr{De{Wss{x standing tall, and to the
+south lie the great gates.  
+~
+0 1024 0
+D0
+~
+~
+0 0 21509
+D2
+~
+~
+0 0 21507
+C Gaarde~
+S
+#21509
+{cThe Path of {WG{Daa{Wrde{x~
+You're on a cobblestone path between two huge {Wmarble{x buildings,
+monuments to the glory of {WG{Daa{Wrde{x.  To the south is a footbridge
+crossing a sizeable river, and to the north you can see the {WM{Dai{Wn
+{WH{Da{Wll {xof {WG{Daa{Wrde{x.  
+~
+0 1024 0
+D0
+~
+~
+0 0 21510
+D2
+~
+~
+0 0 21508
+C Gaarde~
+S
+#21510
+{cThe Path of {WG{Daa{Wrde{x~
+You're on a cobblestone path between two huge {Wmarble{x buildings,
+monuments to the glory of {WG{Daa{Wrde{x.  To the south is a footbridge
+crossing a sizeable river, and to the north you can see the {WM{Dai{Wn
+{WH{Da{Wll {xof {WG{Daa{Wrde{x.  To the east lies what looks like an armory
+of some kind, and a peculiar aroma drifts from the west.  
+~
+0 1024 0
+D0
+~
+~
+0 0 21511
+D1
+~
+~
+0 0 21513
+D2
+~
+~
+0 0 21509
+D3
+~
+~
+0 0 21512
+C Gaarde~
+S
+#21511
+{cThe Path of {WG{Daa{Wrde{x~
+You're on a cobblestone path between two huge {Wmarble{x buildings,
+monuments to the glory of {WG{Daa{Wrde{x.  To the south is a footbridge
+crossing a sizeable river, and to the north you can see the {WM{Dai{Wn
+{WH{Da{Wll {xof {WG{Daa{Wrde{x.  From here, you can start to see the true
+granduer of {WG{Daa{Wrde{x, their hall a large and powerful structure, with
+a {Wmarble{x domed roof towering high above the rest of the fortress.  
+~
+0 1024 0
+D0
+~
+~
+0 0 21514
+D2
+~
+~
+0 0 21510
+C Gaarde~
+S
+#21512
+{cThe {WM{Dag{Wic {cShop of {WG{Daa{Wrde{x~
+The air around you smells of a thousand different powders and potions,
+mixing together to become one singular aroma.  This entire shop absolutely
+eminates magic, the walls lined with staves and wands, shelves filled with
+scrolls, and potions filled with mysterious brews.  Anything the
+{WG{Daa{Wrde{x has of magic is likely available for sale here.  
+~
+0 1032 0
+D1
+~
+~
+0 0 21510
+C Gaarde~
+S
+#21513
+{cThe {WW{Dea{Wpo{Dn{Ws {cof {WG{Daa{Wrde{x~
+The walls of this room are covered with weapons of every description. 
+From the common swords and daggers to exotic naginatas and katars, this
+building seems home to every type of weapon you can imagine.  The counter is
+against the far wall, waiting for your money.  
+~
+0 1032 0
+D3
+~
+~
+0 0 21510
+C Gaarde~
+S
+#21514
+{cThe Entrance to the {WM{Dai{Wn H{Da{Wll{x~
+You stand in a small, open square of cobblestone before an immense, and
+powerful structure.  Its size is great, matched only by the beauty of its
+shining {Wmarble{x.  To the south lies a cobblestone path leading to the
+gates.  North, a huge archway opens providing you acess to the breathtaking
+dome that dominates your vision.  
+~
+0 1024 0
+D0
+~
+~
+0 0 21515
+D2
+~
+~
+0 0 21511
+C Gaarde~
+S
+#21515
+{cThe {WM{Dai{Wn H{Da{Wll{x~
+The size and scope of this building is even greater than it appeared from
+without.  The huge, domed ceiling stands far above your head, the only
+decoration the banner of {WG{Daa{Wrde{x.  To the west, you see a smaller,
+more tranquil room.  To the east, you hear what sounds like combat, and to
+the north, a door leading to the {WG{Daa{Wrde {WM{Dee{Wti{Dn{Wg H{Da{Wll{x. 
+~
+0 1032 0
+D0
+~
+~
+0 0 21516
+D1
+~
+~
+0 0 21517
+D2
+~
+~
+0 0 21514
+D3
+~
+~
+0 0 21519
+C Gaarde~
+S
+#21516
+{cThe {WM{Dee{Wti{Dn{Wg {WH{Da{Wll{x~
+This room, while as grand in size and architecture, has a far more
+serious air.  The room is dominated by a large table, upon which is
+scattered maps, charts, and communications from {WG{Daa{Wrde {xmembers
+throughout the world.  The only exit is a small staircase leading up,
+apparently to the top of the dome.  
+~
+0 1032 0
+D2
+~
+~
+0 0 21515
+D4
+~
+~
+0 0 21518
+C Gaarde~
+S
+#21517
+{cThe {WT{Drai{Wni{Dn{Wg {WR{Doo{Wm{x~
+Here the warriors of {WG{Daa{Wrde{x hone their skills, practicing both
+combat techniques and mystic incantations.  The room is large and open,
+filled mostly with a large practice mat.  There are weights around the edges
+of the room for exercise, and a variety of training weapons hanging on the
+walls.  The smell of old sweat lingers in the air.  
+~
+0 8 0
+D3
+~
+~
+0 0 21515
+C Gaarde~
+S
+#21518
+{cThe {WO{Dbs{Werv{Da{Wt{Do{Wry{x~
+From here, it seems you can see the entire world.  You stand at the top
+of the domed hall of {WG{Daa{Wrde{x, which you can now see is made of glass.
+Looking out across the landscape, you realize you can see the entire
+continent.  
+~
+0 1032 0
+D5
+~
+~
+0 0 21516
+C Gaarde~
+S
+#21519
+{cThe {WM{Dedi{Wtat{Dio{Wn R{Doo{Wm{x~
+The scent of a sweet, relaxing incense fills the air here.  The room
+consists of a large dome, decorated with soft, soothing colors.  Around the
+edges of the room are a series of beds, waiting to rejuvenate the weary.  
+~
+0 9224 0
+D1
+~
+~
+0 0 21515
+M 200 H 200
+C Gaarde~
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 21500 1 21500 1
+M 0 21505 1 21503 1
+M 0 21501 1 21505 1
+M 0 21502 1 21506 1
+M 0 21503 1 21512 1
+M 0 21504 1 21513 1
+S
+
+
+
+#SHOPS
+21501 19 0 0 0 0 100 50 0 23
+21502 9 0 0 0 0 100 50 0 23
+21503 2 10 3 4 26 100 50 0 23
+21504 5 0 0 0 0 100 50 0 23
+0
+
+
+
+#$

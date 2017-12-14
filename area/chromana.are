@@ -1,0 +1,740 @@
+#AREADATA
+Name Clan Romana~
+Builders Fluffy Halodar~
+VNUMs 6700 6999
+Credits {  ALL  } Staff       Clan Romana~
+Security 9
+Version 1
+End
+
+
+
+#MOBILES
+#6700
+romana guardian~
+{gR{Wo{gm{Wa{gn{Wa guardian{X~
+{WThe {gR{Wo{gm{Wa{gn{Wa guardian stands tall.{X
+~
+~
+unique~
+ABM DFHd 0 0
+309 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+C 0 0 0
+stand stand none 0
+0 0 medium unknown
+M speech 6753 romana~
+#6703
+helios romana~
+Helios~
+Helios, the angel of the heavens.
+~
+A archmage of the past dressed now in a long blue cloak, covered in old age this blind angel spreads his wings to comfort and amend your wounds.
+~
+unique~
+ABGMa 0 0 0
+150 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 ABCD 0 0
+stand stand none 100000
+0 0 medium unknown
+#6723
+shopkeeper~
+(no short description)~
+(no long description)
+~
+~
+unique~
+A 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+#6801
+commons black-clad guard~
+a black-clad guard~
+A guard clad in ebony armor patrols the pillars.
+~
+Armor of glinting, polished ebony cover the guard from head to toe.  A
+white plume extends from his midnight helm and his face is covered by a thin
+black visor.  Only his tight, pursed lips and a glimpse of olive skin betray
+the man underneath the armor.  He weilds a shimmering sword of white steel
+with an intricate black carved hilt.  A pearly shield engraved with stained
+black symbols his worn in his left hand.  The guard will stop at nothing to
+ensure that only clan members enter the commons.
+~
+unique~
+ABM DFHJLZacd 0 0
+300 300 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#6802
+commons wraith rapier deliverer Tiro~
+Tiro~
+A wraith shimmers, smirking as it guards the door.
+~
+A translucent creature of shimmering grey mist floats above the ground. 
+Tiro, having lost his living life through greed and desire for power, now
+resigns himself to giving weaponry for duels.  But the loser better beware,
+for his payment is not monetary.  He asks for the living souls of the battle
+losers to quench his hunger for life.  
+~
+unique~
+ABMY DFJTUZ 0 0
+300 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 L JQ FHN
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#6803
+commons vampire warish referee~
+Warish~
+A stern female vampire of pleasing build wears a tough grin on her face.
+~
+Small, sharp teeth, capped in red, peek from behind deep red lips. 
+Warish's smooth skin glimmers deathly white.  Her voluptious form is clothed
+in tight leather fighting attire.  A low-cut black vest laced in crimson
+silk encases her pale torso.  Tight leather pants highlight her slender
+frame.  Warish is referee of the fights in this room, and she will take NO
+breaking the rules.
+~
+unique~
+ABMTY DFHJVZad 0 0
+300 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 L Q HNS
+stand stand female 100000
+AHMV ABCDEFGHIJK medium unknown
+#6804
+commons servant gargoyle~
+a servant~
+A slender gargoyle of grey stone stands in stoney silence awaiting orders.
+~
+Smooth cobal grey stone is molded in the living shape of a slender winged
+man.  Hard grey eyes twitch on a cold face etched in stone.  Wings as thin
+as paper grow from his back and enfold his bare torso in stone.  His legs
+are covered in thin grey pants and his feet bare.  He stands silent and
+still, awaiting directions.  
+~
+unique~
+ABY DFJZ 0 0
+300 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 D C
+stand stand male 100000
+AHZ ACDEFHJKLOPQUVWXY medium unknown
+#6805
+commons gryphon lion creature avian~
+the gryphon~
+A magnificent creature with a leonine body and avian face spreads his golden wings.
+~
+Feathered wings as soft as silk and shimmering with golden hues blend
+into a soft fuzzy leonine body.  The gryphon's smooth fur is made of fine
+golden threads of various gold, copper, yellow, and orange colours.  Large
+paws support his muscular, defined legs and torso.  A golden beak glimmers
+from a furry lion face.  Large liquid black eyes gaze intently at those he
+sees. 
+~
+unique~
+ABM 0 0 0
+300 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+CFH ABCD 0 0
+stand stand male 0
+AHZ ACDEFHJKLOPQUVWXY medium unknown
+#6808
+Amarillys romana young maiden~
+Amarillys the young maiden~
+Amarillys the young maiden.
+~
+A beauty unlike any other, this young shy girl sits at her desk twiddling with a sharp blade.
+~
+unique~
+ABGM DF 0 0
+300 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 ABCD 0 0
+stand stand female 100000
+0 0 medium unknown
+#6809
+julian warrior shadows romana~
+Julian~
+Julian, Warrior of the Shadows.
+~
+Well built for war, this young man stands strong, dressed in Ivory armor.  Engraved on his armor plate is a picture of a fading white rose.
+~
+unique~
+ABGM DF 0 0
+300 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 ABCD 0 0
+stand stand male 100000
+0 0 medium unknown
+#6810
+marcus priest romana~
+Marcus~
+Marcus, Holy Priest of the Church, jack of all trades.
+~
+A man of the strange will and faith that can surpass the strength of any
+other.  He speaks, "Heavens angel, renegade of darkness, blessed is your
+soul...."  
+~
+unique~
+ABJKLMZbd 0 0 0
+150 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 ABCD 0 0
+stand stand male 100000
+0 0 medium unknown
+#6850
+commons bartender lyrian sylvan elf~
+Lyrian~
+A dark elf in green gowns smiles happily as she serves drinks.
+~
+Thin brown eyes lie set within a smooth face the colour of moist bark. 
+Lyrian's small neutral mouth curves into a gentle smile.  Her hair, a
+patchwork of browns and blondes, flows gently over her slender frame.  A
+silken gown of various greens fits snuggly to the waist where it flairs into
+a full short skirt.  Her tiny feet are clothed in brown leather sandals. 
+The sweet scent of forests and trees floats around her.  She pushes a small
+cart laden with delicious foods and tempting drinks. 
+~
+unique~
+AMY DFJZ 0 0
+300 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 AB B Z
+stand stand female 100000
+AHMV ABCDEFGHIJK medium unknown
+#6851
+commons moulin shopkeeper minotaur~
+Moulin~
+A chestnut minotaur of sturdy build pounds shape into hot metal, sweat dripping.
+~
+A rough, defined face of light tan complexion is framed by long brown
+hair tied in a knot at Moulin's neck.  His chocolate eyes dance and sparkle
+with spirit foreign to the rest of his demeanor.  His thin lips press
+together to form a straight smile.  A brown leather vest and thick leather
+gloves protect his hands and torso from flaring heat as he hammers and molds
+hot metal.  His rough, muscular human torso blends into smooth, velvety
+chesnut fur.  A tail of silky brown sways and swats agitatedly, a death-whip
+to small insects.  
+~
+unique~
+AB DFJZ 0 0
+300 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 AB EI H
+stand stand male 100000
+AHMV ABCDEFGHIJK medium unknown
+#6852
+commons Raevhin shopkeeper sprite~
+Raevhin~
+A tiny sprite flutters about, tending to various stewing pots.
+~
+Shimmering wings of illuminescent black flutter rapidly, supporting a
+tiny pale sprite.  Raevhin's deep eyes and short curley hair are the colour
+of a starless sky and lie in stark contrast with her smooth white skin.  Her
+thin light lips curve upward slightly to form a shy smile.  She wears a
+simple white leather tunic tied at the waist by a long black ribbon.  Her
+hands are filled with herbs and spices.  
+~
+unique~
+ABM DFJVZ 0 0
+300 0 1d1+0 1d1+0 1d1+0 none
+0 0 0 0
+0 ABCD F 0
+stand stand female 100000
+AHMV ABCDEFGHIJK medium unknown
+#6931
+kordaek armorer~
+{GK{Dordaek the {GA{Drmorer{X~
+{GK{Dordaek, Armorer for the {GA{Drmy.{X
+~
+{WSweat pours off his head as he pounds away at the magical pieces of
+metal, gifted to the army by their Lord, {GN{Dikos{W.  {X 
+~
+unique~
+ABM 0 0 0
+300 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 100000
+0 0 medium unknown
+#6932
+adoran blacksmith~
+{DBlacksmith {GA{Ddoran{X~
+{GA{Ddoran, Blacksmith for the {GA{Drmy of {GN{Dikos.{X
+~
+{WBefore you stands a tall, muscular man with a blade of some sort in one
+hand, and a smithing hammer in the other.  {X 
+~
+unique~
+ABM 0 0 0
+300 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 100000
+0 0 medium unknown
+#6991
+romana richard fur~
+Richard~
+A man covered in fur serves you.
+~
+~
+unique~
+AB DF 0 0
+300 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 CD 0 0
+stand stand none 100000
+0 0 medium unknown
+#6992
+romana goblin ian~
+Ian~
+A small goblin named Ian bounces here.
+~
+An ugly green goblin with a small neckchain that reads 'Ian' stares at you and drools.
+~
+unique~
+ABS 0 0 0
+200 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#6700
+The Clan Liason Office~
+Firelight gleams, reflecting off the highly polished mahoghany walls. 
+The fireplace is of smooth, black obsidion, mirroring the room in darkened
+hues.  A large, cluttered desk dominates the center of the room.  It has
+been seamlessly carved from the mahoghany floor.  Papers are strewn about
+everywhere, bearing the names of the clans of Alanthia.  There is a sign on
+the wall.  
+~
+0 12 0
+E
+sign wall~
+A small, delicately embroidered tapestry
+reads in the finest language, wisdom to{/ remember:
+ 
+{b:{g\{m^{g/{b: {BNo Whining!{g {b:{g\{m^{g/{b:{x
+{b:{g\{m^{g/{b:{r   When in   {b:{g\{m^{g/{b:{x
+{b:{g\{m^{g/{b:{r doubt, read {b:{g\{m^{g/{b:{x
+{b:{g\{m^{g/{b:{r   the help  {b:{g\{m^{g/{b:{x
+{b:{g\{m^{g/{b:{r    files!   {b:{g\{m^{g/{b:{x
+{b:{g\{m^{g/{b:{c <Help Clan> {b:{g\{m^{g/{b:{x
+{b:{g\{m^{g/{b:{c <Formulas>  {b:{g\{m^{g/{b:{x
+{b:{g\{m^{g/{b:{c   <Prices>  {b:{g\{m^{g/{b:{x
+{b:{g\{m^{g/{b:{c   <Clans>   {b:{g\{m^{g/{b:{x
+{b:{g\{m^{g/{b:{c   <J{bclan{c>   {b:{g\{m^{g/{b:{x
+{b:{g\{m^{g/{b:{c  <LDR{bclan{c>  {b:{g\{m^{g/{b:{x
+{b:{g\{m^{g/{b:{c    <{bclan{c>   {b:{g\{m^{g/{b:{x
+{b:{g\{m^{g/{b:{Y  And have a {b:{g\{m^{g/{b:{x
+{b:{g\{m^{g/{b:{Y  Nice Day!  {b:{g\{m^{g/{b:{x
+~
+D1
+~
+~
+1 0 3170
+S
+#6715
+Archway to Paradise~
+The remarkable architecture of this angelic archway is outstanding. 
+Carvings of angels and demons are presenting the everlasting battle between
+the light of the heavens and the darkness in your soul.  Magnificent in its
+sight, it excites the glory that is Bella Roma.  Around its extravagant
+Ivory Gates.  Ravishing patches of wild flowers represent the courage and
+bravery of the people.  While the trademark white rose shows the grace and
+elegance of their souls.  
+~
+0 532480 0
+D0
+~
+~
+0 0 6724
+D3
+~
+~
+0 0 14040
+C Romana~
+S
+#6716
+Ivory Foyer~
+Not a breath stirs in this amazing pure ivory hall.  The backwall is
+lined with beautiful Emerald Tapstries and Awesome Picture Frames of the
+Nobles of House of Romana.  The East Wing leads to the Beautiful Garden of
+Prayers.  The West Wing leads to the Armoury where the finest equipment is
+forged.  The Eastern wall is covered with beautiful trimmings of Silver and
+White gold.  An oaken table stands here by the Arches of the Eastern Wing. 
+Laying on it is Dozens of Bouqets of Roses in their extravagent vases.  Each
+flower is distinguished by their own color.  
+~
+0 525312 0
+D0
+~
+~
+0 0 6718
+D1
+~
+~
+0 0 6719
+D3
+~
+~
+0 0 6717
+C Romana~
+S
+#6717
+Reality~
+Radiant colors of yellow and bright greens vials and potions line the
+walls carefully placed in its order.  The scent of jasmine sooths your aura
+and begins to swirl your mind with images of incredible magic never seen
+before in ages.  
+~
+0 525312 0
+D1
+~
+~
+0 0 6716
+D5
+~
+~
+0 0 6724
+C Romana~
+S
+#6718
+Garden of Faith~
+The very essense of the garden souths your soul.  The beautiful songs of
+the many birds that inhabit this garden sings you into Nirvana itself.  A
+small river creek runs through which seems to bring life to all that lives
+in these plains.  A radical rose seems to have caught your eye.  In the far
+end of the Garden floats an amazing Crystal Rose.  The aura that surrounds
+your very body seems to calm your mind.  
+~
+0 525312 0
+D2
+~
+~
+0 0 6716
+M 200 H 200
+C Romana~
+S
+#6719
+White Ivory Hall~
+A Long white ivory hall leads you to many different rooms with large
+archway doors that seem to be carved by the magnifcence of architects from
+the era of illumicense.  Great Painting of Battles , and of many
+accoplishments of the Romana Empire.  The roof is painted to match the sky
+of a beautiful sunrise and sunset of those that once painted the heavens of
+the Eternal City.  The scent of heather flowers seem to liven the
+beautifully painted walls.  
+~
+0 525312 0
+D3
+~
+~
+0 0 6716
+D4
+~
+~
+0 0 6720
+D5
+~
+~
+0 0 6722
+C Romana~
+S
+#6720
+The Armoury of Romana~
+Lining the walls is armor from around the realms.  This small shop
+carries the armor of past heroes long since forgotten....  Heroes who once
+filled the pages of history with tales of honor and heroics.  On the back
+wall you can see faded images of armor which have been worn by the greatest
+of heroes.  The weary man stands here awaiting to here you request.  
+~
+0 525312 0
+D3
+~
+~
+0 0 6721
+D5
+~
+~
+0 0 6719
+C Romana~
+S
+#6721
+The Weapon Shoppe of Bella Roma~
+Entering the room you notice the beautiful girl playing with an unusual
+sword, curved in length and lined with a darkend blue.  Statues of warrior
+displays the man weapons once used by heroes.  Portraits of weapons and
+armor exicte the walls and bring out the spirit of discipline and glory in
+your soul.  
+~
+0 525312 0
+D1
+~
+~
+0 0 6720
+C Romana~
+S
+#6722
+Ivory Balcony~
+An extravagant sight of the moonlight lighting every inch of this well
+made balcony.  Decorated in tapestries of light blue, trimmed a shadowy
+black to represent the tear in the night.  Radiant night-n-gael flowers
+surround an extravagant statue of an angel spreading its wings in the
+moonlight to pray.  To the heavens.  - 
+~
+0 525312 0
+D4
+~
+~
+0 0 6719
+C Romana~
+S
+#6724
+Conciousness~
+
+~
+0 532480 0
+D0
+~
+~
+4 6863 1215
+D2
+~
+~
+0 0 6715
+C Romana~
+S
+#6734
+The Army of Darkness~
+Before you lies the sacrificial pit where Lichim brought 665 Wraith's
+into existance.  The complete void of sound fills you with a deep respect
+and honor for acts completed here.  This dank chamber seems to be in
+darkness yet there is light about you.  The smell of fresh flesh bubbling
+and boiling fill your nostrils sharply.  On the north wall, a symbol that
+feels very comfortable to you, gleams, welcoming your arrival.  You can see
+a red glow coming from the west.  A small {Dplaque{x is on the wall.  
+~
+0 8 0
+E
+'plaque'~
+~
+D1
+~
+~
+0 0 6735
+D3
+~
+~
+0 0 6737
+D4
+~
+~
+0 0 8005
+S
+#6735
+Room of Sanctuary~
+
+~
+0 8 0
+D3
+~
+~
+0 0 6734
+M 200 H 200
+S
+#6737
+Army of Darkness Armor Shop~
+You have entered the Army of Darkness' specialized armor shop.  The red
+glow about you is very refreshing.  THere is a large scroll on the north
+wall.  A large glass display case in the shape of a crescent takes up the
+entire east wall.  The low pitched hum emanating from the armor fills you
+with drive and inspires you to attain the levels needed for these items.  
+~
+0 0 0
+D1
+~
+~
+0 0 6734
+S
+#6800
+Dark Hallway~
+Sconces cast flickering circles of dim light through the chill stone
+hallway.  A dark granite floor proceeds toward a thick mahogany door.  Small
+glimmers of light reflect off the door, as though it were a mirror.  
+~
+0 525324 0
+D3
+~
+~
+1 0 6801
+S
+#6801
+The Dueling Chamber~
+A haunting mist fills this room with a ghastly chill.  Rusty brown stains
+of aged dried blood are spattered upon the polished hardwood floor.  Bone
+white walls bear the scars of ill-fated strikes.  Ebony panels frame the
+walls in stark contrast.  A crystalline chandelier, tucked high in the
+vaulted ceiling, showers the chamber in light.  
+~
+0 532492 0
+D1
+~
+~
+1 0 6800
+S
+#6909
+a room~
+
+~
+0 268443660 0
+S
+#6910
+a room~
+
+~
+0 1036 0
+M 200 H 200
+S
+#6919
+The Library~
+Towering bookshelves reach toward the high, faceted ceiling.  Light
+filters through the crystalline structure and envelops the room in dazzling
+light.  Nestled into the polished maple shelves are an assortment of books. 
+These books contain all the information about the varied clans of Alanthia. 
+Situated in the middle of the room is a small indentation in the floor,
+containing a circular couch around its periphery.  The couch surrounds a
+small, round table above which floats a gentle blue-green sphere of light.  
+~
+0 533512 0
+E
+sphere~
+Upon closer examination, the blue-green sphere reveals itself to be a
+globe of Alanthia.  A large town, Midgaard, dominates the central part of
+the sphere.  To the east lies a great sea bordered by the town of New
+Thalos.  Several villages and caverns dot the landscape.  West of the city,
+a great forest blankets the land.  Several rivers flow through the city,
+feeding into the swampy land to the south.  The southern part of the globe
+is covered in dark greens and mountains.  North of the town is great jagged
+range of mountains, beyond which lies no one knows.  A large desert is
+situated to the southeast and several islands litter the coast-lines.  
+~
+D3
+~
+~
+0 0 9421
+S
+#6930
+{WRoom of Fatigue{X~
+{DUpon entering this room, you see nothing special about it, except that
+a very large {GStatue {Dof our {GG{Dod {GN{Dikos stands at the other end. 
+It seems to smell faintly of smoke, given off by the torches hanging on the
+walls which are lighting the beds beneath them.  The beds seem to have
+{rreddish {Dstains upon them from the {rb{Rl{ro{Ro{rd {Dof our clansmen
+wounded in battle.  Here they come to rest and heal for yet another battle
+is still to come, {GT{Dhe {GF{Dinal {GB{Dattle!!  {X 
+~
+0 0 0
+D1
+~
+east~
+1 6834 6931
+D3
+~
+west~
+1 6834 6932
+S
+#6931
+{WArmoury for the {GW{Darriors {Wof {GN{Dikos{X~
+{DUpon entering this room, you notice it's almost pitch black except for
+a {rreddish {Dglow appearing behind a giant statue.  As you get closer you
+see three huge pillars and a {GS{Dtatue of {GN{Dikos.  As you scan the room
+more, you notice another statue...  But it moves toward you!  It appears to
+be a giant of a man holding a hammer.  {X 
+~
+0 268435456 0
+D3
+~
+~
+1 6834 6930
+S
+#6932
+{WBlacksmith for the {GA{Wrmy of {GN{Dikos{X~
+{DAs you enter this room, you notice it looks much like the last, except
+there are only two pillars here.  It seems they had to make room for all the
+forges of {GN{Dikos.  As you take another step forward, a giant of a man
+steps from behind you, holding a gleaming {rred {Dhot, sword.  You notice
+many more hanging on the walls.  {X 
+~
+0 268435456 0
+D1
+~
+~
+1 6834 6930
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 6700 1 1
+D 0 6724 0 2
+D 0 6800 3 1
+D 0 6801 1 1
+D 0 6930 1 2
+D 0 6930 3 2
+D 0 6931 3 2
+D 0 6932 1 2
+M 0 6700 1 6715 1
+M 0 6991 1 6717 1
+M 0 6703 1 6718 1
+M 0 6809 1 6720 1
+M 0 6808 1 6721 1
+M 0 6810 1 6722 1
+M 0 6992 1 6724 1
+M 0 6802 1 6800 1
+M 0 6803 1 6801 1
+M 0 6931 1 6931 1
+M 0 6932 1 6932 1
+S
+
+
+
+#SHOPS
+6803 0 3 0 0 0 100 50 0 23
+6804 0 12 0 0 0 100 50 0 23
+6808 5 9 0 0 0 100 50 0 23
+6809 9 5 0 0 0 100 50 0 23
+6850 9 17 0 35 0 100 50 0 23
+6851 9 5 1 8 13 100 50 0 23
+6852 9 3 10 26 30 100 50 0 23
+6931 9 0 0 0 0 100 50 0 23
+6932 5 0 0 0 0 100 50 0 23
+6991 2 3 10 26 4 100 50 0 23
+0
+
+
+
+#$

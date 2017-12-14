@@ -1,0 +1,1283 @@
+#AREADATA
+Name Hall of Heroes~
+Builders Fluffy Halodar~
+VNUMs 2600 2699
+Credits {??? ???} Anri/Tarc   Hall of Heroes~
+Security 9
+Version 1
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#2600
+A dimly lit path~
+This place is really gloomy.  The trees are very old and you get this
+feeling that some of those might actually jump you...  
+~
+0 0 11
+D0
+~
+~
+0 0 2601
+S
+#2601
+~
+
+~
+0 0 0
+D0
+~
+~
+0 0 2602
+D2
+~
+~
+0 0 2600
+S
+#2602
+~
+
+~
+0 0 0
+D2
+~
+~
+0 0 2601
+D3
+~
+~
+0 0 2603
+S
+#2603
+~
+
+~
+0 0 0
+D1
+~
+~
+0 0 2602
+D3
+~
+~
+0 0 2604
+S
+#2604
+A Dim Trail~
+You are in a dim trail in the forest.  Not much light passes through
+here.  The trail runs north and south, and the light seems to come from the
+north.  To the east, you see a small path into darkness.  
+~
+0 0 0
+D0
+~
+~
+0 0 2605
+D1
+~
+~
+0 0 2603
+D2
+~
+~
+0 0 2650
+S
+#2605
+Entrance to the hall~
+Before you stands a doorway at least 30 feet high.  It is enormous!  As
+you look up, you estimate the hall must be clost to 50 feet high.  You can
+only wonder what type of treasure could be held in such a vast place.  The
+doorway lies to the north, and is carved of the darkest {Dgranite{X.  It
+glows with an unholy light, and you can distinguish the architechture to be
+distinctly ancient dwarven, and carved from a single solid slab.  As you
+approach the tomb's entrance, a cloaked figure appears before you.  
+~
+0 0 0
+D0
+~
+~
+0 0 2606
+D2
+~
+~
+0 0 2604
+S
+#2606
+~
+Smooth, polished {Dgranite{X walls line this corridor.  It is dimly lit
+with {yamber{X torches carved into the wall itself.  You sense you must go
+forward, but the fear of what lies ahead overwhelms you.  
+~
+0 0 0
+D0
+~
+~
+0 0 2607
+D2
+~
+~
+0 0 2605
+S
+#2607
+~
+Smooth, polished {Dgranite{X walls line this corridor.  It is dimly lit
+with {yamber{X torches carved into the wall itself.  You sense you must go
+forward, but the fear of what lies ahead overwhelms you.  
+~
+0 0 0
+D1
+~
+~
+0 0 2608
+D2
+~
+~
+0 0 2606
+S
+#2608
+~
+Smooth, polished {Dgranite{X walls line this corridor.  It is dimly lit
+with {yamber{X torches carved into the wall itself.  You sense you must go
+forward, but the fear of what lies ahead overwhelms you.  
+~
+0 0 0
+D1
+~
+~
+0 0 2609
+D3
+~
+~
+0 0 2607
+S
+#2609
+~
+
+~
+0 0 0
+D1
+~
+~
+0 0 2614
+D2
+~
+~
+0 0 2610
+D3
+~
+~
+0 0 2608
+S
+#2610
+~
+
+~
+0 0 0
+D0
+~
+~
+0 0 2609
+D2
+~
+~
+0 0 2611
+S
+#2611
+~
+
+~
+0 0 0
+D0
+~
+~
+0 0 2610
+D2
+~
+~
+0 0 2612
+S
+#2612
+~
+
+~
+0 0 0
+D0
+~
+~
+0 0 2611
+D2
+~
+~
+0 0 2613
+S
+#2613
+~
+
+~
+0 0 0
+D0
+~
+~
+0 0 2612
+S
+#2614
+~
+Smooth, polished {Dgranite{X walls line this corridor.  It is dimly lit
+with {yamber{X torches carved into the wall itself.  You sense you must go
+forward, but the fear of what lies ahead overwhelms you.  
+~
+0 0 0
+D1
+~
+~
+0 0 2615
+D3
+~
+~
+0 0 2609
+S
+#2615
+~
+
+~
+0 0 0
+D1
+~
+~
+0 0 2619
+D2
+~
+~
+0 0 2616
+D3
+~
+~
+0 0 2614
+S
+#2616
+~
+
+~
+0 0 0
+D0
+~
+~
+0 0 2615
+D2
+~
+~
+0 0 2617
+S
+#2617
+~
+
+~
+0 0 0
+D0
+~
+~
+0 0 2616
+D2
+~
+~
+0 0 2618
+S
+#2618
+~
+
+~
+0 0 0
+D0
+~
+~
+0 0 2617
+S
+#2619
+~
+Smooth, polished {Dgranite{X walls line this corridor.  It is dimly lit
+with {yamber{X torches carved into the wall itself.  You sense you must go
+forward, but the fear of what lies ahead overwhelms you.  
+~
+0 0 0
+D1
+~
+~
+0 0 2620
+D3
+~
+~
+0 0 2615
+S
+#2620
+~
+
+~
+0 0 0
+D0
+~
+~
+0 0 2624
+D2
+~
+~
+0 0 2621
+D3
+~
+~
+0 0 2619
+S
+#2621
+~
+
+~
+0 0 0
+D0
+~
+~
+0 0 2620
+D2
+~
+~
+0 0 2622
+S
+#2622
+~
+
+~
+0 0 0
+D0
+~
+~
+0 0 2621
+D2
+~
+~
+0 0 2623
+S
+#2623
+~
+
+~
+0 0 0
+D0
+~
+~
+0 0 2622
+S
+#2624
+~
+Smooth, polished {Dgranite{X walls line this corridor.  It is dimly lit
+with {yamber{X torches carved into the wall itself.  You sense you must go
+forward, but the fear of what lies ahead overwhelms you.  
+~
+0 0 0
+D0
+~
+~
+0 0 2625
+D2
+~
+~
+0 0 2620
+S
+#2625
+~
+
+~
+0 0 0
+D0
+~
+~
+0 0 2629
+D1
+~
+~
+0 0 2626
+D2
+~
+~
+0 0 2624
+S
+#2626
+~
+
+~
+0 0 0
+D1
+~
+~
+0 0 2627
+D3
+~
+~
+0 0 2625
+S
+#2627
+~
+
+~
+0 0 0
+D1
+~
+~
+0 0 2628
+D3
+~
+~
+0 0 2626
+S
+#2628
+~
+
+~
+0 0 0
+D3
+~
+~
+0 0 2627
+S
+#2629
+~
+
+~
+0 0 0
+D0
+~
+~
+0 0 2630
+D2
+~
+~
+0 0 2625
+D3
+~
+~
+0 0 2633
+S
+#2630
+~
+
+~
+0 0 0
+D0
+~
+~
+0 0 2631
+D2
+~
+~
+0 0 2629
+S
+#2631
+~
+
+~
+0 0 0
+D0
+~
+~
+0 0 2632
+D2
+~
+~
+0 0 2630
+S
+#2632
+~
+
+~
+0 0 0
+D2
+~
+~
+0 0 2631
+S
+#2633
+~
+Smooth, polished {Dgranite{X walls line this corridor.  It is dimly lit
+with {yamber{X torches carved into the wall itself.  You sense you must go
+forward, but the fear of what lies ahead overwhelms you.  
+~
+0 0 0
+D1
+~
+~
+0 0 2629
+D3
+~
+~
+0 0 2634
+S
+#2634
+~
+
+~
+0 0 0
+D0
+~
+~
+0 0 2635
+D1
+~
+~
+0 0 2633
+D3
+~
+~
+0 0 2638
+S
+#2635
+~
+
+~
+0 0 0
+D0
+~
+~
+0 0 2636
+D2
+~
+~
+0 0 2634
+S
+#2636
+~
+
+~
+0 0 0
+D0
+~
+~
+0 0 2637
+D2
+~
+~
+0 0 2635
+S
+#2637
+~
+
+~
+0 0 0
+D2
+~
+~
+0 0 2636
+S
+#2638
+~
+Smooth, polished {Dgranite{X walls line this corridor.  It is dimly lit
+with {yamber{X torches carved into the wall itself.  You sense you must go
+forward, but the fear of what lies ahead overwhelms you.  
+~
+0 0 0
+D1
+~
+~
+0 0 2634
+D3
+~
+~
+0 0 2639
+S
+#2639
+~
+
+~
+0 0 0
+D0
+~
+~
+0 0 2640
+D1
+~
+~
+0 0 2638
+S
+#2640
+~
+
+~
+0 0 0
+D0
+~
+~
+0 0 2641
+D2
+~
+~
+0 0 2639
+S
+#2641
+~
+
+~
+0 0 0
+D0
+~
+~
+0 0 2642
+D2
+~
+~
+0 0 2640
+S
+#2642
+~
+
+~
+0 0 0
+D0
+~
+~
+0 0 2643
+D2
+~
+~
+0 0 2641
+S
+#2643
+~
+
+~
+0 0 0
+D2
+~
+~
+0 0 2642
+S
+#2644
+~
+
+~
+0 4 0
+S
+#2650
+Entrance to a Hall~
+Standing on the steps of this great hall, one notices the finely crafted
+stones that meld perfectly with one another.  Each square of rock glittered
+with {Wtiny diamonds,{X each percious stone reflecting even the tinyest bit
+of light.  Giving the structure a glow of holiness.  The arched doors are
+made of gold and seem to hum its welcome to any that wish to enter.  The
+woodland creatures graze peacefully about the yard, even they can sense the
+goodness of this wonderous place.  
+~
+0 0 11
+D0
+~
+~
+0 0 2604
+D3
+~
+~
+1 0 2651
+S
+#2651
+A Welcoming Foyer~
+This magestic foyer seems to transcend one to a plain of peacefulness. 
+The carpeted floor is lush and soft under foot.  The ceiling is a glass dome
+adorned with handpainted cherubs.  The sweet little angels smiling down at
+those that stand here, bidding welcome to one that enters or offering a fond
+farewell when one leaves.  A brighly lit corridor is off to the west, an
+invitation awaits all that walk these halls.  
+~
+0 0 0
+D1
+~
+~
+1 0 2650
+D3
+~
+~
+0 0 2652
+S
+#2652
+A Brightly Lit Corridor~
+This corridor is brightly lit with a warm glow.  The torches that line
+the wall are graced with the eternal flame of righteousness.  Paintings of
+the realms most courageous or those of great honor hang in monument between
+the luminous orbs.  
+~
+0 0 0
+D0
+~
+~
+0 0 2653
+D1
+~
+~
+0 0 2651
+D3
+~
+~
+0 0 2656
+S
+#2653
+The Seventh Alcove~
+
+~
+0 0 0
+D0
+~
+~
+0 0 2654
+D2
+~
+~
+0 0 2652
+S
+#2654
+The path of Wisdom~
+
+~
+0 0 0
+D0
+~
+~
+0 0 2655
+D2
+~
+~
+0 0 2653
+S
+#2655
+The path of Wisdom~
+
+~
+0 0 0
+D2
+~
+~
+0 0 2654
+S
+#2656
+A Brightly Lit Corridor~
+This corridor is brightly lit with a warm glow.  The torches that line
+the wall are graced with the enternal flame of righteiousness.  Paintings of
+the realms most courageous or those of great honor hang in monument between
+the luminous orbs.  
+~
+0 0 0
+D1
+~
+~
+0 0 2652
+D3
+~
+~
+0 0 2657
+S
+#2657
+A Brightly Lit Corridor~
+This corridor is brightly lit with a warm glow.  The torches that line
+the wall are graced with the enternal flame of righteiousness.  Paintings of
+the realms most courageous or those of great honor hang in monument between
+the luminous orbs.  
+~
+0 0 0
+D0
+~
+~
+0 0 2658
+D1
+~
+~
+0 0 2656
+D3
+~
+~
+0 0 2661
+S
+#2658
+The Sixth Alcove~
+
+~
+0 0 0
+D0
+~
+~
+0 0 2659
+D2
+~
+~
+0 0 2657
+S
+#2659
+The path of Humility~
+
+~
+0 0 0
+D0
+~
+~
+0 0 2660
+D2
+~
+~
+0 0 2658
+S
+#2660
+The path of Humility~
+
+~
+0 0 0
+D2
+~
+~
+0 0 2659
+S
+#2661
+A Brightly Lit Corridor~
+This corridor is brightly lit with a warm glow.  The torches that line
+the wall are graced with the enternal flame of righteiousness.  Paintings of
+the realms most courageous or those of great honor hang in monument between
+the luminous orbs.  
+~
+0 0 0
+D1
+~
+~
+0 0 2657
+D2
+~
+~
+0 0 2662
+S
+#2662
+A Brightly Lit Corridor~
+As the corridor takes a turn, one can take a moment and look out the tall
+perfectly paned window that resides here.  It is draped with soft, pulsh
+velvet the color of forest glade and each side is drawn back with tassels of
+braided gold silk.  
+~
+0 0 0
+E
+window~
+Looking out the window, the forest that surrounds the Majestic Hall can
+be seen.  The tall trees reaching their branches up to the heavens seem to
+notice someone looking and lets the gentle breeze whisper their hello.  This
+is a place of peace and serentiy.  
+~
+D0
+~
+~
+0 0 2661
+D2
+~
+~
+0 0 2663
+D3
+~
+~
+0 0 2664
+S
+#2663
+A Brightly Lit Corridor~
+The corridor continues on.  The brightly lit passages leading one to the
+alcoves and hallways of virtuous attributes.  Perseverance shall be needed
+to keep one going.  
+~
+0 0 0
+E
+window~
+~
+D0
+~
+~
+0 0 2662
+D2
+~
+~
+0 0 2667
+S
+#2664
+The Fifth Alcove~
+
+~
+0 0 0
+D1
+~
+~
+0 0 2662
+D3
+~
+~
+0 0 2665
+S
+#2665
+The Path of Truth~
+
+~
+0 0 0
+D1
+~
+~
+0 0 2664
+D3
+~
+~
+0 0 2666
+S
+#2666
+The Path of Truth~
+
+~
+0 0 0
+D1
+~
+~
+0 0 2665
+S
+#2667
+A Brightly Lit Corridor~
+The corridor continues on.  The brightly lit passages leading one to the
+alcoves and hallways of virtuous attributes.  Perseverance shall be needed
+to keep one going, if they are to prove worthy of the quest.  
+~
+0 0 0
+D0
+~
+~
+0 0 2663
+D1
+~
+~
+0 0 2668
+S
+#2668
+A Brightly Lit Corridor~
+
+~
+0 0 0
+D1
+~
+~
+0 0 2672
+D2
+~
+~
+0 0 2669
+D3
+~
+~
+0 0 2667
+S
+#2669
+The Fourth Alcove~
+
+~
+0 0 0
+D0
+~
+~
+0 0 2668
+D2
+~
+~
+0 0 2670
+S
+#2670
+The Path of Honor~
+
+~
+0 0 0
+D0
+~
+~
+0 0 2669
+D2
+~
+~
+0 0 2671
+S
+#2671
+The Path of Honor~
+
+~
+0 0 0
+D0
+~
+~
+0 0 2670
+S
+#2672
+A Brightly Lit Corridor~
+
+~
+0 0 0
+D1
+~
+~
+0 0 2673
+D3
+~
+~
+0 0 2668
+S
+#2673
+A Brightly Lit Corridor~
+
+~
+0 0 0
+D1
+~
+~
+0 0 2678
+D2
+~
+~
+0 0 2674
+D3
+~
+~
+0 0 2672
+S
+#2674
+The Third Alcove~
+
+~
+0 0 0
+D0
+~
+~
+0 0 2673
+D2
+~
+~
+0 0 2675
+S
+#2675
+The path of Courage~
+
+~
+0 0 0
+D0
+~
+~
+0 0 2674
+D2
+~
+~
+0 0 2676
+S
+#2676
+The path of Courage~
+
+~
+0 0 0
+D0
+~
+~
+0 0 2675
+D2
+~
+~
+0 0 2688
+S
+#2678
+A Brightly Lit Corridor~
+
+~
+0 0 0
+D1
+~
+~
+0 0 2679
+D3
+~
+~
+0 0 2673
+S
+#2679
+A Brightly Lit Corridor~
+
+~
+0 0 0
+D1
+~
+~
+0 0 2683
+D2
+~
+~
+0 0 2680
+D3
+~
+~
+0 0 2678
+S
+#2680
+The Second Alcove~
+
+~
+0 0 0
+D0
+~
+~
+0 0 2679
+D2
+~
+~
+0 0 2681
+S
+#2681
+The path of Love~
+
+~
+0 0 0
+D0
+~
+~
+0 0 2680
+D2
+~
+~
+0 0 2682
+S
+#2682
+The path of Love~
+
+~
+0 0 0
+D0
+~
+~
+0 0 2681
+S
+#2683
+A Brightly Lit Corridor~
+
+~
+0 0 0
+D1
+~
+~
+0 0 2684
+D3
+~
+~
+0 0 2679
+S
+#2684
+A Brightly Lit Corridor~
+
+~
+0 0 0
+D2
+~
+~
+0 0 2685
+D3
+~
+~
+0 0 2683
+S
+#2685
+The First Alcove~
+
+~
+0 0 0
+D0
+~
+~
+0 0 2684
+D2
+~
+~
+0 0 2686
+S
+#2686
+The path of Benevolence~
+
+~
+0 0 0
+D0
+~
+~
+0 0 2685
+D2
+~
+~
+0 0 2687
+S
+#2687
+The path of Benevolence~
+
+~
+0 0 0
+D0
+~
+~
+0 0 2686
+S
+#2688
+The path of Courage~
+
+~
+0 0 0
+D0
+~
+~
+0 0 2676
+D2
+~
+~
+0 0 2689
+S
+#2689
+The path of Courage~
+
+~
+0 0 0
+D0
+~
+~
+0 0 2688
+D2
+~
+~
+0 0 2690
+S
+#2690
+The path of Courage~
+
+~
+0 0 0
+D0
+~
+~
+0 0 2689
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 2650 3 1
+D 0 2651 1 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

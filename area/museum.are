@@ -1,0 +1,1085 @@
+#AREADATA
+Name Museum of Antiquities~
+Builders Fluffy Halodar~
+VNUMs 9400 9499
+Credits {5    15} Glory       Antique Museum~
+Security 9
+Version 1
+End
+
+
+
+#MOBILES
+#9400
+sculpture female drow~
+{ya female drow{x~
+{yA sculpture of a female drow.{x
+~
+This drow has black skin and flowing white hair.  She wields the imfamous snake-headed whip, and seems to glare at you, ready to strike.
+~
+unique~
+ABQ Z -750 0
+9 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+FI Q L HNS
+stand stand female 0
+AHZ ACDEFHJKLOPQUVWXY medium flesh
+#9401
+student~
+a student~
+A student is here, rubbing his chin in thought.
+~
+You see a student dressed in garments befitting the upper-class.  He is absorbed in the displays, nodding his head every so often and rubbing his chin constantly.
+~
+unique~
+AGH D 250 0
+6 0 2d7+71 3d9+100 1d7+1 none
+4 4 4 9
+EFN 0 0 C
+stand stand male 0
+ABGV ACDEFHJKQV medium 0
+#9402
+museum curator~
+the museum curator~
+The museum curator turns and smiles at you.
+~
+The curator is a human wide of girth with thinning brown hair.  He
+appears to be a bit overworked, but takes the time to exchange pleasantries.
+~
+unique~
+ABG DFH 2 0
+15 0 2d10+150 6d9+100 1d10+3 none
+0 0 0 8
+EFN 0 0 0
+sit stand male 50
+AHMV ABCDEFGHIJK medium 0
+#9403
+museum guard~
+a museum guard~
+A museum guard is here, guarding the precious artifacts.
+~
+He looks similar to the city guard, except he has cheap-quality equipment.  He is used to the artifacts around him, probably from the months he's been servicing as guard for this museum.
+~
+unique~
+AGT 0 0 0
+9 0 2d6+110 4d9+100 1d8+2 none
+2 2 2 8
+EFNU 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#9404
+museum cleaner~
+a museum cleaner~
+A museum cleaner is here, cleaning the room.
+~
+He seems intent on making the room as clean as it can be.  He carries a wooden bucket with a variety of small brooms and scrubs.
+~
+unique~
+ACGH 0 1 0
+2 0 2d7+21 1d9+100 1d5+0 none
+8 8 8 10
+EFNU 0 0 0
+stand stand male 2
+AHMV ABCDEFGHIJK medium 0
+#9405
+girl~
+a small girl~
+A small girl is running about, making a lot of noise.
+~
+You see a small girl, probably no older than three summers.  She is jumping around and screaming, making a lot of noise and commotion for no reason at all.
+~
+unique~
+AGH 0 0 0
+4 0 2d7+46 2d9+100 1d5+1 none
+6 6 6 9
+EFN 0 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium 0
+#9406
+museum worker~
+a museum worker~
+A museum worker is here, upkeeping the rooms.
+~
+The worker is very busy.  He carefully examines the walls, displays, sculptures, and artifacts, making sure all is well.
+~
+unique~
+AGH 0 100 0
+3 0 2d6+35 1d9+100 1d6+0 none
+7 7 7 10
+EFNU 0 0 0
+stand stand male 2
+AHMV ABCDEFGHIJK medium 0
+#9407
+museum visitor~
+a museum visitor~
+A museum visitor is here, looking at the displays.
+~
+She seems to be part of the upper-class.  She reads, examines, and sometimes touches the displays, very engrossed in it.
+~
+unique~
+ABH 0 150 0
+3 0 2d6+35 1d9+100 1d6+0 none
+7 7 7 10
+EFNU 0 0 0
+stand stand female 3
+AHMV ABCDEFGHIJK medium 0
+#9408
+sprite sculpture~
+{ya sculpture of a sprite{x~
+{yA sculpture of a sprite.{x
+~
+It's a tiny sculpture of a sprite.  It's of exceptional detail, with life-like elvish features,and wings that have intricate designs.
+~
+unique~
+ABR T 500 0
+8 0 0d0+0 0d0+0 0d0+0 slash
+0 0 0 0
+FK 0 F 0
+stand stand male 0
+AHMV ABCDEFGHIJK tiny flesh
+#9409
+sculpture succubus~
+{ya sculpture of a succubus{x~
+{yA sculpture of a succubus.{x
+~
+The sculpture has captured the image of a succubus well.  Ruby-red full lips, an hour-glass body, curves in all the right places, and complete with the demon set of wings.
+~
+unique~
+ABG T -900 0
+10 0 0d0+0 0d0+0 0d0+0 pound
+0 0 0 0
+F 0 HLQ IN
+stand stand female 0
+AHMV ABCDEFGHIJKUVW medium unknown
+#9410
+incubus sculpture~
+{ya sculpture of an incubus{x~
+{yA sculpture of an incubus.{x
+~
+The incubus represents the epitomy of physical and sexual traits, desired and dreamed by all women.
+~
+unique~
+ABGT 0 -900 0
+10 0 0d0+0 0d0+0 0d0+0 pound
+0 0 0 0
+CF 0 HLQ IN
+stand stand male 0
+AHMV ABCDEFGHIJKUVW medium unknown
+#9411
+darvier~
+{yA sculpture of a darvier{x~
+{yA sculpture of a darvier.{x
+~
+The sculpture is almost a life-like model of the Darviers as they existed before.  It stands about five feet in height, very muscular and bulky, and has a bulbous nose with the oversized head and hands.
+~
+unique~
+AB 0 200 0
+11 0 0d0+0 0d0+0 0d0+0 pound
+0 0 0 0
+0 0 LQ F
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#9412
+trollein~
+{ya sculpture of a trollein{x~
+{yA sculpture of a trollein.{x
+~
+This trollein resembles a few features of the troll race, but it looks very beautiful and flawless in appearance.
+~
+unique~
+ABG 0 700 0
+12 0 0d0+0 0d0+0 0d0+0 pound
+0 0 0 0
+DFIK 0 BE HK
+stand stand female 0
+ABHMV ABCDEFGHIJKUV large unknown
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#9400
+Museum of Antiquities~
+The museum is bright and airy, the ceiling extending 16 feet above the
+floor.  The floor and walls are of polished marble, and your footsteps echo
+loudly.  
+~
+0 8 0
+D0
+~
+~
+0 0 9401
+D1
+~
+~
+0 0 9407
+D2
+~
+~
+0 0 9403
+S
+#9401
+Hall of Geology~
+Rows of display cases line the walls.  Within the blue velvet-lined cases
+are samples of beautiful moonrocks that have fallen from the red moon.  The
+samples range in size, but all of them carry a reddish glow accentuated by
+the soft red lighting in the room.  
+~
+0 8 0
+D0
+~
+~
+0 0 9402
+D1
+~
+~
+0 0 9406
+D2
+~
+~
+0 0 9400
+D3
+~
+~
+0 0 3047
+S
+#9402
+Hall of Geology~
+Suspended in the air are fiery rocks shed from the blue moon.  They are
+surrounded by a magical force to prevent observers from touching them. 
+Their intense heat would sear flesh from bone.  
+~
+0 8 0
+D0
+~
+~
+0 0 9433
+D1
+~
+~
+0 0 9405
+D2
+~
+~
+0 0 9401
+S
+#9403
+Hall of Prehistory~
+Before condemned to the inner caves, the Trolleins (or Trolls as they are
+now known) were a striking race, lithe in body and physically perfect.  It
+is unknown how the Trolleins were cast into the dark confines of Alanthia,
+bound from exiting by magical sigils.  They now exist today as malformed
+Trolls, offensive to behold.  
+~
+0 8 0
+D0
+~
+~
+0 0 9400
+D1
+~
+~
+0 0 9408
+D2
+~
+~
+0 0 9404
+S
+#9404
+Hall of Prehistory~
+The Darviers, distant cousins to the Dwarves, stood about 5 feet tall
+with the identifying bulbous noses and oversized heads and hands.  They
+roamed freely across Alanthia, living as nomadic tribes of hunters and
+gatherers.  One pivotal day, Dierdyn, leader of the Kardron tribe,
+discovered a brilliant red stone buried within a rocky crag.  Word soon
+spread and all of the Darvier tribes began to relocate deeper into the
+Alanthian underground, mining the precious minerals.  Over time, the race
+evolved into the Dwarves you see today.  Beings of much smaller stature, but
+dense muscular build to allow for their mining professions.  
+~
+0 8 0
+D0
+~
+~
+0 0 9403
+D1
+~
+~
+0 0 9409
+S
+#9405
+Hall of Geology~
+The room is dark with small bright lights aimed at the selection of
+moonrocks dropped from the white moon.  The samples are roughly shaped with
+what appear to be sharp edges.  They are sparkling white as if filled with
+hundreds of tiny diamonds.  
+~
+0 8 0
+D1
+~
+~
+0 0 9410
+D2
+~
+~
+0 0 9406
+D3
+~
+~
+0 0 9402
+S
+#9406
+Hall of Geology~
+A selection of crystals and gems inherent to the land are displayed here.
+Many thanks to the generous Dwarves, Darmik and Crathon, for making this
+possible.  
+~
+0 8 0
+D0
+~
+~
+0 0 9405
+D1
+~
+~
+0 0 9411
+D2
+~
+~
+0 0 9407
+D3
+~
+~
+0 0 9401
+S
+#9407
+Hall of Prehistory~
+The Elven races have changed very little through the ages.  They have
+honed their communion with the land, the adepts of the race learning to
+harness the gifts it offers.  Though they have now divided themselves into
+factions, they exist together in peace with one notable exception, the Drow.
+The Drow embraced the darker influences of the land, taking the ugliness of
+it into their very souls.  This darkness transformed their physical
+appearance and drove them into exile.  
+~
+0 8 0
+D0
+~
+~
+0 0 9406
+D1
+~
+~
+0 0 9412
+D2
+~
+~
+0 0 9408
+D3
+~
+~
+0 0 9400
+S
+#9408
+Hall of Prehistory~
+It is not known when the fairy-folk first appeared in Alanthia.  It is
+known, however, that they worship Cecilya.  They are merry creatures with
+beauty, sharply contrasting with some of the destructive races in the world,
+such as drow.  
+~
+0 8 0
+D0
+~
+~
+0 0 9407
+D2
+~
+~
+0 0 9409
+D3
+~
+~
+0 0 9403
+S
+#9409
+Hall of Prehistory~
+There was created a race of creature powerful to behold.  Immense wings
+sprouted from their shoulder blades, and their finely structured bodies gave
+them the strength to suppress all those that stood in their way.  Demons. 
+Evil incarnate.  
+~
+0 8 0
+D0
+~
+~
+0 0 9408
+D3
+~
+~
+0 0 9404
+S
+#9410
+Hall of Natural History~
+A rare plant, the surduma, is displayed here, harvested from the Isle of
+Omichle.  It is rumored that the Kesthai have found a powerful use for
+surduma.  If this is true, they are retaining their knowledge as a closely
+held secret.  
+~
+0 8 0
+E
+surduma~
+The plant gives off a strong, pleasing aroma even through the display
+case.  
+~
+D1
+~
+~
+0 0 9415
+D2
+~
+~
+0 0 9411
+D3
+~
+~
+0 0 9405
+S
+#9411
+Hall of Natural History~
+The Isle of Omichle rests southwest of mainland Alanthia.  Dre'Kesthai,
+home to the Kesthai, was discovered there in recent history.  The Kesthai
+existed in relative seclusion for several centuries, worshipping their
+patron dragons.  It is said they have been blessed with the spirit of the
+dragon living as servents to the powerful beings.  A display shows the
+beautiful landscape of the island.  
+~
+0 8 0
+D0
+~
+~
+0 0 9410
+D1
+~
+~
+0 0 9416
+D2
+~
+~
+0 0 9412
+D3
+~
+~
+0 0 9406
+S
+#9412
+Hall of Oddities~
+Objects which look like weaponry are displayed here, though you wouldn't
+have the slightest idea how to use them.  One in particular stands out.  Its
+handles are crossed and have several metal barbs lining them.  Each handle
+ends in a leather sling.  Was this a weapon, or a gaming tool?  All that can
+be said with any certainty is the wielder must have had protective covering
+over their grip.  A sign below the artifact indicates it was unearthed near
+Mahn-Tor.  
+~
+0 8 0
+D0
+~
+~
+0 0 9411
+D1
+~
+~
+0 0 9417
+D2
+~
+~
+0 0 9413
+D3
+~
+~
+0 0 9407
+S
+#9413
+Hall of Oddities~
+Far above you is a glass skylight that allows the sunlight to stream in,
+warming the room.  In the center of the room is a very large circular glass
+casing that stretches to the ceiling.  Within the casing is the most
+beautiful bird you have ever seen.  It is perched upon a white birch tree,
+its wings filled with the colors of the rainbow.  A complex hypnotic tune
+issues forth from its throat.  A sign on the casing indicates the bird was
+captured within the Holy Grove.  
+~
+0 8 0
+D0
+~
+~
+0 0 9412
+D2
+~
+~
+0 0 9414
+S
+#9414
+Hall of Oddities~
+This display shows a recreation of the murky bogs found on the western
+mainland of Alanthia.  Captured within the display is a tangible mist with
+bright twinkling lights.  It darts about within the casing and you can't
+help but become mesmerized by the balls of light.  A brass plaque below the
+display identifies this creature as the rare will o' wisp.  
+~
+0 8 0
+D0
+~
+~
+0 0 9413
+S
+#9415
+Hall of Natural History~
+Nestled among the northern plains, past the rocky foothills, is the city
+of Belua.  Here reside the lycanthrops of the land.  The city stretches wide
+across the plains and is most active at night.  It is a very young city,
+constructed in recent history.  Its residents are marauders of the land,
+living off instinct.  Displayed here are sculptures of the first meeting of
+the Beluan Council consisting of the Wolven, Felis, and Ursus leaders.  
+~
+0 8 0
+D1
+~
+~
+0 0 9420
+D2
+~
+~
+0 0 9416
+D3
+~
+~
+0 0 9410
+S
+#9416
+Hall of Natural History~
+There came to be a city of ill-repute within Alanthia.  It is unknown
+where it is located.  The rulers of Alanthia hoped to limit their citizens'
+access to Xeryl in hopes of preserving their innocence.  Temptation is an
+incredibly powerful force.  Xeryl is never lacking for visitors.  Imaged
+here is the raucous tavern of Xeryl with all of its heathen patrons.  
+~
+0 8 0
+D0
+~
+~
+0 0 9415
+D1
+~
+~
+0 0 9421
+D2
+~
+~
+0 0 9417
+D3
+~
+~
+0 0 9411
+S
+#9417
+Hall of Oddities~
+A variety of oddly shaped herbs and roots are scattered along small
+tables in the room.  There is a low humming sound around you.  You realize
+it is emanating from the protective barriers surrounding each table.  Much
+of the plants displayed here have powerful magical uses, a tempting
+opportunity for thieves.  
+~
+0 8 0
+D0
+~
+~
+0 0 9416
+D1
+~
+~
+0 0 9422
+D2
+~
+~
+0 0 9418
+D3
+~
+~
+0 0 9412
+S
+#9418
+Hall of Infamy~
+A great chamber encases this portion of the Hall of Infamy.  All around
+are mirrors and fragments of the same.  Each glows with a luminescent aura. 
+This resplendant display is breathtakingly beautiful and horrifying in the
+same instant.  A glass sculpture on a silver pedestal is in the center of
+the mirrored chamber.  The light reflecting off the mirrors illuminates the
+faceted glass, revealing the thousand eyes carved therin.  The room is
+surprisingly cold for how bright it is, much like a winter's day with the
+sun reflecting intensely off the snow.  
+~
+0 8 0
+E
+mirrors~
+Each of the many mirrors glows with a different colored light, their
+auras melding into a common brightness.  They are all-seeing and
+all-revealing.  They represent the truest of judges, the reflection.  
+~
+E
+glass eyes~
+The carved glass sculpture is of a faceted orb, engraved into which are a
+thousand glass eyes.  This is the visual representation of Sadiq, the Judge.
+It shines with the brightness and beauty of the stars in the heavens, and
+looks with an icy truth-seeking stare upon everyman's heart.  
+~
+E
+silver pedestal~
+The silver pedestal is simply, but solidly made.  It is a single,
+flawless pillar of mirror-like silver.  The only engravings are the name
+"Sadiq" and a single eye with a star where the pupil would be.  
+~
+D0
+~
+~
+0 0 9417
+D1
+~
+~
+0 0 9423
+D2
+~
+~
+0 0 9419
+S
+#9419
+Hall of Infamy~
+This portion of the hall is lined with stone.  The stone is lifeless and
+dull, unlike the stones of the forest, and more like rocks in the desert.  A
+fountain in the center of the room, also stone, gushes an endless stream of
+blood.  Depictions of foul deeds and chaos are carved into the stone. 
+Various pieces of weaponry and objects of torture decorate the fountain.  
+~
+0 8 0
+E
+blood~
+Blood spurts and gushes over this fountain as though from a great wound. 
+Only Nikos himself knows whose blood fills his alter.  The destruction of
+Nikos be upon those who dare to sip of this blood!  
+~
+E
+fountain weapons torture~
+This elaborate fountain is the sole object in the room.  Crafted from
+volcanic stone, it almost resembles a volcano in the way it spews thick
+blood like lava, and spills it over its sides.  Weapons and torture devices
+line the edges of the fountain, seemingly decoration, but also protection of
+the sacred blood.  They glint with a morbid red light, and would be lethal
+to touch.  
+~
+D0
+~
+~
+0 0 9418
+D1
+~
+~
+0 0 9424
+D2
+~
+~
+0 0 9425
+S
+#9420
+Hall of Natural History~
+There existed upon this land a Titan city, the grandeur unmatched even to
+this day.  It is not known what caused its demise other than tales of
+jealousy and deceipt amongst its leaders.  Lorakai, a high standing ranger
+of Alanthia, stumbled upon the remains of this great city as he was
+travelling the River of Lost Souls.  The event has been captured in time
+with this display.  The original name of the city has been lost through the
+ages, though the tales have referred to Harash'nik and K'o'Ballah.  Perhaps
+someday the truth will be discovered.  Until that day, the ruined city has
+been dubbed the Spawning Pit.  
+~
+0 8 0
+D2
+~
+~
+0 0 9421
+D3
+~
+~
+0 0 9415
+S
+#9421
+Hall of Oddities~
+Captured behind a thick glass display is a nest of Cendrids.  These odd
+creatures make their home in Xeryl.  They are about 4 feet long with bodies
+of hardshelled centipedes.  Their heads are that of human infants, and their
+eyesockets are covered with patches of skin, rendering them blind.  The
+glass panels are soundproof so that their cries do not disturb you.  They
+rarely reach maturity as their food source, germia, is all but extinct from
+Alanthia.  To the east, a bright comfortable room looks inviting.  
+~
+0 8 0
+D0
+~
+~
+0 0 9420
+D1
+~
+~
+0 0 9432
+D2
+~
+~
+0 0 9422
+D3
+~
+~
+0 0 9416
+S
+#9422
+Hall of Oddities~
+This display contains a male and female reptite nesting in a corner. 
+Their bodies are reptilian, and their eyes are a bright glowing green. 
+What's left of this race can be found beneath the Mists of Dreams.  This
+room is kept dim with soft blue and green balls of light donated by the
+Mage's Guild.  
+~
+0 8 0
+D0
+~
+~
+0 0 9421
+D2
+~
+~
+0 0 9423
+D3
+~
+~
+0 0 9417
+S
+#9423
+Hall of Infamy~
+You enter into a spherical silver chamber, much like being inside a
+bubble.  The walls swirl around you in various shades of metallic grey.  A
+prismatic pillar rises from floor to ceiling, revolving slowly and
+refracting rainbows onto the swirling silver walls.  To gaze into the prism
+is to dream, and to leave this room is to wake up from a pleasant rest.  
+~
+0 8 0
+E
+prismatic pillar~
+A thick, faceted prism creates a pillar of lighted color reaching from
+the floor to the ceiling of the silver chamber.  Gazing into the prism, you
+see swirling colors, and a name.  The name is "Sahma, Goddess of Mystics and
+Creator of Dreams".  
+~
+D0
+~
+~
+0 0 9422
+D2
+~
+~
+0 0 9424
+D3
+~
+~
+0 0 9418
+S
+#9424
+Hall of Infamy~
+This part of the hall is a pond, perfectly circular with a circular
+island in the center.  A small, delicately carved ivory footbridge creates a
+graceful arch to the island.  The water is a perfect blue, and hundreds of
+small, fragrant candles dot the water with spots of brilliant light.  The
+island contains one large, blue candle in a silver holder.  Carved in a
+spiral on the silver candle-stand is a fine inscription that requires close
+examination to make out.  
+~
+0 8 0
+E
+carvings~
+Your gaze falls deeper into the shifting carvings, and your mind begins
+to wander.  Dreams from your past come to your mind, the dreams which came
+to you in your earliest days.  Your mind begins to drift away into
+darkness..  
+You awake on the floor, unaware of how much time has passed.  A soft voice
+whispers into your ear "Thank you".
+~
+E
+design~
+As you look closer, the design now appears to be a complete whole, a
+strange series of interlocking, lopsided cubes.  The grooves in the stone
+are encrusted with a powdered crystal which gives off a pale green light.  A
+small caption below the design reads: "The Tesseract, as seen in the Year of
+The Falling Dragon".  
+~
+E
+silver candle-stand island inscription holder~
+The silver candle-stand is smooth and polished, and engraved with fine
+lettering.  It reads: 
+Let the candle-light of CeleDi guide your thoughts,
+and let your thoughts guide your heart,
+and your heart guide your actions,
+so that you may impart the grace of CeleDi on those around you,
+and only then may you receive her grace yourself.
+~
+D0
+~
+~
+0 0 9423
+D2
+~
+~
+0 0 9426
+D3
+~
+~
+0 0 9419
+S
+#9425
+Hall of Infamy~
+The smell of the sea-breeze wafts through the air, and sand scatters the
+ground here.  Wavelets lap at the sand from a vast ocean, until all the sand
+is gone and the waters become still.  Slowly, the waters recede, and a rocky
+mass emerges from the depths.  As the water falls, the mountain rises, while
+shrubs, ice, and grass form on its surface.  Before you, the mountain
+crumbles into boulders, the boulders into rocks, and gradually the rocks
+into sand.  A dry wind scorches your eyes, and the water begins to return,
+with small wavelets lapping at the shore.  
+~
+0 8 0
+D0
+~
+~
+0 0 9419
+D1
+~
+~
+0 0 9426
+D2
+~
+~
+0 0 9427
+S
+#9426
+Hall of Infamy~
+Several trees surround this part of the hall, making a secluded clearing.
+The boughs hang overhead to make a dense, leafy ceiling, and soft grass
+lines the floor.  Tucked into the corners at the base of the trees are a
+variety of fragrant herbs and mosses.  Upon closer examination, one finds
+that they are beneficial herbs that may be used as medicine.  The grass is
+soft and inviting, and the herbs' fragrance is rather intoxicating.  
+~
+0 0 0
+D0
+~
+~
+0 0 9424
+D2
+~
+~
+0 0 9428
+D3
+~
+~
+0 0 9425
+M 100 H 200
+S
+#9427
+Hall of Infamy~
+This portion of the hall is a neat, organized library.  Tall,
+beautifually carved wooden bookcases reach to the high ceiling.  The floor
+is crafted of finely polished wooden panels, vered by an ornate rug woven of
+burgundy, blue, and silver threads into an intricate design.  Some titles
+that you can make out are "Self-Defense for the Advanced student," "The Mind
+and Soul," and "How to Think."  A glove of the world rests in the center of
+the room.  Recognizable places may be found on it, such as Midgaard and New
+Thalos, as well as some less travelled areas, like the Marsh.  However, the
+globe is faded, and it seems that it is not quite so complete.  
+~
+0 0 0
+D0
+~
+~
+0 0 9425
+D1
+~
+~
+0 0 9428
+D2
+~
+~
+0 0 9429
+S
+#9428
+Hall of Infamy~
+The intoxicating aroma of fermenting grapes and other fruit arrests your
+senses the second you enter the room.  A mural on the wall depicts
+townspeople partaking in various sorts of merriment and revelry.  A
+winepress adorns the center of the room.  A small table next to the press
+holds a vintage bottle of wine and an empty glass.  
+~
+0 0 0
+E
+table small~
+This wooden table, shockingly, has been carved with the image of a
+voluptuous young woman holding a tray which then serves as a table.  She is
+clad with a smile and a wink, and nothing more.  Rudah would approve.  
+~
+D0
+~
+~
+0 0 9426
+D2
+~
+~
+0 0 9430
+D3
+~
+~
+0 0 9427
+S
+#9429
+Hall of Infamy~
+One entire wall is taken up by a gigantic furnace with numerous glowing,
+fiery embers inside, making the room incredibly hot.  A solid iron anvil
+shoots out of the floor in the middle of the room.  Weapons hang on the
+other wall of all types, and gleaming in the firelight.  
+~
+0 0 0
+D0
+~
+~
+0 0 9427
+D1
+~
+~
+0 0 9430
+S
+#9430
+Hall of Infamy~
+This dark corner of the hall resembles a mage's laboratory.  Books of
+spells are strewn about, as well as some wands, various stones, potions, and
+some other things of importance to a mage.  This room is a monument to
+deities of Alanthia, none in particular.  
+~
+0 0 0
+E
+alter~
+This alter is a well-worked thing of beauty.  The top is stone, but the
+base is wood.  Carved into the base are the symbols of all the gods and
+goddesses of Alanthia.  Embedded in a pattern near the floor are a prism, a
+vial of blood, and a blue candle.  More candles are hung on the wall in
+golden sconces, lighting the shrine to the gods.  
+~
+D0
+~
+~
+0 0 9428
+D3
+~
+~
+0 0 9429
+S
+#9432
+The Library~
+Towering bookshelves reach toward the high, faceted ceiling.  Light
+filters through the crystalline structure and envelops the room in dazzling
+light.  Nestled into the polished maple shelves are an assortment of books. 
+These books contain all the information about the varied clans of Alanthia. 
+Situated in the middle of the room is a small indentation in the floor,
+containing a circular couch around its periphery.  The couch surrounds a
+small, round table above which floats a gentle blue-green sphere of light.  
+~
+0 1036 0
+D3
+~
+~
+0 0 9421
+S
+#9433
+Chambers of Meditation~
+Stained mohogany rises high on every side up to the cathedral ceilings
+that cap the graceful arched walls of these chambers.  An enormous bench
+sits in the middle of the room, with a set of chairs of various sizes in
+front of it, laid out in a small semi-circle.  The rich furnishings are
+further offset by a trio of tapestries depicting the history of the land on
+the wall behind the bench.  
+~
+0 12 0
+D2
+~
+~
+0 0 9402
+S
+#0
+
+
+
+#SPECIALS
+M 9400 spec_cast_cleric
+M 9408 spec_cast_mage
+S
+
+
+
+#RESETS
+M 0 9405 7 9401 1
+M 0 9401 5 9402 1
+M 0 9402 1 9403 1
+M 0 9412 1 9403 1
+M 0 9411 1 9404 1
+M 0 9405 7 9404 1
+M 0 9403 7 9406 1
+M 0 9400 1 9407 1
+M 0 9408 1 9408 1
+M 0 9405 7 9408 1
+M 0 9401 5 9408 1
+M 0 9405 7 9409 1
+M 0 9407 3 9410 1
+M 0 9404 4 9410 2
+M 0 9403 7 9410 1
+M 0 9407 3 9411 1
+M 0 9401 5 9411 1
+M 0 9404 4 9413 2
+M 0 9403 7 9414 1
+M 0 9405 7 9415 1
+M 0 9406 8 9415 1
+M 0 9409 1 9416 1
+M 0 9410 1 9416 1
+M 0 9406 8 9416 1
+M 0 9406 8 9417 1
+M 0 9406 8 9418 1
+M 0 9401 5 9418 1
+M 0 9406 8 9419 1
+M 0 9406 8 9420 1
+M 0 9407 3 9420 1
+M 0 9405 7 9421 1
+M 0 9403 7 9421 1
+M 0 9401 5 9422 1
+M 0 9403 7 9422 1
+M 0 9406 8 9423 1
+M 0 9403 7 9423 1
+M 0 9403 7 9424 1
+M 0 9406 8 9424 1
+M 0 9405 7 9424 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

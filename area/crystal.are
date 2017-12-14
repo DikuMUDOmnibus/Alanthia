@@ -1,0 +1,3101 @@
+#AREADATA
+Name Crystal Tower~
+Builders Fluffy Halodar~
+VNUMs 14100 14400
+Credits {  ALL  } Staff       Crystal Tower~
+Security 9
+Version 1
+End
+
+
+
+#MOBILES
+#14100
+no name~
+(no short description)~
+(no long description)
+~
+~
+unique~
+A 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+#14101
+james fieldsman manservant~
+Kierlana's manservant~
+Kierlana's manservant is here.
+~
+James stands ready to attend to Kierlana's every whim.  He is wearing a
+black vest with a rose emblem and even tighter black pants.  Around his
+neck is a wolf pendant and upon his finger, a skull ring.
+~
+unique~
+ABT Vac 0 0
+200 100 0d0+0 0d0+0 0d0+0 slash
+0 0 0 0
+X CDEGL F 0
+stand stand male 0
+AHMV ABCDEFGHIJK giant none
+#14102
+Eris~
+{cE{gr{ci{gs {GGoddess of Discord{X~
+{cE{gr{ci{gs {GGoddess of Discord{X
+~
+~
+unique~
+ABM 0 0 0
+200 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand female 0
+0 0 medium unknown
+#14103
+none~
+{gA{cl{gc{ce{gp{ci{g'{cs {XThrone~
+{gA{cl{gc{ce{gp{ci{g'{cs {XThrone
+~
+~
+unique~
+ABM 0 0 0
+200 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+#14104
+Sofia barmaid~
+Sofia, the barmaid~
+Sofia the barmaid stands behind the bar.
+~
+This beautiful young lady holds herself well as she
+obeys the bec-and-call of those gathered around the
+bar.  She smiles as she sees you, and gestures for you
+to sit before her at the bar.
+~
+unique~
+ABM 0 0 0
+200 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 AB CD 0
+stand stand female 100000
+0 0 medium unknown
+#14105
+carissa handmaiden~
+Carissa~
+Carissa, Anri's handmaiden, is tidying the room for her mistress.
+~
+A simple human girl, dressed in servant's clothing, Carissa is beautiful
+even still.  Her long auburn tresses are arranged with a braided coil around
+her head, while the remaining hair flows down her back.  She smiles a
+genuine smile at your approach, and says "G'day, how may I serve you?"  
+~
+unique~
+ABM 0 0 0
+200 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+CDHNV CD CDFHIL 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium unknown
+#14106
+sexy woman~
+a sexy woman~
+A sexy woman plays in the treasure.
+~
+You see a sexy woman with flowing midnight black hair, deep brown eyes
+and dressed in a black string bikini leaving nothing to the imagination.  In
+the middle of playing in the treasure she laughs in delight and throws up
+a handful of gold coins, showering the room with it.
+~
+unique~
+ABM 0 0 0
+300 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 ABCD 0 0
+stand stand female 0
+0 0 medium unknown
+#14107
+ancient lich~
+{Dan Ancient Lich{x~
+{DA Dark Priest of the Dark Army stands here.{x
+~
+{DDraped in black and blue robes stands a lich from the order of the Dark
+Army.  Mysterious {Bblue light {Dflames from around his figure, enticing you
+into a trance for which you will be his next sacrifice.  {x 
+~
+unique~
+AB 0 0 0
+150 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 ABQ L HNS
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#14108
+The Living Statue~
+The Living Statue~
+The Living Statue is here.
+~
+This is the Statue of Paladine, glorious leader, and powerful warlord
+of the land.  His armor crackles with light from the heavens and his face
+is kind yet firm.  His vast knowledge and fierce battle skill have earned
+him a place in the heavens.  He offers his advice to you, for a small
+price.....
+~
+unique~
+AIM 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 A 0 0
+stand stand none 100000
+0 0 medium unknown
+#14109
+vorkai's guardian~
+{rV{mo{Mr{Rk{ra{mi{M'{rs {DG{Wu{Da{Wr{Dd{Wi{Da{Wn{X~
+{DA massive Guard stands here, keeping unwanted visitors out of the House of {rV{mo{Mr{Rk{ra{mi{D.{X
+~
+{DA tall guard in dark attire stands here keeping a watchful eye over the
+House of {rV{mo{Mr{Rk{ra{mi{D.  
+~
+unique~
+ABF DF -1000 0
+309 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+U BCELQ DF 0
+stand stand none 100000
+C UW giant unknown
+#14110
+gardener~
+{GG{ga{Gr{gd{Ge{gn{Ge{gr {Dfor the {rV{mo{Mr{Rk{ra{mi {DFamily{X~
+{DA man {Dis here, tending to the needs of the {rV{mo{Mr{Rk{ra{mi{M'{rs {Dplants.{X
+~
+{DA humble servant of the {WHouse {Dof {rV{mo{Mr{Rk{ra{mi{D, busy at work
+as one can see.  He waters the plants as needed, while he prunes away at
+unwanted stems and branches.  {X 
+~
+unique~
+AB DFHa -750 0
+150 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+BI ABL FJKMQ G
+stand stand none 1000
+0 0 medium unknown
+#14111
+servant~
+{WS{we{Wr{wv{Wa{wn{Wt {Dof {rV{mo{Mr{Rk{ra{mi{X~
+{DThe servant rushes to your wishes, serving to please the family.{X
+~
+{DAn average sized creature, suited up to cater to the wants and needs
+{Dof the members of {WHouse {rV{mo{Mr{Rk{ra{mi{D.  {X 
+~
+unique~
+AB DFHLOVa -750 0
+250 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 ABLQ D 0
+stand stand none 250000
+0 0 medium unknown
+#14112
+crystal angel~
+an angel~
+An angel stands here.
+~
+A guardian angel stands here, radiating a powerful aura. Her wings are made of pure white feathers, symbolizing her strength and innocence.
+~
+unique~
+ABM 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 C 0 0
+stand stand none 0
+0 0 medium unknown
+#14113
+Statue Diane~
+the statue of diane~
+The Statue of Diane is here.
+~
+This statue gives a perfect image how Diane looked at the time she was lost
+to her husband Quentin and her daugther Kierlana. Crafted by the finest the
+greatest artists of the realm. Build perfectly to the image that Quentin and
+Kierlana hold in their minds.
+~
+unique~
+ABM 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 C 0 0
+stand stand female 0
+0 0 medium unknown
+#14114
+guy~
+the guy on the couch~
+There's a guy on the couch, apparently sleeping.
+~
+He's just a guy on the couch.  
+~
+unique~
+ABJKd 0 0 0
+200 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand male 20000
+0 0 medium unknown
+M random 14181 100~
+#14115
+illusion weaver~
+the Illusion Weaver~
+The Illusion Weaver stands here playing with reality.
+~
+~
+unique~
+AB HVd 0 0
+320 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 AB PT 0
+stand stand none 0
+0 ABCDEFHJK medium unknown
+M speech 14190 booya~
+#14116
+mirage~
+the Mirage~
+The mirage shifts and changes confusingly
+~
+The mirage fades in and out, shimmering and changing.
+~
+unique~
+AB HTUd 0 0
+280 0 0d0+0 0d0+0 0d0+0 wrath
+0 0 0 0
+KNOX 0 0 0
+stand stand none 3090
+0 0 medium illusion
+#14117
+sturdy mojukin~
+A sturdy mojukin~
+A large, sturdy mojukin stands on the practice mat.
+~
+~
+unique~
+AB 0 -50 0
+150 1 1d10+100000 0d0+0 1d1+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+C 0 medium canvas
+#14118
+Licourtrix Keeper~
+Licourtrix, the Keeper of Dreams~
+Licourtrix, the Keeper of Dreams checks the altar.{/
+~
+A large horned demon clothed in robes is here to keep the altar and aid
+its providers.  
+~
+unique~
+ABGMd DEFHO -1000 0
+309 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 ABCDEFGHIJKLNOPQRSTXYZa 0 0
+sit sit male 1000
+AHMV ABCDEFGHIJKUVW huge unknown
+M greet 14189 99~
+#14128
+asmodeus guardian~
+{wThe {WG{Du{wardi{Da{Wn{w~
+{wThe Guardian of the House of {RA{Ds{rm{Da{rd{Di {wstands here.
+~
+This massive stone statue has been placed here, seemingly as another
+ornament in this magnificent garden.  
+~
+unique~
+ABT DFHTZa -1000 0
+309 0 0d0+0 0d0+0 0d0+0 wrath
+0 0 0 0
+C ABCEFG 0 0
+stand stand none 0
+0 0 huge stone
+M grall 14111 100~
+M speech 14112 home at last~
+#14130
+green dragon~
+a large creature~
+A large creature is hanging from the ceiling here.
+~
+A large creature is hanging from the ceiling here.  It does not seem to
+notice you, or just simply ignores your presence.  You wonder how such a
+creature could survive here.  
+~
+unique~
+ABT BLOQVac -1000 0
+309 0 0d0+0 0d0+0 0d0+0 acbite
+0 0 0 0
+C ABLMQ CEFG 0
+stand stand none 0
+0 0 giant poison
+M death 14110 100~
+#14131
+Green Copper Dragon~
+{GGreen {yCopper {GD{yr{gag{yo{Gn{X~
+{yA pile of dead plants and animals produces small bubbles of gas.{X
+~
+On the bottom of this lake you find a pile of rubbish and dead plants
+creating small bubbles of gas and producing warmth.  The pile rises and
+falls, almost as if it were breathing.  {X 
+~
+unique~
+ABF HOQVd -1000 0
+309 0 0d0+0 0d0+0 0d0+0 claw
+0 0 0 0
+CD AB EL 0
+stand stand male 1
+AHZ ACDEFHJKLOPQUVWXY giant unknown
+M death 14113 100~
+#14133
+Bianca dragon~
+{DB{Gi{Da{Gn{Dc{Ga{x~
+{DB{Gi{Da{Gn{Dc{Ga {Xis here.
+~
+As you look at the enchanting dragon she looks up at you and walks over. 
+She says, "Hello my name is Bianca.  This is my family's private study can I
+help you?"  
+~
+unique~
+AB 0 -750 0
+120 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 BLQ 0 CGM
+stand stand female 50000
+AHZ ACDEFHJKLOPQUVWXY medium unknown
+M speech 14120 pull your thumbs out your ears and put them back in your ass where they belong!~
+#14136
+Gorgorh, the Spellcaster ~
+Gorgorh, the Spellcaster ~
+Gorgorh, the Spellcaster is here.
+~
+You look at this ancient spellcaster and see many wrinkles. The wrinkles represent his pain
+and suffering during the many, many battles he has fought. He looks frail and weak, but his
+magicks can still outdo any unwary adventurer. He is wearing a very magical cloak that is
+said to be one of his most valuable collections of all.
+The cloak is called D{An amazing {RT{Ge{Mc{Yh{Cn{Bi{Wc{Ro{Gl{Mo{Yr {DDreamcoat{X.
+
+~
+unique~
+ABM 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 C 0 0
+stand stand none 0
+0 0 medium unknown
+#14139
+Manservant Renfield ~
+Manservant Renfield~
+Manservant Renfield is here.
+~
+Renfield is a short scruffy looking hunchback. His hair is a tangled mess. 
+He looks clean, but you can not help but notice his defective teeth and misfigured face.
+To this man, Havok is the world.
+~
+unique~
+ABM 0 0 0
+200 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 A 0 0
+stand stand male 0
+0 0 medium unknown
+#14140
+To Poytanaki tou Thrasoy~
+To Poytanaki tou Thrasoy~
+To Poytanaki tou Thrasoy
+~
+There she is. A gorgeous tall woman standing right there waiting
+to do adis wishes!! She is whispering: Ela thraso pida me ligaki.
+Gama to moynaki moy. AAAAAAAAhhhhhhhhhhhhhhh Bravo Gamia moy esi.
+~
+unique~
+ABM 0 0 0
+200 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 C 0 0
+stand stand female 0
+0 0 medium unknown
+#14141
+puddle mercury~
+{Wa puddle of mercury{X~
+{WA puddle of mercury rises to greet you.{X
+~
+A metallic pool undulates fluidly, spreading out and flowing back into itself in a seemingly unpatterned motion. As you study it more carefuly, you realize it is coming steadily closer to you, raising ever higher as it flows into itself. The unnatural metallic puddle shapes and reaches at you.
+~
+unique~
+ABT BHNOVd 1000 0
+309 0 0d0+0 0d0+0 0d0+0 wrath
+0 0 0 0
+DFKX ABD C H
+stand stand none 0
+AHMV ABCDEFGHIJKUVW giant unknown
+M speech 14130 let me in~
+#14153
+mercury guardian~
+{Wa mercury guardian{X~
+{WA Mercury Guardian stands here protecting the Pulsar mansion.{X
+~
+~
+unique~
+ABT DFHVd 0 0
+309 0 0d0+0 0d0+0 0d0+0 drain
+0 0 0 0
+BCDHKX D 0 C
+stand stand none 0
+0 0 giant unknown
+#14165
+marble skeleton~
+{wa {DM{wa{Dr{wb{Dl{we {wS{Wk{we{Wl{we{Wt{wo{Wn{w~
+{wA {DM{wa{Dr{wb{Dl{we {wS{Wk{we{Wl{we{Wt{wo{Wn {wstands at guard here.
+~
+The skeleton crackles its jaws while scanning the surroundings for
+enemies of its master.  This undead creature once was a zombie of a Krakan,
+but its flesh has rotted away centuries ago.  Demonic red flames dance in
+the skeleton's eye sockets, spreading a sinister light through the cave.  
+~
+unique~
+ABOT DFOZ -1000 0
+331 0 0d0+0 0d0+0 0d0+0 drain
+0 0 0 0
+HX ABDEFGIJKLN 0 0
+stand stand none 0
+0 0 giant bone
+M fight 14100 100~
+M speech 14101 master~
+M speech 14101 mistress~
+#14175
+A Young Servant Girl~
+{cA Young {rS{me{Mr{wv{Ra{rn{mt {WG{wi{Wr{wl{X~
+{cA young {rs{me{Mr{wv{Ra{rn{mt {cgirl waits here to give you towls and fill your bath water.{X
+~
+~
+unique~
+AB 0 -750 0
+100 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 ABLQ Q HNS
+stand stand female 1000
+AHMV ABCDEFGHIJKV medium unknown
+#14178
+Vorkai's Vendor~
+{rV{mo{Mr{Rk{ra{Mi{X's {WF{wa{Wm{wi{Wl{wy {cVendor{X~
+{DA tall curvatious young woman stands here polishing a suit of armor.{X
+~
+~
+unique~
+A DFZ -1000 0
+300 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 BLQ 0 IKNSZ
+stand stand none 0
+0 0 medium unknown
+#14180
+Christina~
+{MC{mhristina {MP{matterson{x~
+{MC{mhristina {MP{matterson {Dis reciting {Bb{bl{Be{bs{Bs{bi{Bn{bg{Bs {Dhere.{x
+~
+{DThe beautiful {YG{yoddess {MC{mhristina{D herself has shown herself in
+the home of {MK{mrater{D.  She must love him alot, to give him all her
+blessings.  {x 
+~
+unique~
+AB DF 1000 0
+300 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 AB B Z
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+M speech 14180 My eternal worship is forevermore yours, Goddess Christina.~
+#14181
+Ayame Vorkai Librarian~
+{rV{mo{Mr{Rk{ra{mi {WL{wi{Wb{wr{Wa{wr{Wi{wa{Wn{X~
+{WA{wy{Wa{wm{We, {rV{mo{Mr{Rk{ra{mi {WL{wi{Wb{wr{Wa{wr{Wi{wa{Wn, {cis standing returning books to there shelves.{X
+~
+{rA young lady of pale complexion is returing books to their shelves.{x
+~
+unique~
+AB DF -750 0
+309 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+F ABL Q HNS
+stand stand female 100000
+AHMV ABCDEFGHIJK medium unknown
+M speech 14115 let me pass~
+#14182
+Sedrick~
+{WS{we{Wd{wr{Wi{wc{Wk{X~
+{WS{we{Wd{wr{Wi{wc{Wk, {DH{Ci{Dg{Ch {rT{me{Mm{wp{Rl{ra{mr {Do{Cf {rS{me{Mp{wh{Re{rr{ma{X
+~
+{DStanding at the pulpit reciting prayers for the House of Vorkai is
+Sedrick, the families trusted Templar.  {X 
+~
+unique~
+ABa DF -1000 0
+309 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 ABL Q HNS
+stand stand male 100000
+AHMV ABCDEFGHIJK medium unknown
+#14183
+obsidian gargoyle~
+{cO{Db{xs{Did{xia{Dn {cG{xa{Drg{xoy{Dle{x~
+{DA powerful {cO{Db{xs{Did{xia{Dn {cG{xa{Drg{xoy{Dle{D waits here.{x
+~
+{DThis powerful creature, born from stone, eyes you suspiciously, waiting
+for the right time to pounce.  {x 
+~
+unique~
+AB DFHL -1000 0
+309 0 0d0+0 0d0+0 0d0+0 crush
+0 0 0 0
+FKORTUVX ABF D C
+stand stand none 0
+AHZ ACDEFHJKLOPQUVWXY medium unknown
+#14184
+master time space dimension~
+the All-Being Master of Time, Space, and Dimension~
+{cThe All-Being Master of Time, Space, and Dimension stands here, ready to give you powers unimaginable.{x
+~
+~
+unique~
+ABJKQRd DFJUce -1000 0
+300 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand male 0
+0 0 medium unknown
+#14185
+Rakasha the Herbalist~
+{WR{wa{Wk{wa{Ws{wh{Wa, {Dthe {GH{ge{Gr{gb{Ga{gl{Gi{gs{Gt{X~
+{WR{wa{Wk{wa{Ws{wh{Wa, {Dthe {GH{ge{Gr{gb{Ga{gl{Gi{gs{Gt{X, is here.
+~
+~
+unique~
+ABZ DF -1000 0
+300 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 ABL Q HNS
+stand stand female 100000
+AHMV ABCDEFGHIJK medium unknown
+#14186
+melany telamon~
+{gMelany Telamon{x~
+{gMelany Telamon, Keeper of the Horn is here.{x
+~
+{DMelany is a tall woman with the perfect curvature.  Being an Aes Sedai,
+she is capable of defending herself without the use of any weapons.  {x 
+~
+unique~
+ABJKLMb DF 1000 0
+309 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand female 0
+0 0 medium unknown
+M grall 14193 100~
+M speech 14194 nothing~
+M bribe 14195 800000~
+#14197
+pure black unmoving pool eye world~
+{gMierin{x~
+{gMierin is standing here, thinking through calculations.{x
+~
+{DMierin is a beautiful young female scientist.  She works very hard in
+hope of one day achieving a higher standard.  {x 
+~
+unique~
+A 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand female 0
+0 0 medium unknown
+#14198
+kurapica~
+{gKurapica, descendant of Gulodat{x~
+{gKurapica, descendant of Gulodat stands here holding a ring.{x
+~
+~
+unique~
+AB Hd 1000 0
+300 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 CFL 0 0
+stand stand male 0
+0 0 medium unknown
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#14100
+At the Base of the Crystal Tower~
+Crystal stairs wind around the interior of the crystal tower, projecting
+oddly distorted images of earth and sky onto the walls and ceiling of the
+tower.  Brilliant blue, brown, and green rays ricochet through the prismatic
+walls, sending light beams scattering into corners and swirling through
+divits.  
+~
+0 8 0
+D0
+~
+~
+0 0 14102
+D1
+~
+~
+0 0 14103
+D2
+~
+~
+0 0 14105
+D3
+~
+~
+0 0 14101
+D4
+~
+~
+0 0 14110
+D5
+~
+~
+0 0 14104
+S
+#14101
+Kierlana's Room~
+You are in Kierlana's bedroom.  A gentle breeze blows through an open
+window.  To the far side, you see an unmade four poster bed crafted from
+dark mahogany.  Laying on the floor below is a black satin nightie and
+matching panties.  To the left is a small table upon which lays the key to
+Kierlana's heart.  
+~
+0 8 0
+D1
+~
+~
+0 14138 14100
+D3
+~
+~
+0 0 14121
+S
+#14102
+{RThe Temple of {CA{Gl{Cc{Ge{Cp{Gi{x~
+You have stepped foot in the Temple of Alcepi.  There are pillars all
+around you, and in the center of the room, is the Goddess Eris to protect
+Alcepi and all of his clan mates.  The tiles on the floor are in the shape
+of arrows pointing at each other.  Yes, it is the symbol of the Five
+Fingered Hand of Eris.  
+~
+0 12 0
+D2
+~
+~
+0 0 14100
+S
+#14103
+An Enormous Domed Room~
+Light pours in through the nine enormous windows that circle the room,
+offering a panoramic view of the verdant valley far below.  A pure white
+marble dome stretches over the circular floor, on which the semi-oval
+windows are set.  They curve hundreds of feet overhead, converging at the
+apex of the dome where a circular skylight basks the room in golden
+sunlight.  Hundreds of feet across, the brilliantly colored mosaic of a
+black rose makes up the floor.  It is completely bare of any furniture.  
+~
+0 4 0
+E
+north~
+Through the enormous curved window the northern stretches of Alanthia can
+be seen: Olympus, Ofcol, and the Elven Valley.  
+~
+E
+south~
+The Dark River winds its way out of Midgaard and into the dagger-like
+vises of the Spawning Pits.  A small castle can be seen near the pit of
+doom, shining brightly with courage, honor, and loyalty.  White snowstorms
+blot out the frozen wastes and the shining sea further south.  
+~
+E
+east~
+Midgard can be seen far below, teeming with life.  The haze of the desert
+barely masks the presence of New Thalos and the Dragon Sea.  
+~
+E
+west~
+To the west, the great Haon Dor forest spreads off into the horizon.  The
+tall tower of sorcery can be seen, as well as the mountains of the valley of
+Shadows.  Excalibur flies its banners proudly in the middle of the forest.  
+~
+D3
+~
+~
+0 0 14100
+S
+#14104
+The Crystal Tower~
+A million prisms fitted together to form walls, ceiling, floor, and
+stairs sparkle in the continuous gentle light that floods the crystal tower,
+refracting brilliantly colored beams in every direction.  Ephemeral
+doorways, almost ghostly in appearance, mark the entrance to the rooms to
+the north, south, east, and west, and the crystal stairs wander wistfully
+among the levels.  
+~
+0 12 0
+D4
+~
+~
+0 0 14100
+S
+#14105
+Draven's Bar~
+As you enter this room, you walk into a billow of smoke and fumes of
+various alcohols combined with a musky scent of stale air.  A large oak bar
+is placed in the northern corner, and an attractive young lady stands b
+ehind the bar ready to fetch you whatever you desire to quench the thirst of
+a hard days adventuring.  A few tired looking men are gathered at a table
+against the east wall playing some variety of card game, cards in one hand,
+glass in the other.  There are slight murmurings of conversations around the
+bar, though on the whole quite a quiet atmosphere.  
+~
+0 12 0
+E
+card game~
+A rugger looking adventurer says 'Euchre...  So what?  ' 
+~
+E
+cards~
+A rugged looking adventurer says 'Keep yer eyes to yerself'
+~
+E
+men~
+A couple of tired looking adventurers are gathered around
+a small table pushed against the east wall of the bar. Faces
+lowered over their hand in deep concentration.
+~
+E
+bar~
+A large bar made mostly of an ancient looking oak, a few people
+sit on the stools adjacent to the bar drinking and conversing.
+An attractive young lady stands opposite the occupants ready to
+jump to their service.
+~
+D0
+~
+~
+0 0 14100
+S
+#14106
+The Ancient Wyrm's Lair~
+You step inside this huge cavern and are blinded by the sudden brilliance
+of light.  Torches set along the walls reflect their rays off the dazzling
+display of priceless gems, hordes of gold coins, and ancient artifacts
+amassed in a gigantic heap in the middle of the room.  
+~
+0 525324 0
+E
+all i really want~
+Do I stress you out
+My sweater is on backwards and inside out
+and you say, "how appropriate."
+I don't want to dissect everything today 
+I don't mean to pick you apart you see
+But I can't help it
+There I go jumping before the gunshot has gone off
+Slap me with a splintered ruler
+And it would knock me to the floor if I wasn't there already
+If only I could hunt the hunter
+And all I really want is some patience
+A way to calm the angry voice
+And all I really want is deliverance
+Do I wear you out
+You must wonder why I'm relentless and all strung out
+I'm consumed by the chill of solitary
+ 
+I'm like Estella
+I like to reel it in and spit it out
+I'm frustrated by your apathy
+And I am frightened by the corrupted ways of this land
+If only I could meet the Maker
+And I'm fascinated by the spiritual man
+I am humbled by his humble nature
+What I wouldn't give to find a soulmate
+Someone else to catch this drift
+And what I wouldn't give to meet a kindred
+Enough about me, let's talk about you for a minute
+Enough about you, let's talk about life for a while
+The conflicts, the craziness and the sound of pretenses
+Falling all around... all around
+Why are you so petrified of silence
+Here can you handle this?
+Did you think about your bills, your ex, your deadlines
+Or when you think you're gonna die
+ 
+Or did you along for the next distraction
+And all I need now is intellectual intercourse
+A soul to dig the hole much deeper
+And I have no concept of time other an it is flying 
+If only I could kill the killer
+All I really want is some peace man
+A place to find a common ground
+And all I really want is a wavelength
+All I really want is some comfort
+A way to get my hands untied
+And all I really want is some justice
+~
+E
+perfect~
+Sometimes is never quite enough
+If you're flawless, then you'll win my love
+Don't forget to win first place
+Don't forget to keep that smile on your face
+Be a good boy
+Try a little harder
+You've got to measure up
+And make me prouder
+How long before you screw it up
+How many times do I have to tell you to hurry up
+With everything I do for you
+The least you can do is keep quiet
+Be a good girl
+You've gotta try a little harder
+That simply wasn't good enough
+To make us proud
+ 
+I'll live through you
+I'll make you what I never was
+If you're the best, then maybe so am I 
+Compared to him compared to her
+I'm doing this for your own damn good
+You'll make up for what I blew
+What's the problem... why are you crying
+Be a good boy
+Push a little farther now
+That wasn't fast enough
+To make us happy
+We'll love you just the way you are if you're perfect
+~
+E
+hand in my pocket~
+I'm broke but I'm happy
+I'm poor but I'm kind
+I'm short but I'm healthy, yeah
+I'm high but I'm grounded
+I'm sane but I'm overwhelmed
+I'm lost but I'm hopeful baby
+What it all comes down to
+Is that everthing's gonna be fine fine fine
+I've got one hand in my pocket 
+And the other one is giving a high five
+I feel drunk but I'm sober
+I'm young and I'm underpaid
+I'm tired but I'm working, yeah
+I care but I'm restless
+I'm here but I'm really gone
+I'm wrong and I'm sorry baby
+What it all comes down to
+is that everything's gonna be quite alright
+I've got one hand in my pocket
+And the other is flicking a cigarette
+What is all comes down to 
+Is that I haven't got it all figured out just yet
+I've got one hand in my pocket
+And the other one is giving the peace sign
+I'm free but I'm focused
+I'm green but I'm wise
+I'm hard but I'm friendly baby
+I'm sad but I'm laughing
+I'm brave but I'm chicken shit
+I'm sick but I'm pretty baby
+What it all boils down to 
+Is that no one's really got it figured out just yet
+I've got one hand in my pocket
+And the other one is playing the piano
+What it all comes down to my friends
+Is that everything's just fine fine fine
+I've got one hand in my pocket
+And the other one is hailing a taxi cab...
+ 
+~
+E
+right through you~
+Wait a minute, man
+You mispronounced my name
+You didn't wait for all the information
+Before you turned me away
+Wait a minute sir
+You kind of hurt my feelings
+You see me as a sweet back-loaded puppet
+And you've got a meal ticket taste
+Chorus
+I see right through you
+I know right through you
+I feel right through you
+I walk right through you
+You took me for a joke
+You took me for a child
+You took along hard look at my ass
+And then played golf for a while
+You shake is like a fish
+You pat me on the head
+You took me out to wine/dine/69 me
+But didn't hear a damn word I said
+Repeat Chorus
+Hello, Mr. Man
+You didn't think I'd come back
+You didn't think I'd show up with my army
+And this ammunition on my back
+Now that I'm Miss Thing
+Now that I'm a zillionaire
+You scan the credits for your name 
+And wonder why it's not there
+~
+E
+forgiven~
+You know how us Catholic girls can be
+We make up for so much time a little too late
+I never forgot it, confusing as it was
+No fun with no guilt feelings
+The sinners, the saviors, the loverless priests
+I'll see you next Sunday
+Chorus
+We all had our reasons to be there
+We all had a thing or two to learn
+We all needed something to cling to
+So we did
+I sang Alleluia in the choir
+I confessed my darkest deeds to envious men
+My brothers never went blind for what they did
+But I may as well have
+In the name of the Father, the Skeptic and the Son
+I had one more stupid question
+ 
+ 
+Repeat Chorus
+What I learned I rejected but I believe again
+I will suffer the consequence of this inquisition
+If I jump in this fountain, will I be forgiven.
+Repeat Chorus
+We all had delusions in our head
+We all had our minds made up for us
+We had to believe in something
+So we did
+~
+E
+you learn~
+I recommend getting your heart trampled on to anyone
+I recommend walking around naked in your living room
+Swallow it down (what a jagged little pill)
+It feels so good (swimming in your stomach)
+wait until the dust settles
+Chorus
+You live you learn
+You love you learn
+You cry you learn
+You lose you learn
+You bleed you learn
+You scream you learn
+I recommend biting off more than you can chew to anyone
+I certainly do
+I recommend sticking your foot in your mouth at any time
+Feel free
+Throw it down (the caution blocks you from the wind)
+Hold it up (to the rays)
+You wait and see when the smoke clears
+Repeat Chorus
+Wear it out (the way a three-year-old would do)
+Melt it down (you're gonna have to eventually anyway)
+The fire trucks are coming up around the bend
+Repeat Chorus
+You grieve you learn
+You choke you learn
+You laugh you learn
+You choose you learn
+You pray you learn
+You ask you learn
+You live you learn
+~
+E
+head over feet~
+I had no choice but to hear you
+You stated your case time and again
+I thought about it
+You treat me like I'm a princess
+I'm not used to likeing that
+You ask how my day was
+Chorus
+You've already won me over in spite of me
+Don't be alarmed if I fall head over feet
+Don't be surprised if I love you for all that you are
+I couldn't help it
+It's all your fault
+Your love is think and it swallowed me whole
+You're so much braver than I gave you credit for
+That's not lip service
+Repeat Chorus
+ 
+You are the bearer of unconditional things
+You held your breath and the door for me
+Thank you for your patience
+You're the best listener that I've ever met
+You're my best friend
+Best friend with benefits
+What took me so long
+I've never felt this healthy before
+I've never wanted something rational
+I am aware now
+I am aware now
+Repeat Chorus
+~
+E
+mary jane~
+What's the matter Mary Jane, you had a hard day
+As you place the don't disturb sign on the door
+You lost your place in line again, what a pity
+You never seem to want to dance anymore
+It's a long way down 
+On this roller coaster
+The last chance streetcar
+Went off the track
+And you're on it.
+I hear you're counting sheep again Mary Jane
+What's the point of losing weight again Mary Jane
+Do you ever wonder who you're losing it for
+Well it's full speed baby
+In the wrong direction
+There's a few more buses
+If that's the way
+You insist on heading
+ 
+Please be honest Mary Jane
+Are you happy
+Please don't censor your tears
+You're the sweet crusader
+And you're on your way
+You're the last great innocent
+And that's why I love you
+So take this moment Mary Jane and be selfish
+Worry not about the cars that go by
+All that matters Mary Jane is your freedom 
+Keep warm my dear, keep dry
+Tell me
+Tell me
+What's the matter Mary Jane
+~
+E
+ironic~
+An old man turned ninety-eight
+He won the lottery and died the next day
+It's a black fly in your chardonnay
+It's a death row pardon two minutes too late
+Isn't it ironic... don't you think
+Chorus:
+It's like rain on your wedding day
+It's a free ride when you've already paid
+It's the good advice that you just didn't take
+Who would've thought... it figures
+Mr. Play It Safe was afraid to fly
+He packed his suitcase and kissed his kids good-bye
+He waited his whole damn life to take that flight
+And as the plane crashed down he thought
+"Well, isn't this nice." And Isn't this ironic ... don't you think?
+Repeat Chorus
+Well life has a funny way of sneaking up on you
+When you think everything's aok and everything's going right
+And life has a funny way of helping you out when
+You think everything's gone wrong and everything blows up
+In your face
+A traffic jam when you're already late
+A no-smoking sign on your cigarette break
+It's like 10,000 spoons when all you need is a knife
+It's meeting the man of my dreams
+and then meeting his beautiful wife
+And isn't it ironic... don't you think
+A little too ironic.. and yeah I really do think...
+Repeat Chorus
+Well life has a funny way of sneaking up on you
+And life has a funny way of helping you out
+helping you out
+~
+E
+not the doctor~
+I don't want to be the filler if the void is solely yours
+I don't want to be your glass of single malt whiskey
+Hidden in the bottom drawer
+I don't want to be the bandage if the wound is not mine
+Lend me some fresh air
+I don't want to be adored for what I merely represent to you
+I don't want to be to be your baby-sitter
+You're a very big boy now
+I don't want to be you mother
+I didn't carry you in my womb for nine months
+Show me the back door
+Chorus:
+Visiting hours are 9 to 5 and if I show up at half past six 
+Well I already know that you'd find some way to sneak me in and oh
+Mind the empty bottle with the holes along the bottom
+you see it's too much to ask for and I'm not the doctor
+I don't want to be the sweeper of the eggshells that you walk upon
+I don't want to be your other half I believe that 1 and 1 make 2
+I don't want to be you food or the light from the fridge
+on your face at midnight
+ 
+Hey what are you hungry for
+I don't want to be the glue that holds your pieces together
+I don't want to be you idol
+See this pedestal is high and I'm afraid of heights
+I don't want o be lived through
+A vicarious occasion
+Please open the window
+Repeat Chorus
+I don't want to live on someday when my motto is last week
+I don't want to be responsible for your fractured heart
+and its wounded beat
+I don't want to be a substitute for the smoke you've been inhaling
+What do you thank me
+What do you thank me for
+Repeat Chorus
+~
+E
+wake up~
+You like snow but only if it's warm
+You like rain but only if it's dry
+No sentimental value to the rose that fell on your floor
+No fundamental excuse for the granted I'm taken for
+Cause it's easy not to 
+So much easier not to
+And what goes around never comes around to you
+You like pain but only if it doesn't hurt too much
+You sit...and you wait...to receive
+There's an obvious attraction 
+To the path of least resistance in you life
+There's an obvious aversion no amount of my insistence
+could make you try tonight
+Cause it's easy not to 
+So much easier not to
+And what goes around never comes around to you
+To you to you to you to you to you...
+ 
+There's no love no money no thrill anymore
+There's an apprehensive naked little trembling boy
+With his head in hi s hands
+There's an underestimated and impatience little girl
+Raising her hand
+But it's easy not to 
+So much easier not to
+And what goes around never comes around to you
+To you, to you
+get up get up get up off of it
+get up get up get up off of it
+get out get outta here enough already
+get up get up get up off of it
+wake up
+~
+E
+your house~
+I went to your house
+Walked up the stairs
+Opened the door without ringing the bell
+Walked down the hall
+Into your room where I could smell you
+And I shouldn't be here
+Without permission
+Shouldn't be here...
+Would you forgive me love if I danced in your shower
+Would you forgive me love if I laid in your bed
+Would you forgive me love if I stay all afternoon?
+I took off my clothes 
+put on your robe
+went through your drawers 
+and I found your cologne
+went down to the den
+found your cd's 
+and I played your Joni
+and I shouldn't stay long
+you might be home soon
+shouldn't stay long
+Would you forgive me love if I danced in your shower
+Would you forgive me love if I laid in your bed
+Would you forgive me love if I stay all afternoon?
+I burned your incense
+I ran a bath
+I noticed a letter that sat on your desk
+It said: 
+"Hello, love.
+I love you so, love.
+Meet me at midnight."
+And no, it wasn't my writing
+I'd better go soon
+It wasn't my writing
+So forgive me love If I cry in your shower
+So forgive me love for the salt in your bed
+So forgive me love If I cry all afternoon
+ 
+~
+D1
+~
+~
+0 0 14135
+S
+#14107
+Maeghan's Haven~
+The scent of the Goddess' sacred herbs - apple, myrrh, orris, willow, and
+pomogranate - permeate the air.  The room is lit by the five candles on each
+point of the sacred pentacle on the floor.  A gentle breeze wafts into the
+room, carrying the soft chants of praise of the beautiful Maeghan. 
+Different colored stones and wands lay scattered about, looking as though
+they are placed in their spots for a specific purpose.  A diamond-encrusted
+plaque on the wall draws your attention.  
+~
+0 4 0
+E
+plaque~
+A glittering diamond encrusted plaque hangs on the wall.  It states: Harm
+ye none, lest in they own self defense it be, everminding the rule of three.
+Follow these words with your mind and heart and merry ye meet and merry ye
+part.  
+~
+D2
+~
+~
+0 0 14110
+S
+#14108
+The Hall of Heros~
+As you step forward your mind reels in pain and the room swirls and
+colors shift before your eyes.  Slowly as the fog lifts from your mind you
+find yourself somewhere completely different from where you came.  Before
+you lies a giant hall with a cathedral ceiling and enormous marble pillars. 
+Atop each pillar stands a statue of a figure.  From your memories as a child
+you recall some of the faces, shadowy warriors and gentle priests, all those
+who gave the life for the land, and even those to sought to destroy it.  A
+massive throne of wicked looking bones sits here masterfully carved and
+magically welded together, surrounded by several clan leaders lurching out
+in battle stance.  At the end of the column stands two figures clutched
+together in a deadly embrace.  One of them, the great Dark Leader Theutus,
+master of the undead.  The other, as you look closely seems to be the Mighty
+Hero Paladine.  His muscles surge and tense in unison, as if still fighting
+the battle of so long ago, but wait!...  The statue IS moving, and.....  IT
+SEEMS TO BE ALIVE!!  
+~
+0 12 0
+D3
+~
+~
+0 0 14110
+S
+#14109
+In the Crystal Tower~
+Brilliant beams of light fly like tiny illuminated pixies through the
+beautiful tower made of crystalline glass.  A wide set of stairs provide
+access to the surrounding levels, and doors open into a myriad of rooms in
+assorted directions.  
+~
+0 1036 0
+D0
+~
+~
+0 0 14125
+D1
+~
+~
+0 0 14116
+D2
+~
+~
+0 0 14122
+D4
+~
+~
+0 0 14135
+D5
+~
+~
+0 0 14110
+S
+#14110
+In the Crystal Tower~
+A wide staircase carved of fine crystal and leaded with thin silver veins
+rises lightly through the tower, climbing along the curved outer walls up
+towards the blue reflected sky.  Brilliant rays of refracted earth, trees,
+and clouds shoot through the clear air to be swallowed by yet other prisms
+that toss them back to the sweet winds.  
+~
+0 9228 0
+D0
+~
+~
+0 0 14107
+D1
+~
+~
+0 0 14108
+D3
+~
+~
+0 0 14112
+D4
+~
+~
+0 0 14109
+D5
+~
+~
+0 0 14100
+S
+#14111
+{DThe {WI{wn{Dn{We{wr {DGate of {rV{mo{Mr{Rk{ra{mi~
+{DYou stand now between the inner and outer gates of
+{mV{ro{Mr{Rk{ra{mi{D, the main defense of this house.  Walls made from
+massive granite blocks tower above you, and sharp points top the gates to
+the north and south.  Placed atop some of these wicked barbs are the {rheads
+{Dof enemies, in various stages of decomposition.  {x 
+~
+0 532480 2
+D0
+~
+gate~
+1 0 14200
+D2
+~
+~
+3 0 14172
+S
+#14112
+An Alchemist's Laboritory~
+You are assaulted with a barrage of sensations upon entering the room. 
+Assorted fragrences waft through the air;you can identify at least two
+scents: strawberries and cream, and the palpable oder of charred humanflesh.
+In the back of your mind a chanting commences, and although you can not
+discern the words, you feel as if the mantra gives answers to every question
+you have ever asked..  Mysterious spheres float around the room, giving off
+an eerie light luminescence.  Some sort of mist hangs in the air, clouding
+your perception.  Peering through the haze, you observe book cases filled
+with magical tomes, and a few tables cluttered with what appears to be an
+important scientific experiment.  You feel that you should leave everything
+alone, as you might break an irreplacable object.  
+~
+0 524292 0
+D1
+~
+~
+0 0 14110
+S
+#14113
+{rV{mo{Mr{Rk{Ra{mi {WF{wa{Wm{Wi{wl{Wy {DTemple{X~
+Quiet, like the reverance of a humble servant, envelopes one as they
+enter into this awesome temple dedicated to the Goddess of Strength and
+Honor, Sephera.  Her beautiful form is captured in a tall marble statue that
+centers this cool breezy room.  The floors and walls are polished marble and
+reflect one's image as they move about.  This is a place of tranquility and
+of worship, worthy of the respect of its owner.  
+~
+0 533512 0
+D3
+~
+~
+0 0 14131
+D4
+~
+~
+0 0 14175
+S
+#14114
+Ravenlock Cottage~
+A white room is surrounded by candles on the walls, with a large skylight
+directly in the center of the room.  A warm breeze wafts in from a single
+open window, and chirping birds can clearly be heard.  As you look around,
+you can't help but be overcome with a warm, pleasant feeling.  A single
+small kitten lies purring on the blue rug, clutching a single red rose in
+its paws.  
+~
+0 0 0
+D0
+~
+~
+4 14127 14115
+D3
+~
+~
+0 0 14116
+S
+#14115
+Ravenlock love nest~
+You are standing in, obviously, a large bedroom.  There is a beautiful
+canopy bed against the far wall, with red silk sheets in disarray upon it. 
+To the side of the bed is a nightstand, with several objects spread out upon
+it.  A vase with a single red rose, a can of whipped cream, and a piece of
+paper that simply says 'Love'.  
+~
+0 9216 0
+D2
+~
+~
+4 14127 14114
+S
+#14116
+Cobal's office~
+The temperature drops 20 degrees as you enter this room, and you
+immediately feel like a small person.  There is a desk in the center of the
+room, with a file cabinet next to it.  A supercomputer sits on the desk,
+from where the mighty Cobal works his business deals.  There is a throne on
+the other side of the desk, where the powerful mage sits.  There is a red
+pool on one side of the room, and a flowing fountain on the other side,
+obviously meant to accomodate all customers.  
+~
+0 0 0
+D1
+~
+~
+0 0 14114
+D3
+~
+~
+0 0 14109
+S
+#14117
+{GAn Emerald Meadow{x~
+You are in the middle of a lush emerald meadow.  A sea of endless green
+grass gently sways to and fro with the warm breeze of fresh air.  Small,
+fluffy clouds of white decorate the crystal blue sky, with the sun
+glistening brilliantly above the horizon.  To the north is a small temple.  
+~
+0 9216 0
+D0
+~
+~
+0 0 14118
+D2
+~
+~
+0 0 8901
+S
+#14118
+{WThe Temple of Tamara{x~
+Soft, golden hues caress your vision as you step through the arches and
+into this quiet temple.  Your footsteps echo softly on the transparent
+crystal floor.  Everything seems to be made from this fine crystal.  So fine
+is this crystal that as you look at the walls you can see the emerald meadow
+outside and the reflections of the temple at the same time.  The mirror-like
+interior of the temple reflects a golden hue from the rays of light shining
+through the transparent crystal ceiling.  Up ahead you see an altar with
+images of a beautiful woman.  Along the crystal walls near the altar you see
+small images and writings.  
+~
+0 1024 0
+D2
+~
+~
+0 0 14117
+S
+#14119
+The Hall of History~
+On the wall you see strange runes.  The runes seem to be just like the
+normal scripts.  Some of the runes look like paintings.  On one of the walls
+there is a rune which depicts the first meeting between Diane the Amazon
+princess and the Gargoyle Warrior Quentin.  There it can be see how Diane
+first noticed Quentin in the forest, his wing under several vines.  On
+another wall is the story of how the Gargoyle Warrior Kierlana was born. 
+She soon developed the features of her father.  The rune is about a young
+Kierlana moaning for the loss of her mother.  She takes a oath to find her
+mother at all costs.  On the ceiling you see how the Amazon, clan of Virago
+is formed.  The painting is clouded.  It is almost as if it is a image of
+the past.  You can make out three people - The Gargoyle Warrior Kierlana,
+the Demon Warrior Blackstar, and the Vampire Assassin Wulf.  It can be seen
+that Kierlana is telling these males what the rules of her reign will be.  
+~
+0 0 0
+D0
+~
+door north~
+4 14125 14120
+D2
+~
+~
+0 0 14121
+S
+#14120
+Mortal Sins~
+This room is filed with mirrors reflections can be seen every where
+making the room a seem a lot larger then it should appear.  Some mirrors do
+not show any reflections.  For some reason the pillows in the middle of the
+room can not be seen in any of the reflections from the mirrors while the
+large glowing rose above the pillows can be seen clearly in the mirrors. 
+This is indeed a great trick that is being played here.  
+~
+0 1024 0
+D2
+~
+door south~
+4 14125 14119
+M 150 H 150
+S
+#14121
+Hall of Worship~
+Hall of Worship.  This hall was placed here to remined all people who
+come here who Diane, mother of Kierlana is.  This room has on the walls
+images of Diane with Quentin.  This room was placed here by the warrior
+Whiteflash to aid all who want to find Diane so that she may return and see
+the work that her little one has done in this realm.  
+~
+0 0 0
+D0
+~
+~
+0 0 14119
+D1
+~
+~
+0 0 14101
+S
+#14122
+Adun's Historical Junk Society~
+An astoundingly large amount of rare artifacts and junk from the past
+have been hoarded into this one room of modest size.  In one corner you see
+the head of Merlin, the famed magician of Arthur.  In another corner sits a
+giant catapult which sends unwanted guests such as: evil in-laws and
+relatives flying back to wherever they came from.  Under the pillow of an
+unbelievably large and comfortable bed lies a mysterious looking codex A
+voice sounds, "That is the pride and joy of my collection of historical
+artifacts It has no beginning, and no end, but if you begin to read it, you
+shall be able to gain a ny knowledge you desire; if you have the patience to
+search for it.  Do NOT touch the codex, or you shall be catapulted!"  
+~
+0 4 0
+D0
+~
+~
+0 0 14109
+S
+#14123
+Lavish Gardens~
+Despite the expansive shade upon the garden, cast from the tall healthy
+pines that stand hardy and healthy against the backdrop of the sky, the
+garden is in its own way full of vibrance and life.  Shrubs and bushes
+adorned with flowers of blue, violet and white shades, line the whitewashed
+stone walkways that meander in various directions.  Steam rises from a
+freshwater spring located in in the east of the gardens, and it blankets the
+entirity of the garden in its ghostly haze and warmth.  
+~
+0 4 0
+D2
+~
+~
+0 0 14125
+D5
+~
+~
+0 0 14124
+S
+#14124
+Rock Pool~
+The reflective waters do well to hide the depth of the pool.  Its dark
+granite bounds are smooth from erosion and quite sheer.  Small mineral
+clusters reflect what light can penetrate the veil of steam upon the waters
+surface and create a night-sky effect under the water.  A small waterfall
+trickles soothingly to the east.  
+~
+0 8708 0
+D4
+~
+~
+0 0 14123
+S
+#14125
+Library~
+The cloying smell of vellum and parchment is strong in this room, and so
+it should be.  Lining the walls of this spacious room is shelves upon
+shelves of books, reaching toward the ceiling nearly twice a man in height. 
+The books are neatly organized, and there are five distinct volumes of tomes
+placed upon the shelves on the far wall, to the west.  
+~
+0 8 0
+E
+"books volumes"~
+The distinct volumes catch your eye, and looking closely you can see that
+they are warded by some sort of powerful magic. You can see through it
+clearly enough to make out the five distinct colours of the volumes and the
+names on their spines.
+{b==============================
+{b| | | | {WFistandantalus{b | | | |
+{b==============================
+{D==============================
+{D| | | |    {WRaistlin    {D| | | |
+{D==============================
+{D==============================
+{D| | | |    {GDalamar     {D| | | |
+{D==============================
+{w==============================
+{w| | | |    {YPalin      {w| | | |
+{w==============================
+{W==============================
+{W| | | |    {cWelverin    {W| | | |
+{W==============================
+~
+D0
+~
+~
+0 0 14123
+D2
+~
+~
+0 0 14109
+S
+#14126
+{bKierlana's {cHiding {mPlace{x~
+Nestled behind the {bw{Ba{bt{Be{br{Bf{ba{Bl{bl{x lays a small and cozy
+cavern.  The walls are lined with {csweet {yscented {bcandles{x that are
+cradled in dragon claw sconces.  Reflections of the candle
+{yf{rl{ya{rm{ye{rs{x bounce across the walls bathing the room in a soft
+gentle glow.  Large fluffy pillows are strewn carelessly about.  
+~
+0 1028 0
+D4
+~
+~
+0 0 14101
+S
+#14127
+Formal {YG{Ga{Yr{Gd{Ye{Gn{x~
+This is a vast garden with intricate pathways created from very detailed
+plans.  Each path is lined with specific flora, and labeled ornately for the
+onlooker.  The path leading directly to a comfortable looking garden bench
+is lined with {Mpink Acacia{X, double Narcissus, {Wwhite Diffany{X,
+{RRoses{X, Elm trees, and Amaryllis.  Another path leading off to the north
+wall of the garden is lined with {Yt{yi{Yg{ye{Yr{X Lillies, Oak trees,
+{YVerbana{X, Everlasting {Gpea{X, and {WSnow {Cdrops{X.  {mOrchids{X,
+{MLilacs{X, {gAmaranth{X, and Forget-me-nots line the path that leads
+directly to the door of the Mansion.  
+~
+0 524292 0
+D0
+~
+~
+0 0 14130
+S
+#14128
+{DT{yo{Dm{yb {wof {DT{ya{Dr{yc{X~
+A damp and dark room lies before you, two tapestries covering both side
+walls in this room.  One of the tapestries shows how Tarc was raised as a
+boy and how he worked for a landlord in his last years as a mortal.  The
+second one shows his reunion with his lost brother and the induction to
+immortality.  In the back of the room is a large ironworked gate that leads
+to the private parts of the tomb.  
+~
+0 525316 0
+M 200 H 200
+S
+#14129
+A large damp cave~
+You are walking down the slippery stones into a large cave.  The air
+inside feels heavy and humid upon your skin.  The glow of mosses reveal a
+small lake in the middle of the room.  Looking inside the pool you see the
+reflection of a large creature hanging above you.  
+~
+0 8192 13
+E
+pool~
+Like a {Gr{gi{gp{Gp{gl{Gi{gn{Gg{X image of green death, a dragon-like creature arrogantly
+sneers down upon you.  
+~
+D4
+~
+~
+0 0 14130
+D5
+~
+~
+4 14148 14171
+S
+#14130
+Near the {BW{ba{Bt{be{Br{bf{Ba{bl{Bl{X~
+A shear cliff rises to the north of you, dwarfing all of the trees that
+are now less populated.  You hear the soft rumble of a waterfall to the
+west.  Small trickles of water cascade lightly down the moss covered cliff. 
+Also, you can hear the calls of some sort of wild bird.  
+~
+0 4 5
+D2
+~
+~
+0 0 14127
+D5
+~
+~
+0 0 14129
+S
+#14131
+{DHall {Cof {DA{Cn{Dc{Ci{De{Cn{Dt{Cs{x~
+{WAs you walk into this room you see several suits of ancient armor and
+several portraits along the walls.  You see a young female dragon that seems
+to be guarding a door to the west.  Off to the east you see a room with a
+statue of the goddess Sephera outside the entrance.  {x 
+~
+0 0 11
+D1
+~
+~
+0 0 14113
+D3
+~
+~
+4 0 14134
+S
+#14132
+{DM{Wa{Dr{Wb{Dl{We {mS{rt{Re{rp{ms{X~
+{WA long set of steps rises so high, they seem to touch the clouds.  At
+the top is the front door to the house of {rV{mo{Mr{Rk{ra{mi{W.  Step after
+step, one gets tired, building staminia for those that bear the mark of the
+House.  
+~
+0 532480 0
+D0
+~
+~
+0 0 14177
+D2
+~
+~
+0 0 14200
+S
+#14133
+Chamber of the Enchanted Heart~
+
+~
+0 1028 0
+S
+#14134
+{rV{mo{Mr{Rk{ra{mi {WF{wa{Wm{wi{Wl{wy {DLibrary{x~
+{WAs you enter this room you can see several enourmous bookshelves
+stretch the length of this room.  The shelves are packed full of books of
+all sorts of fields of study.  Wheeled ladders are attached along each
+bookshelf that slide with ease along the rails of the shelves.  At the far
+end you see a large {Dgranite {Wtable with 6 large {rpadded {Dgranite{W
+chairs.  {/{DA large {csign{D with {Rred{D lettering is posted here.  {x 
+~
+0 8 0
+E
+'sign red'~
+{DOnly those of House {rV{mo{Mr{Rk{ra{mi{D may pass, all others will meet
+with a most {rpainful death{D.  Please turn back now.{x  
+~
+D1
+~
+~
+4 0 14131
+D2
+~
+~
+5 0 1717
+M 160 H 160
+S
+#14135
+The Crystal Tower~
+Brilliant beams of light fly like tiny illuminated pixies through the
+beautiful tower made of crystalline glass.  A wide set of stairs provide
+access to the surrounding levels, and doors open into a myriad of rooms in
+assorted directions.  
+~
+0 0 0
+D1
+~
+~
+0 0 14136
+D3
+~
+~
+0 0 14106
+D5
+~
+~
+0 0 14109
+S
+#14136
+A Variety Shop~
+A vast arrangement of useless junk is collected in this small shop.  A
+musical harp is in the corner, a pile of old books behind the desk.  An old
+shopkeeper used to sell his junk, but now he has changed his profession into
+collecting junk.  You notice a bright glimmering light in a dark corner of
+the shop.  It is very attractive and it seems to pull you towards it.  You
+look into the mirror, but instead of seeing your own reflection, you see a
+black colored fog.  
+~
+0 1036 0
+D3
+~
+~
+0 0 14135
+S
+#14137
+{DThe Dark Side{X~
+{DYou enter the mirror and find yourself trapped within a dark black fog.
+You squint your eyes and notice that you are in an eerie tunnel.  The only
+way out is to follow the tunnel.  Skulls and bones are scattered on the
+ground.  Fortunately, they are not human bones, they animal bones.  {X 
+~
+0 1024 0
+D0
+~
+~
+0 0 14138
+S
+#14138
+{DThe Ancient Black Dragon's Lair.{X~
+{DThe thick black fog clears, and you find yourself in the Ancient
+Dragon's Lair.  There is a very strong smell about.  The only thing there is
+in the whole room is a huge enormous Throne, and some more scattered bones
+and skulls.  {X 
+~
+0 1024 0
+D2
+~
+~
+0 0 14137
+S
+#14139
+Main Room of Valsor~
+The stone walls of this room are hung with green silk brocade tapestries.
+There is a large fireplace on the north wall that burns brightly with a
+welcoming hearth light.  A soft and plush couch sits in front of the
+fireplace, pillowed with soft, silky cushions, hand made from crushed velvet
+and satin.  Candles burn over the mantle and from sconces on the four walls,
+giving the room a well lit and friendly glow.  An ebony bar on the east wall
+contains liquiors and wines of all sorts with glasses for two.  Fresh roses
+cut in vases grace the top.  The high domed ceiling is painted with a forest
+scene.  The sense of peace is overwhelming.  
+~
+0 0 0
+D1
+~
+~
+0 0 14140
+S
+#14140
+Bedchamber of Valsor~
+A high canopied bed is in the center of the room, crafted from fine
+polished mahogany.  The hand-woven blankets and silk sheets are a bright
+crimson, several pillows of white are scattered on the bed.  The dresser is
+wide and holds an assortment of objects used in the room; from hairbrushes
+to scented oils.  Two high mirrors on either side of the entrance give the
+room a mystical quality, as though stepping through the looking glass.  
+~
+0 1032 0
+D0
+~
+~
+0 0 14141
+D2
+~
+~
+4 14157 1948
+D3
+~
+~
+0 0 14139
+S
+#14141
+Training Room of Valsor~
+This room is filled wall to wall with books containing vast knowledge. 
+They radiate an aura that fills you with a sense of confidence.  There is a
+cabinet filled with strange exotic weapons, shields, and armor in the corner
+of the room.  The floor is covered in sand and squishes between your toes. 
+You get a feeling there have been many battles here.  There is a training
+dummy in the center of the room.  
+~
+0 0 0
+D2
+~
+~
+0 0 14140
+S
+#14142
+Bed Chamber~
+A vaulted ceiling, painted with {bc{ye{bl{ye{bs{yt{bi{ya{bl{x murals,
+curiously changes with the {Ydays{x and {bnights{x.  By day, the sun shines
+so brilliantly, one would feel they were actually out of doors, and by
+night, the stars shine and change with the constellations of Alanthia.  The
+walls are richly adorned with portraits, mirrors, and shelves full of items
+acquired on Anri's many adventures, as well as those precious things given
+her.  The bed fills nearly a third of the room, with it's canopy, and bed
+curtains adorned in rich fabrics.  A huge {rf{yi{rr{ye{rp{yl{ra{yc{re{x is
+positioned on the wall directly opposite the bed.  
+~
+0 525828 0
+D3
+~
+~
+1 0 14168
+M 200 H 200
+S
+#14143
+Library of Arcane Arts~
+Bookshelves, ornately carved and filled with {Dgrey-shaded{X and {rblood
+red{X leather bound tomes, line the walls of this huge chamber.  In the
+center of the room, is a pedestal, holding a tome of ancient magical arts,
+encased in {Wg{wl{Wa{ws{Ws{X.  The study tables are arranged in a square
+around the pedestal, as if to denote this precious tome's great importance. 
+There are arcane items of all magical natures on the tables, obviously used
+for the study of the art.  There are scrolls, inkwells, and quills scattered
+about the north table denoting a powerful mage in hurried preparation for a
+comming battle.  
+~
+0 525312 0
+D0
+~
+~
+0 0 14166
+M 200 H 200
+S
+#14144
+{DTemple of A'lkira{x~
+{DTemple of A'lkira {DPlagued with the smell of {rblood{D, the temple
+brings upon the illusion of sacrifice and death.  Tattered Black Tapestries
+surround the room on all sides, {BBlue {bglowing {Dtorches encircle the
+ebony altar.  Preserved on the ground are the corpses of many sacrifices to
+the Ancient Vampire God, {RK{ra{Rr{rd{Ri{rs.  {DTo the north, is a portal
+with a {Bd{beathl{By {Dhue.  {x 
+~
+0 4 0
+S
+#14145
+A Void of Destruction~
+You find yourself floating over a devastated plane.  Rough elemental
+powers fill this void which surrounds you from all sides.  The pure
+sensation of unformed physical chaos surrounded by intense glowing lights
+that beams through the relative darkness without leaving any trace of shadow
+or edge scares you.  There seems to be no end and no beginning in this void.
+Its beauty is overwhelming but the way reality is torn apart and turn upside
+down makes you feel lost in this world where only creatures of eternal
+darkness belong.  
+~
+0 524289 8
+D0
+~
+~
+0 0 14165
+S
+#14146
+The void within~
+You find you self spinning around and lost in darkness.  Chaos in its
+purest form fills the air, tickling your lungs everytime you breath it in. 
+You hear a soft noise coming from the center of the room, something like.. 
+Boom...  Boom...  Boom...  
+~
+0 525837 8
+M 200 H 200
+S
+#14147
+{wT{Wh{we{W T{wo{Wm{wb {Wo{wf {WA{wd{Wi{ws{X~
+As you enter this room, your heart starts beating faster and faster; your
+emotions are floating with joy and sadness altogether.  Brilliant beams of
+light fly like tiny illuminated pixies from the top of this tomb.  Before
+you stands the statue of Adis, the powerful warrior of Alanthia, leader of
+Bilanx and Defender of Balance.  The walls are filled with pictures and
+stories showing the battles he gave in order to bring peace to Alanthia. 
+You can also see a round table with 4 comfortable chairs, a double sized
+bed, and a stony fireplace for the cold nights of Alanthia.  
+~
+0 1024 0
+D2
+~
+~
+0 0 14148
+D4
+~
+~
+3 14151 3604
+M 160 H 160
+S
+#14148
+{WT{wh{We {wL{Wi{wv{Wi{wn{Wg {wR{Wo{wo{Wm{X~
+You walked into the living room.  Here the walls are filled with modern
+art paintings.  You can see a golden fireplace, a large sofa and a Book
+case.  The room expands in 3 hallways.  The eastern hallway leads to Adis's
+bedroom, the western hallway leads to the bathroom and the southern one
+leads to the dinning Room.  There's also a stair leading down to the
+basement.  
+~
+0 1024 0
+D0
+~
+~
+0 0 14147
+D1
+~
+~
+3 14151 14149
+D2
+~
+~
+0 0 14151
+D3
+~
+~
+0 0 14150
+D5
+~
+~
+0 0 14152
+M 160 H 160
+S
+#14149
+{WT{wh{We {wB{We{wd{Wr{wo{Wo{wm~
+Here is Adis's Bedroom.  An Artless room.  There is only a doubled sized
+bed with two bed-side tables and a closet in which Adis keeps his equipment.
+There is also a beautiful girl named Poytana, tiding up the room and awaits
+him to come back while whispering something.  
+~
+0 1536 0
+D3
+~
+~
+3 14151 14148
+S
+#14150
+{WT{wh{We {wB{Wa{wt{Wh{wr{Wo{wo{Wm{x~
+Here it's the bathroom.  No need to describe this room.  The title says
+it all.  You can see a bathtub, a washstand with a mirror and a toilet seat.
+~
+0 1536 0
+D1
+~
+~
+0 0 14148
+M 160 H 160
+S
+#14151
+{WT{wh{We {wD{Wi{wn{Wn{wi{Wn{wg {Wr{wo{Wo{wm~
+Here it's the dinning room.  A large room with many candles and art
+paintings.  A large table with 4 chairs is here were adis and poytanaki
+serves dinner to their guests.  
+~
+0 1024 0
+D0
+~
+~
+0 0 14148
+M 160 H 160
+S
+#14152
+{WT{wh{We {wB{Wa{ws{We{wm{We{wn{Wt{X~
+You've walked down the stairs to the basement, a dark room where adis use
+it to train and practise himself the arts of combat.  Here the walls are
+filled with pictures and stories showing the battles that Adis gave in order
+to bring peace in Alanthia.  
+~
+0 1025 0
+D4
+~
+~
+0 0 14148
+M 160 H 160
+S
+#14153
+Altar of Dreams~
+Having braved the heat, you enter a much smaller and cooler chamber.  An
+alter is set deep within a small pillar of cooled lava.  A slate bridge
+crosses over the small river of magma encircling the altar.  Arcane symbols
+are scrawled along the edges of the altar indicating ritualistic usage. 
+Small pieces of broken weapons litter the ground near the altar, while the
+flowing magma threatens to consume them.  A faint, flickering glow eminates
+from the altar itself, alerting you to its great power.  
+~
+0 8 0
+D3
+~
+~
+0 0 14183
+S
+#14154
+Realm of the Demon~
+You have entered the inner sanctum of the mighty demon.  The smell of a
+lush forest lingers in the air, and a cool breeze blows quietly about you. 
+A small brook trickles silently along a sandy shore invitingly, and a
+feeling of peace threatens to overtake you.  The resident of this private
+lair seems to have struggled to recreate a former home perhaps.  
+~
+0 12 0
+S
+#14155
+Portal of Dreams~
+Another large alcove opens out before you, revealing a mirrored portal. 
+Your own reflection stares back from the unkown.  The howl of violent winds
+pierces deep down inside, forcing you to tremble.  The heat is somewhat
+lessened by the wind flowing forth from the portal.  
+~
+0 8 0
+D1
+~
+~
+0 0 14183
+S
+#14156
+Edanna~
+Inside the cave, you find a forested area.  Many small trees cloak the
+area, trees of which are not known to the outside world.  Giant ferns line a
+path to the center of the forest.  The path leads to a dimly lit area.  The
+light comes from an eel-like create in a small water hole at the end of the
+path.  Directly in front of you, you can see a bed made of a gigantic leaf. 
+On a tree near the bed there is carved "Welcome to Edanna, home of Dominic
+Taliesin Pendaran".  
+~
+0 8 13
+D0
+You see a cave with a door.
+~
+door~
+3 14168 5281
+M 200 H 200
+S
+#14163
+~
+
+~
+0 532488 8
+D4
+~
+~
+0 0 1652
+S
+#14165
+The Hall of {WM{wi{Wr{wr{Wo{wr{Ws{x~
+In every direction you see multiple images of yourself.  It seems that
+they go on forever.  Madison uses this room as a training technique to learn
+to defend himself from all angles of attack.  
+~
+0 524296 0
+D0
+~
+~
+0 0 11151
+D2
+~
+~
+0 0 14145
+S
+#14166
+The Foyer~
+A vast, lavish entryway, this foyer is magificent to behold.  The walls
+are bedecked with finely woven tapestries depicting the courtship of the
+lord and lady of the house, as well as portraits, and other heirlooms passed
+down along the Asmadi family.  
+~
+0 525320 0
+D0
+~
+~
+0 0 14169
+D2
+~
+~
+0 0 14143
+D3
+~
+~
+0 0 14127
+D4
+~
+~
+0 0 14168
+M 200 H 200
+S
+#14167
+The Cellar~
+This room is void of light, only your torchlight glows in it, and even
+that seems to be stifled here.  The stairway leads down to what you can only
+assume is a forbidden area of this otherwise exquisite mansion.  
+~
+0 525312 0
+D4
+~
+~
+0 0 14143
+D5
+~
+~
+0 0 14128
+M 200 H 200
+S
+#14168
+The Marble Stairway~
+This marvelous marble staircase takes up the greater part of and entire
+wall.  Made entirely of a most unique marble, it is blood red with black
+veins.  A stark contrast, a white pile carpet runs along the stairway
+leading you upward to the family's living quarters.  
+~
+0 525312 0
+D1
+~
+~
+1 0 14142
+D5
+~
+~
+0 0 14166
+M 200 H 200
+S
+#14169
+Parlor~
+Family portraits, rich wall coverings, chandaliers, and lavish decor; all
+these things in place to make the formal guest feel welcome.  A velvet
+settee and table set are available for a comfortable (but not TOO
+comfortable) place to have a chat, tea, or to play games.  
+~
+0 525312 0
+D0
+~
+~
+0 0 14170
+D2
+~
+~
+0 0 14166
+M 200 H 200
+S
+#14170
+The Conservatory~
+Carved panels of the purest crystal form the walls and ceiling of this
+remarkable room.  A grand piano is at one end on a dais, and folding chairs
+are housed in a closet at the other.  This is a perfect setting for a
+concert or a place to practice.  Legend has it that the most reknowned
+musicians of the realm have performed for the Asmadi family in this
+beautiful room.  
+~
+0 525312 0
+D2
+~
+~
+0 0 14169
+D3
+~
+~
+0 0 14192
+M 200 H 200
+S
+#14171
+Inside the Lake~
+Shimmering glows from above give some light in a further dark lake. 
+Swimming inside this lake, you feel small plants and lifeform clamping on
+your warm body.  In the middle of the lake there is an upward current,
+pushing warmer water from the bottom.  
+~
+0 532480 0
+D4
+~
+~
+4 14165 14130
+M 200 H 200
+S
+#14172
+{WG{wa{Wt{we{Ws {Dof {rV{mo{Mr{Rk{ra{mi{X~
+{mThese are the front {WG{wa{Wt{we{Ws {Dof {rV{mo{Mr{Rk{ra{mi{x. 
+{mTowering above you, the gates are built to keep out any the family deems
+an enemy.  The massive walls of the house stretch out to the east and west. 
+{x {/{RThere is a W{rA{RR{rN{RI{rN{RG posted here on a sign.  {x 
+~
+0 532480 5
+E
+'sign warning'~
+{RWARNING TO ALL!  IF YOU ARE NOT AMONG THE MOST POWERFUL HEROES IN THE
+LAND, DARE NOT VENTURE FORTH!  VORKAI HOUSE IS PATROLLED BY FIERCE AND
+VICIOUS GUARDS!  CONSIDER YOURSELF WARNED.  {x {R(LEVEL 309 AGGIE MOBS
+AHEAD!)  {x 
+~
+E
+warning~
+{RWARNING TO ALL!  IF YOU ARE NOT AMONG THE MOST POWERFUL HEROES IN THE
+LAND, DARE NOT VENTURE FORTH!  VORKAI HOUSE IS PATROLLED BY FIERCE AND
+VICIOUS GUARDS!  CONSIDER YOURSELF WARNED.  {x 
+~
+D0
+~
+~
+3 0 14111
+D2
+~
+~
+0 0 9324
+S
+#14173
+{WB{wa{Wt{wh {WH{wo{Wu{ws{We{X~
+{cAs you enter the {Wb{wa{Wt{wh {Wh{wo{Wu{ws{We{c you see several large
+pools of warm water positioned around the room.  Each pool seems to be
+closed off to offer more privacy.  A young woman is constantly adding warm
+water and attending to your every need.  
+~
+0 532488 0
+D3
+~
+~
+0 0 14200
+M 200 H 200
+S
+#14174
+{YG{yo{Yl{yd{Ye{yn {GO{gr{Gc{gh{Ga{gr{Gd {Dof {rV{mo{Mr{Rk{ra{mi{X~
+{gAs you enter this area a sweet honey nectar fragrance fills your senses
+and takes over your body.  Tall trees line either side of the
+{Go{gr{Gc{gh{Ga{gr{Gd{g with fresh friuts as far as the eye can see. 
+Between the trees is the vineyard of sweet plump {mg{Mr{ma{Mp{me{Ms{g that
+are being harvested for fine wine.  
+~
+0 532480 2
+D1
+~
+~
+0 0 14200
+S
+#14175
+{mCo{Rm{mm{mon R{Moo{mm{W ~
+{mYou see a young woman waiting to serve you tea as you sit down to
+relax.  There is plenty of room to hold the meetings of the Vorkai family
+here.  Off to any direction is one of the family members private rooms.  Up
+the spiraling staircase is the rooms of the Lords of the House of Vorkai.  
+~
+0 532488 0
+D0
+~
+~
+1 0 14176
+D1
+~
+~
+0 0 14184
+D2
+~
+~
+1 0 14177
+D3
+~
+~
+0 0 14179
+D4
+~
+~
+0 0 14178
+D5
+~
+~
+0 0 14113
+S
+#14176
+{GH{ge{Gr{gb {GG{ga{Gr{gd{Ge{gn{X~
+{gAs you enter this large open room you see several long rows of herbs
+growing in the private garden.  You see a small building in the back with
+someone standing there.  {X 
+~
+0 524288 2
+D2
+~
+~
+1 0 14175
+M 200 H 200
+S
+#14177
+{mF{rr{Ro{rn{mt D{Roo{mr{X~
+{mAs you reach the last stair you see a set of double reinforced iron
+bound oak doors.  The doors hold the symbols of Vorkai emblazed on each of
+them.  Large pilars of marble stand at either side of the door engraved with
+the House of Vorkai's mark.  {X 
+~
+0 532480 0
+D0
+~
+~
+1 0 14175
+D2
+~
+~
+0 0 14132
+S
+#14178
+{WAtop {Dthe {rS{mt{ra{Rir{rw{ma{ry{X~
+{mAfter reaching the top of the stairs, you come to the two diffrent
+rooms, one to the West and one to the East.  The rooms up here belong to the
+{DLords {Wof {rV{mo{Mr{Rk{ra{mi, so that they may watch over their family. 
+{X 
+~
+0 532488 0
+D1
+~
+~
+1 0 14186
+D3
+~
+~
+4 14166 14185
+D5
+~
+~
+0 0 14175
+S
+#14179
+{DDark and Dreary Room{X~
+{rA{Ds you walk in you are shrouded my mist, everything gloomy and Dark. 
+{rY{Dou notice an old, dusty, tomb lying on a table in the corner, filled
+with ancient enscriptions.  {rA {Dparticular statue, made out of the finest
+marble catches your eye.  {rI{Dt seems to watch your every move, as if it
+was alive.  {rN{Dear the center of the room is a dreary table witha wine
+glass half full of blood and a beautifully crafted dagger, wet with
+{rblood{D.  {rT{Dhis is where the vampire lord, Artanis, sits, watching,
+waiting...  
+~
+0 524296 0
+D1
+~
+~
+0 0 14175
+S
+#14180
+{BC{Ch{Br{Ci{Bs{Ct{Bi{Cn{Ba{C'{Bs {YS{yanc{Yt{yuar{Yy{w~
+{YG{yoddes {Dof {RB{reauty {Dand {BP{berfection{D has uplifted this room
+from the grounds of {CA{clanthia{D for {MK{mrater{D to seek shelter in. 
+{DD{Ci{Dv{Ci{Dn{Ce {BB{bl{Be{bs{Bs{bi{Bn{bg{Bs {Dhave been cast upon the
+room by the {RB{reautiful {YG{yoddess{D herself.  {x 
+~
+0 1028 0
+E
+christina~
+{DA {RB{reautiful {GP{gortrait{D of the {YG{yoddes {MC{mhristina
+{MP{matterson {Dis here, she is reciting scrolls and spells upon
+{MK{mrater{D.  {x 
+~
+D1
+~
+~
+4 14180 14181
+D5
+~
+~
+0 0 14182
+S
+#14181
+{BC{Ch{Br{Ci{Bs{Ct{Bi{Cn{Ba{C'{Bs {GL{gai{Gr{w~
+{DBeautifully {YG{yolden{D made walls {Ws{Xh{Wi{Xm{Wm{Xe{Wr{D in the
+presence of {MC{mhristina{D, {YG{yoddes{D to whom {MK{mrater{D serves and
+protects.  {DThe room gives {MK{mrater{D protection from the troubles of the
+outside realm, or rather gives the outside realm safety from {MK{mrater{D. 
+{DThere is a single {RR{gose{D growing in the center of the room.  {w 
+~
+0 1036 0
+E
+rose~
+{R                    "M,        .mM"
+{R                     IMIm    ,mIM"
+{R                     ,MI{r0{R0IM,mIMm
+{R          "IMmm,    ,IM:{r000{RIM:{r0{RIM,          ,m"
+{R             "IMMIMMIMm:0IM::{r000{RIM00={R=mm ,mIM"
+{R    __      ,mIM::{r0000{RMIM::{r00000{RIM:{r000{RmIMIM"
+{R ,mMIMIMIIMIMM:{r0000000{RmM:{r0000000{RIMIMIMIMMM"
+{RIMM::{r0000000{RIMM:{r00000{RM:{r0000000{RIIM::{r00000{RMM,
+{R "IMM:{r000000000{RMM:{r:{R0M:{r000000{RIM::{r000000000{RIM,
+{R    "IMm:{r0000000{RIMMM:{r000000{RIM:{r000000000000{RIM,
+{R      "Mm:{r00000000{RIM:{r00000{RMM:{r000000000000000{RIM,
+{R       {RIM:{r00000000{RIM:{r00000{RMM:{r00000000000000000{RIM,
+{R        MM:{r0000000{RIM:{r000000{RIM:{r00000000000000000{RIM
+{R        "IM:{r0000000{RIM:{r000000{RIM:{r0000000000000000{RIM;.
+{R         "IM:{r0000000{RMM:{r0000000{RIM:{r000000000{gmmmIMMMMMMMm,.
+{R           IM:{r0000000{RIM:{r000000{RIM:{r:00{gmIMIMM""""{G. .. "{gIMMMM
+{R           "IM:{r0000000{RIM:{r00000{gmIMIMM""{G. . . . . .,{gmM"   "M
+{R            IMm::{r00000{RIM:{r000{gIIMM"{G . . . . . ..,{gmMM"
+{R            "IM{gMIMIMMIMM:{r0{gIMM"{G . . . .{g_.,mMMMMM"
+{g             ,IM"{G. . .{g"IMIM"{G. . . .{g,mMMMMMMMM"
+{g           ,IM{G . . . .{g,IMM"{G. . . {g,mMMMMMMMMM"
+{g          IM{G. . . .{g,mIIMM,{G. . .{g.mMMMMMMMMMM"
+{g         ,M"{G..{g,mIMMIMMIMMIMmmmMMMMMMMMMMMM"
+{g         IM{G.{g,IMI"""        ""IIMMMMMMMMMMM
+{g        ;IMIM"                  ""IMMMMMMM
+{g        ""                         "IMMMMM
+{g                                     "IMMM
+{g                                      "IMM, 
+{g                                       "IMM   
+{g                                        "MM,
+{g                                         IMM,              ______   __
+{g                        ______           "IMM{y__        {g.mIMMIMMIMMIMMIMM,
+{g                   .,mIMMIMMIMM, ,mIMM,   IMM{y"""{g     ,mIM"{G. . . . {g"IM,{G..{gM,
+{g                 ,IMMM'{G . . . {g"IMM.{G\ {g"M,  IMM      ,IM"{G. . . .  / :{g;IM {G\ {gM,
+{g               .mIM'{G . . .  / .:{g"IM.{G\{g MM  "MM,    ,M"{G. . .  / {g.;mIMIMIM,{G\ {gM
+{g              ,IM'{G. . .  / . .:;{g,IMIMIMMM  IMM   ,M"{G. .  / {g.:mIM"'   "IM,:M
+{g             ,IM'{G. . . / . .:;{g,mIM"  `"IMM IMM   IM{G. .  / {g.mM"         "IMI
+{g            ,IM{G . .  / . .:;{g,mIM"      "IMMMMM   MM,{G.  / {g,mM            "M'
+{g            IM'{G. .  / . .;{g,mIM"          "IIMMM ,IMIM,.,IM"
+{g            IM{G . . / . .{g,mIM"              IMMMMMMM' """
+{g            `IM,{G.  / ;{g,mIM"                 IIMMM
+{g             "IMI,{G /,{gmIM"                 {y__{gIMMM
+{g               "IMMMM"                   {y"""{gIMM
+{g                 ""                         IMM
+{g                                            IMM{y__
+{g                                            IMM{y"""
+{g                                            IMM
+{g                                            IMM
+{g                                          {y__{gIMM
+{g                                         {y"""{gIMM
+{g                                            IMM
+{g                                            IMM
+{g                                            IMM{y__
+{g                                            IMM{y"""
+{g                                            IMM
+{g                                            IMM
+{x
+~
+D1
+~
+~
+0 0 3127
+D3
+~
+~
+4 14180 14180
+S
+#14182
+{BC{Ch{Br{Ci{Bs{Ct{Bi{Cn{Ba{C'{Bs {MT{me{Mm{mp{Ml{me{w~
+{DA giant {GB{ged{D is centered in this room.  The walls are covered in
+pictures of the {YG{yoddes{D, and her {Bv{boyage {Dthat gave her her power. 
+{DThe bed is {BG{Ylistenin{Bg{D in a {YG{bolde{Yn {YB{blu{Ye{D aura.  A
+massive {CH{cealing{D force pulls the weak near.  {x 
+~
+0 1024 0
+D4
+~
+~
+0 0 14180
+M 200 H 200
+S
+#14183
+Antechamber of Flame~
+An enourmous antechamber opens like a great maw hidden behind some dying
+shrubery.  Plumes of smoke and ash waft about on unseen currents.  Waves of
+heat flow forth from the cavernous alcove unrelenting to anything within
+their paths.  Strange scents rise from the pools of flowing magma like a
+bizarre form of incense.  A pathway, comprised entirely of slate, circles
+the largest of the pools and doubles as a safe pathway leading into the
+depths of this realm of flame.  Large openings, leading off to the west and
+to the east, allow the faint flicker of flames deep within to add thier
+glow.  
+~
+0 520 0
+D1
+~
+~
+0 0 14153
+D2
+~
+~
+5 0 5278
+D3
+~
+~
+0 0 14155
+S
+#14184
+{rV{mo{Mr{Rk{ra{mi {WG{wu{We{ws{Wt {DChambers{X~
+{mAs you survey the room you can see a large bed and a desk, chair, and
+paintings on the walls.  Upon closer look you see the bed is covered with
+the finest silks.  The desk is made from the finest marble and the chair
+from a english oak.  Paintings are of a beautiful sunrise and one is of a
+sunset.  The owners of the house spared no expense it seems.  
+~
+0 524296 0
+D3
+~
+~
+0 0 14175
+S
+#14185
+{rL{Ra{ri{Rr {Dof the {mU{rn{md{re{ma{rd{X~
+{rUpon entering this room, you take in the smell of old, stale air, as
+well as the taste of coppery blood with your nostrils.  Many victims have
+been lured here for Veshaun to feast upon.  Some of the remains are still
+scattered about the floor.  On the walls are old writtings from an ancient
+vampyre script..  Roughly translated, the writtings speak of an ancient
+creature bearing fangs, that was a host to an undead soul.  This creature
+was the first of it's kind.  A true, full-blood Vampyre in it's most pure
+and greatest form.  Oddly, every second generation of this race spawned,
+shows power above most, they are the blood decendants of the Vampyre.  The
+rest...  The weaker of the race, Vampires.  Veshaun was born a potential
+Vampyre with a clouded future, but arose a pure Vampyre under the hand of
+Nikos.  {X 
+~
+0 1024 0
+D1
+~
+~
+4 0 14178
+S
+#14186
+{DLord {WV{wa{Wd{wa{Wk{wy{Wn{w's {DChamber{X~
+{cUpon entering this vast room, one cannot help but detect the subtle
+scents of Vorkai's vineyards as the aroma drifts in from the balcony doors
+that reside upon the east wall.  The northern corner is filled with a huge
+four postered bed, it's linens spun from the finest of silks from faraway
+lands.  The lord's desk corners the south wall, parchments and maps of sorts
+lay next to small stack of ledgers that contain the details of the Vorkai
+fortune.  The glow of large candelabras give off an illumination of warmth
+and peace.  
+~
+0 795660 0
+D0
+~
+~
+5 0 14188
+D1
+~
+~
+1 0 14187
+D3
+~
+~
+1 0 14178
+S
+#14187
+{DThe {WB{wa{Wl{wc{Wo{wn{Wy{X~
+{cMade of sculptured {Dg{wr{Da{wn{Di{wt{De{c, this semi-circle balcony
+overlooks the expansive vineyards of the House of Vorkai.  In spring and
+summer the groves boosts of lush plants heavy with succulent fruit of the
+deepest purple or warm amber.  In the fall the leaves of the plants are a
+myriad of rustic and flaming colors.  Even in the solace of winter the
+rolling hills offer a wonderous sight.  Tis most often in the evening hours
+the lord strolls about, the silvery rays of the tri-moons raining down upon
+him and his beautiful estate.  
+~
+0 1024 0
+D3
+~
+~
+1 0 14186
+S
+#14188
+{DLady {WL{wa{Wu{wr{Wa{wl{Wi{w's {DPrivate Chamber{X~
+{mA quiet, shadowed room filled with the essence of peace.  Glowing
+{Wc{wa{Wn{wd{Wl{we{Ws{m line a small mantle that crowns a humble fireplace. 
+A desk almost hides in the corner, well worn quill and an ink pot sit upon
+the cherry wood top.  A bay window adorns the east wall, thick soft pillows
+cushion the seat so Lauarli can look down upon the estate grounds, watching
+for her Lord.  A book of poems lies opened to her favorite passage sided
+with a pair of {ygold rimmed {wspectacles{m resting on top.  Tis here the
+Lady of the House sees to her duties in aiding Lord Vadakyn in running his
+estate.  {X 
+~
+0 1024 0
+D2
+~
+~
+5 0 14186
+S
+#14189
+{CT{che {CD{cen of {CQ{cuix{x~
+{BHere is the home of the noble dragon, Quix.  Food wrappers and beverage
+containers are strewn about in piles, leaving only small walking paths
+between them.  Decorative swords and armor adorn the walls, and the room is
+filled with the musty smell of recent and not-so-recent meals.  {x 
+~
+0 533512 0
+E
+l33t~
+w00t!
+~
+E
+mudslut~
+8888  8888888
+                  888888888888888888888888
+               8888:::8888888888888888888888888
+             8888::::::8888888888888888888888888888
+            88::::::::888:::8888888888888888888888888
+          88888888::::8:::::::::::88888888888888888888
+        888 8::888888::::::::::::::::::88888888888   888
+           88::::88888888::::m::::::::::88888888888    8
+         888888888888888888:M:::::::::::8888888888888
+        88888888888888888888::::::::::::M88888888888888
+        8888888888888888888888:::::::::M8888888888888888
+         8888888888888888888888:::::::M888888888888888888
+        8888888888888888::88888::::::M88888888888888888888
+      88888888888888888:::88888:::::M888888888888888   8888
+     88888888888888888:::88888::::M::;o*M*o;888888888    88
+    88888888888888888:::8888:::::M:::::::::::88888888    8
+   88888888888888888::::88::::::M:;:::::::::::888888888
+  8888888888888888888:::8::::::M::aAa::::::::M8888888888       8
+  88   8888888888::88::::8::::M:::::::::::::888888888888888 8888
+ 88  88888888888:::8:::::::::M::::::::::;::88:88888888888888888
+ 8  8888888888888:::::::::::M::"@@@@@@@"::::8w8888888888888888
+  88888888888:888::::::::::M:::::"@a@":::::M8i888888888888888
+ 8888888888::::88:::::::::M88:::::::::::::M88z88888888888888888
+8888888888:::::8:::::::::M88888:::::::::MM888!888888888888888888
+888888888:::::8:::::::::M8888888MAmmmAMVMM888*88888888   88888888
+888888 M:::::::::::::::M888888888:::::::MM88888888888888   8888888
+8888   M::::::::::::::M88888888888::::::MM888888888888888    88888
+ 888   M:::::::::::::M8888888888888M:::::mM888888888888888    8888
+  888  M::::::::::::M8888:888888888888::::m::Mm88888 888888   8888
+   88  M::::::::::::8888:88888888888888888::::::Mm8   88888   888
+   88  M::::::::::8888M::88888::888888888888:::::::Mm88888    88
+   8   MM::::::::8888M:::8888:::::888888888888::::::::Mm8     4
+       8M:::::::8888M:::::888:::::::88:::8888888::::::::Mm    2
+      88MM:::::8888M:::::::88::::::::8:::::888888:::M:::::M
+     8888M:::::888MM::::::::8:::::::::::M::::8888::::M::::M
+    88888M:::::88:M::::::::::8:::::::::::M:::8888::::::M::M
+   88 888MM:::888:M:::::::::::::::::::::::M:8888:::::::::M:
+   8 88888M:::88::M:::::::::::::::::::::::MM:88::::::::::::M
+     88888M:::88::M::::::::::*88*::::::::::M:88::::::::::::::M
+    888888M:::88::M:::::::::88@@88:::::::::M::88::::::::::::::M
+    888888MM::88::MM::::::::88@@88:::::::::M:::8::::::::::::::*8
+    88888  M:::8::MM:::::::::*88*::::::::::M:::::::::::::::::88@@
+    8888   MM::::::MM:::::::::::::::::::::MM:::::::::::::::::88@@
+     888    M:::::::MM:::::::::::::::::::MM::M::::::::::::::::*8
+     888    MM:::::::MMM::::::::::::::::MM:::MM:::::::::::::::M
+      88     M::::::::MMMM:::::::::::MMMM:::::MM::::::::::::MM
+       88    MM:::::::::MMMMMMMMMMMMMMM::::::::MMM::::::::MMM
+        88    MM::::::::::::MMMMMMM::::::::::::::MMMMMMMMMM
+         88   8MM::::::::::::::::::::::::::::::::::MMMMMM
+          8   88MM::::::::::::::::::::::M:::M::::::::MM
+              888MM::::::::::::::::::MM::::::MM::::::MM
+             88888MM:::::::::::::::MMM:::::::mM:::::MM
+             888888MM:::::::::::::MMM:::::::::MMM:::M
+            88888888MM:::::::::::MMM:::::::::::MM:::M
+           88 8888888M:::::::::MMM::::::::::::::M:::M
+           8  888888 M:::::::MM:::::::::::::::::M:::M:
+              888888 M::::::M:::::::::::::::::::M:::MM
+             888888  M:::::M::::::::::::::::::::::::M:M
+             888888  M:::::M:::::::::@::::::::::::::M::M
+             88888   M::::::::::::::@@:::::::::::::::M::M
+            88888   M::::::::::::::@@@::::::::::::::::M::M
+           88888   M:::::::::::::::@@::::::::::::::::::M::M
+          88888   M:::::m::::::::::@::::::::::Mm:::::::M:::M
+          8888   M:::::M:::::::::::::::::::::::MM:::::::M:::M
+         8888   M:::::M:::::::::::::::::::::::MMM::::::::M:::M
+        888    M:::::Mm::::::::::::::::::::::MMM:::::::::M::::M
+      8888    MM::::Mm:::::::::::::::::::::MMMM:::::::::m::m:::M
+     888      M:::::M::::::::::::::::::::MMM::::::::::::M::mm:::M
+  8888       MM:::::::::::::::::::::::::MM:::::::::::::mM::MM:::M:
+             M:::::::::::::::::::::::::M:::::::::::::::mM::MM:::Mm
+            MM::::::m:::::::::::::::::::::::::::::::::::M::MM:::MM
+            M::::::::M:::::::::::::::::::::::::::::::::::M::M:::MM
+           MM:::::::::M:::::::::::::M:::::::::::::::::::::M:M:::MM
+           M:::::::::::M88:::::::::M:::::::::::::::::::::::MM::MMM
+~
+E
+grimace~
+Nothing can kill the grimace.
+~
+D2
+~
+~
+0 0 14198
+D4
+~
+~
+0 0 9201
+M 200 H 200
+S
+#14190
+The Chamber of Illusions~
+Every few moments, this chamber appears to shift.  The surroundings seem
+to be a filthy cave one moment, then a vast shining marble hall the next. 
+The only way out appears to be back to the cave below.  
+~
+0 532489 0
+D5
+~
+~
+5 0 1524
+S
+#14191
+{DM{gi{Dra{gg{De{x~
+{DShifting{g dreams distort{D this room..  The {gwalls and {Dceiling fade
+{Din and{g out of focus, {Dsometimes seeming {gto disappear {Dcompletely. 
+{DGlimp{gses of half-the{Dre scenes fleet p{gast and are gone {Dwhen you
+turn {Dto {glook at them.  {x 
+~
+0 532488 0
+D1
+~
+~
+5 14189 14192
+D2
+~
+~
+0 0 14190
+M 200 H 200
+S
+#14192
+{WChamber of {CTranquility{x~
+{DThis room has four solid walls, a floor, and a ceiling, all of polished
+granite.  Shaded torchiers in each corner cast a friendly glow over the
+surroundings, reflecting off the walls and ceiling to light the room.  {x 
+~
+0 1032 0
+D1
+~
+~
+0 0 14170
+D3
+~
+~
+5 14189 14191
+M 200 H 200
+S
+#14193
+{rP{Daaran {rD{Disen {rM{Darket {rS{Dquare{x~
+{DMillions reside here in Paaran Disen.  Ogier, Dashain Aiel, Aes Sedai,
+Commonfolk all live in mutual harmony for this is the location of the
+central government, and more importantly, the location of The Hall of the
+Servants.  A sign points where there is a magnificent white building
+supported by huge ornate pillars, topped with a grandly designed roof.  At
+the market, there is nothing that you cannot buy.  {x 
+~
+0 0 0
+D2
+~
+~
+0 0 14194
+S
+#14194
+{rT{Dhe {rH{Dall of the {rS{Dervants{x~
+{DIndicated by that ageless look, thousands of male and female Aes Sedai
+can be seen, for The Hall of the Servants is the central headquarters for
+all the Aes Sedai guilds.  Through an enormous gilded doorway, a throne can
+be seen, glittering in the darkness.  A large pool of a pure black substance
+is in the middle of the building.  People near it seem to suddenly vanish
+from sight.  {x 
+~
+0 8 0
+D0
+~
+~
+0 0 14193
+D2
+~
+~
+0 0 14195
+S
+#14195
+{rT{Dhroneroom of The {rD{Dragon{x~
+{DIt is impossible that anything can be seen in such a dark room, yet a
+simple, but ornate chair of elstone shimmers with a pulsating glow.  Next to
+the throne is a sword, that is not a sword.  The sword that is not a sword
+also glows with a steady rhythm, attracting all towards it.  {x 
+~
+0 8204 0
+D0
+~
+~
+0 0 14194
+S
+#14196
+{rC{Dollam {rD{Daan {rI{Dnstitute{x~
+{DHundreds of scientists are running about thinking to themselves aloud. 
+The number of inventions that come out of this institute are uncountable-
+too many!  Even the building is a huge invention, a floating dome in
+V'saine.  {x 
+~
+0 0 0
+D5
+~
+~
+0 0 14195
+S
+#14197
+{rT{Dhe {rD{Dragon's {rT{Dreasury{x~
+{DHeaps of gold coins and precious artifacts cover the floor of this
+vault.  There is little room to move between all the wealth stacked and
+piled against the walls.  {x {DA ladder leads up to the throne room and a
+shimmering exit on the east wall leads to some faroff place.  {x 
+~
+0 0 0
+D1
+~
+~
+0 0 3001
+D4
+~
+~
+0 0 14195
+S
+#14198
+{CQ{cuix's {CP{cractice {CR{coom{x~
+{BThe room around you is far less peaceful than Quix's den.  The weapons
+and armor that adorn the walls here are far more deadly.  Sharp blades of
+every description coat the walls, and the floor is covered by a thick
+practice mat.  The edges of the room are filled with exercise equipment,
+ranging from simple free weights to more complicated contraptions.  In the
+center of the large room is an enormous punching bag, which looks to be in
+surprisingly good condition.  {x 
+~
+0 524296 0
+D0
+~
+~
+0 0 14189
+S
+#14199
+{CF{crozen {CA{crena, the {CE{cntrance to the {CI{cceage{x~
+{WYou enter a {Cmagnificent arena that seems {Wto be in the form of a
+{Wcoliseum.  Pillars {Cline with different forms of drag{Wons carved into
+{Wthem.  The dragons are carv{Ced with such detail that they s{Weem to be
+{Walive.  As you move around you sense {Cyou are being watched, the {Weyes
+{Cof the {Wdragons seem to be following you.  You {Ctear your eyes away
+{Wfrom {Cthe pillars just{W long enough to notice a cage in the {Ccenter of
+the {Carena; long ago it must {Whave held the worlds vicious monste{Crs to
+be {Cused in the games held here, but{W now all that remains are
+bloodsta{Cins {Con the walls and the smell of death {Wabout the air.  {x 
+~
+0 0 13
+D4
+~
+~
+0 0 9787
+M 200 H 200
+S
+#14200
+{GG{ga{Gr{gd{Ge{gn{Gs {Dof {rV{mo{Mr{Rk{ra{mi{x~
+{gAs one enters the Gardens, they see tremendous trees, sculpted into
+figures of legendary fighters past..  Roses of {Rred{g, {wwhite{g, and
+{mpurple {gline the walkway to the {rV{mo{Mr{Rk{ra{mi{g house.  {x 
+~
+0 0 0
+D0
+~
+~
+0 0 14132
+D1
+~
+~
+0 0 14173
+D2
+~
+~
+1 0 14111
+D3
+~
+~
+0 0 14174
+S
+#14201
+{BY{b'golan {mT{Demple {xfor {RB{rlood{x~
+{xRock walls over 100 feet tall encase the room.  Gentle magical torches
+suspend in midair near the walls, lighting the tapestries of {BY'{bgolan's{x
+minions in{' battle.  Closer examination of the walls show that only dark
+elves could craft such intricate, beautiful, and dark carvings.  In the
+center of the room is an onyx pedestal lined with barely visible purple
+light.  Next to the pedestal lies a blood-soaked table, covered from the
+latest sacrifice.  The sounds of a dark melody on an elven harp plays in the
+background as an ominous chant to {BY'{bgolan {xis heard accompanying the
+instrument.  On the western wall, there is a {mtapesty that catches
+{mworshippers' eyes.  
+~
+0 4 0
+E
+tapestry~
+This tapestry portrays a Dark Elven Paladin disposing of Y'golan's
+enemies. A closer inspection shows the elf to be {mGikk {RA{Ds{rm{Da{rd{Di{x.
+~
+D0
+~
+~
+0 0 5269
+S
+#0
+
+
+
+#SPECIALS
+M 14141 spec_breath_fire
+M 14153 spec_assassin
+S
+
+
+
+#RESETS
+D 0 14111 0 1
+D 0 14111 2 1
+D 0 14114 0 2
+D 0 14115 2 2
+D 0 14119 0 2
+D 0 14120 2 2
+D 0 14129 5 2
+D 0 14131 3 2
+D 0 14134 1 2
+D 0 14134 2 1
+D 0 14142 3 1
+D 0 14147 4 2
+D 0 14148 1 2
+D 0 14149 3 2
+D 0 14156 0 2
+D 0 14168 1 1
+D 0 14171 4 2
+D 0 14172 0 1
+D 0 14175 0 1
+D 0 14175 2 1
+D 0 14176 2 1
+D 0 14177 0 1
+D 0 14178 1 1
+D 0 14178 3 2
+D 0 14180 1 2
+D 0 14181 3 2
+D 0 14183 2 1
+D 0 14185 1 2
+D 0 14186 0 1
+D 0 14186 1 1
+D 0 14186 3 1
+D 0 14187 3 1
+D 0 14188 2 1
+D 0 14190 5 1
+D 0 14191 1 2
+D 0 14192 3 2
+D 0 14200 2 1
+M 0 14101 1 14101 1
+M 0 14102 1 14102 1
+M 0 14104 1 14105 1
+M 0 14106 1 14106 1
+M 0 14108 1 14108 1
+M 0 14109 2 14111 2
+M 0 14109 2 14111 2
+M 0 14182 1 14113 1
+M 0 14112 1 14114 1
+M 0 14113 1 14121 1
+M 0 14128 1 14127 1
+M 0 14130 1 14129 1
+M 0 14133 1 14131 1
+M 0 14181 1 14134 1
+M 0 14136 1 14136 1
+M 0 14139 1 14139 1
+M 0 14107 1 14144 1
+M 0 14165 1 14145 1
+M 0 14140 1 14149 1
+M 0 14118 1 14153 1
+M 0 14141 1 14163 1
+M 0 14153 1 14163 1
+M 0 14105 1 14169 1
+M 0 14131 1 14171 1
+M 0 14175 1 14173 1
+M 0 14111 1 14175 1
+M 0 14185 14176 14176 1
+M 0 14183 1 14179 1
+M 0 14180 1 14181 1
+M 0 14114 1 14189 1
+M 0 14115 1 14190 1
+M 0 14116 1 14190 1
+M 0 14184 1 14192 1
+M 0 14186 1 14195 1
+M 0 14198 1 14195 1
+M 0 14117 1 14198 1
+M 0 14110 1 14200 1
+S
+
+
+
+#SHOPS
+14104 0 17 0 0 0 100 50 0 23
+14108 0 13 0 0 0 100 50 0 23
+14185 10 26 2 4 3 100 50 0 23
+0
+
+
+
+#$

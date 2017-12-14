@@ -1,0 +1,71 @@
+#AREADATA
+Name New area~
+Builders Rzarecta~
+VNUMs 26800 26849
+Credits {??? ???} Rzarecta    Rzarecta's Area~
+Security 0
+Version 1
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#26800
+The Planning Room~
+The beginning of the project starts here.  
+~
+0 4 0
+S
+#26801
+Below the Forest Above~
+From atop the forest, the tunnel here descends into the depths below
+where shreads of ripped roots and rich soil lie scattered about.  A steady
+downward slope continues as you leave the beauties of the outside world to
+explore into the unknown.  
+~
+0 0 0
+D5
+~
+~
+0 0 26802
+S
+#26802
+~
+
+~
+0 0 0
+D4
+~
+~
+0 0 26801
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

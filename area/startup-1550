@@ -1,0 +1,10 @@
+while :
+	do
+	cat ../log/alanthia.log | mail  -s "code port down" blue
+	cat ../log/alanthia.log | mail  -s "code port down" bladerunner726@hotmail.com 
+	cat ../log/alanthia.log | mail  -s "code port down" severhand@hotmail.com 
+		mv ../log/alanthia.log ../log/alanthia.log-`date +%s`
+		gzip ../log/*
+		../src/rom 1550 &> ../log/alanthia.log
+		sleep 60
+	done

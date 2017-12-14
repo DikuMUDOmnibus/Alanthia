@@ -1,0 +1,1770 @@
+#AREADATA
+Name Tyerian's Castle~
+Builders Fluffy Halodar~
+VNUMs 11000 11099
+Credits {50   90} Roland      Tyerian's Castle~
+Security 9
+Version 1
+End
+
+
+
+#MOBILES
+#11000
+wagon driver~
+a wagon driver~
+A wagon driver passes by, nearly falling asleep.
+~
+The wagon driver is a burly man.  His whip lays at his side as he looks
+too tired to pick it up and drive the horses.  He seems unconcerned with the
+dangerous conditions of the road.  
+~
+unique~
+ABG 0 800 0
+60 6 150d6+3000 1d1+499 10d6+10 none
+-27 -27 -27 -9
+FKN AB 0 0
+sit stand male 6000
+AHMV ABCDEFGHIJK medium unknown
+#11001
+horse~
+a horse~
+A horse pulls the wagon, keeping her eyes on the road.
+~
+A horse pulling a wagon passes you.  It is jet black and well groomed,
+and much larger than regular horses.  Her eyes look strangely intelligent.
+~
+unique~
+ABG Va 0 0
+60 6 150d6+3000 1d1+499 10d5+20 bite
+-27 -27 -27 -9
+CEFHK 0 0 0
+stand stand female 6000
+AGV ACDEFHJKUV large unknown
+#11002
+gate guard~
+a gate guard~
+A gate guard stands before you, keenly aware of your presence.
+~
+This guard seems unusually on edge as he keeps eye on your every move.
+He is nicely outfitted in royal guard attire, and he leaves his hand close
+to the sheath of his long sword.
+~
+unique~
+ABGT CDF 1000 0
+70 7 61d5+4595 1d1+499 10d7+10 slice
+-34 -34 -34 -12
+EFIKLT 0 0 0
+stand stand male 7000
+AHMV ABCDEFGHIJK medium unknown
+#11003
+castle guard~
+a castle guard~
+A castle guard stops to watch you pass.
+~
+The castle guard eyes you as you pass.  He is intensely loyal to his king,
+shown by the numerous battle scars on his face fought for his king.
+~
+unique~
+ABT 0 1000 0
+72 7 30d5+4745 1d1+499 10d6+20 slash
+-34 -34 -34 12
+EFKNT 0 0 0
+stand stand male 7200
+AHMV ABCDEFGHIJK medium unknown
+#11004
+aide~
+General Ederius' Aide~
+General Ederius' Aide is here, tending to the fire.
+~
+A young boy is here tending the fire.  He looks no older than fourteen
+years of age, but he's seen his share of battles alongside his mentor.
+~
+unique~
+ABT 0 1000 0
+65 0 61d5+4595 1d1+499 10d7+10 none
+-30 -30 -30 -10
+CEFHK 0 0 0
+stand stand male 6500
+AHMV ABCDEFGHIJK medium unknown
+#11005
+general ederius~
+General Ederius~
+General Ederius is here, reading scrolls on the desk.
+~
+General Ederius sits before you, looking at the many scrolls on his desk.  He
+doesn't even notice you come in, as he furrows his brow, reading the scrolls
+intently.
+~
+unique~
+ABGT H 1000 0
+85 9 100d5+8000 1d1+499 13d5+35 slash
+-40 -40 -40 -15
+EFHK 0 0 0
+stand stand male 8500
+AHMV ABCDEFGHIJK medium unknown
+#11006
+turret guard~
+a turret guard~
+The turret guard stands here, watching the main road.
+~
+As you study the turret guard, you see that her skin is not made of flesh, but
+of stone.  Her eyes glow red from her special vision abilities.  She keeps
+a close eye on the road down below, but she also keeps an eye on you.
+~
+unique~
+ABT TZ 1000 0
+78 8 100d5+7300 1d1+499 10d6+30 claw
+-34 -34 -34 -12
+CEFKNT 0 DEH C
+stand stand female 7800
+AHMVZ ABCDEFGHIJKLOPQUVWXY large unknown
+#11007
+lissa~
+Lissa~
+Lissa is here, walking barefoot through the gardens.
+~
+Lissa seems preoccupied as she walks barefoot through the gardens.  She looks
+up occassionally at General Ederius' home and smiles.
+~
+unique~
+ABQ H 1000 0
+68 7 100d5+4260 1d1+499 10d6+20 slash
+-30 -30 -30 -10
+FHKNT 0 0 0
+stand stand female 6800
+AHMV ABCDEFGHIJK medium unknown
+#11008
+sleeping peasant~
+A sleeping peasant~
+A peasant is here, sleeping amidst the hay.
+~
+This peasant looks like the rest of them, donned in simple clothings, but
+has no red spots.  It doesn't look like he broke a sweat, much less cut any
+hay.
+~
+unique~
+ABFG Va 1000 0
+67 7 100d5+4190 1d1+499 10d6+20 slice
+-30 -30 -30 -10
+EFKN 0 0 0
+sleep stand male 6700
+AHMV ABCDEFGHIJK medium unknown
+#11009
+working peasant~
+a working peasant~
+A peasant is here, working hard in the fields.
+~
+This peasant is dripping with sweat from the hard labor.  She wear simple
+peasant clothing.  You can see many red spots along his arms, probably from
+scratching the itchy spots caused by the hay.
+~
+unique~
+ABCH 0 1000 0
+63 6 100d5+3910 1d1+499 10d5+20 slice
+-27 -27 -27 -9
+FJKU 0 0 0
+stand stand female 15
+AHMV ABCDEFGHIJK medium unknown
+#11010
+peasant worker~
+a working peasant~
+A peasant is here, working fast to beat the storm.
+~
+This peasant is dripping with sweat from the hard labor.  He wears simple
+peasant clothing.  You can see many red spots along his arms, probably from
+scratching the itchy spots caused by the hay.
+~
+unique~
+ACGH 0 1000 0
+63 6 100d5+3910 1d1+499 10d5+20 slice
+-27 -27 -27 -9
+FJK 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#11011
+peasant barn~
+a barn peasant~
+A sweaty peasant unloads hay from a wagon.
+~
+A man stands before you with strands of hay stuck throughout his matted
+hair.  He looks like a walking zombie from being overworked.  
+~
+unique~
+ABG 0 1000 0
+68 7 100d5+4260 1d1+499 10d6+20 pierce
+-30 -30 -30 -10
+FIJK AB 0 0
+stand stand male 15
+AHMV ABCDEFGHIJK medium unknown
+#11012
+horse thief~
+a horse thief~
+A stealthy horse thief is here.
+~
+The thief is dressed in all brown and easily blends into the surroundings.
+He moves swiftly and silently around, plying his trade.
+~
+unique~
+ABFGS BDEJPQVZ 0 0
+72 7 100d5+6700 1d1+499 10d4+40 pierce
+-34 -34 -34 -12
+BEFHIK 0 0 0
+stand stand male 7200
+AHMV ABCDEFGHIJK medium unknown
+#11013
+armorer~
+the armorer~
+The armorer stands behind the counter, busy with her customers.
+~
+An older woman stands behind the counter to sell you things.  She's
+extremely hard of hearing, probably stemming from listening to metal banging
+against metal for thirty years.  
+~
+unique~
+ABM V 1000 0
+300 15 1d1+8000 1d1+499 50d50+900 none
+0 0 0 0
+0 ABCD 0 0
+stand stand female 100000
+AHMV ABCDEFGHIJK medium unknown
+#11014
+nobleman~
+a nobleman~
+A nobleman stands here, too important to acknowledge you.
+~
+The man you are looking at is one snappy dresser.  His cape and clothing
+are all a very dark blue, and his armor is a sparkling silver.  He turns
+his nose up at you as he spots you studying him.
+~
+unique~
+AGQ Lc 1000 0
+80 8 100d5+7500 1d1+499 10d6+30 crush
+-40 -40 -40 -15
+EFIKT AB 0 0
+stand stand male 8000
+AHMV ABCDEFGHIJK medium unknown
+#11015
+weaponsmith~
+the weaponsmith~
+A man surrounded by weapons answers your questions of buying.
+~
+This weaponsmith is definitely the largest person in this castle.  His arms
+are twice that of the castle guards, and he has a tough look on his face,
+but talks very soft and courteous.
+~
+unique~
+ABGT 0 0 0
+300 25 1d1+5000 1d1+499 1d1+2000 divine
+0 0 0 0
+FK ABCD 0 0
+stand stand male 100000
+AHMV ABCDEFGHIJK medium unknown
+#11016
+bar rowdy ugly woman~
+a bar rowdy~
+An ugly woman rolls up her sleeves and walks your way.
+~
+Her face is scarred from years of brawling in this tavern.  She's obviously
+been in many fights.  What she lacks in beauty she more than enough makes
+up for in her fighting ability.
+~
+unique~
+ABFT Vac 1000 0
+80 8 100d5+7500 1d1+499 10d6+30 punch
+-40 -40 -40 -15
+FHIJKN 0 0 0
+stand stand female 8000
+AHMV ABCDEFGHIJK medium unknown
+#11017
+bum smelly man~
+a sleeping bum~
+A smelly old man is asleep at your feet.
+~
+A homeless peasant presents himself at your feet.  You get a good look at
+him while he's catching some Z's.  Most of his face is covered by a soiled
+leather cap.  He holds in his hand the only worldly possession to his name,
+his frying pan.  
+~
+unique~
+ABR Yc 1000 0
+83 8 100d5+7500 1d1+499 10d8+10 crush
+-40 -40 -40 -15
+FKN 0 0 0
+stand stand male 10
+AHMV ABCDEFGHIJK medium unknown
+#11018
+trainee~
+a trainee~
+A trainee stands here, waiting to be told what to do.
+~
+These kids are brainwashed.  You can see it in their eyes: dreams, glory,
+honor, and courage.  If only they knew what it was really like in the real
+world.  You can't help but be a little intimidated by these kids' ideas of
+invincibility.  
+~
+unique~
+ABT Va 1000 0
+55 6 180d5+2125 1d1+499 8d5+30 punch
+-24 -24 -24 -7
+EFHIK 0 0 0
+stand stand none 2500
+AHMV ABCDEFGHIJK medium unknown
+#11019
+castle mason dwarf~
+a castle mason~
+A small dwarf is working on the wall in front of you.
+~
+A small dwarf is working on the wall in front of you.  His hair is all
+matted up with plaster, which falls mosly in his beard as he scoops the
+stuff up to splat it on the wall.  The work he's doing seems a little
+pointless.  No ammount of plaster will stop whatever caused this damage in
+the first place.  
+~
+unique~
+ABT Ja 1000 0
+58 6 180d5+2160 1d1+499 8d5+30 crush
+-24 -24 -24 -7
+FIJK 0 LQ FR
+stand stand male 6000
+AHMV ABCDEFGHIJK medium unknown
+#11020
+barracks commander~
+a barracks commander~
+A barracks commander is here, yelling profanities at her troops.
+~
+You heard this woman way before you saw her.  Her voice booms profanities
+from her massive frame, as she occasionally punches a trainee in the face. 
+Doesn't seem like a great way to keep up moral, but who are you to judge.  
+~
+unique~
+ABT Vac 1000 0
+67 7 150d5+3940 1d1+499 12d5+20 slash
+-30 -30 -30 -10
+EFHIJK 0 0 0
+stand stand female 6700
+AHMV ABCDEFGHIJK medium unknown
+#11021
+mess hall cook~
+the mess hall cook~
+The mess hall cook is covered with stains, he spits on a tray of food and hands it to you.
+~
+This man is obviously unhappy with his work.  You actually think at this
+point that he's tring to get under your skin.  
+~
+unique~
+ABGT 0 1000 0
+65 7 150d5+3800 1d1+499 15d5+20 crush
+-30 -30 -30 -10
+EFIK BHI D JK
+stand stand male 2000
+AHMV ABCDEFGHIJK medium unknown
+#11022
+bodyguard~
+King Tyerian's bodyguard~
+King Tyerian's bodyguard stands here.
+~
+King Tyerian wasn't messing around when he chose his bodyguards.  Standing
+before you is a very large human.  He looks as if he can rip the stone bricks
+out of the castle with his hands.  He has a stern look on his face, his hand
+gripping his sword tightly.
+~
+unique~
+ABT CDHLNac 1000 0
+82 0 150d5+7450 1d1+499 12d5+30 slash
+-40 -40 -40 -15
+FIKT 0 CDLQ R
+stand stand male 6000
+AHMV ABCDEFGHIJK medium unknown
+#11023
+champion vaeddyn~
+Champion Vaeddyn~
+Vaeddyn, Champion to King Tyerian, searches for intruders to kill.
+~
+Champion Vaeddyn looks very angry.  It must be from the recent attack on the
+castle.  He is a tall man who is very skilled with his sword.  Many red lines
+mark the hilt of his sword, keeping track of his personal kills.
+~
+unique~
+AGT CDHNVa 500 0
+86 9 150d5+7850 1d1+499 11d5+40 wrath
+-40 -40 -40 -15
+EFHKNU ABLQ D 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#11024
+Orinal advisor~
+Advisor Orinal~
+Advisor Orinal sits at the table, contemplating.
+~
+The advisor to King Tyerian sits at the round table, lost in thought.  All
+over the table near him are reports of the attackers and damages inflicted on
+the castle.  It doesn't look like he's been getting much sleep as of late.
+~
+unique~
+ABGT HVac 1000 0
+84 8 150d5+7650 1d1+499 12d5+30 slash
+-40 -40 -40 -15
+EFHIKN AB D J
+stand stand male 6000
+AHMV ABCDEFGHIJK medium unknown
+#11025
+King Tyerian~
+King Tyerian~
+King Tyerian sits on his throne, daring you to speak.
+~
+King Arthur is before you.  He looks very serious and somewhat aloof.  He
+must be thinking about recent events that have turned his kingdom upside
+down.  He doesn't seem to concerned by your presence.  He must have faith in
+his guards.  
+~
+unique~
+ABGT CDHNVac 1000 0
+90 12 150d5+8500 1d1+499 9d5+50 slash
+-40 -40 -40 -30
+EFHIKNT AB CD JK
+stand stand male 50000
+AHMV ABCDEFGHIJK medium unknown
+M give 11000 3180~
+#11026
+fetram~
+Wizard Fetram~
+Wizard Fetram stands here, mixing up some new concoction.
+~
+He is a tall, old man with a white beard and hair.  he wears a tight-fitting
+helmet, looking more like a skullcap.  His attention is focused on many small
+mirrors mounted on the wall, each with a different view of the world,
+constantly changing.
+~
+unique~
+ABGR BCDEGHVZcd 0 0
+90 8 150d5+8500 1d1+499 12d5+30 punch
+-30 -30 -30 -50
+AFHKNRT AB C D
+stand stand male 10000
+AGHMV ABCDEFGHIJKUV medium unknown
+#11027
+creature little creepy~
+a creepy little creature~
+A creepy little creature sits on the table.
+~
+A little green thing looks up at you with its twenty eyes.  It flicks its two
+tongues simultaneously in the air at you.
+~
+unique~
+ABGT 0 0 0
+87 9 150d5+8000 1d1+499 13d5+30 claw
+-40 -40 -40 -15
+FHIKR AB DJ HK
+stand stand none 0
+AGV ACDEFHJKUV medium unknown
+#11028
+turret guard~
+a turret guard~
+The turret guard stands here, watching the main road.
+~
+As you study the turret guard, you see that her skin is not made of flesh, but
+of stone.  Her eyes glow red from her special vision abilities.  She keeps
+a close eye on the road down below, but she also keeps an eye on you.
+~
+unique~
+ABT TZ 1000 0
+78 8 100d5+7300 1d1+199 10d6+30 claw
+-34 -34 -34 -12
+CEFKNT 0 DEH C
+stand stand female 7800
+AHMVZ ABCDEFGHIJKLOPQUVWXY large flesh
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#11000
+The Winding Path~
+You travel on a windy, yet well-used path with thick trees on both sides.
+There are many deep ruts along both sides of the path.  The path leads north
+to a castle.  A small {yplaque{x is embedded in a tree.  
+~
+0 4 4
+E
+plaque~
+Area modifications done by Fluffy.
+~
+D0
+~
+~
+0 0 11001
+D2
+~
+~
+0 0 8207
+S
+#11001
+Continuing on the Windy Path~
+The road seems a bit unstable, the dirt on either side giving away at any
+moment, but it seems to support the weight of incomers from evidence of many
+footprints, both human and horse, and wagon trails.  
+~
+0 0 4
+D0
+~
+~
+0 0 11002
+D2
+~
+~
+0 0 11000
+S
+#11002
+The View~
+You stand at the base of a small hill, giving you a good view of the
+surrounding area.  A large, stone castle fills your view to the north. 
+Peasants are found to the east and west, cutting down hay with scythes. 
+They seem to be working hurriedly for some reason.  To the south you see the
+winding road.  Hayfields lie east and west.  
+~
+0 0 0
+D0
+~
+~
+0 0 11007
+D1
+~
+~
+0 0 11005
+D2
+~
+~
+0 0 11001
+D3
+~
+~
+0 0 11003
+S
+#11003
+In the Western Hayfield~
+The hay in this area has been haphazardly cut, although tuffs of the
+plant has somehow avoided the scythe.  All about you are peasants, swinging
+their scythes without saying a word, or even noticing your presence.  They
+seem only concerned with their work.  The field continues to the west, and
+the main path is to the east.  
+~
+0 0 2
+D1
+~
+~
+0 0 11002
+D3
+~
+~
+0 0 11004
+S
+#11004
+The Uncut Field~
+You have wandered into the uncut hay, with the itchy stuff as high as
+five feet.  The peasants to the east are slowly working their way to this
+area.  With all the uncut hay, this place would make a good hiding spot.  
+~
+0 524288 2
+D1
+~
+~
+0 0 11003
+S
+#11005
+The Empty Hayfield~
+This hayfield has been cut and harvested.  Some peasants are still about,
+gathering tools to move on to the next fields that need to be cut, and also
+hauling the large stacks of hay to the castle.  The main road lies west, and
+more cut hayfields to the east.  
+~
+0 0 2
+D1
+~
+~
+0 0 11006
+D3
+~
+~
+0 0 11002
+S
+#11006
+The End of the Empty Hayfield~
+This hayfield has also been cut and harvested.  Peasants gather tools and
+haul stacks of hay, but other than that there is nothing of interest here. 
+West leads back to the hayfields.  
+~
+0 0 2
+D3
+~
+~
+0 0 11005
+S
+#11007
+The Drawbridge to the Castle of Tyerian~
+You are on a wide wooden drawbridge giving you passage to the towering
+stone castle to the north.  The bridge looks somewhat burned, as does the
+stone of the castle walls.  The water underneath smells terrible, like
+sewage.  Falling in would surely be bad for your health.  The main road
+continues to the south, and the castle is to the north.  
+~
+0 4 1
+D0
+~
+~
+0 0 11008
+D2
+~
+~
+0 0 11002
+S
+#11008
+Front Gates of King Tyerian's Castle~
+The massive iron gate has been left open to allow the peasants inside
+with their wagons of hay.  You see a small guard house for the gate guards. 
+Underneath this large stone arch, between the iron gate and the drawbridge,
+you notice soot from a hot fire, originating from cauldrons for defense of
+the castle.  To the north is the inside of the castle.  To the south lies
+the drawbridge.  
+~
+0 0 1
+D0
+~
+~
+0 0 11010
+D2
+~
+~
+0 0 11007
+D3
+~
+~
+0 0 11009
+S
+#11009
+The Guard House~
+The guard house consists of four cots, a poker table and some chairs. 
+The place is a mess, and the smell of garbage is pretty overwhelming.  The
+only exit is to the east.  
+~
+0 8 1
+D1
+~
+~
+0 0 11008
+S
+#11010
+Inside the Castle Walls~
+Unlike the outside, the inside shows no signs of battle.  This is
+probably due to the fact the walls are very thick, over ten feet wide. 
+There are two large buildings to the north, Between the two buildings
+extends a large road to the north.  Walkways can also be found to the east
+and west of here, and you can leave the castle to the south.  
+~
+0 0 1
+D0
+~
+~
+0 0 11043
+D1
+~
+~
+0 0 11042
+D2
+~
+~
+0 0 11008
+D3
+~
+~
+0 0 11011
+S
+#11011
+Along the Southern Wall~
+The walkway continues to the west and east.  
+~
+0 0 1
+D1
+~
+~
+0 0 11010
+D3
+~
+~
+0 0 11012
+S
+#11012
+Along the Southern Wall~
+The walkway continues to the east and west.  You estimate this walkway to
+be nearly half a mile long.  
+~
+0 0 1
+D1
+~
+~
+0 0 11011
+D3
+~
+~
+0 0 11013
+S
+#11013
+Along the Southern Wall~
+The walkway continues to the west and east.  To the north you see a small
+house.  It is built in the same style as the rest of the castle, with large
+stones and small windows.  
+~
+0 0 1
+D0
+~
+~
+0 0 11014
+D1
+~
+~
+0 0 11012
+D3
+~
+~
+0 0 11016
+S
+#11014
+General Ederius' Home~
+You walk into General Ederius' home, commander of King Tyerian's army.  A
+variety of mounted animals can be seen along the walls, and there is a large
+fireplace in one wall.  Stairs lead up to a bedroom, and south leads back to
+the castle.  
+~
+0 8 1
+D2
+~
+~
+0 0 11013
+D4
+~
+~
+0 0 11015
+S
+#11015
+General Ederius' Bedroom~
+You walk into into the bedroom, and find it as neat as the floor below. 
+Another fireplace is in this room, which is lit as well.  A small window
+faces the courtyard.  The light in the room comes from a lantern in each
+corner, and the only furniture is a small bed and a desk.  
+~
+0 8 1
+D5
+~
+~
+0 0 11014
+S
+#11016
+Along the Southern Wall~
+You are now near the southwest corner of this great castle.  You can see
+a tall turret above the corner of the castle.  
+~
+0 0 1
+D1
+~
+~
+0 0 11013
+D3
+~
+~
+0 0 11017
+S
+#11017
+Southwest Corner of King Tyerian's Castle~
+You have reached one corner of the castle.  A spiraling staircase ascends
+up to the corner turret.  From here you can take walkways to the north and
+east.  You can also take the stairs to the top of the turret.  
+~
+0 4 1
+D0
+~
+~
+0 0 11018
+D1
+~
+~
+0 0 11016
+D4
+~
+~
+0 0 11062
+S
+#11018
+Along the Western Wall~
+The walkway continues to the north and south.  To the south you can see
+the towering turret fo the southwest corner.  You can see a courtyard to the
+east.  
+~
+0 0 1
+D0
+~
+~
+0 0 11020
+D1
+~
+~
+0 0 11019
+D2
+~
+~
+0 0 11017
+S
+#11019
+Lissa's Courtyard~
+You have walked into a beautiful courtyard.  The lawn is surrounded by a
+short wall.  You have to watch you step, since the grass is almost choked
+with tulips and roses.  You notice a small house nearby, with a window
+overlooking the courtyard.  
+~
+0 0 1
+D3
+~
+~
+0 0 11018
+S
+#11020
+Along the Western Wall~
+The walkway continues north and south.  
+~
+0 0 0
+D0
+~
+~
+0 0 11021
+D2
+~
+~
+0 0 11018
+S
+#11021
+Along the Western Wall~
+The walkway continues to the north and south.  To the north you can see
+the towering turret of the northwest corner.  There is some kind of storage
+barn to the east.  
+~
+0 0 0
+D0
+~
+~
+0 0 11024
+D1
+~
+~
+0 0 11022
+D2
+~
+~
+0 0 11020
+S
+#11022
+The Storage Barn~
+This place is usually empty, but now it is full of peasants bringing in
+hay from the harvest.  The barn is extremely hot and musty, making you quite
+uncomfortable.  The barn continues to the south, and the barn exit is to the
+west.  
+~
+0 0 0
+D2
+~
+~
+0 0 11023
+D3
+~
+~
+0 0 11021
+S
+#11023
+The Storage Barn~
+You are now between rows of tall hay stacks, properly stored for winter. 
+This is the end of the barn, and the only exit is to the north.  
+~
+0 0 0
+D0
+~
+~
+0 0 11022
+S
+#11024
+Northwest Corner of King Tyerian's Castle~
+This is the northwest corner of this incredible castle.  The walls are
+damaged in this corner, and some scaffolding is in place for doing repairs. 
+Looks like walls twelve feet thick were barely enough to contain an enemy
+invader.  You can take walkways to the east or south, or you can go up the
+stairs to the turret.  
+~
+0 4 1
+D1
+~
+~
+0 0 11025
+D2
+~
+~
+0 0 11021
+D4
+~
+~
+0 0 11063
+S
+#11025
+Along the Northern Wall~
+You're walking along the northern wall.  To the east you notice the tall
+turret of the northeast corner.  Scaffolding covers the northern wall, in
+what seems to be a repair job for some major fissures in the otherwise
+perfect surface.  It is incredible to think that these walls could even be
+damaged.  You can continue both east and west.  
+~
+0 0 0
+D1
+~
+~
+0 0 11026
+D3
+~
+~
+0 0 11024
+S
+#11026
+Along the Northern Wall~
+You are walking down a long walkway near the northern wall.  You can
+continue walking east or west, or you can go south and visit the armory.  
+~
+0 0 1
+D1
+~
+~
+0 0 11027
+D2
+~
+~
+0 0 11067
+D3
+~
+~
+0 0 11025
+S
+#11027
+Along the Northern Wall~
+The walkway continues to the east and west.  
+~
+0 0 0
+D1
+~
+~
+0 0 11028
+D3
+~
+~
+0 0 11026
+S
+#11028
+Along the Northern Wall~
+You are walking along the northern wall.  You can continue walking east
+or west.  The main avenue to King Tyerian's castle is to the east.  
+~
+0 0 1
+D1
+~
+~
+0 0 11029
+D3
+~
+~
+0 0 11027
+S
+#11029
+Northern Gate of King Tyerian's Castle~
+You stand at the northern gate of King Tyerian's castle.  To the north
+you see a thick forest.  Walkways continue to the west and east.  A wide
+avenue leads to the south.  
+~
+0 0 1
+D0
+~
+~
+0 0 11100
+D1
+~
+~
+0 0 11030
+D2
+~
+~
+0 0 11045
+D3
+~
+~
+0 0 11028
+S
+#11030
+Along the Northern Wall~
+The walkway continues to the east and west.  To the west you can see the
+large northern gates and the main avenue.  
+~
+0 0 1
+D1
+~
+~
+0 0 11031
+D3
+~
+~
+0 0 11029
+S
+#11031
+Along the Northern Wall~
+The walkway continues to the east and west.  You notice a few small
+cracks in the northern wall which looks rather recent.  Some plaster
+material has been used to try and repair the damages.  You guess that must
+have been inflicted during the last battle.  
+~
+0 0 1
+D1
+~
+~
+0 0 11032
+D3
+~
+~
+0 0 11030
+S
+#11032
+Along the Northern Wall~
+The walkway continues to the east and west.  You can also go south to
+visit the weaponsmith.  
+~
+0 0 1
+D1
+~
+~
+0 0 11033
+D2
+~
+~
+0 0 11068
+D3
+~
+~
+0 0 11031
+S
+#11033
+Along the Northern Wall~
+The walkway continues to the east and west.  To the east you can see the
+northeastern corner of the castle, with a towering turret above it.  The
+turret looks as though it had taken a lot of damage.  
+~
+0 0 0
+D1
+~
+~
+0 0 11034
+D3
+~
+~
+0 0 11032
+S
+#11034
+Northeast Corner of King Tyerian's Castle~
+You have reached the northeastern corner of the castle.  A spiraling
+staircase ascends up to the corner turret.  You look up at the turret and
+notice the top is charred and partially smashed in.  From here you can take
+walkways to the south and west.  You can also take the stairs to the top of
+the turret.  
+~
+0 4 1
+D2
+~
+~
+0 0 11035
+D3
+~
+~
+0 0 11033
+D4
+~
+~
+0 0 11064
+S
+#11035
+Along the Eastern Wall~
+The walkway continues to the north and south.  To the north you can see
+the northeast corner of the castle with a heavily damaged turret above it. 
+You can also go west into the local tavern.  
+~
+0 0 0
+D0
+~
+~
+0 0 11034
+D2
+~
+~
+0 0 11036
+D3
+~
+~
+0 0 11060
+S
+#11036
+Along the Eastern Wall~
+The walkway continues to the north and south.  
+~
+0 0 1
+D0
+~
+~
+0 0 11035
+D2
+~
+~
+0 0 11037
+S
+#11037
+Along the Eastern Wall~
+The walkway continues to the north and south.  You can see the southeast
+corner of the castle with its accompanying turret to the south.  You can go
+west to visit the inn.  
+~
+0 0 1
+D0
+~
+~
+0 0 11036
+D2
+~
+~
+0 0 11038
+D3
+~
+~
+0 0 11061
+S
+#11038
+Southeast Corner of King Tyerian's Castle~
+You have reached the southeast corner of King Tyerian's castle.  A
+spiraling staircase ascends up to the corner turret.  From here you can take
+walkways to the north and west.  You can also take the stairs to the top of
+the turret.  
+~
+0 4 1
+D0
+~
+~
+0 0 11037
+D3
+~
+~
+0 0 11039
+D4
+~
+~
+0 0 11065
+S
+#11039
+Along the Southern Wall~
+The walkway continues to the east and west.  
+~
+0 0 1
+D1
+~
+~
+0 0 11038
+D3
+~
+~
+0 0 11040
+S
+#11040
+Along the Southern Wall~
+The walkway continues to the east and west.  To the north you see a
+corral for the king's horses.  
+~
+0 0 0
+D0
+~
+~
+0 0 11069
+D1
+~
+~
+0 0 11039
+D3
+~
+~
+0 0 11041
+S
+#11041
+Along the Southern Wall~
+The walkway continues to the east and west.  
+~
+0 0 1
+D1
+~
+~
+0 0 11040
+D3
+~
+~
+0 0 11042
+S
+#11042
+Along the Southern Wall~
+The walkway continues to the west and east.  To the west you see the main
+entrance to King Tyerian's castle.  
+~
+0 0 1
+D1
+~
+~
+0 0 11041
+D3
+~
+~
+0 0 11010
+S
+#11043
+The Main Avenue~
+You are walking down the largest street in the castle.  It divides two
+very large buildings to your east and west.  The buildings are very tall,
+and you notice a few archers on the top of each of them, watching the
+traffic.  Security seems really tight throughout the castle.  You can go to
+the center of the castle by going north, or go to the main gate by going
+south.  
+~
+0 4 1
+D0
+~
+~
+0 0 11044
+D2
+~
+~
+0 0 11010
+S
+#11044
+The Royal Square~
+You are in the center of the castle.  A huge door looms over you to the
+west, and you assume it to be the government seat.  To the east there is a
+more plain building, which from the yelling sounds comming from inside you
+decide it must be the barracks.  The main avenue continues to the north and
+south, and a long rope hangs down from the sky, apparently ending in midair.
+~
+0 0 1
+D0
+~
+~
+0 0 11045
+D1
+~
+~
+0 0 11053
+D2
+~
+~
+0 0 11043
+D3
+~
+~
+0 0 11046
+D4
+~
+~
+0 0 11066
+S
+#11045
+The Main Avenue~
+You are walking down the largest street in the castle.  It divides two
+very large buildings to your east and west.  The buildings are very tall,
+and you notice a few archers on the top of them, watch traffic.  Security
+seems really tight throughout the castle.  You can go to the center of the
+castle by going south, or go to the secondary gate by going north.  
+~
+0 0 0
+D0
+~
+~
+0 0 11029
+D2
+~
+~
+0 0 11044
+S
+#11046
+Inside the House of King Tyerian~
+Walking into the foyer, you immediately notice that bedrooms to the north
+and south have both been converted into guard posts.  Two people are walking
+by discussing plans of increasing security detail to protect the king.  
+~
+0 8 0
+D0
+~
+~
+0 0 11047
+D1
+~
+~
+0 0 11044
+D2
+~
+~
+0 0 11048
+D3
+~
+~
+0 0 11049
+S
+#11047
+New Guest Guard Room~
+This guest bedroom has recently been converted to house soldiers.  The
+stoic soldiers sharpening thier weapons is almost humorous with the flowing
+drapes and flowery wallpaper.  One of the beds for a few soldiers also has a
+beautiful pink canopy.  The only exit is back to the south.  
+~
+0 0 0
+D2
+~
+~
+0 0 11046
+S
+#11048
+Old Guest Room~
+This room must have been converted earlier than the one to the north. 
+Weapon racks line the walls, and the drapes have been removed to give a
+better view of the south and east.  The room is also filled with tools for
+sharpening blades and mending armor.  However, the walls are still covered
+in pink roses wallpaper.  The only exit is to the north.  
+~
+0 8 0
+D0
+~
+~
+0 0 11046
+S
+#11049
+Lobby~
+This room serves as a waiting room of sorts for diplomats and other
+people who wish to see the king.  The throne rom is to the west.  A meeting
+room is to the south, and a closed door lies north.  To the east is the
+entrance to this house.  
+~
+0 8 0
+D0
+~
+door~
+4 11001 11051
+D1
+~
+~
+0 0 11046
+D2
+~
+~
+0 0 11050
+D3
+~
+~
+0 0 11052
+S
+#11050
+The Meeting Room~
+In the center of this room is a large round table, made from an
+impressive piece of wood, weighing at least a thousand pounds.  The room is
+circular also, and behind each chair is a small banner, identifying a color
+of a knight of this castle.  
+~
+0 0 0
+D0
+~
+~
+0 0 11049
+S
+#11051
+King Tyerian's Bedroom~
+This room is sparkling with precious metals and gems.  Lamps encrusted
+with gems line the walls.  A bed made of gold, with gold-laced sheets and
+golden lamps at each corner is near the northern wall.  A little light in
+this room would probably be enough, the reflections enough to illuminate the
+entire room.  
+~
+0 8 0
+D2
+~
+door~
+4 11001 11049
+S
+#11052
+King Tyerian's Throne Room~
+You enter the king's throne room.  Light comes in from the windows high
+on the tall walls, presumably so thieves can't climb in them.  The whole
+place glitters with precious gems.  The ceilings must be forty feet high,
+and four golden pillars support the vaulted ceiling for each corner.  The
+ceiling is covered with a painting of the goddess Cecilya, clad fully in
+armor.  
+~
+0 8200 0
+D1
+~
+~
+0 0 11049
+S
+#11053
+The Barracks~
+You walk into a huge room which looks like a gymnasium.  Ropes hang off
+the ceiling, and soldiers climb up them in full body armor.  Other soldiers
+practice combat or run laps around the building.  The atmosphere is very
+serious.  These men and women are getting ready for war.  From here you can
+go every direction but down.  
+~
+0 0 0
+D0
+~
+~
+0 0 11054
+D1
+~
+~
+0 0 11056
+D2
+~
+~
+0 0 11055
+D3
+~
+~
+0 0 11044
+D4
+~
+~
+0 0 11059
+S
+#11054
+Sleeping Quarters~
+A small area has been partitioned off here for sleeping.  The beds are
+empty now, and you can bet these soldiers won't be sleeping much for some
+time.  You can go south to the barracks' entrance, or go east.  
+~
+0 8 0
+D1
+~
+~
+0 0 11058
+D2
+~
+~
+0 0 11053
+S
+#11055
+The Barracks~
+More soldiers pushing and kicking on each other in a wild frenzy.  North
+of here you see the entrance to the barracks.  To the east is a mess hall.  
+~
+0 8 0
+D0
+~
+~
+0 0 11053
+D1
+~
+~
+0 0 11057
+S
+#11056
+The Barracks~
+Trainees here are paired in groups of two.  At the instructor's command,
+one of the pair thrusts at the other, and that other parries the attack. 
+This seems to be the place for basic sword training.  
+~
+0 0 0
+D0
+~
+~
+0 0 11058
+D2
+~
+~
+0 0 11057
+D3
+~
+~
+0 0 11053
+S
+#11057
+Mess Hall~
+Soldiers who do well in the training get bonuses, like food.  This select
+group of burly men choke down some vile smelling stew, and seem to be loving
+it.  From here you can go west or north.  
+~
+0 0 0
+D0
+~
+~
+0 0 11056
+D3
+~
+~
+0 0 11055
+S
+#11058
+Target Range~
+This seems to be a target range of sorts, and large group of archers take
+aim on some nearby targets.  Many arrows land everywhere but in the target. 
+~
+0 0 0
+D2
+~
+~
+0 0 11056
+D3
+~
+~
+0 0 11054
+S
+#11059
+At the Top of A Rope~
+You've climbed to the top of the rope and are at the ceiling of the
+barracks.  The only way is down, and it is very far.  
+~
+0 4 10
+D5
+~
+~
+0 0 11053
+S
+#11060
+The Local Tavern~
+You enter a small tavern for the commoners.  The lighting is terrible,
+but you can manage your way around the crowds to the bar.  People glance
+over at you curiously.  
+~
+0 8 0
+D1
+~
+~
+0 0 11035
+S
+#11061
+The King's Inn~
+You walk into a quaint little inn.  Some people are sitting in the chairs
+int he lobby, chatting quietly.  People do seem to pay for rooms to stay for
+the night, but you also see people just sleeping on the floor, being left
+alone.  Doesn't look like anybody cares.  
+~
+0 8 0
+D1
+~
+~
+0 0 11037
+S
+#11062
+Southwest Turret~
+This turret provides an excellent vantage point of the surrounding
+terrain.  You can see the access road off in the distance, and note that the
+castle is built on top of a hill, providing a good natural defense against
+sieges.  
+~
+0 8 0
+D5
+~
+~
+0 0 11017
+S
+#11063
+Northwest Turret~
+From here you can see the king's well known hunting grounds.  You hear
+that there are some incredible beasts in that forest.  A group of workers
+are busy here, trying to fix some damage to this turret.  You notice there
+is massive damage to the north wall.  Whatever it was almost broke through
+the wall.  
+~
+0 8 0
+D5
+~
+~
+0 0 11024
+S
+#11064
+Top of Stairs~
+You try to go to the northeast turret, but the top of the stairs is
+blocked with rubble.  Some workers pass back and forth on the stairs,
+removing rocks.  
+~
+0 0 0
+D5
+~
+~
+0 0 11034
+S
+#11065
+Southeast Turret~
+The view from up here is amazing!  You can see the access road off in the
+distance, and you realize this castle is built on a small plateau atop a
+very steep mountain.  Must be extremely difficult to raid this place.  But
+by looking at the faces of the guards, you don't get that impression.  
+~
+0 8 0
+D5
+~
+~
+0 0 11038
+S
+#11066
+Fetram's Study~
+You walk into a cluttered room filled with books and cages.  In each cage
+you find a small creature, none of which you recognize.  Directly in front
+of you is a large table with glass jars filled with the most vile things. 
+And on top of the table is a pot of boiling liquid, with a magic flame
+warming it from underneath.  
+~
+0 0 0
+D5
+~
+~
+0 0 11044
+S
+#11067
+King Tyerian's Armory~
+The heat from this room is almost unbearable.  The blacksmiths must be
+hard at work preparing for future battles.  The only exit is to the north.  
+~
+0 8 0
+D0
+~
+~
+0 0 11026
+S
+#11068
+King Tyerian's Weapon Shop~
+You have to cover your ears from the unbearably loud sounds of ten
+blacksmiths pounding metal on metal.  Behind the counter is a fine selection
+of weapons to choose from.  The only exit is north.  
+~
+0 8 0
+D0
+~
+~
+0 0 11032
+S
+#11069
+King Arthur's Stables~
+You find yourself in the middle of the king's stables, which is filled
+with mud and hay.  No horses are in sight.  The only exit is to the south.  
+~
+0 0 2
+D2
+~
+~
+0 0 11040
+S
+#0
+
+
+
+#SPECIALS
+M 11002 spec_guard
+M 11003 spec_guard
+M 11004 spec_executioner
+M 11006 spec_guard
+M 11007 spec_cast_cleric
+M 11012 spec_thief
+M 11020 spec_guard
+M 11022 spec_guard
+M 11024 spec_guard
+M 11025 spec_guard
+M 11026 spec_cast_mage
+M 11028 spec_guard
+S
+
+
+
+#RESETS
+D 0 11049 0 2
+D 0 11051 2 2
+M 0 11000 1 11001 1
+M 0 11001 1 11001 1
+M 0 11010 1 11002 1
+M 0 11009 3 11002 1
+M 0 11009 3 11003 1
+M 0 11008 1 11004 1
+M 0 11009 3 11005 1
+M 0 11002 4 11008 2
+M 0 11002 4 11008 2
+M 0 11002 4 11009 2
+M 0 11002 4 11009 2
+M 0 11014 3 11010 1
+M 0 11003 10 11010 1
+M 0 11003 10 11012 1
+M 0 11004 1 11014 1
+M 0 11005 1 11015 1
+M 0 11003 10 11018 1
+M 0 11007 1 11019 1
+M 0 11003 10 11021 1
+M 0 11011 4 11022 2
+M 0 11011 4 11022 2
+M 0 11011 4 11023 2
+M 0 11011 4 11023 2
+M 0 11019 3 11025 1
+M 0 11003 10 11026 1
+M 0 11023 1 11029 1
+M 0 11014 3 11029 1
+M 0 11003 10 11029 1
+M 0 11019 3 11031 1
+M 0 11003 10 11032 1
+M 0 11019 3 11033 1
+M 0 11003 10 11035 1
+M 0 11003 10 11037 1
+M 0 11003 10 11040 1
+M 0 11014 3 11044 1
+M 0 11022 7 11046 2
+M 0 11022 7 11046 2
+M 0 11022 7 11047 1
+M 0 11022 7 11048 1
+M 0 11022 7 11049 1
+M 0 11024 1 11050 1
+M 0 11025 1 11052 1
+M 0 11022 7 11052 2
+M 0 11022 7 11052 2
+M 0 11020 4 11053 1
+M 0 11018 8 11053 2
+M 0 11018 8 11053 2
+M 0 11018 8 11054 1
+M 0 11020 4 11055 1
+M 0 11018 8 11055 1
+M 0 11020 4 11056 1
+M 0 11018 8 11056 1
+M 0 11021 1 11057 1
+M 0 11018 8 11057 2
+M 0 11018 8 11057 2
+M 0 11020 4 11058 1
+M 0 11018 8 11058 1
+M 0 11016 2 11060 2
+M 0 11016 2 11060 2
+M 0 11017 1 11061 1
+M 0 11028 2 11062 1
+M 0 11028 2 11063 1
+M 0 11006 1 11065 1
+M 0 11026 1 11066 1
+M 0 11027 1 11066 1
+M 0 11013 1 11067 1
+M 0 11015 1 11068 1
+M 0 11012 1 11069 1
+S
+
+
+
+#SHOPS
+11013 9 33 0 0 0 100 50 0 23
+11015 5 0 0 0 0 100 50 0 23
+0
+
+
+
+#$

@@ -1,0 +1,24 @@
+change + {R* {g fixed login screen scrolloff
+change + {R* {g fixed score wiggles
+change + {R* {g made recall during combat completely skill dependant
+change + {R* {g recall takes you to some point on the main road in midgaard
+change + {R* {g removed all command lag from imms
+change + {R* {g quitting in the arena no longer hoses everything
+change + {R* {g fixed arena bug where you could PK someone prior to arena start (Malachai)
+change + {R* {g dwarf max str upped to 21, per the help file
+change + {R* {g (re?)added damtype command for imms
+change + {R* {g medit/redit/oedit create no longer need a vnum
+
+fixed the stupid and bogus 'already has divine protection' message given back from trying to bless someone who is in combat
+lots of general code cleanups
+rewrote most of chargen to dynamically generate class and race lists
+allowed the name 'alexander' to be used in chargen :P
+fixed socket command
+hearts now cast 'heart of the dragon' when eaten, at mob level / 2 + 1
+heads now cast 'mind of sages' when eaten, at mob level / 2 + 1
+chars can no longer wear EQ from remort -> lowbie
+fixed sacrifice so it doesn't work on items you can't see
+added 'vortex' commands and EQ. players may now use a vortex to set the room to which they recall
+
+
+change + {R* {g First stab at new combat code. Combat is broken right now.

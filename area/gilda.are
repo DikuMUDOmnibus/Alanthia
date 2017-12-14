@@ -1,0 +1,3212 @@
+#AREADATA
+Name Gilda and The Dragon~
+Builders Clubix~
+VNUMs 18700 18799
+Credits {45   65} Chipper     Gilda Dragon~
+Security 0
+Version 1
+End
+
+
+
+#MOBILES
+#18701
+fleeing horseman~
+a fleeing horseman~
+A horseman is here, fleeing the castle.
+~
+A fully armoured horseman rides by ignoring you.
+~
+unique~
+AB Xa 500 0
+45 22 10d136+786 45d10+100 5d15+26 none
+-18 -18 -18 -4
+F 0 B 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#18702
+subduran butler~
+the castle butler~
+SubDuran gazes down his nose at you.
+~
+SubDuran, the King's Butler, gazes down his nose at you in contempt.  He
+raises an eyebrow at your intrusion into the castle.
+~
+unique~
+ABT HNOV 0 0
+47 23 10d149+836 47d10+100 5d16+25 none
+-19 -19 -19 -4
+Q L C H
+stand stand male 100
+AHMV ABCDEFGHIJK medium 0
+#18703
+grnnch~
+Grnnch~
+Grnnch stands here, waiting patiently for its master's return.
+~
+Grnnch looms above you suddenly, glaring down at you.  He reaches
+out towards you and says, in a very firm voice, "GRNNCH"
+~
+unique~
+ABC Ha 1000 0
+47 23 10d149+836 47d10+100 5d16+25 claw
+-19 -19 -19 -4
+0 ABILMNPQR EPS GHJKO
+stand stand none 0
+EJMc ABCGHK medium 0
+#18704
+esthar lady~
+Lady Esthar~
+Lady Esthar glares at you and stabs her needle into her embroidery.
+~
+Lady Esthar looks down her long, patrician nose at you and sneers.
+She then turns back to her needlework, ignoring you completely.
+~
+unique~
+ABCR HV -700 0
+47 23 10d149+836 94d10+100 5d16+25 claw
+-19 -19 -19 -4
+AB AB LM EN
+stand stand female 4700
+AHMV ABCDEFGHIJK medium 0
+#18705
+weary peasant~
+weary peasant~
+A weary peasant looks up at you with contempt and hatred.
+~
+A peasant trudging along the road here looks up at you, hatred
+shining in his eyes.
+~
+unique~
+AB a -500 0
+45 0 10d136+786 45d10+100 5d15+26 none
+-18 -18 -18 -4
+F 0 0 0
+stand stand male 150
+AHMV ABCDEFGHIJK medium 0
+#18706
+courtier lord~
+A lord~
+A lord dressed in white and silver smiles at you.
+~
+A tall, gentle looking lord, dressed all in silver and white,
+gazes at you and smiles.
+~
+unique~
+A HN 500 0
+48 24 10d155+869 48d10+100 5d16+28 slash
+-20 -20 -20 -5
+0 M I H
+stand stand male 4800
+AHMV ABCDEFGHIJK medium 0
+#18707
+lord~
+a dark lord~
+A lord dressed all in black and iron gazes at you coldly.
+~
+A lord, all in black with iron trimmings, glares at you
+coldly and fingers his sword.
+~
+unique~
+A H 0 0
+48 24 10d155+869 48d10+100 5d16+28 slash
+-20 -20 -20 -5
+0 M H I
+stand stand none 4800
+AHMV ABCDEFGHIJK medium 0
+#18708
+Priest Corshon~
+Priest Corshon~
+Priest Corshon snarls at you for disturbing him.
+~
+Priest Corshon, the spiritual advisor to the Throne of Caraway, glares
+angrily at you.  You somehow do not get the feeling of an intense amount
+of holiness from him, possibly because of the sheer amount of wealth he
+is wearing.  Aren't priests supposed to be poor?
+~
+unique~
+ABCQ HV 0 0
+52 26 10d182+988 52d10+100 5d18+27 flame
+-22 -22 -22 -6
+0 ABM 0 N
+stand stand male 6000
+AHMV ABCDEFGHIJK medium 0
+#18709
+squire Thomas~
+Squire Thomas~
+Squire Thomas is weeping here.
+~
+Squire Thomas is sitting upon the floor clutching a long sword. He 
+doesn't even notice you come in.
+~
+unique~
+AB H 1000 0
+49 24 10d162+893 49d10+100 5d17+25 none
+-20 -20 -20 -5
+0 AB NQ I
+stand stand male 1000
+AHMV ABCDEFGHIJK medium 0
+#18710
+black knight~
+Black Knight~
+The Black Knight waves his mace in your face.
+~
+You stare in suprise at the mace resting on your nose, and then turn your
+attention further up and farther back.  Glaring at you with a dark
+malevolence is the Black Knight of Caraway, intent on shredding
+you from limb to limb for intruding on his sanctum.
+~
+unique~
+ABT HV -1000 0
+50 25 10d168+930 50d10+100 5d17+27 none
+-21 -21 -21 -5
+0 ABM P NS
+stand stand none 5000
+AHMV ABCDEFGHIJK medium 0
+#18711
+Lady Serina~
+Lady Serina~
+Lady Serina looks up from her knitting at you.
+~
+Lady Serina sits here, quietly weeping into her knitting.
+She looks up at you, and politely offers you a handkerchief.
+~
+unique~
+AB HV 850 0
+50 25 10d168+930 50d10+100 5d17+27 none
+-21 -21 -21 -5
+0 AB NQ M
+stand stand female 2000
+AHMV ABCDEFGHIJK medium 0
+#18712
+Queen Brunhilda~
+Queen Brunhilda~
+Queen Brunhilda sits crying on her throne.
+~
+Queen Brunhilda is a short, rather overweight woman with short black hair.
+So much for stereotypes.  She is sobbing into a handkerchief and moaning
+about the loss of her only daughter, Gilda.
+~
+unique~
+AB H 0 0
+53 26 10d189+1019 53d10+100 5d18+29 slap
+-23 -23 -23 -6
+0 ABF PQ E
+sit sit female 0
+AHMV ABCDEFGHIJK medium 0
+#18713
+King Rupert~
+King Rupert~
+King Rupert sits on his throne, looking grim.
+~
+A tall, fierce looking man sits upon a throne here. With heavy eyebrows
+and a grim look upon his face, his eyes filled with sorrow and despair.
+~
+unique~
+ABT HV 0 0
+54 27 10d196+1053 54d10+100 5d18+31 wrath
+-23 -23 -23 -6
+U ABH K O
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#18714
+Chamberlain~
+King's Chamberlain~
+The King's Chamberlain looks up in startlement at your intrusion.
+~
+The King's Chamberlain stands here, folding the King's laundry.
+He looks up at you as you enter, and raises an eyebrow.  "Were you
+sent here for something?" He asks.
+~
+unique~
+AB H 1000 0
+52 26 10d182+988 52d10+100 5d18+27 pound
+-22 -22 -22 -6
+0 ABL I K
+stand stand male 5200
+AHMV ABCDEFGHIJK medium 0
+#18715
+Prince Hubert~
+Prince Hubert~
+Prince Hubert gazes at you malevolently.
+~
+Prince Hubert is a weasel of a man.  He glares at you from close-
+set, piggish eyes, and taps his foot impatiently, waiting for you
+to explain your intrusion.
+~
+unique~
+AB BI -1000 0
+53 40 10d189+4000 53d10+100 5d20+35 none
+-23 -23 -23 -6
+0 AB 0 P
+stand stand male 5300
+AHMV ABCDEFGHIJK medium 0
+#18716
+Sir Bedwyr Cupbearer~
+Sir Bedwyr~
+Sir Bedwyr, the king's cup bearer, stands awaiting his king's orders.
+~
+Sir Bedwyr is a short, wiry, dark man.  He is missing his left arm,
+and he walks with a limp.  He gazes at you and quirks his lips.
+~
+unique~
+AB HV 0 0
+53 26 10d189+1019 53d10+100 5d18+29 thrust
+-23 -23 -23 -6
+0 ABL 0 P
+stand stand male 2000
+AHMV ABCDEFGHIJK medium 0
+#18717
+chicken~
+a chicken~
+A chicken is pecking at the dirt by your feet.
+~
+A chicken wanders around by your feet, pecking at the dirt in
+hopes of finding some grain left over from the morning's feeding.
+~
+unique~
+ACHU HTab 0 0
+56 27 10d211+1115 56d10+100 5d19+31 none
+-25 -25 -25 -7
+0 0 R 0
+stand stand none 0
+AGW ACDEFHKP small 0
+#18718
+Stablemaster~
+Stablemaster~
+The King's Stablemaster is sleeping in a stall.
+~
+You see a small man sleeping in the hay.  He has brown hair, liberally
+sprinkled with straw, and he is snoring loudly.
+~
+unique~
+ABS Ha 0 0
+55 27 10d204+1078 55d10+100 5d19+28 punch
+-24 -24 -24 -7
+0 AB E 0
+sleep sleep male 1000
+AHMV ABCDEFGHIJK medium 0
+#18719
+hawkmistress~
+King's Hawkmistress~
+The King's Hawkmistress is baiting a hawk here.
+~
+The king's Hawkmistress is a tall, fierce looking woman with flaming
+red hair and a cruel smile.  She glares at you in fury at your intrusion
+and sets her hawks against you.
+~
+unique~
+ABCR HV 0 0
+56 28 10d211+1115 56d10+100 5d19+31 claw
+-25 -25 -25 -7
+0 ABE N P
+stand stand female 1500
+AHMV ABCDEFGHIJK medium 0
+#18720
+hawk~
+a hawk~
+A hawk screams and attacks.
+~
+A blue banded hawk flies from the fist of the Hawkmistress and
+attacks you with a piercing scream.
+~
+unique~
+ABU T 0 0
+52 26 10d182+988 52d10+100 5d18+27 claw
+-22 -22 -22 -6
+FH 0 0 0
+stand stand none 0
+AGW ACDEFHKP small 0
+#18721
+stable boy~
+a stableboy~
+A stableboy is taking care of the horses.
+~
+A young boy is working here, grooming the cart and plow
+horses.  He glances up at you in suprise and smiles broadly.
+~
+unique~
+AB HV 1000 0
+56 28 10d211+1115 56d10+100 5d19+31 punch
+-25 -25 -25 -7
+0 AB L 0
+stand stand male 2050
+AHMV ABCDEFGHIJK medium 0
+#18722
+cart horse~
+a cart  horse~
+A cart horse nudges you,  hoping for a lump of sugar.
+~
+A heavy set, large horse hangs it's head over the edge of its stall
+and peers at you with deep brown eyes.  It nudges you and whickers
+entreatingly for sugar.
+~
+unique~
+ABU DFTV 0 0
+54 25 10d196+1053 54d10+100 5d18+31 smash
+-23 -23 -23 -6
+CFH EL P S
+stand stand none 0
+ABGZ ACDEFHJKQVX large 0
+#18723
+Armorer~
+the king's armourer~
+The king's armourer stands here, beating on a piece of metal.
+~
+The king's armourer is here, shaping a piece of metal into a sword.
+He gazes at you from under heavy eyebrows and grunts.  He then
+turns back to his work.
+~
+unique~
+AB Ha 0 0
+56 30 10d211+1115 56d10+100 5d19+31 pound
+-25 -25 -25 -7
+0 ABH 0 I
+stand stand male 2500
+AHMV ABCDEFGHIJK medium 0
+#18724
+ant~
+an ant~
+An ant moves restlessly about here, seeking the anthill.
+~
+A large red ant moves about here.  It sees you and scuttles away
+quickly.
+~
+unique~
+ABCU Z 0 0
+57 28 10d219+1144 57d10+100 5d19+33 none
+-25 -25 -25 -7
+0 0 FI E
+stand stand none 0
+ABGO ACK tiny 0
+#18726
+Maid Marien~
+Maid Marien~
+Maid Marien is trying to avoid her work.
+~
+Maid Marien looks up, startled, as you enter the room.  She
+relaxes, however, when she sees that you're not her boss.
+~
+unique~
+ABCS H 1000 0
+56 28 10d211+1115 56d10+100 5d19+31 slap
+-25 -25 -25 -7
+0 AB 0 J
+stand stand female 0
+AHMV ABCDEFGHIJK medium 0
+#18727
+cleaning lady~
+a cleaning lady~
+A cleaning lady is polishing the silver  here.
+~
+A short cleaning woman stands here, industriously polishing the king's silver.
+She glances up at you, and then turns her attention back to her work,
+apparently uninterested in you or your quest.
+~
+unique~
+ABQ H 0 0
+57 0 10d219+1144 57d10+100 5d19+33 crush
+-25 -25 -25 -7
+0 ABY 0 0
+stand stand female 500
+AHMV ABCDEFGHIJK medium 0
+#18728
+Chef~
+King's Chef~
+The King's chef stands on the table, screaming orders.
+~
+The King's Chef is a short, blunt man with a severe height
+impairment.  His grey hair is uncombed underneath his tall,
+white chef's hat, and he is loudly screaming orders.
+~
+unique~
+ABCR Z 0 0
+57 28 10d219+1144 114d10+100 5d19+33 none
+-25 -25 -25 -7
+0 AB FI ER
+stand stand male 600
+AHMV ABCDEFGHIJK small 0
+#18729
+servant~
+a servant~
+A servant is preparing a funeral feast here.
+~
+A brown haired servant is here, preparing cold meats and bread
+for a funeral feast.  He looks up at you with tear stained eyes and
+asks you if he can help you with anything.
+~
+unique~
+ABCc FH 0 0
+58 29 10d227+1175 58d10+100 5d20+30 punch
+-26 -26 -26 -8
+0 0 0 P
+stand stand male 300
+AHMV ABCDEFGHIJK medium 0
+#18730
+Centipede~
+a centipede~
+A centipede is crawling around on the floor.
+~
+You glance at the floor and recoil in horror at the large
+centipedes crawling around by your feet.
+~
+unique~
+ABCUc VZac 0 0
+57 0 10d219+1144 57d10+100 5d19+33 none
+-25 -25 -25 -7
+0 0 FI E
+stand stand none 100
+ABGO ABCDEFHK medium 0
+#18731
+Miselthai wife~
+Miselthai, the cook's wife~
+Miselthai, the cook's wife, is cleaning up the room.
+~
+Miselthai, the cook's wife, is here, busily cleaning the room.  She
+glances up at you and scowls.
+~
+unique~
+ABCQ H -1000 0
+56 29 10d211+1115 112d10+100 5d19+31 shock
+-25 -25 -25 -7
+0 ABL 0 N
+stand stand female 0
+AHMV ABCDEFGHIJK medium 0
+#18732
+thief Darak~
+a thief~
+A thief dressed all in black lurks here.
+~
+A short, dark man in black leaps out of the shadows at you
+and attacks.
+~
+unique~
+ABCFS DFHJPV 0 0
+57 28 10d219+1144 57d10+100 5d19+33 slice
+-25 -25 -25 -7
+B ABF 0 L
+stand stand male 2000
+AHMV ABCDEFGHIJK medium 0
+#18733
+witch~
+a witch~
+A witch dressed in a brown, homespun robe looks at you calmly.
+~
+You see before you a young woman dressed in a brown, homespun
+robe.  She looks at you with patience and smiles politely.
+~
+unique~
+ACR HNTV 1000 0
+58 29 10d227+1175 116d10+100 5d20+30 none
+-26 -26 -26 -8
+0 H 0 I
+stand stand female 2000
+AHMV ABCDEFGHIJK medium 0
+#18734
+monk~
+a monk~
+A monk in black robes raises his holy book and annoints you.
+~
+A man in black robes, carrying a holy book, rushes towards you
+and screams.
+~
+unique~
+ACQ HOTV -1000 0
+58 29 10d227+1175 116d10+100 5d20+30 none
+-26 -26 -26 -8
+0 I 0 H
+stand stand none 2000
+AHMV ABCDEFGHIJK medium 0
+#18735
+warrior burnt~
+a burned and bleeding warrior~
+A warrior, burned and bleeding, lies weakly here.
+~
+You look with shock and pity at the burned and bleeding form lying
+in front of you.  You gently roll him over, to find that he is holding a
+dagger.
+~
+unique~
+ABCGHT 0 0 0
+58 29 10d227+1175 58d10+100 5d20+30 claw
+-26 -26 -26 -8
+0 0 0 H
+stand stand male 500
+AHMV ABCDEFGHIJK medium 0
+#18736
+sheep~
+a sheep~
+A sheep looks at you placidly.
+~
+Well, what can I say?  It's a sheep.  Not as fluffy and white as the
+sheep in the picture books, perhaps, but it has been living in a
+cave after all.
+~
+unique~
+ABU HQa 0 0
+60 30 10d243+1242 60d10+100 5d21+30 none
+-27 -27 -27 -8
+0 ABI 0 F
+stand stand none 0
+AGV ACDEFHJK medium 0
+#18737
+horse~
+a horse~
+A wild-eyed horse gallops towards you madly.
+~
+A horse is a horse, of course, of course.
+~
+unique~
+ABU Va 0 0
+60 30 10d243+1242 60d10+100 5d21+30 pound
+-27 -27 -27 -8
+C E B H
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0
+#18738
+ed~
+Ed the horse~
+Ed, Sir Lauren's faithful steed, gallops madly down the hill.
+~
+Unless of course, that horse of course is the famous Mr. Ed.
+~
+unique~
+ABU HTV 0 0
+61 32 10d251+1278 61d10+100 5d21+32 crush
+-28 -28 -28 -9
+CO ABEN BI H
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0
+#18739
+drone bee~
+a drone bee~
+A drone bee buzzes near your head.
+~
+A drone bee, cheerful in yellow and brown, buzzes around you,
+looking for flowers.
+~
+unique~
+ACHU TV 0 0
+60 30 10d243+1242 60d10+100 5d21+30 acbite
+-27 -27 -27 -8
+FH L E HI
+stand stand none 0
+AGW ACDEFHKP small 0
+#18740
+warrior bee~
+a warrior bee~
+A warrior bee buzzes at you threateningly.
+~
+A warrior bee sees you and dives for you, buzzing threateningly.
+~
+unique~
+ACU HTV 0 0
+62 31 10d259+1316 62d10+100 5d21+34 acbite
+-28 -28 -28 -9
+FH EL S HI
+stand stand none 0
+AGW ACDEFHKP small 0
+#18741
+Sir Ordan~
+Sir Ordan~
+Sir Ordan stares at you out of hopeless eyes.
+~
+This knight is covered from head to foot in dust and filth.  He
+gazes at you and say, "Will you help me rescue the princess.
+She is surely suffering a fate worse than death."
+~
+unique~
+ABC IV 0 0
+61 30 10d251+1278 61d10+100 5d21+32 slice
+-28 -28 -28 -9
+CEK ABN M E
+stand stand male 2500
+AHMV ABCDEFGHIJK medium 0
+#18742
+wise woman~
+a wise woman~
+A wise woman looks at you and cackles merrily.
+~
+This woman is your arch-typical hag.  The stringy grey hair,
+the long, pointed nose and wart, even the long, twisted fingers.
+So why do you have the feeling that something has been hidden
+here?
+~
+unique~
+ABCR DHV 0 0
+61 30 10d251+1278 122d10+100 5d21+32 none
+-28 -28 -28 -9
+0 ABCO HIJKLPQRS D
+stand stand female 2000
+AHMV ABCDEFGHIJK medium 0
+#18743
+black knight~
+a black knight~
+A black knight declares his dedication to Princess Gilda.
+~
+Black is white, and white is black,
+Hidden down the winding track.
+Ponder well these riddled words
+Before you ever raise your sword.
+~
+unique~
+AB HV 1000 0
+62 31 10d259+1316 62d10+100 5d21+34 thrust
+-28 -28 -28 -9
+CEJK E N M
+stand stand male 2500
+AHMV ABCDEFGHIJK medium 0
+#18744
+white knight~
+a white knight~
+A white knight declares his dedication to Princess Gilda.
+~
+Black is white, and white is black,
+Hidden down the winding track.
+Ponder well these riddled words
+Before you ever raise your sword.
+~
+unique~
+AB HV -1000 0
+62 31 10d259+1316 62d10+100 5d21+34 thrust
+-28 -28 -28 -9
+CEJK E M N
+stand stand male 2500
+AHMV ABCDEFGHIJK medium 0
+#18745
+squire thomas~
+Squire Thomas~
+Squire Thomas is seeking Sir Lauren.
+~
+Squire Thomas, whom you met back in Castle Caraway, looks at you
+hopefully, and smiles.
+~
+unique~
+ABT HV 0 0
+62 31 10d259+1316 62d10+100 5d21+34 pierce
+-28 -28 -28 -9
+EIKN ABNQ L IK
+stand stand male 3000
+AHMV ABCDEFGHIJK medium 0
+#18746
+Sir Karl~
+Sir Karl~
+Sir Karl is bleeding his life out onto the stones.
+~
+A tall man with long sweeping mustaches, Sir Karl must once  have
+been a very handsome man.  However, what with the gashes on his
+body, the broken nose, and the missing teeth, you don't feel a stirring
+of interest in him now.
+~
+unique~
+ABT 0 0 0
+62 31 10d259+1316 62d10+100 5d21+34 claw
+-28 -28 -28 -9
+CEJ ABN 0 H
+stand stand male 1500
+AHMV ABCDEFGHIJK medium 0
+#18747
+spider~
+a frost spider~
+A large white spider eyes you hungrily.
+~
+You see, blocking the path downwards into the mountain, a huge
+white spider, who gazes at you and clicks it's mandibles together
+hungrily.
+~
+unique~
+ABQT HVZc 0 0
+63 31 10d267+1355 126d10+100 5d22+31 frbite
+-29 -29 -29 -9
+IO ABIL FIP EHJ
+stand stand none 0
+ABGO ACK medium 0
+#18748
+hedgehog~
+a hedgehog~
+A black and grey hedgehog curls up and hisses at your approach.
+~
+This hedgehog obviously doesn't like you.  It curls up in a spikey
+ball and hisses and trembles.
+~
+unique~
+ACG HV 1000 0
+63 31 10d267+1355 63d10+100 5d22+31 sting
+-29 -29 -29 -9
+FH E 0 0
+stand stand none 0
+AGV ACDEFHJK medium 0
+#18749
+vampire bat~
+a vampire bat~
+A vampire bat bares its fangs at you.
+~
+A small, black shape comes hurtling out of the darkness.
+You duck reflexively as it streaks over your head and settles
+on the ceiling near you.  You look more closely, and realize
+that this is a vampire bat.
+~
+unique~
+AC HTV -1000 0
+63 31 10d267+1355 63d10+100 5d22+31 bite
+-29 -29 -29 -9
+FH M 0 N
+stand stand none 0
+AGW ACDEFHKP medium 0
+#18750
+fire demon~
+a fire demon~
+A demon made out of fire and ash rises from the pool.
+~
+You stumble back in terror as a huge demon made out of fire
+itself rises from the pool.  It smiles cruelly at you and beckons
+you forward.
+~
+unique~
+ABR HV -1000 0
+64 32 10d276+1387 64d10+100 5d22+34 none
+-30 -30 -30 -10
+EFN ABH K IO
+stand stand male 5000
+AHMV ABCDEFGHIJK large 0
+#18751
+cold turkey~
+a cold turkey~
+A cold turkey glares at you, daring you to take a drink.
+~
+You see before you a cold turkey, the bane of all
+alcoholics.  You stumble away from it in horror.
+~
+unique~
+ABC HTVb 1000 0
+64 32 10d276+1387 64d10+100 5d22+34 claw
+-30 -30 -30 -10
+0 AB R L
+stand stand none 0
+AGW ACDEFHKP medium 0
+#18752
+Bishop Liverpool~
+Bishop Liverpool~
+Bishop Liverpool calls down the wrath of the dragon on the King.
+~
+Bishop Liverpool is a tall, broad man with brown hair and blue
+eyes.  He gazes upwards and beseeches God to strike down his
+foes and aid him in his struggle for power.
+~
+unique~
+ABCQ GHOV -1000 0
+64 32 10d276+1387 128d10+100 5d22+34 flame
+-30 -30 -30 -10
+CE ABM 0 N
+stand stand male 5000
+AHMV ABCDEFGHIJK medium 0
+#18753
+Mage Carn Agar~
+Mage Carn Agar~
+Mage Carn Agar seeks to stop the Bishop from his evil intentions.
+~
+Mage Carn Agar is a tall, stern gentleman with greying hair and
+a ready smile.  He glances at you once, then turns his attention back
+to the bishop.
+~
+unique~
+ABR HV 1000 0
+64 32 10d276+1387 128d10+100 5d22+34 none
+-30 -30 -30 -10
+0 ABC 0 D
+stand stand male 500
+AHMV ABCDEFGHIJK medium 0
+#18754
+blue dragon~
+the Dragon~
+A huge blue dragon gazes down at you and smirks.
+~
+You stare with awe at the enormous blue dragon that looms over
+you.  He peers down at you and smirks.  "Come to rescue the
+princess?" He asks.  "You'll have to get through me first."
+~
+unique~
+ABC DFHJOTVc -1000 0
+65 33 10d285+1420 65d10+100 5d22+36 shbite
+-30 -30 -30 -10
+C AB BEHJ FI
+stand stand male 15000
+AHZ ACDEFGHIJKLOPQUVWXY medium 0
+#18755
+Sir Lauren~
+Sir Lauren~
+Sir Lauren is here, sulking.
+~
+Sir Lauren is a giant of a man, his blond hair cut short so as
+to fit easily into his great helm.  Currently he looks to be in poor
+shape, his armor and weapons are scratched and bent, and he
+seems upset  by something.
+~
+unique~
+ABT HNVZac 0 0
+65 33 10d285+1420 65d10+100 5d22+36 none
+-30 -30 -30 -10
+CEIJKNO ABD EFG CHIJLMOQ
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#18756
+Princess Gilda~
+Princess Gilda~
+Princess Gilda reclines on the bed, eating bon-bons.
+~
+Princess Gilda, from head to toe, looks to be a true princess.
+She has honey-gold hair and sparkling sapphire blue eyes.
+Her complexion is roses and cream, and when she smiles,
+you can see her sparkling white teeth.
+~
+unique~
+ABR HJNOTUVZac 0 0
+65 34 10d285+1420 130d10+100 5d22+36 none
+-30 -30 -30 -10
+0 ABFJLMN GP EHKQ
+stand stand female 5000
+AHMV ABCDEFGHIJK medium 0
+#18757
+sir garrett thorien tactician~
+Sir Garrett Thorien~
+A tactician stands here, toiling over plans and maps.
+~
+~
+unique~
+AB BDFHNOQVd 0 0
+65 33 10d285+1420 65d10+100 5d22+36 wrath
+0 0 0 0
+EFKX 0 0 0
+stand stand male 5000
+H ABCDEFGHIJK medium none
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#18700
+Grand Hall of Caraway~
+The grand hall of the castle Caraway.  Thick red carpets cover the floor
+and many ornaite suits of armor form a long magnificant line along the walls
+which are coverd in massive paintings of lords, ladies, Kings, and Queens.  
+~
+0 8 0
+E
+carpet~
+This carpet has not been cleaned for some time, and the dust rising
+from it as you walk along it makes you sneeze.
+~
+E
+courtiers~
+Courtiers draped in sable and black velvet hurry past you,
+talking in hushed whispers.
+~
+D0
+You peer into the Throne Room of the castle.  It seems filled with
+a sea of courtiers dressed in black.
+~
+~
+0 0 18701
+D1
+You can see a lesser hallway extending to the east.
+~
+~
+0 0 18711
+D2
+To the south you can see into the foyer of the castle.
+~
+~
+0 0 18702
+D3
+You can see a lesser hallway extending to the west.
+~
+~
+0 0 18707
+M 75 H 75
+S
+#18701
+Throne Room~
+A massive room with large stained arched windows marks the Throne room of
+King Rupert.  A long red velvet carpet leads upto two large golden thrones
+where the king and queen sit respectivly.  Upon the windows are
+representations of roses and rampart unicorns in colorful glory.  The king
+and queen sit upon their thrones weeping.  
+~
+0 12 0
+E
+courtiers~
+The courtiers seem restless and disturbed by something.
+~
+E
+thrones~
+The thrones appear to be made of solid gold.
+~
+E
+stained~
+The windows are a masterpiece of stained glass.  Unicorns stand
+rampant against a representation of roses in glory.
+~
+E
+windows~
+The windows are a masterpiece of stained glass.  Unicorns stand
+rampant against a representation of roses in glory.
+~
+D0
+To the north you catch a glimpse of the dining hall.
+~
+~
+0 0 18716
+D1
+To the east lies a black leather door that leads into Prince Hubert's room.
+~
+~
+1 18708 18713
+D2
+The grand hall of Caraway lies to the south. Several of
+the courtiers seem to be drifting in that direction, possibly
+because the king is looking for 'volunteers' to go out after
+his daughter.
+~
+~
+0 0 18700
+D3
+The door to the west is made of gold, and the handle
+is a solid piece of ruby.
+~
+~
+1 18709 18709
+M 70 H 70
+S
+#18702
+Castle Foyer~
+Huge marble blocks coverd with intricate rose carvings make up the great
+archway that marks the entrance to the castle foyer.  There are exits to the
+north, south, east, and west.  The great hall is in the adjacent room.  
+~
+0 12 0
+E
+armor~
+The armor is useless now, having been sitting and rusting in this
+hall for countless centuries.
+~
+E
+wall~
+You gaze closely up the walls and see that there are tiny unicorns
+carved in between the roses.
+~
+E
+blocks~
+You gaze closely up the walls and see that there are tiny unicorns
+carved in between the roses.
+~
+D0
+To the north you can hear a hum of activity.
+~
+~
+0 0 18700
+D1
+You spy a sign on the door to the east, proclaiming this
+room to belong to the great Mage Carn Agar.
+~
+~
+1 18701 18706
+D2
+You gaze to the south at the great gates of Castle Caraway.
+It seems to have been a century since you passed through those
+great gates.
+~
+~
+0 0 18703
+D3
+There are gouge marks and scars on the door to the west.  You
+wonder who has such a bad temper as to so disfigure the door.
+~
+~
+1 18702 18705
+M 75 H 75
+S
+#18703
+Gate to Castle Caraway~
+A massive iron gate stands here, the entrance to castle Caraway.  The
+road leading up to the gate seems to be well traveled as there are tracks
+from many carts, horses, and weary travelers heading to and from the great
+castle.  
+~
+0 0 11
+E
+gates~
+The iron gates are cast with a representation of roses in glory
+and unicorns.
+~
+D0
+You look to the north into the grand hall of Castle Caraway.
+You can hear the faint murmur of voices from that direction.
+~
+~
+0 0 18702
+D2
+You look with longing to the south, wishing to be away
+from this grim place.
+~
+~
+0 0 18704
+M 75 H 75
+S
+#18704
+On a dark road~
+The road straightens to a long path.  A large magnificent castle stands
+in the distance, casting an erie shadow over all the land.  Banners line the
+side of the path heralding happier days.  
+~
+0 4 1
+E
+peasant~
+Peasants in threadbare clothing run from you as you approach them.
+~
+E
+banners~
+The banners once bore the device of Castle Caraway, roses in
+glory and unicorns.
+~
+E
+castle~
+_ _ _                              _ _ _
+| | | |                            | | | |
+|_   _|                            |_   _|
+  | |                                | |
+  | |                                | |
+  | |                                | |
+  | |_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ | |
+  | | | | | | | | | | | | | | | | | || |
+  |                                    |
+  |                                    |
+  |                                    |
+  |                                    |
+  |              ______                |
+  |             /      \               |
+  |             |      |               |
+  |             |      |               |
+  |             |      |               |
+  |_____________|______|_______________|
+                |      |
+                \       \
+                 \       \
+                 |       |
+                /       /
+               /       /
+~
+E
+banners~
+~
+D0
+The front gate of Castle Caraway looms before you like a bird
+of ill-omen.
+~
+~
+0 0 18703
+D2
+The road winds to the south, heading back towards the distant forest.
+~
+~
+0 0 18770
+M 75 H 75
+S
+#18705
+Sitting Room~
+A sitting room for the princess's ladies in waiting.  Many various
+"ladylike" items fill the small room and a sweet smell fills the air.  
+~
+0 8 0
+D1
+You consider a hasty escape through the door, before Lady Ethsar
+pulls out a hairpin.
+~
+~
+1 18702 18702
+M 60 H 60
+S
+#18706
+Study of Carn Agar~
+A rather large room with many books upon large bookshelves, tables, and
+scatterd about the stone floor.  A fireplace burns creating the only light
+in the room.  Carn Agar is nowhere to be seen.  
+~
+0 0 0
+D3
+The exit to the west leads back to the foyer.
+~
+~
+1 18701 18702
+M 90 H 60
+S
+#18707
+West Hall~
+The west hall of castle Caraway.  Torches in sconces line the great stone
+walls of the hallway.  The high celing is draped in shadow, hiding and
+detail it may have.  The hall continues both to the east, and west.  
+~
+0 8 0
+E
+torches~
+The torches here are in need of replacing.  As you watch, yet another
+one flickers and goes out.
+~
+E
+ceiling~
+You peer up at the ceiling, and shiver with horror as you see that
+it is crowded with bats.
+~
+D1
+You look back towards the Grand Hall, then square your shoulders
+and continue on.
+~
+~
+0 0 18700
+D3
+The lesser hall stretches on to the west.  You peer into the dimness,
+but can't make out any details.
+~
+~
+0 0 18710
+M 75 H 75
+S
+#18708
+East Hall~
+The end of the eastern hall of castle Caraway.  Private rooms branch from
+the great hall and a large statue stands against the end wall of the hall. 
+Many lords scurry about to and fro, and the hallway is very much crowded.  
+~
+0 8 0
+E
+candles~
+Tall beeswax candles grace the sconces set in the wall.  The
+candles cast a clear, bright light across the room, easing the
+sense of unhappiness and tension present in the castle.
+~
+D0
+To the north you see a door carved from mother of pearl, bound
+in silver.
+~
+~
+1 18706 18712
+D2
+The door to the south has a large cross carved on it
+in bas-relief.
+~
+~
+1 18707 18714
+D3
+The lesser hallway continues to the west.
+~
+~
+0 0 18711
+M 75 H 75
+S
+#18709
+Bedchamber of the King and Queen~
+This is the bedchamber of the king and queen of Caraway castle.  The
+center of the room holds a large magnificint bed coverd with satin and silk
+sheets and pillows.  The floor is coverd with plush pink carpets and the
+walls are lined with candles.  A laundry basket sits next to the bed, filled
+with well-used hankerchiefs.  
+~
+0 8 0
+E
+handkerchiefs~
+These handkerchiefs are made of black silk, monogrammed
+with a B.
+~
+E
+basket~
+This laundry basket is filled with soggy, black handerchiefs.
+~
+E
+laundry~
+This laundry basket is filled with soggy, black handerchiefs.
+~
+E
+seashells~
+A priceless eboby box lies open on the dresser, revealing
+common seashells inside.
+~
+E
+box~
+A priceless eboby box lies open on the dresser, revealing
+common seashells inside.
+~
+E
+bracelets~
+Priceless jewelry lies strewn across the moose's horns.
+~
+E
+necklaces~
+Priceless jewelry lies strewn across the moose's horns.
+~
+E
+head~
+A moose head that has seen better days is hanging here.
+~
+E
+moose~
+A moose head that has seen better days is hanging here.
+~
+D1
+The door to the east leads back out into the Throne Room
+~
+~
+1 18709 18701
+M 75 H 75
+S
+#18710
+West Hall~
+The end of the western wing of the great hall.  Dark alcoves line the
+west wall, and thick red carpets blanket the floor.  There are torches
+lining the walls on either side of you giving the hallway an eire glow.  The
+tall ceiling is coverd in shadow as the light cannot reach it.  
+~
+0 8 0
+E
+alcoves~
+You peer into one of the alcoves and jump back in terror and
+startlement as a rat bolts out of it and rushes past you.
+~
+E
+ceiling~
+You peer up at the ceiling, and shiver with horror as you see that
+it is crowded with bats.
+~
+D0
+A silver and white painted door lies to the north.
+~
+~
+1 18703 18717
+D1
+The lesser hallway continues on to the east
+~
+~
+0 0 18707
+D2
+A heavy, black, iron door bars your way to the south.
+~
+~
+1 18704 18715
+M 75 H 75
+S
+#18711
+East Hall~
+This is the east hall of castle Caraway.  Candles in tall stands line the
+wall, casting a clear, gleaming light across the hall.  The light extends
+upwards to the roof, which is scrolled with graceful fleur-de-lies and
+roses.  
+~
+0 8 0
+E
+fleur-de-lies~
+Roses and fleur-de-lies are carved in bas-relief on the ceiling.
+~
+E
+roses~
+Roses and fleur-de-lies are carved in bas-relief on the ceiling.
+~
+E
+roof~
+Roses and fleur-de-lies are carved in bas-relief on the ceiling.
+~
+E
+ceiling~
+Roses and fleur-de-lies are carved in bas-relief on the ceiling.
+~
+E
+candles~
+Tall beeswax candles grace the sconces set in the wall.  The
+candles cast a clear, bright light across the room, easing the
+sense of unhappiness and tension present in the castle.
+~
+D1
+The lesser hallway continues to the east.
+~
+~
+0 0 18708
+D3
+To the west you can see the Grand Hall of Caraway.
+~
+~
+0 0 18700
+M 75 H 75
+S
+#18712
+Princess Gilda's Room~
+This is the room of Princess Gilda.  Large velvet drapes cover the
+windows, and there is a large bed adorn with pink draperies and satin
+sheets.  Also there is something shiny poking out from the foot of the
+bed...  A Blue dragon scale?  
+~
+0 8 0
+E
+scale~
+'The scale is from the tail of a blue dragon. You wonder how
+it got here.
+~
+E
+bed~
+The bed is a large, comfortable looking affair, with a lot of pillows
+and blankets.
+~
+E
+chests~
+The chests are made of hardwood painted pink and pearl.
+~
+E
+dressers~
+The dressers are made of hardwood painted pink and pearl.
+~
+E
+window~
+You notice that the window has been boarded up, as if it
+had been broken.
+~
+E
+curtains~
+Pink and pearl curtains are drawn over the windows of this
+room.
+~
+E
+draperies~
+Draperies, all in pink and pearl, cover the walls of this room.
+~
+D2
+The lesser hallway lies to the south.  You want to leave this
+room quickly, before the dragon returns.
+~
+~
+1 18706 18708
+M 90 H 80
+S
+#18713
+Prince Hubert's Bedchamber~
+This is the bedchamber of Prince Hubert.  The room is dark, lit only by a
+single candle.  The room is essentialy empty save a single bed that sits in
+the center of the room.  The bed is coverd with pink and white silk and
+satin sheets and many various pillows sit upon the bed in no apparent order.
+The floor is made of stone and the walls the same, all uncoverd and bare
+except for the forementioned candle which sits in a golden holder upon the
+floor.  
+~
+0 8 0
+D3
+The exit west leads back into the Throne room.
+~
+~
+1 0 18701
+M 50 H 50
+S
+#18714
+Library~
+A small Library is here.  Dimly lit with only the warm fire at the end of
+the room where a priest sits studying.  Many books are strewn about the
+floor in a large clutter around him as he studies.  
+~
+0 8 0
+D0
+You edge towards the door to the north, eager to be out of this
+evil place.
+~
+~
+1 18707 18708
+M 25 H 25
+S
+#18715
+Bedroom of the Black Knight~
+A large room adorned with many various weapons and tools of war.  A large
+Iron maiden sits in the corner of the room and a single unmade bed lines the
+back wall.  The room has a very dark and brooding feel to it and a Black
+Knight stands here.  
+~
+0 8 0
+E
+iron~
+You carefully open the iron maiden, expecting to find a tortured,
+dying soul.  Instead, a black cat yowls and bolts out of the room
+to it's freedom.
+~
+E
+maiden~
+You carefully open the iron maiden, expecting to find a tortured,
+dying soul.  Instead, a black cat yowls and bolts out of the room
+to it's freedom.
+~
+E
+maiden~
+~
+E
+weapons~
+Many of the weapons found in this room are obviously intended
+to create as much pain as possible before the victim dies.
+~
+D0
+North is your escape into the lesser hallway.
+~
+~
+1 18704 18710
+M 50 H 50
+S
+#18716
+Dining Hall~
+This is the Dining hall of castle Caraway.  Huge trestle tables line the
+walls, and the high table sits to the east wall, the cloth of estate upon
+the wall directly behind.  A door leads to the north.  
+~
+0 12 0
+E
+estate~
+The cloth of estate bears the Royal arms of a unicorn and
+roses in glory.
+~
+E
+cloth~
+The cloth of estate bears the Royal arms of a unicorn and
+roses in glory.
+~
+E
+high~
+The high table is a smooth, planed piece of wood, bound
+in silver.
+~
+E
+tables~
+The tables are made of tree trunks, and look very solid.
+~
+D0
+To the north you see a closed door.  You hear shouts
+and sounds of battle from beyond the door.
+~
+~
+1 0 18718
+D2
+South lies the Throne room, where King Rupert and
+Queen Brunhilda mourn the loss of their daughter.
+~
+~
+0 0 18701
+D4
+~
+~
+5 0 18772
+S
+#18717
+Sir Lauren's Room~
+A modest bedroom for Sir Lauren.  A bed sits in the northwest corner of
+the room, coverd in pure white sheets, pillows, and blankets.  The bed is
+neatly made and a rose sits on the pillow.  In front of the only window in
+the room is a stand dawning a magnificant suit of armour made of what looks
+like pure silver and gold.  A young boy is sitting here, holding a large
+sword.  
+~
+0 8 0
+E
+bed~
+The bed is a narrow, uncomfortable looking affair.
+~
+E
+stand~
+The armor stand has seen some serious use.
+~
+E
+armor~
+The armor stand has seen some serious use.
+~
+D2
+To the south lies the lesser hallway.
+~
+~
+1 18703 18710
+M 50 H 90
+S
+#18718
+Practice Yard~
+A large practice yard streathces as far as can be seen.  Jousting lanes
+line the west end of the yard and archery targets line the east.  Fighting
+circles fill the center area.  Patches of grass grow here and there and much
+of the yard looks unkept.  It appears to have been vacant of use for some
+time.  
+~
+0 0 1
+E
+targets~
+The archery targets leaning against the wall show signs of heavy use.
+~
+E
+archery~
+The archery targets leaning against the wall show signs of heavy use.
+~
+E
+tilt~
+The tilt is a large pole with a revolving crossbeam on the top.
+Hanging from the crossbeam on either side is a shield and sword.
+Attached to the top of the crossbeam is a ring.  The objective is
+to get the lance through the ring.  If successful, the jouster may
+ride by without hazard.  If unsuccessful, the beam will swing
+around and knock the rider off of his horse.  Fun, hrm?
+~
+E
+lanes~
+The jousting lane is a large rail that seperates the two
+jousters from each other.
+~
+E
+jousting~
+The jousting lane is a large rail that seperates the two
+jousters from each other.
+~
+D0
+You see the back gate of the castle to the north.
+~
+~
+0 0 18737
+D1
+The stable yard lies to the east.  You can hear a great
+commotion coming from that direction.
+~
+~
+0 0 18723
+D2
+The dining hall lies to the south.
+~
+~
+1 0 18716
+D3
+You hear loud banging and noises coming from the west.
+~
+~
+0 0 18719
+M 75 H 75
+S
+#18719
+Kitchen~
+The bustle in this room reminds you of your mother's kitchen...  On acid.
+Everywhere around servants are running, and in the center of the room a
+midget stands on a table.  You can tell he is the cook by the large white
+hat he wears, and he is screaming out orders to all and sundry.  The
+servant's seem used to this behavior, and wisely ignore him and his
+contradictory orders.  
+~
+0 12 0
+E
+table~
+This is a huge trestle table upon which servants hurry about
+preparing a funeral feast.
+~
+D0
+There is a closed door to the north.  You wonder what might
+be behind it.
+~
+~
+1 0 18726
+D1
+The practice yard lies to the east.  You feel no particular desire
+to head out into that chaos again.
+~
+~
+0 0 18718
+D2
+There is a plain wooden door to the south.
+~
+~
+1 18710 18720
+D3
+Further mysteries lie to the west, and more of the kitchen.
+~
+~
+0 0 18721
+S
+#18720
+Servant's Quarters~
+The servant's quarters of Castle Caraway are well appointed.  Bunks line
+the freshly whitewashed walls and a chest rests at the foot of each bunk. 
+Clean linen rests beside the door, obviously intended for the beds, and a
+laundry chute is set in the far wall.  A clean, fresh scent of pine fills
+the air.  You feel comfortable here.  
+~
+0 8 0
+E
+chute~
+The laundry chute leads down to the laundry room.
+~
+E
+linen~
+The linen that is folded here is clean and fresh smelling.
+~
+E
+linen~
+~
+E
+chests~
+The chests hold clothing and personal items.
+~
+E
+bunks~
+The bunks are neatly fitted out with sheets and blankets, and
+one pillow each.
+~
+D0
+~
+~
+1 18710 18719
+M 110 H 110
+S
+#18721
+Kitchen~
+You enter the back of the castle kitchen area.  The heat here is almost
+intolerable and getting worse as the oven doors are opened and closed, each
+time releasing a blast of hellfire.  Huge oxen roast over the enormous
+fireplaces, and bread sits beside the ovens, rising.  Cooks' assistants
+hurry here and there, basting, cutting, turning and spicing various dishes. 
+~
+0 8 0
+E
+bread~
+Bread sits rising beside the oven here.
+~
+E
+oven~
+An entire oxen could easily be roasted in one of these ovens,
+and as one of them is opened up, you see that one is.
+~
+D0
+An indescribable stench is coming from the door to the north.
+~
+~
+1 0 18730
+D1
+The kitchen continues on the the east.
+~
+~
+0 0 18719
+D2
+A rather greasy door stands to the south.
+~
+~
+1 18711 18722
+M 75 H 75
+S
+#18722
+Cook's Quarters~
+The quarters for the castle cook were obviously designed for a man with a
+height impairment.  Tiny chairs and tables lie around this room and a
+child's bed sits in one corner.  A mirror set about waist high on a normal
+man is hanging on the wall next to the bed, and a miniscule night stand
+rests beside the bed, holding a water basin and jug.  
+~
+0 8 0
+E
+jug~
+The jug is empty
+~
+E
+basin~
+The water basin is filled with this mornings wash water.
+~
+E
+water~
+The water basin is filled with this mornings wash water.
+~
+E
+mirror~
+You bend down to gaze into the mirror and see with amusement
+that it is one of the trick mirrors that make a person look taller.
+~
+E
+stand~
+You could put a doll on one of these pieces of furniture and it
+wouldn't look out of place.
+~
+E
+tables~
+You could put a doll on one of these pieces of furniture and it
+wouldn't look out of place.
+~
+E
+chairs~
+You could put a doll on one of these pieces of furniture and it
+wouldn't look out of place.
+~
+D0
+~
+~
+1 18711 18721
+M 75 H 75
+S
+#18723
+Stable Yard~
+The castle stable yard stands here.  All the stalls stand empty and not a
+horse in sight.  The tack room is empty as well save a few sadles that
+appear too worn to be used.  A dank smell fills the air as it seems that
+this place hasn't been cleaned in a good while.  
+~
+0 0 1
+E
+horses~
+These are strong, tall war beasts, who stamp restlessly, and
+prance nervously in place.
+~
+D0
+You can hear whickering and stamping coming from the stable
+to the north.
+~
+~
+1 18712 18731
+D1
+You hear nothing coming from the stable to the east.
+~
+~
+0 0 18724
+D2
+You hear a great deal of banging and shouting from the south.
+~
+~
+1 18713 18732
+D3
+The practice yard lies to the west.  You can hear a great deal
+of shouting coming from that direction.
+~
+~
+0 0 18718
+M 75 H 75
+S
+#18724
+Stable~
+This stable echoes with emptiness.  You look around and see that all the
+warsteeds that normally stand in the stalls are gone.  Outside you can hear
+the thunder of hooves as the knights of the castle gallop away.  A lonely
+stable boy scrubs a stall, and you can hear the clucking of chickens from
+outside.  South are the mews, and north is the tack room.  
+~
+0 8 0
+E
+stalls~
+The stalls stand empty.  Down towards the end of the stable,
+a stall door bangs open and shut in the breeze.
+~
+D0
+The door to the north has been painted red.
+~
+~
+2 18715 18736
+D2
+There are bas-relief falcons carved into the door to the
+south.
+~
+~
+2 18714 18738
+D3
+The stable yard lies to the west.  You can hear horses stamping
+outside.
+~
+~
+0 0 18723
+M 75 H 75
+S
+#18725
+Mountain Trail~
+The trail continues along the mountain here.  Rocks and pebbles seem
+almost to jump out at you as you struggle upwards along the path.  In the
+distance you can make out the sounds of a battle, and you speed up your pace
+to see if there is anything you can do to assist the combatants.  
+~
+0 0 5
+E
+rocks~
+If you didn't know better, you would swear that the pebbles
+were jumping into your path deliberately.
+~
+E
+pebbles~
+If you didn't know better, you would swear that the pebbles
+were jumping into your path deliberately.
+~
+D1
+The trails winds downwards towards Castle Caraway.
+~
+~
+0 0 18742
+D3
+You strain to hear the sounds of battle coming from
+the west.
+~
+~
+0 0 18727
+M 75 H 75
+S
+#18726
+Storage room~
+This room is packed with pots and pans, and silver- ware, and plates, and
+glasses, and just about everything else needed for the running of the
+complete castle kitchen.  Everything in this room is spotless, and you have
+the feeling that if a spider ever did get into this room, he'd reform his
+wicked ways and begin teaching weaving classes.  
+~
+0 8 0
+E
+glasses~
+Okay, this is it.  GO RESCUE GILDA. Stop dawdling,
+she's counting on you.
+~
+E
+plates~
+Look, get up and go rescue the princess.  She's trapped
+~
+E
+plates~
+~
+E
+silverware~
+Just won't listen, will you.  Go and rescue Gilda.
+~
+E
+pans~
+I'm serious, get your butt out there and rescue
+Gilda.
+~
+E
+pots~
+Why are you admiring the dishes when you should be out
+rescuing the princess?
+~
+D2
+This door leads back into the kitchen.
+~
+~
+1 0 18719
+S
+#18727
+Curve in the Trail~
+You have reached a curve in the mountain trail.  Around the curve you can
+make out the sounds of sobbing, and screaming.  You wonder what great
+catastrophe has struck to cause such lamentation.  You quickly speed around
+the corner to see what's happening.  
+~
+0 0 5
+E
+north~
+You can't see what might lie beyond this blind curve to the
+north.
+~
+E
+curve~
+This is a blind curve of the mountain trail. You have no idea
+what might lie ahead of you.
+~
+D0
+~
+~
+0 0 18729
+D1
+The mountain trail continues down to the east, towards
+Castle Caraway.
+~
+~
+0 0 18725
+M 75 H 75
+S
+#18728
+Stampede~
+You press yourself against the wall of the trail as a stampede of
+frightened horses charges directly towards you.  You can feel the hot breath
+and the panicked movements of the horses as they barrel past you, heading
+for the safety of home.  
+~
+0 0 5
+D1
+A solid mass of horseflesh stands to the east.  You don't
+know if you'll be able to continue along the trail.
+~
+~
+2 18719 18733
+D3
+A blind curve lies to the west, concealing the path back to 
+Castle Caraway.
+~
+~
+0 0 18743
+M 40 H 40
+S
+#18729
+Charred bodies~
+You stare in shock and horror at the carnage laid out before you. 
+Charred, unrecognizable bodies lie strewn across the rocks like so many
+children's toys.  In the distance you can hear more shouting, and you dread
+the encounter, knowing that it will most likely be a repeat of this scene.  
+~
+0 0 5
+E
+bodies~
+These were apparently once the bodies of the knights of
+Caraway, now charred and mangled beyond recognition.
+~
+D0
+~
+~
+2 18717 18740
+D2
+To the south lies the trail spirals downwards to the safety of Castle
+Caraway.
+~
+~
+0 0 18727
+M 50 H 50
+S
+#18730
+The Jakes~
+The stench rising from this room almost makes you gag as you enter. 
+Flies buzz around the holes in the ground, and you hastily avert your eyes
+from the evidence of nature's work.  
+~
+0 8 0
+D2
+~
+~
+1 0 18721
+M 50 H 50
+S
+#18731
+Stables~
+An empty stall stands here.  A moldy pile of hay lies in the corner of
+the stall and a large pile of shit is in the center of the room.  The stall
+is vacant of any horses.  
+~
+0 8 0
+E
+hayloft~
+The hayloft is filled with sweet, fresh hay from the castle
+farms.
+~
+E
+carters~
+Heavy plow horses gaze at you calmly, then turn back to their own
+thoughts.
+~
+E
+horses~
+Heavy plow horses gaze at you calmly, then turn back to their own
+thoughts.
+~
+D2
+~
+~
+1 18712 18723
+M 75 H 75
+S
+#18732
+Armoury~
+This is the Kings armoury.  Many suits of various armour litter the room
+and a large anvil sits towards the back of the room.  There is a large
+furnace burning away along the back wall, giving the room an eirie glow.  
+~
+0 8 0
+E
+forges~
+The huge brick forges in this room are emitting an immense
+amount of heat.
+~
+D0
+The door to the north leads back out into the yard.
+~
+~
+1 18713 18723
+M 50 H 50
+S
+#18733
+Sir Ordan~
+You come across a lonely knight trudging his way up the mountainside.  He
+sees you and calls for you to stop, and assist him.  He explains to you that
+he has lost his horse, and is in need of stalwart companions to assist him
+in rescueing Princess Gilda.  
+~
+0 4 5
+D1
+The mountain trail rises to the east, leading to unknown
+dangers and perils.
+~
+~
+0 0 18734
+D3
+A mass of nervous horseflesh bars your way west, leaving you
+with no choice but to press on.
+~
+~
+2 18719 18728
+M 80 H 80
+S
+#18734
+Mountain Trail~
+You continue on the trail, with many thoughts hanging heavy upon your
+mind.  You think with sorrow of Sir Ordan, and the unrecognized bodies you
+saw.  You silently vow to yourself that Gilda will be rescued, if possible,
+or avenged, if not.  You shoulder your pack and continue resolutely up the
+trail.  
+~
+0 0 5
+D1
+The mountain trail rises to the east.
+~
+~
+0 0 18735
+D3
+Sir Ordan waits to the west, hoping for someone to aid him
+in his quest.
+~
+~
+0 0 18733
+M 75 H 75
+S
+#18735
+Curve in the trail~
+You have reached another curve in the trail.  You think with dread of
+what might lie ahead of you.  You listen closely for the sounds of battle
+from ahead, but hear only the sighing of the wind through the trees.  You
+pick up your pack once again and continue on your journey.  
+~
+0 0 5
+D2
+You can hear no noise coming from the south.  For some
+reason, that makes you even more nervous than if you had
+heard the sounds of battle.
+~
+~
+0 0 18739
+D3
+The mountain trail winds downward to the west.
+~
+~
+0 0 18734
+M 75 H 75
+S
+#18736
+Tack Shed~
+With the exception of the plow horses' harnesses, this room appears to
+have been stripped of all useful tack.  You peer around in the dim room,
+making out the forms of the racks and saddle trees.  In the corner you
+notice a large chest.  As you approach the chest, the world around you seems
+to go suddenly still, and you think you can hear a bell peal in the
+distance.  
+~
+0 8 0
+E
+trees~
+The saddle trees are empty of the saddles they once held.
+~
+E
+racks~
+These racks are intended for the purpose of holding horses' tack.
+~
+E
+harnesses~
+The harnesses have seen some hard use, but are in good repair.
+~
+D2
+To the south you can see the stables for the war horses.
+It appears to be empty.
+~
+~
+2 18715 18724
+M 75 H 75
+S
+#18737
+Back Gate~
+You pass through the back gate of the castle, hastily stepping aside to
+avoid being trampled by a squad of knights thundering up the road.  To the
+north you can see a tall mountain, from which you can hear occasional
+screams.  You can only imagine what tortures Gilda must be suffering from
+while you stand here.  
+~
+0 4 1
+E
+mountain~
+A huge mountain rises above you.  At the very top of the mountain,
+you can faintly make out something that might be a cave.
+~
+D0
+You see the beginning of a mountain path to the north.
+~
+~
+2 18716 18742
+D2
+The castle practice yard lies to the south.
+~
+~
+0 0 18718
+M 75 H 75
+S
+#18738
+Mews~
+You step into the silent darkness of the castle mews.  All around you can
+hear the rustling and shifting of restless avians, as they move about on
+their blocks.  You can make out a dim light at the far end of the mews and
+two figures there.  Suddenly, one of the figures slaps the table, startling
+the birds, and cries out "We'll keep the dragon here.  So we can, you know,
+a-mews him."  
+~
+0 8 0
+E
+avians~
+You see quite a few different types of raptors here.
+Eagles and falcons and hawks, all sitting on their
+blocks.  You have the feeling that if they weren't hooded,
+they'd be glaring at you.
+~
+D0
+To the north you can see the stable where the war horses
+are normally kept.  The stable seems empty now.
+~
+~
+2 18714 18724
+M 75 H 75
+S
+#18739
+Wise Woman~
+You stop in suprise as you round the corner of the mountain curve. 
+Before your eyes, instead of the carnage you've almost come to expect, an
+old woman stands instead.  She raises her hand as you approach, and glares
+at you with a suprising ferocity.  "So, you want to be heroes?"  She
+cackles.  "First you must get past me, my dear."  
+~
+0 0 5
+D0
+You consider fleeing back to the north, and then reconsider.
+After all, how hard can one old woman be?
+~
+~
+0 0 18735
+D2
+An enormous rock bars the path up the mountain.  You'd need
+a large stick or something to pry this rock loose, so that you 
+can continue on.
+~
+~
+2 18720 18744
+M 75 H 75
+S
+#18740
+Mountain Trail~
+You continue to trudge up the trail, your heart heavy.  You think about
+the deaths you have already witnessed and the deaths you have yet to see. 
+You cannot seem to wipe from your mind the image of the blasted bodies
+behind you, and yet you know that you cannot stop, for the King and Queen
+are depending on you to rescue their only daughter.  
+~
+0 0 5
+D0
+North lies the unknown, and the dreadful certainty of evil.
+~
+~
+0 0 18741
+D2
+To the south lies the grizzly battleground that you just passed.
+~
+~
+2 0 18729
+M 75 H 75
+S
+#18741
+A mountain cave~
+You peer doubtfully into the cave set in the side of the mountain.  It
+doesn't seem large enough, but you are wise enough to know that looks can be
+deceiving.  Therefore, you are prepared and your sword whips out without
+hesitation, and you valiantly find yourself facing ....  A sheep.  
+~
+0 0 5
+E
+cave~
+The cave is filled with sheep droppings and shreds of wool.
+~
+D0
+A set of sharp brambles lies to the north.  You wonder how
+you can get past it.
+~
+~
+2 18718 18743
+D2
+To the south lies the mountain trail leading back to
+Castle Caraway.
+~
+~
+0 0 18740
+M 75 H 75
+S
+#18742
+Base of the Mountain~
+You stand at the base of a huge mountain.  From far above you can hear
+faint screams, and you vow to revenge King Rupert and Queen Brunhilda for
+the indignities and savagery being performed on their poor, innocent
+daughter.  
+~
+0 0 5
+D2
+To the south lies the safety and comfort of Castle Caraway.
+~
+~
+2 18716 18737
+D3
+The mountain trails winds it's way upwards.
+~
+~
+0 0 18725
+M 75 H 75
+S
+#18743
+Blind Curve~
+You have once again reached a blind curve on the mountain trail.  From
+around the corner you can hear frantic horses, and the shouts and cries of
+men.  You duck as a hurtling blue shape flies around the corner and
+disappears up the mountainside.  
+~
+0 0 5
+E
+curve~
+You have once again reached a blind curve on the mountain
+trail.  You try to peer around the corner, but can't see anything.
+There's nothing to do but go on.
+~
+D1
+To the east lies another blind curve that you cannot see past.
+~
+~
+0 0 18728
+D2
+Heavy brambles lie to the south, as you well know, since you just
+fought your way past them.
+~
+~
+2 18718 18741
+M 75 H 75
+S
+#18744
+Battleground~
+Sighing with relief over escaping the old woman's grasp, you are startled
+to see before you a battleground.  Knights are fighting each other here, all
+of them proclaiming in loud voices their dedication to Princess Gilda.  You
+watch in amazement as the knight cheerfully cut each other down, all
+fighting for the same cause.  
+~
+0 0 5
+E
+battleground~
+Bodies lie strewn across the rocks here, tossed aside
+like empty beer cans.
+~
+D0
+You see to the north the remains of a huge rock that once
+blocked the path.
+~
+~
+2 18720 18739
+D2
+The mountain trail leads southward away from these scene of
+senseless destruction.
+~
+~
+0 0 18745
+M 60 H 60
+S
+#18745
+Mountain Trail~
+You fight your way through the battleground, and step with relief once
+more upon the mountain trail.  The screams have grown louder, and you hasten
+your footsteps.  All around you, the world seems to hold its breath as you
+struggle your way up the rocky slopes.  
+~
+0 0 5
+D0
+You look to the north at the battle still raging, and shake
+your head.  Resolutely, you turn around and continue up the
+trail.
+~
+~
+0 0 18744
+D2
+To the south you can see a blind curve in the mountain trail.
+~
+~
+0 0 18746
+S
+#18746
+Another Curve~
+You come upon another curve in the mountain trail.  Abandoned here you
+find a shred of pink cloth, obviously the princesses.  Heartened by the
+token that the princess has indeed come this way, you hurry along the trail
+to the curves ahead.  
+~
+0 0 5
+E
+pink~
+You find a shred of pink cloth abandoned on one of the bushes.
+Looking at it closely, you see that it is made of velvet.  It must
+be princess Gilda's.
+~
+E
+cloth~
+You find a shred of pink cloth abandoned on one of the bushes.
+Looking at it closely, you see that it is made of velvet.  It must
+be princess Gilda's.
+~
+E
+shred~
+You find a shred of pink cloth abandoned on one of the bushes.
+Looking at it closely, you see that it is made of velvet.  It must
+be princess Gilda's.
+~
+D0
+You glance to the north, seeking for some sight of pursuit
+or aid, but there is nothing forthcoming.
+~
+~
+0 0 18745
+D3
+You look ahead to the west and see yet another curve in the
+mountain path.
+~
+~
+0 0 18747
+M 80 H 80
+S
+#18747
+Yet Another Curve~
+Will these curves never end?  You peer around yet another curve in the
+mountain trail, hoping that your journey will soon be at an end.  
+~
+0 0 5
+D0
+Still another curve ahead.  Well, what did you expect?  This is
+a mountain path, after all.
+~
+~
+0 0 18748
+D1
+You glance back to the east, but your trail is hidden behind
+all the curves that you have passed.
+~
+~
+0 0 18746
+M 75 H 75
+S
+#18748
+Dead Man's Curve~
+You stop suddenly upon dead man's curve, so named because of the dead man
+lying in front of you.  You examine his body closely, trying to determine
+what killed him.  To your shock, you see that he has been stabbed by a
+dagger.  What could be the meaning of this?  
+~
+0 0 5
+E
+man~
+This man was obviously one of King Rupert's knights, and he
+was killed by a dagger.  Curiouser and curiouser.
+~
+E
+body~
+This man was obviously one of King Rupert's knights, and he
+was killed by a dagger.  Curiouser and curiouser.
+~
+D2
+You glance back to the south and realize that you can see the castle
+from this vantage point.  All the people moving around down there look
+like ants, though.
+~
+~
+0 0 18747
+D3
+To the west you can see the mountain trail continueing along
+it's preordained path.
+~
+~
+0 0 18749
+M 75 H 75
+S
+#18749
+Mountain Trail~
+Your breath is coming quickly and hard as you struggle up yet another
+slope on this mountain.  You begin to despair that you will ever reach the
+top, and you begin to wonder if this entire thing is just one giant cosmic
+farce.  
+~
+0 0 5
+D1
+You look with longing back towards the trail that leads down.
+Your comfortable bed and a bottle of wine await you below, but
+you resolutely turn your face east, and continue on.
+~
+~
+0 0 18748
+D3
+You square your shoulders and trudge wearily up the mountain path.
+~
+~
+0 0 18750
+M 75 H 75
+S
+#18750
+The Curve of Fate~
+You stop in awe as you reach this curve, looking down upon the valley
+below.  You had never before realized the magnificence of the castle, nor
+the rustic charm of the surrounding villages and farms.  Somehow, looking
+down upon the splendor of the landscape you feel uplifted.  You square your
+shoulders and continue up the trail with renewed vigor.  
+~
+0 4 5
+D0
+You hear the sound of sobbing coming from the north.  You quickly
+stride forward to see if you can be of any assistance.
+~
+~
+0 0 18751
+D1
+The mountain trail winds slowly downwards to the east.  Funny, but it
+had looked a lot steeper from the bottom.
+~
+~
+0 0 18749
+M 110 H 110
+S
+#18751
+A Lost Boy~
+You round the corner and stop in suprise.  Curled up on the rocks asleep
+is a small boy.  With startlement, you recognize him as the young lad who
+serves Sir Lauren.  You gently wake him up, and he peers up at you with
+red-rimmed eyes.  "Have you seen him?"  He asks.  "Has he killed the dragon
+yet?"  
+~
+0 0 5
+D0
+To the north you can see another curve in the mountain
+trail.  What dangers might lie behind this one?
+~
+~
+0 0 18752
+D2
+South lies a blind curve and more of the mountain trail leading
+back down to Castle Caraway.
+~
+~
+0 0 18750
+M 75 H 75
+S
+#18752
+Are You Tired of the Curves, Yet?~
+You come upon yet another curve.  Will they never end?  Maybe you expect
+too much out of life.  Perfect weather, perfect food, friendly companions
+and amusing innkeepers.  Well, sometimes life doesn't go as you expect, and
+then you just have to take the lumps as they're dealt to you, hmm?  
+~
+0 0 5
+D1
+Whatever dangers lie ahead are completely hidden by the curve
+in the road.
+~
+~
+0 0 18753
+D2
+To the south you can see one of the few straight patches of road
+that you've encountered so far.
+~
+~
+0 0 18751
+M 75 H 75
+S
+#18753
+Sir Karl's Last Stand~
+As you turn the corner, you come a across a knight sprawled across the
+rocks.  He is coughing fiercely, and you note as you approach him that he
+seems to be grieviously injured.  Blood pours from claw marks on his body,
+and his sword has fallen from his hand to lie in the dust at his feet.  He
+looks up with despair as you approach and cries out "The princess, oh dear
+God in heaven, the princess...."  You wonder what he was about to say.  
+~
+0 0 5
+D1
+Up ahead to the east you see another curve in the road.
+What a suprise.
+~
+~
+0 0 18754
+D3
+A curve in the road hides the path to the west.
+~
+~
+0 0 18752
+M 75 H 75
+S
+#18754
+The End is Near~
+You hear the sounds of roaring and screaming as you approach this curve. 
+The sounds are very near, and you know that you must be getting close to the
+dragon's cave.  You notice, however, an odd note in the screaming.  What
+diabolical things could the dragon be doing to the poor, innocent princess
+to make her sound like that?  
+~
+0 0 5
+D2
+You turn your eyes to the trail to the south, knowing
+that you have no choice but to continue on.
+~
+~
+0 0 18755
+D3
+Sir Karl's broken body lies to the west.
+~
+~
+0 0 18753
+M 75 H 75
+S
+#18755
+The Last Curve~
+You have a feeling in the pit of your stomach that this must be the last
+curve.  You can hear, very clearly from the screaming ahead, that the
+princess is still suffering untold agonies.  You draw your weapon,
+determined that the dragon will pay for its henious crimes, and stride
+forward around the curve of the mountain trail.  
+~
+0 0 5
+D0
+The windy mountain trail continues downwards to
+the west
+~
+~
+0 0 18754
+D3
+You can barely make out the lip of a dark cave as you peer
+around this corner.
+~
+~
+0 0 18756
+M 75 H 75
+S
+#18756
+Cave of the Dragon~
+You have at last reached the dragon's cave.  You peer inside hesitantly,
+but can't make out any details in the gloom of the cavern.  All around the
+outside of the cave, bones of various animals, human and otherwise, lie
+strewn about.  You pray that you did not come to late to rescue Princess
+Gilda from this horrific fate.  
+~
+0 4 5
+E
+cave~
+The cave entrance is huge, obviously intended for a dragon's
+body.
+~
+D1
+You glance back only once to the east, pondering if 
+perhaps today is a good day to die.  Then you turn back
+to the cave, determined to do what you must.
+~
+~
+0 0 18755
+D5
+You peer into the dark cave, but you cannot make out any details.
+The cave mouth is covered with an enormous spiderweb, and
+you ponder whether or not you could hack your way through it
+~
+~
+2 18721 18757
+M 75 H 75
+S
+#18757
+Cave Entrance~
+You hesitantly enter the cave, and peer around you.  Quickly groping for
+your light, you raise it, and then shudder in horror, averting your face. 
+Rotting, decaying corpses lie strewn about the room, proving that dragons,
+at least, are not terribly tidy in their housekeeping.  The cave continues
+to the west.  
+~
+0 9 4
+D3
+You peer into the black tunnel before you, but can't make
+out any details.
+~
+~
+0 0 18758
+D4
+Upwards lies light and fresh air.  You gaze out at it
+longingly, and then turn back to the dark fate awaiting you.
+~
+~
+2 18721 18756
+M 75 H 75
+S
+#18758
+A Large Tunnel~
+You walk along a dark tunnel that slopes downwards sharply.  As you stand
+here looking around, yet another shrill scream pierces the cavern, echoeing
+back to you like the screech of a bird of ill omen.  
+~
+0 9 4
+D1
+You can still see a small shred of light coming from the
+east.
+~
+~
+0 0 18757
+D5
+The tunnel slopes sharply downwards here, almost
+causing you to lose your balance.
+~
+~
+0 0 18759
+M 75 H 75
+S
+#18759
+A Large Tunnel~
+You stumble down the steep slope and glance about you once you've
+regained your balance.  You stand once again in a dark tunnel that heads
+east.  You peer into the darkness, wondering what vile beasts might be
+concealed there.  
+~
+0 9 4
+D1
+You turn your face to the east and ponder what lies
+ahead in this dark and vile cave
+~
+~
+0 0 18760
+D4
+You look at the slope that you just fell down, and wonder
+if you'll be able to make it back up.
+~
+~
+0 0 18758
+M 75 H 75
+S
+#18760
+A Large Tunnel~
+You begin to wonder if this tunnel will ever end.  You have been all
+turned around by the twists and turns, and you peer down another steep
+slope, wondering if you can ever find your way home again.  The screams are
+growing louder, which is the only thing that convinces you that you are
+heading in the right direction.  
+~
+0 9 4
+D3
+The screaming is definitely not coming from this direction.
+~
+~
+0 0 18759
+D5
+You look at the steep slope heading downwards and sigh
+knowing that you're in for another long, hard tumble.
+~
+~
+0 0 18761
+M 75 H 75
+S
+#18761
+A Large Tunnel~
+You can feel a moist heat blowing towards you from the west.  It is
+scented with brimstone and ash, and you think that you have maybe come
+towards the end of this tunnel at last.  You eagerly stride forward, ready
+to face whatever danger you might encounter.  
+~
+0 9 4
+D3
+You can feel a dark, moist breeze blowing at you from the
+west, and you think that it must be the dragon's breath.
+~
+~
+0 0 18762
+D4
+The slope upwards seems almost impossible to climb, but you
+know that if you are ever to escape this dark place, you must
+make the effort.
+~
+~
+0 0 18760
+M 75 H 75
+S
+#18762
+The End of the Tunnel~
+At last you have reached the end of the dark, winding tunnel that you
+have been climbing through for what feels like hours.  You peer down into
+the cavern below, lighted fitfully by pools of fire and lava.  You can't
+make out any details, but you can almost feel the sullen menace of the
+dragon.  
+~
+0 13 4
+D1
+You look back into the dark tunnel you just exited and then shake
+your head and turn back to the cavern in front of you.
+~
+~
+0 0 18761
+D2
+The cave to the south looks to be exactly the sort of place a 
+dragon would be comfortable.  Huge pools of lava and fire
+bath the room in an almost painful heat.
+~
+~
+0 0 18763
+M 75 H 75
+S
+#18763
+Dragon Cave~
+You have entered the Cave of the Dragon.  You look around you and decide
+that this could never be your home sweet home.  A blast of heat from a
+nearby pool of fire washes over you, and you hastily duck to avoid the hot
+ashes that drift your way.  
+~
+0 8 0
+E
+pool~
+You gaze into the pool of fire and hastily reconsider your
+original idea of a refreshing swim.
+~
+D0
+To the north you see a dark tunnel.  You don't feel willing to attempt
+it just yet, so you turn your attention back to the cave.
+~
+~
+0 0 18762
+D1
+You look to the east to see more of the cavern.  There seems
+to be a fountain of some sort there.
+~
+~
+0 0 18766
+D2
+To the south you can see the figure of a man trudging
+towards you.  He looks depressed, and you wonder what
+could be wrong.
+~
+~
+0 0 18764
+M 50 H 50
+S
+#18764
+Sir Lauren's Despair~
+You stop with shock as you recognize the dejected figure before you as
+Sir Lauren.  His silver and white armor is dented and scratched, and his
+sword dangles limply from his fingers.  He gazes at you with a listlessness
+you can scarcely believe and sighs.  He does not respond to any of your
+questions about what might be wrong, instead gazing at the cavern wall and
+sulking.  
+~
+0 8 0
+D0
+To the north you see the entrance to the cavern.
+~
+~
+0 0 18763
+D1
+You look to the east and draw back with alarm as  you see the
+figure of the dragon.
+~
+~
+0 0 18765
+S
+#18765
+The Dragon~
+You draw back in alarm as you come face to face with a huge blue dragon. 
+He peers at you intently for a moment and then chuckles.  You stare at him
+in suprise as he say, "Nothing is as much fun as eating a young maiden." 
+With a snicker, he pulls out a human leg bone and begins picking his teeth. 
+A huge stone block bars the way south.  
+~
+0 8 0
+D0
+You look north and see some sort of fountain.
+~
+~
+0 0 18766
+D1
+To the east you can see some form of arcane worship.
+~
+~
+0 0 18768
+D2
+A huge stone block covers the door to the south.  It is covered
+with arcane runes, and you have no idea how you might be
+able to get past it.
+~
+~
+2 18722 18769
+D3
+You see the figure of a rather dejected man to the west.
+He is trudging his way out of the cavern.
+~
+~
+0 0 18764
+S
+#18766
+Dragon Cave~
+You stand before a large fountain that is spewing some sort of clear
+liquid.  You hesitantly put your finger in it and taste it.  A large smile
+crosses your face as you realize that somehow, someway, someone had created
+a absinthe fountain here.  
+~
+0 8 0
+D1
+You look to the east and notice with suprise that it seems to
+be a quiet section of the cavern.  No fountains, or pools of fire,
+or anything else to disturb you.
+~
+~
+0 0 18767
+D2
+You peer to the south and draw back in alarm.  Could that
+be the dragon there?
+~
+~
+0 0 18765
+D3
+You look to the west towards the entrance of the cavern.
+~
+~
+0 0 18763
+S
+#18767
+Dragon Cave~
+This is a quiet, and relatively cool section of the cave.  You look
+around and don't see anything nearby that could threaten you.  You lay your
+pack down and settle down for a very short break.  
+~
+0 8 0
+D2
+To the south you can see a strange table sort of affair,
+perhaps an altar of some sort.
+~
+~
+0 0 18768
+D3
+You look to the west and see a fountain of some sort.
+~
+~
+0 0 18766
+S
+#18768
+A Gaggle of Mages~
+You walk into what must be some form of arcane worship.  You look around
+and recognize several faces from the castle, including the bishop himself. 
+He is holding aloft a human skull, beseeching that God strike down his foes,
+and praising God's wisdom in bringing the dragon so that he might have a
+useful tool in his power struggle against the king.  
+~
+0 8 0
+D0
+You look north into a quiet section of the cave.  It looks like
+a good place to rest.
+~
+~
+0 0 18767
+D3
+You look west and draw back in alarm.  Is that the dragon
+you see there?
+~
+~
+0 0 18765
+S
+#18769
+Gilda in Repose~
+You enter a huge chamber, filled with trinkets and gems and gold.  In the
+center of the room, a huge featherbed sits.  Sitting in the center of the
+bed, Gilda, dressed in very little (other than a little bit of jewelry)
+reclines, nibbling on a bon-bon and reading a romance.  She glances up at
+you and sighs.  "So, another would be hero, hmm?"  She says.  "Why can't you
+people get it through your heads.  I'm happy here.  Sir Lauren is such a
+putz (especially in bed).  The dragon keeps me much more ....  Satisfied. 
+I'll never leave him."  She grins evilly.  "He really knows how to eat a
+maiden, if you catch my drift."  She chuckles, and then goes back to her
+book.  She glances up once more after a moment and says, " For
+clarification, read the tapestry on the wall."  She goes back to ignoring
+you then.  
+~
+0 0 0
+E
+tapestry~
+Gilda and the Dragon
+By Cynthia McQuillin
+ 
+Sir Lauren undertook a quest, the maiden Gilda seeking,
+He found her in a dragon's bed, from neath the covers peeking.
+ 
+"What seek you here, Sir Lauren, dear?" The dragon asked with guile.
+The noble knight could not but note the dragon's sated smile.
+ 
+"Why smilest thou, Lord Dragon, Sir?" Asked our hero in armor laden,
+"Why, you'd smile too, the worm replied, "If you'd just eaten a maiden."
+ 
+"Such candor," this young lordling cried, "must touch upon dishonor!"
+The dragon grinned his lecherous grin, and once more was upon her.
+ 
+"Cease and desist!" Sir Lauren cried, his fine steel blade a-flashing,
+"Oh, slay him not," young Gilda cried, her voice a play of passion.
+ 
+"Was ever a maid so tried as I, betwixt desire and honor?
+"I should demand you slay the beast, but he stirs in me such....ardor!"
+ 
+"Fie, fie!!!" Sir Lauren cried to her, "What foolishness is this?
+"Would you deny your lord and lands, all for a dragon's kiss?"
+ 
+Intently he did search her face, then frowned in deep dismay,
+For she shed a tear, for honor's sake, and then sent him away.
+ 
+"Why smilest thou, Lord Dragon, Sir?" Asked our hero in armor laden,
+"Why, you'd smile too, the worm replied, "If you'd just eaten a maiden."
+~
+D0
+~
+~
+2 18722 18765
+S
+#18770
+On a road~
+A long winding road stands here.  It looks to be well used for there are
+many various tracks etched into the ground.  Large deserted fields cover the
+area along either side of the road and a brisk wind blows the tall grass
+violently.  
+~
+0 4 2
+D0
+The road to the north leads towards the distant castle which looms over
+the landscape.
+~
+~
+0 0 18704
+D2
+The road to the south leads back into the forest.
+~
+~
+0 0 18771
+M 75 H 75
+S
+#18771
+A trail through the forest~
+There is a sparse scattering of trees here, marking the end of a thick
+forrest.  An old weatherbeaten sign sticks out from the ground with some
+fadded writing upon it.  
+~
+0 4 3
+D0
+The trail continues to the north, where you can sense an almost
+desperate stillness in the air.
+~
+~
+0 0 18770
+D2
+~
+~
+0 0 8161
+M 80 H 80
+S
+#18772
+Secret Room~
+This is a secret room in the castle Caraway, used for some sort of
+planning.  A large desk is here, coverd with maps, scrolls, and documents. 
+The room looks well used; a fire is burning warm and bright, and candles are
+lit throughout the room, illuminating it.  Many wars have been started from
+this room.  
+~
+0 524288 0
+D5
+~
+~
+5 0 18716
+S
+#0
+
+
+
+#SPECIALS
+M 18703 spec_breath_frost
+M 18704 spec_cast_mage
+M 18708 spec_cast_cleric
+M 18711 spec_poison
+M 18718 spec_thief
+M 18719 spec_cast_mage
+M 18726 spec_thief
+M 18727 spec_cast_cleric
+M 18728 spec_cast_mage
+M 18731 spec_cast_cleric
+M 18732 spec_thief
+M 18733 spec_cast_mage
+M 18734 spec_cast_cleric
+M 18742 spec_cast_mage
+M 18750 spec_cast_mage
+M 18752 spec_cast_cleric
+M 18753 spec_cast_mage
+M 18754 spec_breath_lightning
+M 18756 spec_cast_mage
+S
+
+
+
+#RESETS
+D 0 18701 1 2
+D 0 18701 3 2
+D 0 18702 1 2
+D 0 18702 3 2
+D 0 18705 1 2
+D 0 18706 3 2
+D 0 18708 0 2
+D 0 18708 2 2
+D 0 18709 1 2
+D 0 18710 0 2
+D 0 18710 2 2
+D 0 18712 2 2
+D 0 18713 3 2
+D 0 18714 0 2
+D 0 18715 0 2
+D 0 18716 0 1
+D 0 18716 4 1
+D 0 18717 2 2
+D 0 18718 2 1
+D 0 18719 0 1
+D 0 18719 2 2
+D 0 18720 0 2
+D 0 18721 0 1
+D 0 18721 2 2
+D 0 18722 0 2
+D 0 18723 0 2
+D 0 18723 2 2
+D 0 18724 0 2
+D 0 18724 2 2
+D 0 18726 2 1
+D 0 18728 1 2
+D 0 18729 0 2
+D 0 18730 2 1
+D 0 18731 2 2
+D 0 18732 0 2
+D 0 18733 3 2
+D 0 18736 2 2
+D 0 18737 0 2
+D 0 18738 0 2
+D 0 18739 2 2
+D 0 18740 2 2
+D 0 18741 0 2
+D 0 18742 2 2
+D 0 18743 2 2
+D 0 18744 0 2
+D 0 18756 5 2
+D 0 18757 4 2
+D 0 18765 2 1
+D 0 18769 0 1
+D 0 18772 5 1
+M 0 18706 5 18700 1
+M 0 18707 5 18700 1
+M 0 18713 1 18701 1
+M 0 18712 1 18701 1
+M 0 18702 1 18702 1
+M 0 18701 3 18703 3
+M 0 18701 3 18703 3
+M 0 18701 3 18703 3
+M 0 18705 3 18704 3
+M 0 18705 3 18704 3
+M 0 18705 3 18704 3
+M 0 18704 1 18705 1
+M 0 18703 1 18706 1
+M 0 18706 5 18707 1
+M 0 18707 5 18707 1
+M 0 18706 5 18708 1
+M 0 18707 5 18708 1
+M 0 18714 1 18709 1
+M 0 18706 5 18710 1
+M 0 18707 5 18710 1
+M 0 18706 5 18711 1
+M 0 18707 5 18711 1
+M 0 18711 1 18712 1
+M 0 18715 1 18713 1
+M 0 18708 1 18714 1
+M 0 18710 1 18715 1
+M 0 18716 1 18716 1
+M 0 18709 1 18717 1
+M 0 18717 3 18718 1
+M 0 18728 1 18719 1
+M 0 18726 1 18720 1
+M 0 18729 3 18721 3
+M 0 18731 1 18722 1
+M 0 18717 3 18723 1
+M 0 18717 3 18724 1
+M 0 18718 1 18724 1
+M 0 18733 5 18725 1
+M 0 18734 5 18725 1
+M 0 18727 1 18726 1
+M 0 18733 5 18727 1
+M 0 18734 5 18727 1
+M 0 18737 2 18728 2
+M 0 18738 1 18728 1
+M 0 18735 2 18729 2
+M 0 18730 5 18730 5
+M 0 18721 1 18731 1
+M 0 18723 1 18732 1
+M 0 18741 1 18733 1
+M 0 18739 11 18734 1
+M 0 18740 11 18734 1
+M 0 18739 11 18735 1
+M 0 18740 11 18735 1
+M 0 18724 5 18736 5
+M 0 18724 5 18736 5
+M 0 18724 5 18736 5
+M 0 18724 5 18736 5
+M 0 18724 5 18736 5
+M 0 18732 1 18737 1
+M 0 18719 1 18738 1
+M 0 18720 2 18738 2
+M 0 18742 1 18739 1
+M 0 18733 5 18740 1
+M 0 18734 5 18740 1
+M 0 18736 1 18741 1
+M 0 18733 5 18742 1
+M 0 18734 5 18742 1
+M 0 18733 5 18743 1
+M 0 18734 5 18743 1
+M 0 18743 2 18744 2
+M 0 18744 2 18744 2
+M 0 18739 11 18745 1
+M 0 18740 11 18745 1
+M 0 18739 11 18746 1
+M 0 18740 11 18746 1
+M 0 18739 11 18747 1
+M 0 18740 11 18747 1
+M 0 18739 11 18748 1
+M 0 18740 11 18748 1
+M 0 18739 11 18749 1
+M 0 18740 11 18749 1
+M 0 18745 1 18751 1
+M 0 18739 11 18752 1
+M 0 18740 11 18752 1
+M 0 18746 1 18753 1
+M 0 18739 11 18754 1
+M 0 18740 11 18754 1
+M 0 18739 11 18755 1
+M 0 18740 11 18755 1
+M 0 18747 1 18756 1
+M 0 18748 10 18757 1
+M 0 18749 10 18757 1
+M 0 18749 10 18758 1
+M 0 18748 10 18758 1
+M 0 18749 10 18759 1
+M 0 18748 10 18759 1
+M 0 18748 10 18760 1
+M 0 18749 10 18760 1
+M 0 18748 10 18761 1
+M 0 18749 10 18761 1
+M 0 18750 1 18763 1
+M 0 18755 1 18764 1
+M 0 18754 1 18765 1
+M 0 18751 1 18766 1
+M 0 18752 1 18768 1
+M 0 18753 1 18768 1
+M 0 18756 1 18769 1
+M 0 18757 1 18772 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

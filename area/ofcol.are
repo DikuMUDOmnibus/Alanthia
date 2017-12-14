@@ -1,0 +1,257 @@
+#AREADATA
+Name Ofcol~
+Builders Fluffy Halodar~
+VNUMs 5500 5599
+Credits {25   60} Alfa        Ofcol~
+Security 9
+Version 1
+End
+
+
+
+#MOBILES
+#5500
+master combat~
+the master of combat~
+The master of combat is here, sizing you up.
+~
+Standing before you is the finest of the Ofcol elite.  He knows everything there is in combat, to mass melee, duels, and the art of magic.  He has opened a training area for all to become experts.
+~
+unique~
+ABGJKLMb 0 0 0
+300 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium flesh
+#5501
+citizen ofcol~
+a citizen of Ofcol~
+A citizen of Ofcol is glaring at you.
+~
+She seems like a nice person with no interest in harming you or others, although she doesn't seem to like strangers walking into her city.
+~
+unique~
+AGH 0 0 0
+25 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+EFN 0 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium unknown
+#5502
+keeper innkeeper~
+an Ofcol Innkeeper~
+An innkeeper nods to you in greeting.
+~
+The innkeeper looks skilled in brewing different beers and mixing the wierdest drinks known. He also looks very big.
+~
+unique~
+AB 0 -100 0
+300 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+EFNU 0 0 0
+stand stand male 100000
+AHMV ABCDEFGHIJK medium unknown
+#5503
+luxan shopkeeper~
+Luxan~
+Luxan the shopkeeper is here, eager to sell you anything.
+~
+Luxan is dressed in a strange jacket.  He looks like a mean trader from the outskirts of Midgaard.  His life seems to be totally occupied with trading.  He looks very fit and capable of protecting his goods.
+~
+unique~
+AB 0 400 0
+300 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand male 100000
+AHMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#5550
+Village street~
+You stand at the small village street in Ofcol.  From here you see small
+houses and only few people.  North of here the village street continues up
+to the small square where some people are gathered as always.  
+~
+0 0 1
+D0
+You look up the village street noticing nothing special at all.
+~
+~
+0 -1 5551
+D2
+~
+~
+0 0 8219
+S
+#5551
+Village street~
+You are standing on the village street of Ofcol.  East from here is a
+small alley and north you enter the village square.  Towards the south you
+can leave Ofcol.  
+~
+0 0 1
+D0
+The village square is as usual not overcrowded.
+~
+~
+0 -1 5552
+D1
+The small alley looks relative peaceful.
+~
+~
+0 -1 5553
+D2
+You see the village street eventually becoming the wide road.
+~
+~
+0 -1 5550
+S
+#5552
+Village square~
+The village square is a place where inhabitants of Ofcol gather to talk,
+trade and sell items and just have a good time.  You see a small shop to the
+west and the local inn to the north.  If you leave south you go to village
+street.  
+~
+0 0 1
+D0
+You see a local inn called 'The Ofcol Local Inn'. Looks nice.
+~
+~
+0 -1 5556
+D2
+You see the village street of Ofcol.
+~
+~
+0 -1 5551
+D3
+A small shop with the sign 'Luxan's Mixed goods' hanging in front of it.
+~
+~
+0 -1 5555
+S
+#5553
+The small alley~
+You are in a small, quiet alley.  From here you see the village street to
+the west, the city to the east, and a training building to the south.  
+~
+0 0 1
+D1
+~
+~
+0 0 601
+D2
+It looks like a training building.
+~
+~
+0 -1 5554
+D3
+You notice nothing but the village street.
+~
+~
+0 -1 5551
+S
+#5554
+The Training Building~
+All around you men and women sweat from practicing to become better at
+their profession -- warriors are practicing melee tactics, mages perfecting
+spells, and clerics being taught new healing techniques.  
+~
+0 8 1
+D0
+You are able to see the small alley, really not very interesting.
+~
+~
+0 -1 5553
+S
+#5555
+Luxan's Mixed Shop~
+You are standing in a small shop, filled with all kinds of goods.  Here
+you might be able to find just the thing you're looking for.  The only exit
+is east to village square.  
+~
+0 8 1
+D1
+The village square is as usual -- not overcrowded.
+~
+~
+0 -1 5552
+S
+#5556
+The Local Inn~
+You are in the local inn, where peaceful citizens of Ofcol gather to have
+a drink or five it they have dry throats.  There doesn't seem to be any
+rowdy people, just the local citizens.  The only exit is south to the
+village square.  
+~
+0 8 1
+D2
+The village square is as usual -- not overcrowded.
+~
+~
+0 -1 5552
+S
+#5577
+Ravan's hideout~
+This place is a small, cosy place where no one disturbs you all the time.
+The room has little decoration except for some pictures on the wall.  You
+notice that there are no exits from this room.  
+~
+0 4 0
+E
+friend friends~
+The list include such prominent names as : God, Lottie, Kurgan,
+Ezzard, Mike, Sprocket and Stormbringer.
+~
+E
+foe foes enemies~
+There is only one picture yet... Dim.
+It pictures him hanging from a gallow, north of the town.
+It has the letters R.I.P. inscripted underneath.
+~
+E
+pictures picture decoration~
+These pictures show the friend's and foe's of Ravan.
+They are easy to separate, as most of the foe's have the letters
+R.I.P. inscripted underneath them.
+~
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 5501 5 5552 3
+M 0 5501 5 5553 3
+M 0 5500 1 5554 1
+M 0 5503 1 5555 1
+M 0 5502 1 5556 1
+M 0 5501 5 5556 3
+M 0 350 1 5577 1
+S
+
+
+
+#SHOPS
+5502 0 17 0 0 0 100 50 0 23
+5503 1 10 13 19 0 100 50 0 23
+0
+
+
+
+#$

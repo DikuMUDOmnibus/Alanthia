@@ -1,0 +1,50 @@
+Glob objects in room descriptions.
+Glob objects when dropping.
+Remove all immunities on mobs.
+Make eq break.
+Allow Clerics to get XP for healing
+Change imms to resistances
+persistent objects
+deal with powerlevelling
+fix who list
+
+FIXED - Let players steal from one another
+FIXED - Fix chain lightning
+FIXED - Fix vamps
+FIXED - Finish luggage code
+FIXED - Add NO_EXP flag.
+FIXED - changed lightning bolt to bolt
+
+
+change + {GChanges:
+change + {G* {xlowered damage on chain
+change + {G* {xmade all lightning spells depend on weather
+change + {G* {xchanged 'lightning bolt' spell to 'bolt'
+change + {G* {xadded message to room when someone 'orders' a pet
+change + {G* {xlowered vamp recovery hit points
+change + {G* {xpstealing now allowed for pk'ers
+change + {G* {xchanged the corpse bag name
+change + {G* {xmade it impossible to get XP from guardians/summoned mobs
+change + {G* {xdwarfs get more bonus from fighting drunk
+change + {G* {xupdated help multiplay
+change + {G* {xupdated wizlist
+
+
+
+#2  When a low level dwarf is drunk, some mobs (guards in amber palace) hit
+him for negative damage, and it actually heals them.  Don't know if this
+happens for other lvls or mobs or races.
+
+#3  Forgot to include that a player can rescue a thief/assassin, and the
+thief/assassin can backstab the mob.  No one does this though.  Barely anyone
+groups.
+
+#4  Mobs show up as someones if mob is hidden (invis?), if time is night, and
+if player has detect spells on.  Happens a lot in rainforest area.  I'm pretty
+sure this applies to players as being someones also under these conditions.
+If player does not have detect spells, mob is hidden, and time is night, the
+mob then shows its name when attacking.
+
+#5  Mobs do lesser damage when equiped with a weapon, at least for high lvls.
+Mobs like the onyx dragons in Z'tari Tomb are an example.
+

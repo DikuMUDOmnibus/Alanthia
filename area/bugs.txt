@@ -1,0 +1,206 @@
+[ 5285] Torres: + My guardian angels can't go in "A very black mirror" from the Heart in the Spawning Pit with me.  I even order it to enter it and it won't
+[ 3054] Torres: I'm blinded by firesmoke and I can see the donation wizard toss items into the pit
+[ 9207] Gwynneth: Whenever you kill a lava beast, it darks out the room, and you have to leave the room and come back to get or fight anything in that room
+[ 3001] Eros: if you are invis and donating, it says your name to people in the room, not 'someone' like it should
+[ 3008] Adun: if you're invis, or sneaking at the bank, and try to deposit money, the banker says "I'm not taking money from someone i can't see!" and then takes your money anyway, but doesn't put it in your account...he's stolen over 2 million gold from 
+me this w
+[19843] Mournrier: In the middle of combat, when it turns night, everyone in the room turns to a someone, and you can't see ANYTHING, even if you do have a light.  Only way to restore sight is to leave the room.  It's very annoying and hurtful in combat
+[ 3758] Tsugachi: I had my intellegence at 19, and i trained 1 more time, and it stayed at 19, and said my intellegence increased! And the helpfile for drows says the max int for drow is 18.
+[ 3700] Laego: I chose whips during creation and when I started, I could only practice mace (cleric)
+[19103] Hespin: Whips is NOT a basic skill of the clerics.  It is shown in creation, however, a player that chooses whip will not have that skill to practice as a newbie.  Check that out... it's kinda strange.
+[ 3036] Hespin: Bless does not change hit roll in the score screen... I do not know if this means that bless is uneffective (since I cannot really tell that), or if it's just the display.
+[ 3054] Whisperwolf: Just a simple bug and I dont know how hard it is to fix, but on color codes {{W is dark white and {{w is bright white... oh well.. just thought I'd point that out
+[ 3001] Whisperwolf: the noble dagger I dont know if it is supposed to be, but it is an exotic weapon
+[ 1210] Kredalis: Gikk cannot open doors flagged with the keyword door, in room 19129, there are doors going north south and up, he could open just the up door, rest said, that isn't a container to him.
+[ 3001] Whisperwolf: on the desc for the golden threded vest, there is an added line space beneth it.
+[ 3001] Xynq: change sex duratoin
+[ 3001] Karma: Fleeing in the arena makes you lose XP... cock
+[ 3001] Karma: Vampires are still immune to quickpoison
+[ 3016] Worth: There's a bad lag after envenoming a weapon
+[ 6718] Karma: I have 8 slots cause I was a first gen remort (original formula was 5 slots and 3 for ever remort past that)
+[ 3001] Vadakyn: weaken still has it's affect after arena is over
+[ 3001] Vadakyn: Lethargy still has affect after arena is over
+[ 1246] Vadakyn: keys don't vanish anymore when you quit 
+[ 1201] Grbrthrxs: take peek away from everyone but thieves
+[ 3014] Khrima: Quickpoison doesn't have a damage message.
+[18703] Tyzeous: .... Quickpoison damage.. when attacking with a sword affected with quickpoison i got this message .. Your  MUTILATES weary peasant! 54. there is nothing telling you what caused the damage.. only a doublespace
+[ 3001] Belarion: to all
+[ 3001] Belarion: havning afk + pk + a long title forces the who list to go two lines
+[ 3001] Belarion: also truicks newbies with the {{\ trick
+[ 1201] Grbrthrxs: players are ending up with 4 slots
+[ 1250] Ghini: Swear channel can still be turned on and off
+[ 3008] Mogryr: arena heals BP for dwarves
+[ 1607] Mogryr: put a fucking exit in the house of pancakes
+[ 1201] Grbrthrxs: add foul language mob
+[ 1201] Grbrthrxs: make it so that things that have objects in them, if they aren't containers, dump the objects into inventory instead of silently failing
+[ 3001] Nalfeshnee: dirtkick does not heal after arena
+[ 3001] Widowmaker: When I log on, all my alias's I have made during the previous logs are not shown.  Dont know if you could reproduce it without logging me on, ie, I make an alias to assassinate a mob, log out, then log on, and the alias is gone.
+[ 1201] Grbrthrxs: add something interesting for each of the three moons
+[ 1201] Grbrthrxs: put newbie channel back for everyone
+[ 1201] Grbrthrxs: make bug list viewable from within the mud
+[ 1201] Grbrthrxs: make winning the arena give a reward
+[ 1201] Grbrthrxs: add long-term arena tracking to mud and pfiles
+[14144] Widowmaker: Bug with opening doors. I use the syntax open (direction) and I can open every door except the doors to the east.
+[ 6734] Halodar: Items with the keyword Easter (easter basket, easter candy) preempt the direction East when trying to open east. I'm not sure how to fix this other than removing that keyword from any items.
+[ 1201] Grbrthrxs: make memory work
+[ 1201] Grbrthrxs: take affects out of score - scrolling sucks
+[ 1201] Grbrthrxs: or make it configurable
+[ 1201] Grbrthrxs: need a skill to let players guesstimate the heal % of a room
+[ 1201] Grbrthrxs: show last changed stats in score in green/red?
+[ 1201] Grbrthrxs: send char a wakeup message when they're fully healed
+[ 1201] Grbrthrxs: need to allow imms to bounty other imms
+[ 3054] Whisperwolf: When you die by something you did, either blood or otherwise.. you dont lose exp
+[ 1251] Halodar: For some reason I cannot set value0 on a container successfully
+[ 3054] Whisperwolf: ok.. im just gaining exp from this.....
+[ 2429] Darconix: if i walk into the arena, and get dirt kicked/fire blinded i don't get healed, and when i win i don't get transferred out of arena.. so i'm stuck in arena now
+[ 3001] Wilhelm: i assassinated karma in arena, and it took his pk flag
+[ 1201] Grbrthrxs: remove no_purge flag
+[ 1201] Grbrthrxs: add assassinations to score
+[ 3056] Fluffy: we need a counter of arena matches/losses/victories !
+[ 1201] Grbrthrxs: hard-restrict max avg dam to clan formula
+[ 1251] Halodar: Make an OLC option that produces a random weapon s'il vous plait
+[ 1251] Halodar: OLC command that will randomize flags and addaffs on a random weapon type and spit out a possibly decent weapon. Entering the command multiple times would get a different result each time.
+[ 3001] Whisperwolf: ok.. so when you look at a player it is a GAura for heavenly sanc.. but when it wears of it is a silver aura??? whats with that?
+[ 1201] Grbrthrxs: change reset min/max to per room
+[ 1201] Grbrthrxs: add -1 max reset as load-once 
+[ 3001] Whisperwolf: when the ice dragon kills someone the color bleeds... needs a color {{X on it
+[ 1201] Grbrthrxs: add rcopy <mob> or <room, mob> to copy a mob and all its EQ.
+[ 3001] Whisperwolf: The reeve isn't Alex anymore... we need alex to kill again.
+[ 1251] Halodar: An aedit option in which you can assign the area to one continent or the other (to be named later), and a skill up a few levels from gate which allows gating between continents. Limit gate to the continent you are on
+[19103] Cmnosi: I killed an amber guard with an earthwake and it produced this message ... The Amber Guard is DEAD!! ........... Your spell's energy leaks from the body of  @@@ . its the @@@ that i think is the bug. Tyzeous/Cmnosi out. 
+[ 1201] Grbrthrxs: change level 300 to hero, but without any IMM commands so that people who don't want to remort have some indicator
+[ 3001] Vadakyn: Blindness lasted thru arena
+[ 3001] Vadakyn: if imms are able to die in arena why can't we assassinate themin arena like you can everyone else?
+[ 3001] Gohan: Mobprogs for 'if then' for classes does not work no matter what class you put for the mob to react to.
+[ 5221] Whisperwolf: the floating stones from the lamias dont actually affect what they say they do!!!
+[ 3019] Whisperwolf: I know in one of the last changes posted, remort skills actually can GO over 75%, but do they actually start at 75%? Cause i dont feel any sneakier as if I was at 1% and it hasn't gone up to 76% in over 1000 or so sneaks
+[ 3019] Whisperwolf: I think there is something wrong with that... and um.. well.. its kind of wierd... so *PANIC* :)
+[ 3019] Whisperwolf: its like we are getting the skill, but its at 1%, but it just "says" we have it at 75% cause it takes a shitload of usage to advance a percantage.. I dunno..
+[ 3001] Whisperwolf: why isn't afk on who list and afk in look room the same colors?
+[ 3001] Dain: artanis
+[11032] Whisperwolf: When my enhanced damage skill went up my tnl when higher!!! not lower!!! whats up with that?
+[ 3031] Whisperwolf: WOAH!
+[ 3031] Whisperwolf: Um.. I just successfully dirtkicked a mob and my tnl went up!
+[ 3031] Whisperwolf: oh its that Enhanced damage thing again.. when I get better at enhanced damage my tnl goes up
+[16530] Torres: could walk away from combat after being tripped as though you weren't in combat.  Don't think you can walk away anymore after a tick, but not sure
+[ 1250] Ghini: Make merchants to travel across the continent, and other continents when they are put in if they are, selling goods to players and stationary merchants, allowing  players to ride along for a small fee to the next city or possibly be hired to guard th
+[ 1250] Ghini: the caravan from attack, allowing the players to make money and actually have JOBs
+[ 1250] Ghini: Travelling with the caravan would not take away any mv from the player
+[ 3001] Torres: If fighting more than 1 mobs at a time, and you are the last in the combat round to make attacks, immediately after killing one mob, you can walk out of the room as though you weren't fighting.  Can't do if next combat round begins against 2nd mob
+[ 1201] Grbrthrxs: need to be able to slay imms
+[ 1291] Shabazz: and need to be able to purge mobs higher level than you
+[ 1291] Shabazz: players higher or equal level
+[14123] Ghini: Rid the world of argue chan and free up a flag to be used! :)
+[ 1291] Shabazz: rid the world of Ghini and free up some bandwidth! :)
+[ 1201] Grbrthrxs: add {{x to end of gechos
+[ 3001] Karma: When you remort what you're wearing doesn't dissappear. So you're level 2 with a 200 dam roll
+[    8] Tamara: Room 600, exit leading north leads nowhere (The Room That Is Not [8])
+[    8] Tamara: Room 8033, exit leading north leads to The Room That Is Not
+[ 3758] Tamara: Room 3758, exit leading south leads to The Room That Is Not
+[ 1652] Tamara: Room 1652 exit down leads to a bunch of no-desc rooms in the crystal tower.  Looks like a maze, but no names or descs anywhere
+[ 1201] Discard: damtype crashes the mud (once again)
+[ 1201] Grbrthrxs: allow players to prac skills by number
+[ 3001] Torres: Comb social never works because it thinks you're trying to do that combine inventory thing.  Only works when you do a gocial.  I want to comb my hair damnit
+[ 1314] Whisperwolf: Hey grbr.. on my last death.. i was spamming flee.. and it said I wasn't fighting anyone while I was getting my ass beat into a pulp.. i couldn't flee
+[11010] Karma: Turf causes weird - numbers
+[ 1227] Vadakyn: I can hold eq after i quit 30+ level above me is this a bug?
+[ 3001] Karma: recall is still F-in SAFE!!!!!!!
+[ 3001] Torres: Reciting a scroll of recall leads to the temple of purification, not to a random spot on main street of midgaard
+[ 3001] Tamara: You can recall without the recall skill
+[ 3001] Nalfeshnee: executioner is afk
+[ 3001] Pyre: Word of Recall sends the player to the Temple of Purification, not at a random spot on the main road
+[ 1250] Ghini: Get rid of jukeboxes, they didn't have them in the middle ages
+[ 1250] Ghini: Bard mprogs that play at bars at certain times of the day
+[ 4838] Halodar: Add a room echo when someone enters the arena. It sucks to keep talking to an empty room.
+[ 1299] Shabazz: i happen to enjoy leaving a room when someone is talking to me without them knowing. then coming back later and laughing
+[ 1299] Shabazz: i guess it is nessary. but i do enjoy it. if it happens, only show it to people that can see you. (please add stats on your score too)
+[ 1201] Grbrthrxs: add a version vector to players, and increment it when an imm changes their race so we can do race changes when new remort rules come in
+[ 1291] Shabazz: doing and owhere or mwhere on anything that there are alot of ex. oldstyle or vorkai
+[ 9627] Grbrthrxs: fix it in code so nothing can weigh less than its level
+[ 9627] Grbrthrxs: rewrite fucknet wiznet from scratch
+[ 9627] Grbrthrxs: redo the fucking imm command levels, since apparently no one is capable of using them correctly and without cheating
+[ 1201] Grbrthrxs: add HP/MANA to bonus, lower the level of the command, and lower gohan's level so he can't use set
+[ 3054] Whisperwolf: Im sure you've already recieved this one, but The full Race names on the wholist of course off set alot of names and such :)
+[ 1948] Mangus: Corpse looting is not permitted, when i tried to get my stuff back out of a bag that was made out of Whisperwolf.  I had to get him to type noloot to get my shit out!
+[ 1948] Mangus: an added note the the previous bug....i could only get the stuff out when he was not here.
+[ 1336] Havok: when you type vortex reveal to find a vortex, it does A tiny vortex shimmers and dissapears in a puff of smoke.
+[ 3001] Whisperwolf: um.. the vortex at recall needs to some how be unable to be picked up.. cause if it gets picked up, noone can use it
+[ 9568] Whisperwolf: the spells given from heads and hearts = 0 hours.. dont know if that is how it is supposed to be
+[ 1246] Xynq: I tried to activate a vortesx and it said: <link rel="stylesheet" href="http://nyarlathotep.elder-gods.org/od/odstyle.css" type="text/css"><style>a:link{color:#8A2BE2;text-decoration:none;}</style>
+[ 1246] Xynq: whups
+[ 1246] Xynq: it said  This is a bug at line 228 of vortex.c. Please report it.
+[ 1246] Xynq: socket just lists everyone as (unknown)
+[ 3014] Whisperwolf: IMMS!!!! a newbie wearing a sub issue sword is doing 50 damage to mobs... whats up?
+[ 4850] Whisperwolf: There was a crash and said newbie has a perm frenzy on him... :|
+[ 3001] Pulsar: typing recall shwo says This is a bug at line 228 of vortex.c. Please report it.
+[ 3014] Pulsar: when you type recall show, everyone else in the room sees "Pulsar prays for transportation!"
+[ 3005] Whisperwolf: OKIES.......... HUGE BUG!!!!!!!!
+[ 3005] Whisperwolf: I tried to activate a vortex on the ground, but I was carrying one.. and it crashed it
+[ 3005] Whisperwolf: mud go die :(
+[ 4834] Whisperwolf: BUG at line 228 of vortex.c. Please report it... REPORTING IT!!!!!!!!!!!!!!!!!!!!!!
+[ 1201] Grbrthrxs: code a stop to any object casting a spell or effect above the object's level
+[ 3001] Kiscu: gold dragons are not in line.{/194 Vampire      War Kiscu the NeWBiE{/181 Gold Dragon    War (PK) Lavitz Slambert
+[ 9326] Kiscu: lethargy isnt removed when arena is over
+[ 3001] Artanis: This is a bug at line 228 of vortex.c. Please report it
+[ 3001] Artanis: color bleed on the who list... hope i am not wasting a bug...
+[ 3001] Xynq: someone took the main recall vortex. is that supposed to be possible?
+[ 3001] Xynq: recall keeps getting stolen/sacced/etc
+[ 3001] Aerineth: eating pills shouldn't be prevented if you're full
+[ 6718] Sarrum: assassinate leaves a bountied head sitting in arena
+[ 6718] Buu: I'm not an imm
+[ 1250] Ghini: Buu's a bitch, and should never be an imm
+[11023] Beerbelly: berserk and beerserk can stack.  Is this supposed to happen?
+[11032] Beerbelly: drunk talk doesn't affect group tell
+[11032] Fluffy: sprite talk does not affect group tell
+[ 1201] Grbrthrxs: (OOC) Pulsar gossips 'my idea was 'grb. i think it would be cool if when someone died their head had the "name" of person and head' 'not just head' 'and maybe some way of enforcing the payment of bountys'
+[ 3052] Nalaar: when i am already blessed, and try to bless myself again to refresh the time on the effect, it says i'm already blessed and it wont overwrite it. maybe this is working as intended, but it still takes away the 5 mana bless costs to cast. maybe bug, ma
+[ 1250] Ghini: add a new command or option to mlist/olist/rlist called free so builders don't have to look all through each of the lists to find free vnums
+[ 1201] Grbrthrxs: set a max value increase on gems w/lore
+[ 2208] Torres: mob 2219 remains as a someone after it initiates combat by backstabbing you
+[ 3001] Mangus: i dont think edrain should take exp in the arena...
+[ 3364] Rathan: dragon helpfile says con only goes to 21, i was able to train mine to 23
+[11011] Evelyn: I was blinded and someone tried to comfort me and it said "Someone comforts someone" on my screen.
+[ 3001] Evelyn: when you quaff a potion and you already have that spell, there should be a carriage return after "This person is already under that effect". small but thought you might like to know
+[ 1314] Evelyn: I don't know if this is a bug or what... but why can mobs flee when bashed, but not characters?
+[    8] Darconix: The Room That Is Not!!! Found It One North Of The Locked Door That Used To Be The Entrance Of Nikos Clan Hall! FixIT! *Cackles Madly* (P.S. Capitalized First Letters Rool!)
+[ 3001] Widowmaker: I found a bug, its a Spyder... take a break Grb, you deserve one...
+[ 1342] Evelyn: when you turn off nosummon, it turns off autosac as well
+[ 1251] Halodar: make beep like line break in title, turn it into {{!
+[16568] Quix: A couple of my skills aren't going up. It's been going on too long to be coincidence.
+[16569] Quix: Oh yeah :P Circle, quickpoison, and bash are frozen at 75%.
+[ 3001] Sarrum: stealing from an imm nets you a thief flag... regardless of whether or not you have the skill
+[ 3001] Infest: You can easily annoy the fuck out of imms with the bug command.
+[ 1250] Ghini: increase the max line length by 39 characters :)
+[ 1250] Ghini: increase the max line length by 39 characters :)
+[ 3054] Tamara: If you set a value on an object (ie weight, ac) while wearing it or having it in inventory, it keeps the character weight/ac constant while changing the item's weight/ac.  After removal of item character's weight/ac will drop
+[ 3054] Tamara: (in regards to previous bug entry) changes character's base ac/weight.  Sorry if it wasn't clear
+[ 3054] Kiscu: appears that if you have a spell on you, you cannot use a scoll that casts that spell on someone.
+[ 3001] Nalfeshnee: clan eq
+[ 3001] Nalfeshnee: clan eq
+[ 3001] Nalfeshnee: clan eq
+[ 3001] Nalfeshnee: clan eq
+[ 9597] Ghini: minor bug with flying mobs. If you bash them a few rounds later you can trip them. Dunno if this was intended, doubt it though.
+[ 9594] Ghini: change the display message on heavenly sanc from "silvery aura" to "golden aura"
+[ 3001] Infest: if you're affected by a spell you cannot cast it on another person via item, whereas they are "already under its affect"
+[ 9597] Ghini: That flying bug isn't a bug after all.
+[ 3054] Tenchu: when you put on a piece of EQ for the body slot the display message is "You wear <item name> about your torso"
+[ 3064] Fluffy: <@@@>  appears in the room!  I think that's why the donation wizard is broke
+[ 3001] Fluffy: leader flag seems to stay with character file even if demembered.  If character joins another clan, they automatically have a leader flag
+[ 3057] Gohan: When you donate an object it says 'With a gentle *pop*, (your name) disappears.
+[ 3001] Nalfeshnee: ignore
+[ 3001] Nalfeshnee: the bug is ignore doesnt work"{
+[14183] Halodar: Beryl, a prism dragon paladin, appears to have hear hunger and thirst stuck at 4
+[14183] Halodar: Eating and drinking don't appear to change it
+[ 3763] Fornia: i added arial, but i can't use it
+[    2] Ghini: Make colors not count to line length  on  poofin.
+[ 8968] Quix: Got different exp for two different kills of the same mob (179 one kill, 182 the next)
+[ 8975] Quix: ok, different exp for 3 kills of same mob, 179, 182, then 134. All the same. Weird shit.
+[ 8318] Fuitentooty: I'm not sure what this guide command does, but it enables you to follow mobs that have "guide" in their act, and you can beat the mob up without it touching you
+[14118] Fuitentooty: If the merchant is invisible and out of the player's range for the detect invis to work, the player can still get a list from the invisible merchant.
+[    8] Aerineth: found the room that is not north of Aftermath in Xeryl
+[ 2426] Fuitentooty: If you kill a character in the arena by a spell, the fight continues outside the arena.
+[ 3001] Fuitentooty: If there are more than one spell on a magic item, and if the player quits with that item, the item duplicates the 1st spell to all spell slots when the player logs back in.
+[ 3001] Fuitentooty: If a builder attempts to use mpedit with a security less than 7, the port crashes.
+[14118] Fuitentooty: If a person is slayed by a mob inside the arena, the person gets killed as though he was not in the arena.  The other combatant remains in the arena
+[ 3001] Ghini: the combatant also loses their PK flag if they're PK.
+[14118] Fuitentooty: If you stat a character, the invis and incog fields will be the values of the person doing the stat, not of the character being statted.

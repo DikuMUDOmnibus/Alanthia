@@ -1,0 +1,1998 @@
+#AREADATA
+Name Tyerian's Hunting Ground~
+Builders Fluffy Halodar~
+VNUMs 11100 11199
+Credits {40   70} Roland      Hunting Grounds~
+Security 9
+Version 1
+End
+
+
+
+#MOBILES
+#11100
+blue dragon~
+a mammoth blue dragon~
+An enormous blue dragon surveys the room through golden eyes.
+~
+Golden orbs shift from side to side, dragging black spots that slide
+across the rounded surfaces like drops of oil.  An enormous tail, covered in
+blue scales that shimmer like mica, flips in sudden, spontaneous movement,
+and eyebrows the color of the sky on a rainy day arch in gentle suspicion,
+settling back into their gentle line after a few moments.  The huge beast's
+body rises and falls in slow rhythm with his breathing, and a faint trail of
+smoke leads from his wide nostrils up towards the ceiling.  
+~
+unique~
+ABF DEFJTZ 0 0
+70 0 0d0+0 0d0+0 0d0+0 claw
+0 0 0 0
+CKMO Q EHIJKL L
+stand stand male 0
+AHZ ACDEFHJKLOPQUVWXY medium scales
+#11101
+kesthai azul~
+a kesthai azul~
+A kesthai azul is masked by fierce war paint.
+~
+A tall, statuesque figure, larger than your average human, has eyes of
+the purest blue like the sky after rain clouds clear and skin the color of
+death.  Long legs with wiry, flexible joints can span enormous distances,
+and thin arms have become muscular from constant service to the dragons. 
+Dedication shines in the vivid blue eyes, and faith is written in the
+markings of the elaborate face paintings.  
+~
+unique~
+AG EFJZ 0 0
+63 0 0d0+0 0d0+0 0d0+0 pound
+0 0 0 0
+AFOUV 0 BDFGI H
+stand stand either 0
+AHMVZ ABCDEFGHIJKLOPQUVWXY medium unknown
+#11102
+stag deer~
+a stag~
+A stag stands poised for flight.
+~
+An enormous rack of horns caps the head of the magnificent stag, weighing
+down the soft, liquid brown eyes and twitching ears.  Dark brown spots
+dapple the tan coat, and a fluffy white tail perks in the forest breezes.  
+~
+unique~
+ABW Z 0 0
+46 0 0d0+0 0d0+0 0d0+0 bite
+0 0 0 0
+FH 0 AB CR
+stand stand none 0
+AGV ACDEFHJKQW medium unknown
+#11103
+condor~
+a condor~
+A condor searches for leftover scraps of flesh.
+~
+A huge bird, the condor has a wingspan of about four feet and sports
+feathers tipped with white at the edges of its wings, contrasting its dark
+body.  Claws tip scrawny yellow feet, and a hooked beak extends from the
+sharp face of the bird.  
+~
+unique~
+AC FT 0 0
+53 0 0d0+0 0d0+0 0d0+0 claw
+0 0 0 0
+FHRX 0 BR E
+stand stand either 0
+AGW ACDEFHKP medium feathers
+#11104
+queen ant~
+the queen ant~
+The queen ant minds her eggs.
+~
+The queen ant is huge, towering at nearly fifteen feet with antennae that
+add another seven feet.  Giant mandibles clack threateningly in a constant
+rhythm on either side of a gaping mouth, and six long, jointed legs provide
+support for the insect.  
+~
+unique~
+A Za 0 0
+65 0 0d0+0 0d0+0 0d0+0 bite
+0 0 0 0
+CKR 0 FI E
+rest rest female 0
+ABGO ACK medium unknown
+#11105
+gnarled tree~
+a gnarled tree~
+An old tree winks at you as you pass.
+~
+Long ago, the King's men were cutting down some timber for the winter,
+when they stumbled upon this monstrosity.  They were quickly loosened from
+their axes, only to reunite with them in the middle of their foreheads.  The
+cut marks are clearly visible on the bottom of this creature, oozing with a
+syrupy blood.
+~
+unique~
+ABCGT V -1000 0
+55 9 300d10+6200 1d1+699 10d9+10 slice
+-62 -62 -62 -31
+EFHIKN 0 0 H
+stand stand male 9200
+AHMV ABCDEFGHIJK medium wood
+#11106
+glowing pebble~
+a glowing pebble~
+A glowing pebble lies in the brook.
+~
+This small rock is flecked with dried blood and small tufts of human hair.
+The great warriors of King Tyerian's Court once tried to clear this forest of
+its deadly beings, but this piece of marble left them face down in the brook.
+~
+unique~
+ABGT HTa -1000 0
+53 10 300d10+6500 1d1+499 20d5+10 none
+-63 -63 -63 -32
+EFK 0 0 0
+stand stand none 9500
+AHMV ABCDEFGHIJK small stone
+#11107
+forest ranger~
+a forest ranger~
+A forest ranger monitors the area for signs of trouble.
+~
+This forest ranger is dressed in brown and dark green garments to blend in
+with the environment.  He was assigned to make sure adventurers are safe
+from the dangers that dwell in the hunting grounds.
+~
+unique~
+AGT d 1000 0
+65 9 300d10+6400 1d1+499 10d9+10 slash
+-63 -63 -63 -32
+EFINRS 0 0 0
+stand stand male 9400
+AHMV ABCDEFGHIJK medium unknown
+#11108
+mantikora creature human head wings lion body~
+a mantikora~
+A strange creature arches feathered wings above its lion-like body.
+~
+Lush fur coats the lion-like body of the fabled mantikora, tapering off
+into a tasselled tail that flicks back and forth emphatically.  The golden
+coat blends into dark skin at the neck, where a human head tops the heavy,
+well-muscled torso.  Sharp claws tip the large paws, and snow white feathers
+spread from the wings that crown the strange creature like a holy aura.  
+~
+unique~
+ABGHT LVZ -1000 0
+41 10 300d10+6600 1d1+499 20d5+10 slice
+-65 -65 -65 -32
+EFHI 0 ABD C
+stand stand none 9700
+AGV ACDEFJKQV medium unknown
+#11109
+giant boar~
+a giant boar~
+A giant boar is here, dwarfing small trees.
+~
+One of the largest game in the area, this boar dwarfs nearby small trees.  In the cool air you notice the steam from respiration coming from its mouth.
+~
+unique~
+AGT a -1000 0
+48 10 300d10+7000 1d1+499 10d10+10 pierce
+-67 -67 -67 -33
+CFIU 0 0 0
+stand stand female 10000
+AGV ACDEFHJK large unknown
+#11110
+larvae~
+a larva~
+A larva squirms on the ground.
+~
+A white larva squirms on the ground, lacking any form of locomotion to
+leave the area.  Two black spots serve as semi-formed eyes, glazed over with
+a frosty haze that proclude their use as any type of sensory organ.  
+~
+unique~
+AB A 0 0
+42 0 0d0+0 0d0+0 0d0+0 suction
+0 0 0 0
+OR 0 F EHI
+stand stand none 0
+ABGO AK medium unknown
+#11111
+giant boar chief venerable~
+the giant boar chief~
+A venerable boar paws the ground uneasily.
+~
+The boar is covered with some sort of war paint.  The orange and blue
+swirls of paint cover his matted brown hair.  There is a real intelligence
+in this creature's eyes, and his brightly decorated tusks glow with a bluish
+hue.  
+~
+unique~
+ABG Oa -1000 0
+55 11 300d10+7800 1d1+499 10d11+10 charge
+-72 -72 -72 -36
+CFI AB C D
+stand stand male 10800
+AGV ACDEFHJK large unknown
+#11112
+guard ant drone~
+an ant drone~
+A drone ant hums a soft warning.
+~
+A giant ant hums a soft warning drone to alert his fellow workers.  It
+stands about fifteen feet tall, and the legs alone must be roughly eight
+feet apiece by themselves, jointed in three approximately even pieces.  
+~
+unique~
+A 0 0 0
+58 0 0d0+0 0d0+0 0d0+0 bite
+0 0 0 0
+FIR 0 FI E
+stand stand male 0
+ABGO ACK large unknown
+#11113
+aphid~
+an aphid~
+An aphid secretes some slimy goo.
+~
+A small green bug secretes a trail of slimy goo behind it as it moves
+slowly along, stretching its six legs at strange angles to achieve
+locomotion.  Tiny antennae thinner than a human hair twitch back and forth
+spastically, swerving in every direction.  
+~
+unique~
+A W 1000 0
+52 0 0d0+0 0d0+0 0d0+0 bite
+0 0 0 0
+0 0 FI E
+stand stand none 0
+AGO ACK small unknown
+#11114
+dung beetle~
+a dung beetle~
+A dung beetle scurries about.
+~
+This dung beetle is covered in dung.  It has two pairs of wings and three
+pairs of legs.  It can't fly, but the wings are very hard.  It does not see
+or hear well, but its tactile sense is sharp.
+~
+unique~
+ACG 0 0 0
+55 0 0d0+0 0d0+0 0d0+0 bite
+0 0 0 0
+HIOV 0 0 0
+stand stand either 0
+AGHMV ABCDEFGHIJKQV small unknown
+#11115
+squirrel~
+a squirrel~
+A squirrel forages for food.
+~
+The squirrel is a chestnut brown, with a long, bushy tail.  It scampers
+along the floor, looking for food to forage.
+~
+unique~
+AGH 0 0 0
+40 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+FH 0 0 0
+stand stand either 0
+AGV ACDEFHJK tiny unknown
+#11116
+woodchuck~
+a woodchuck~
+A woodchuck burrows a small hole.
+~
+This small animal has short legs, a heavy-set body, and grizzled brownish
+fur.  It is also called a groundhog, and it busies itself by digging tunnels.
+~
+unique~
+AGH 0 0 0
+42 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+FH 0 0 0
+stand stand either 0
+AGV ACDEFHJK small unknown
+#11117
+bunny~
+a small bunny~
+A small bunny nibbles on a dandelion.
+~
+The bunny has dark brown fur with black dots.  It is very small and quick.
+~
+unique~
+AGH 0 0 0
+40 0 0d0+0 0d0+0 0d0+0 slash
+0 0 0 0
+FH 0 0 0
+stand stand either 0
+AGV ACDEFHJK small unknown
+#11118
+sheep~
+a sheep~
+A sheep grazes on the grass.
+~
+It looks like a normal sheep.  It's about four feet in length, and looks to
+weigh about one hundred pounds.  It has a cream-colored fleece.
+~
+unique~
+AGH 0 0 0
+46 0 0d0+0 0d0+0 0d0+0 bite
+0 0 0 0
+H 0 0 0
+stand stand either 0
+AGV ACDEFHJKUV medium unknown
+#11119
+ram~
+a ram~
+A ram paws the ground, readying for a charge.
+~
+The ram has a white coat of fur, and two large horns that curl back on top of
+its head.
+~
+unique~
+AFGH 0 0 0
+48 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+CHR 0 0 0
+stand stand male 0
+AGV ACDEFHJKUV medium unknown
+#11120
+gazelle~
+a gazelle~
+A gazelle frolicks in the clearing.
+~
+This animal is very graceful.  It has long legs and horns directed upward
+and backward.
+~
+unique~
+AGH 0 0 0
+48 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+FH 0 0 0
+stand stand none 0
+AGV ACDEFHJKUV medium unknown
+#11121
+female druid~
+a sylvan druid~
+A female druid is here, gathering herbs.
+~
+She is adorned in simple green and brown robes that match the color of her
+environment.  She has elven features, and looks very beautiful.  It looks
+like she leads a very simple life, tending the needs of the forest and the
+fauna.
+~
+unique~
+ABGQ DFH 0 0
+63 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 B Z
+stand stand female 0
+AHMV ABCDEFGHIJK medium flesh
+#11122
+roc~
+a roc~
+A roc is here, guarding her nest.
+~
+The roc is a huge bird, almost looking too big to be real.  It spans sixty
+feet in length, and the wingspan is probably trible that.  It resembles a
+large eagle with dark brown plumage from head to tail.
+~
+unique~
+ABFG T -100 0
+60 0 0d0+0 0d0+0 0d0+0 claw
+0 0 0 0
+CFH 0 0 0
+stand stand female 0
+AGW ACDEFHKP huge unknown
+#11123
+small roc~
+a small roc~
+A small roc flies in the air.
+~
+Even though this is a small roc, it is still large.  It stretches up to
+twenty feet in length, and has a wingspan double that.  It has very sharp
+claws, and it scans the area below for prey.
+~
+unique~
+AGH T -100 0
+52 0 0d0+0 0d0+0 0d0+0 claw
+0 0 0 0
+FH 0 0 0
+stand stand either 0
+AGW ACDEFHKP medium unknown
+#11124
+no name~
+(no short description)~
+(no long description)
+~
+~
+unique~
+A 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+#11125
+hill giant~
+a hill giant~
+A hill giant lumbers through the area.
+~
+The hill giant is barbaric in appearance, with overly long arms, stopped
+shoulders, and low foreheads.  Their limbs are very muscular and massive.
+It towers to sixteen feet tall, and easily weighs over two tons.  It has
+deep ruddy brown skin, black hair, and black eyes.
+~
+unique~
+AFT 0 0 0
+62 0 0d0+0 0d0+0 0d0+0 crush
+0 0 0 0
+CDIR 0 0 0
+stand stand either 0
+AHMV ABCDEFGHIJK huge flesh
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#11100
+Outside the Northern Gate~
+The northern gate of the castle rises high above, an obsidian arch carved
+with the figures of warriors and beasts alike.  A huge crater, nearly two
+hundred feet in length, scars the northern wall, and a turret is missing
+entirely on the eastern side.  An enormous oak forest opens across the moat
+to the north, riddled with faint trails that lead into the depths of the
+hunting grounds.  There is a small {yplaque{x embedded in a tree.  
+~
+0 4 1
+E
+plaque~
+Area modifications done by Fluffy.
+~
+D0
+~
+~
+0 0 11101
+D2
+~
+~
+0 0 11029
+S
+#11101
+On the Northern Drawbridge~
+A vast drawbridge spans the moat around the castle, acrid water swirling
+menacingly under the stone in odd patterns of forest green and navy blue. 
+The northern gate of the castle lies to the south, and the game forests
+spread across the rocky terrain to the north, a vast green haven in the
+brown monotony of the land.  
+~
+0 0 2
+D0
+~
+~
+0 0 11102
+D2
+~
+~
+0 0 11100
+S
+#11102
+Along the Main Road~
+The road cotinues to the north and south.  
+~
+0 0 2
+D0
+~
+~
+0 0 11103
+D2
+~
+~
+0 0 11101
+S
+#11103
+A Bend in the Road~
+The road doesn't seem to get much used this far from the castle.  It
+veers off to the west, and also goes back towards the castle to the south.  
+~
+0 0 2
+D2
+~
+~
+0 0 11102
+D3
+~
+~
+0 0 11104
+S
+#11104
+On the Outskirts of King Arthurs Game Reserve~
+A large game reserve looms to the north.  The reserve is known for its
+fantastic hunting, and for containing the most unusual creatures.  Some say
+that the forest is "stocked" with good hunting animals, but some creatures
+have only been known to be found here.  Nevertheless, it is guaranteed that
+some interesting adventure lies in wait of anyone who enters.  
+~
+0 0 3
+D1
+~
+~
+0 0 11103
+D3
+~
+~
+0 0 11105
+S
+#11105
+Entering the Forest of King Arthurs Game Reserve~
+You begin to pass within the thick forest.  The trees here seem too
+animated, moving by themselves without any assistance from animals or the
+wind.  The path contines east and west.  
+~
+0 1 3
+D1
+~
+~
+0 0 11104
+D3
+~
+~
+0 0 11106
+S
+#11106
+A Turn in the Path Through the Forest~
+The clear path is a little more overgrown here.  The trail continues to
+the north, and also goes back to the east.  
+~
+0 1 3
+D0
+~
+~
+0 0 11107
+D1
+~
+~
+0 0 11105
+S
+#11107
+The Path Ends~
+You stand in the middle of a road.  You can continue north without a
+trail to guide you or head south on the road.  
+~
+0 1 3
+D0
+~
+~
+0 0 11108
+D2
+~
+~
+0 0 11106
+S
+#11108
+A Guard Post~
+You have come upon a decrepit old guard house.  It is not much more than
+a shack now, and the walls seems to have been eaten away by some very large
+creature.  In fact, you walk right through the structure unhindered.  From
+beneath what is left of this post, you notice the only directions that are
+passable are to the north, and back to the south.  The way is getting more
+overgrown.  
+~
+0 1 3
+D0
+~
+~
+0 0 11109
+D2
+~
+~
+0 0 11107
+S
+#11109
+The Bubbling Brook~
+You come across a little bubbling brook.  The clear water gives off a
+strange order, almost like decaying meat.  The water is extremely warm, and
+as you watch the water pass for a bit, you see small skeletons of fish
+floating with the twigs and pine cones.  From here you can make your way to
+the east or to the south.  
+~
+0 1 3
+D1
+~
+~
+0 0 11110
+D2
+~
+~
+0 0 11108
+S
+#11110
+A Crossroads in the Forest~
+An intersection allows exit in all four cardinal directions, paths
+splitting off from the main trails and disappearing among the trees in the
+distance.  Thick underbrush and rotting stumps cover the ground, obscuring
+the rich soil from view in piles of brown and green organic matter.  
+~
+0 1 3
+D0
+~
+~
+0 0 11111
+D1
+~
+~
+0 0 11144
+D2
+~
+~
+0 0 11139
+D3
+~
+~
+0 0 11109
+S
+#11111
+A Boar Hunting Camp~
+A makeshift camp has been set up here.  There are many tracks of people
+who have passed through here, and also dried blood along the trail.  There
+is a big sign on one of the trees.  
+~
+0 0 3
+E
+sign~
+West - Boar Hunting Grounds
+North - Forest
+South - Crossroads
+~
+D0
+~
+~
+0 0 11113
+D2
+~
+~
+0 0 11110
+D3
+~
+~
+0 0 11135
+M 200 H 200
+S
+#11112
+Entryway Into the Dung Mound~
+You stand in the entryway into the dung mound.  The place is overwhelming
+with the smell of feces.  Everything here is made of dung.  Even though the
+place is made of disgusting material, it is expertly designed and sturdy. 
+You see a hole in the dung wall.  West and down lead further into the mound.
+~
+0 1 13
+D3
+~
+~
+0 0 11146
+D5
+~
+~
+0 0 11142
+S
+#11113
+Deep Within the Northern Forest~
+The way to the north and west is blocked by a throng of fallen trees. 
+From here you can go to the east or south to the boar hunting camp.  
+~
+0 1 3
+D1
+~
+~
+0 0 11123
+D2
+~
+~
+0 0 11111
+S
+#11114
+-~
+
+~
+0 5 3
+S
+#11115
+A Sparse Forest Area~
+There are more mature trees here, along with many saplings, but there
+does not seem to be numerous stumps here, like along the deer trail.  Small
+animals have made this their little home.  There is a faint footpaht leading
+west.  South leads back to the main deer trail, while east and north
+continue in the sparse forest area.  
+~
+0 1 3
+D0
+~
+~
+0 0 11117
+D1
+~
+~
+0 0 11116
+D2
+~
+~
+0 0 11152
+D3
+~
+~
+0 0 11118
+S
+#11116
+A Sparse Forest Area~
+Crickets chirp and birds sing their songs as you travel through this part
+of the forest.  An occasional bunny hops out of its hole and darts across
+the floor and disappears.  
+~
+0 1 3
+D0
+~
+~
+0 0 11120
+D3
+~
+~
+0 0 11115
+S
+#11117
+A Sparse Forest Area~
+This is the quiet part of this sparse forest area.  There don't seem to
+be any animals here, or the chirping of crickets and the singing of birds. 
+You see a lot of stumps here, and barely any saplings.  Either the animals
+avoid this part or they hide very well.  
+~
+0 1 3
+D1
+~
+~
+0 0 11120
+D2
+~
+~
+0 0 11115
+S
+#11118
+A Small Footpath~
+You follow a small, faint footpath, well-traversed by animals and humans
+alike.  Birds seem to chirp to provide a song for you on your travels.  The
+footpath leads south to a waterhole, and east to the sparse forest area.  
+~
+0 1 3
+D1
+~
+~
+0 0 11115
+D2
+~
+~
+0 0 11119
+S
+#11119
+A Water Hole~
+This place is cool and refreshing.  Shade is well-provided by the many
+fully grown trees in this area.  Lots of fauna come here to sip at the water
+hole.  This feels like a safe place to rest and recuperate from your travels
+and adventures.  
+~
+0 1025 3
+D0
+~
+~
+0 0 11118
+M 200 H 200
+S
+#11120
+A Sparse Forest Area~
+Lots of small animals inhabit this place, but you notice that none of the
+deer seem to be here, nor do you spot their tracks along the grassy floor. 
+The trees here are mostly saplings, with a few mature ones spread amongst
+themselves.  You also see a few stumps.  
+~
+0 1 3
+D2
+~
+~
+0 0 11116
+D3
+~
+~
+0 0 11117
+S
+#11121
+A Small Clearing~
+This small clearing is populated by a handful of large animals.  Nearby
+sheep can be seen grazing on the grassy field, and rams are butting heads in
+challenges and territorial disputes.  
+~
+0 1 2
+D1
+~
+~
+0 0 11183
+D2
+~
+~
+0 0 11182
+D3
+~
+~
+0 0 11122
+S
+#11122
+A Small Clearing~
+You stand at the beginning of a small clearing.  The many trees and
+saplings bordering the clearing seem to be very different from the ones in
+the rest of this forest.  An occasional stump or root can be found on the
+floor of the clearing.  The clearing spreads out east and south.  North
+leads back to the deer trail.  
+~
+0 5 2
+D0
+~
+~
+0 0 11187
+D1
+~
+~
+0 0 11121
+D2
+~
+~
+0 0 11181
+S
+#11123
+A Walk in the Woods~
+The forest here has let up a little, allowing easier traveling. 
+Uninterestingly enough, the only ways you can go are to the east and to the
+west.  
+~
+0 5 3
+D1
+~
+~
+0 0 11124
+D3
+~
+~
+0 0 11113
+S
+#11124
+A Path of Stomped Down Trees~
+A huge swath of trees have been beaten aside as if it they were
+toothpicks.  It seems this is a very large trail.  You can explore further
+to the north or east to see who needs such a large road, or you can retreat
+to the west and let someone else wonder about it.  
+~
+0 1 3
+D1
+~
+~
+0 0 11128
+D3
+~
+~
+0 0 11123
+S
+#11128
+A Path of Stomped Down Trees~
+The way is easy going, a pleasant break from the bushwacking you had to
+do before getting here.  The stumps from the splintered trees have been
+uprooted and tossed aside, along with the rest of the trees.  The "road"
+continues to the east and west.  
+~
+0 1 3
+D1
+~
+~
+0 0 11129
+D3
+~
+~
+0 0 11124
+S
+#11129
+A Path of Stomped Down Trees~
+This is a slightly more traveled region of the road, making you believe
+you are approaching a more populated area.  You are not sure what kind of
+population, but you are pretty certain that the creatures must be big.  The
+road extends to the east and west from here.  
+~
+0 1 3
+D1
+~
+~
+0 0 11130
+D3
+~
+~
+0 0 11128
+S
+#11130
+A House For Hill Giants~
+You have come upon a large fort structure.  The walls rise about eighty
+feet in the air, and consist of tree trunks planted into the ground like
+bean poles.  There is no roof, and the front door (which you just walked
+through) is wide open.  You can exit the place by going west, or you can
+explore it further by going north or east.  
+~
+0 1 4
+D0
+~
+~
+0 0 11131
+D3
+~
+~
+0 0 11129
+S
+#11131
+A Hill Giant Dining Room~
+You have entered another room in this monstrous structure.  A large fire
+pit is in the center of the room, and some trees, snapped in half as if they
+were sticks, lie next to it.  About thirty deer carcasses are piled up in
+one corner, completely stripped of meat.  Flies buzz around the heap,
+searching for morsels.  
+~
+0 1 1
+D1
+~
+~
+0 0 11132
+D2
+~
+~
+0 0 11130
+S
+#11132
+A Hill Giant Living Room~
+Piles of leaves are found in three corners of this room.  You determine
+that the leaves must act as chairs for very large creatures, by examining
+the way the leaves have been compressed.  You can venture further into the
+home by going north, or you can leave it by going west.  
+~
+0 1 1
+D0
+~
+~
+0 0 11133
+D3
+~
+~
+0 0 11131
+S
+#11133
+A Hill Giant Bedroom~
+A big hole filled with tons of dried leaves is in the center of this
+room.  The only exit is back to the south.  
+~
+0 1 1
+D2
+~
+~
+0 0 11132
+S
+#11134
+A Fading Trail~
+The trail here begins to fade to the north, leading to a small clearing
+in the forest.  The wastes of the boar isn't as plentiful here as along the
+other parts of the trail, but the smell is still bothersome.  The trail
+leads back east.  
+~
+0 1 3
+D0
+~
+~
+0 0 11173
+D1
+~
+~
+0 0 11137
+S
+#11135
+Boar Country~
+The trail is much more distinct here, but it seems to not be maintained
+by human travels.  The path takes strange turns around trees and seems very
+disorganized.  Very large droppings litter the ground.  You can continue
+east or west.  
+~
+0 5 3
+D1
+~
+~
+0 0 11111
+D3
+~
+~
+0 0 11136
+S
+#11136
+Deep Within Boar Country~
+You hear the sounds of boars in the air.  The ground here has a lot of
+depression marks, as though something large traveled through here.  The boar
+range continues south.  
+~
+0 1 3
+D1
+~
+~
+0 0 11135
+D2
+~
+~
+0 0 11137
+S
+#11137
+A Fork in the Trail~
+The trail is very distinct here.  The giant boars were considerate enough
+to relieve themselves on the side of their trail, but the smell is still
+pretty awful.  You can continue to the south or west, or head back to the
+north.  
+~
+0 1 3
+D0
+~
+~
+0 0 11136
+D2
+~
+~
+0 0 11138
+D3
+~
+~
+0 0 11134
+S
+#11138
+End of a Thin Trail~
+The trail ends here, leading to a lot of large holes in the ground.  In
+some of the holes you see boars sleeping.  Some of them are quite deep,
+making it impossible to tell what is inside them without actually going in
+it.  The only way is back to the trail.  
+~
+0 1 3
+D0
+~
+~
+0 0 11137
+S
+#11139
+A Risky Path~
+Drainage off a hillside has created a precarious path of leaves and mud
+which leads up to the top of a nearby tree.  The tree seems to be dead from
+the constant mud slides, but you notice a very large birds nest perched on
+one of the top branches.  It might be worth the risky path to see what is in
+the nest.  From here you can climb the tree by going south, or head back to
+the trail by going north.  
+~
+0 1 3
+D0
+~
+~
+0 0 11110
+D2
+~
+~
+0 0 11140
+S
+#11140
+A Risky Path~
+The slippery path continues up towards the top of the tree.  You find
+yourself quite high above the ground.  You can go east to get to the tree,
+or you can go back down the wobbly trail to the north.  
+~
+0 1 3
+D0
+~
+~
+0 0 11139
+D1
+~
+~
+0 0 11141
+S
+#11141
+On Top of A Large Tree~
+You are on the tree.  You can go back west, or you can walk across the
+branch to the birds nest to the north.  
+~
+0 1 3
+D0
+~
+~
+0 0 11143
+D3
+~
+~
+0 0 11140
+S
+#11142
+A Small Tunnel~
+This is a very small tunnel that was burrowed in the dung mound.  To the
+west it opens up to a wider room.  Up leads to the entryway into the mound. 
+~
+0 513 13
+D3
+~
+~
+0 0 11147
+D4
+~
+~
+0 0 11112
+S
+#11143
+In A Giant Birds Nest~
+You are in a huge birds nest!  Half of Midgaard could fit up here.  Of
+course it goes without saying, but: where there is a big birds nest, there
+is likely to be big birds.  
+~
+0 1 3
+D2
+~
+~
+0 0 11141
+S
+#11144
+A Three Way Intersection~
+The trail splits three ways, heading off through the deadwood to the
+east, west, and north.  Rotting tree trunks spread out in every other
+direction, bordering and surrounding the paths as they wind their way into
+oblivion, disappearing among the thick roots and low brush.  
+~
+0 1 3
+D0
+~
+~
+0 0 11145
+D1
+~
+~
+0 0 11149
+D3
+~
+~
+0 0 11110
+S
+#11145
+Among the Dead Trees~
+Dead, rotting stumps seem to be all that remains of a once-strong forest,
+a dense wood now populated by husks of trees that threaten to topple with
+every breath of wind.  Tough vegetation creeps low across the ground,
+avoiding the hot, moist air that hangs like an invisible pall over the
+region.  
+~
+0 1 3
+D1
+~
+~
+0 0 11162
+D2
+~
+~
+0 0 11144
+S
+#11146
+A Small Room~
+This is a small room in the dung mound.  It definitely isn't made for
+biped species.  Strewn about are bits and pieces of plants and food that
+probably are being stored for the inhabitants.  
+~
+0 1 13
+D1
+~
+~
+0 0 11112
+S
+#11147
+Nesting Area~
+All around you are small dung beetles transporting and carrying food and
+spherical-like brown objects.  They are intent on their work.  You also see
+some very small beetles, probably newly-born.  There is a small tunnel to
+the east.  The room continues north.  
+~
+0 1 13
+D0
+~
+~
+0 0 11148
+D1
+~
+~
+0 0 11142
+S
+#11148
+Nesting Area~
+This part of the room is filled with those small spherical-like dark
+objects.  You see beetles organizing them, rotating them, and transporting
+them to the other side of the room.  Some accidentally bump into you and
+contine on their way.  
+~
+0 1 13
+D2
+~
+~
+0 0 11147
+S
+#11149
+On a Deer Trail~
+Stumps rot into the damp ground on all sides, melting into the dark
+topsoil as if it was water.  A deer trail has been trampled in the moist
+earth, hoof prints still visible in the organic material that is layered
+across the path from the low-lying vegetation.  What few trees do still
+stand tall form a scanty canopy over the forest floor.  
+~
+0 1 3
+D2
+~
+~
+0 0 11150
+D3
+~
+~
+0 0 11144
+S
+#11150
+On a Deer Trail~
+A high hillside blocks the way to the south, but a cave has been carved
+naturally into the slope.  The deer trail extends to the north and east,
+growing more faint as it maneuvers among the trees and stumps in the eastern
+direction, and the trees become more plentiful, shielding the forest floor
+with a leafy canopy.  
+~
+0 1 3
+D0
+~
+~
+0 0 11149
+D1
+~
+~
+0 0 11152
+D2
+~
+~
+0 0 11151
+S
+#11151
+A Dark Cave~
+The cave extends deep into the high hillside, narrowing to nothing more
+than a rocky slit towards the end in the darkness.  A few flakes of rough
+hay are scattered around on the soil, which has been pounded dry and flat
+over the years, and a rack of bones is settled against the eastern wall of
+the cave, leaning at an odd angle.  
+~
+0 1 3
+D0
+~
+~
+0 0 11150
+D2
+~
+~
+0 0 14165
+S
+#11152
+Along the Main Deer Trail~
+The meandering deer trail curls to the south and west, navigating a tight
+corner around a stack of uprooted stumps that have clustered together in a
+small hollow.  Thin saplings mingle with the taller trees that make up the
+forest, mere spindles among the thicker trunks.  There is a much smaller
+trail leading to the north.  The main deer trail continues west and south.  
+~
+0 1 3
+D0
+~
+~
+0 0 11115
+D2
+~
+~
+0 0 11153
+D3
+~
+~
+0 0 11150
+S
+#11153
+On the Deer Trail~
+The deer trail bends north and east, winding among the trees of the
+forest on an age-old path carved by frequent travel.  Rotting stumps dapple
+the peaceful landscape, and the ground is moist and wet, the soil itself
+seeming to exude heat and dampness.  Leaves of the taller trees form a
+scanty canopy overhead, shielding the low-lying vegetation and smaller
+saplings.  
+~
+0 1 3
+D0
+~
+~
+0 0 11152
+D1
+~
+~
+0 0 11154
+S
+#11154
+On the Deer Trail~
+The deer trail winds through the forest, dodging trunks and roots as it
+runs east, north, and west through the trees.  The ground is moist and warm,
+and impressions mar the soil, marking the passage of many woodland animals
+in prints and skids.  A small clearing is south of here.  The deer trail
+continues west and east.  
+~
+0 5 3
+D1
+~
+~
+0 0 11155
+D2
+~
+~
+0 0 11187
+D3
+~
+~
+0 0 11153
+S
+#11155
+A Field of Deer Carcasses~
+White bones spike the floor of the huge open field like albino grass,
+racks of ribs spread open in the air and crossing each other in intricate
+geometric patterns.  A faint trail leads off west into the forest, melting
+among the trees, and the field extends to the north.  
+~
+0 0 2
+D0
+~
+~
+0 0 11156
+D3
+~
+~
+0 0 11154
+S
+#11156
+A Field of Deer Carcasses~
+Bones and carcasses of deer are stacked high, obscuring the grass and
+soil of the huge field that spreads to the south and east.  White rocks,
+granular and easily broken up, litter the field to the north, scattered
+among the bones, and a gigantic mound of dirt is piled to the east, reaching
+almost to the treetops with its rounded dome.  
+~
+0 0 2
+D1
+~
+~
+0 0 11157
+D2
+~
+~
+0 0 11155
+S
+#11157
+A Huge Mound of Dirt~
+A huge mound of dirt has been meticulously piled to form a earthen dome
+of gigantic proportions.  A hole in the top, roughly six feet in diameter,
+allows entrance into the mound from the crest, and a small path leads down
+the outside edge to the west, where a field opens up among the trees.  The
+soil is moist and warm, heated from beneath by a hidden force.  
+~
+0 5 2
+D3
+~
+~
+0 0 11156
+D5
+~
+~
+0 0 11158
+S
+#11158
+In a Giant Mound~
+A bit of natural light filters down through the giant hole in the top of
+the mound, drifting through the vertical tunnel that stretches an amazing
+eight foot in diameter.  Another passageway connects with it perpendicularly
+and extends to the east through the dark moist soil far below the ground
+surface.  
+~
+0 1 2
+D1
+~
+~
+0 0 11159
+D4
+~
+~
+0 0 11157
+S
+#11159
+A Tunnel~
+A narrow tunnel runs through the soil, forming a horizontal cylinder
+perhaps eight foot in diameter that bends to the north and west in a gentle
+curve.  The walls have been smoothed to accurately rounded arcs that join
+imperceptibly with similar ceiling and floor quarter-circles.  
+~
+0 9 0
+D0
+~
+~
+0 0 11160
+D2
+~
+~
+0 0 11174
+D3
+~
+~
+0 0 11158
+S
+#11160
+The Chamber of Guards~
+Deep scratches and scrapes mar the walls of the domed room, dipping into
+the dirt and resurfacing several feet away.  It arches high overhead,
+peaking several stories in the air in a smooth soil ceiling that was
+carefully sculpted from the surrounding earth.  
+~
+0 9 0
+D1
+~
+~
+0 0 11176
+D2
+~
+~
+0 0 11159
+S
+#11161
+The Queen's Chamber~
+The rounded ceiling of the underground cavern peaks nearly twenty feet in
+the air, and the only exit is a smaller tunnel to the west that twists off
+into the darkness.  Hard-packed earth forms the walls of the cavern, and
+soil has been mounded to form a nest in one corner, a half-circle of
+containment that connects securely to the walls.  
+~
+0 13 0
+D3
+~
+~
+0 0 11177
+S
+#11162
+In the Valley~
+The temperature is warm and the moisture in the air brings a hot, sticky
+film to all it comes in contact with.  The lower plants drip water into the
+soggy ground in a constant rhythm, and the rocks are slick with moisture
+that drifts in off a bank of steamy fog to the north.  
+~
+0 8193 3
+D0
+~
+~
+0 0 11163
+D3
+~
+~
+0 0 11145
+S
+#11163
+Adjacent to a Lake of Steam~
+Dry land melts into a lake cloaked with a steam so thick that it appears
+material, covering the waters like a swirling white blanket.  The ground is
+damp, moist with the condensation from the steam that laps at the edge of
+the soil, and water droplets fall from the lower vegetation that struggles
+to grow by the side of the lake.  
+~
+0 8193 3
+D1
+~
+~
+0 0 11164
+D2
+~
+~
+0 0 11162
+S
+#11164
+The Boggy Marsh~
+Only sludge remains of the deep pond that once filled this shallow
+valley, dried matter bearing testimony to the quick evaporation of the
+waters.  An intense heat invades the area from the south, moisture riding
+the thick breeze like the air before a powerful storm hits.  
+~
+0 8193 3
+D2
+~
+~
+0 0 11165
+D3
+~
+~
+0 0 11163
+S
+#11165
+Past the Point of No Return~
+A steep cliff rises out of the bog, jetting some sixty feet straight up
+into the moist air, where green fungus and organic matter drip from the edge
+and hang in the void.  The dense bog is swampy with rotting material and
+stagnant water, punctuated by dead cypress, and rancid with mold and
+coagulating goo.  
+~
+0 8193 3
+D1
+~
+~
+0 0 11166
+M 70 H 70
+S
+#11166
+At the Edge of the Lava Pond~
+Mushy bog melts into a pool of lava with red, brown, and green goo mixing
+and swirling together like a horrible fingerpainting.  Heat blows off of the
+lava, lifting steamy moisture into the air, and the organic matter in the
+swampwater smokes and hisses gently as it burns slowly into the lava, where
+it dissolves into the red liquid as it slides out of sight.  
+~
+0 8193 3
+D0
+~
+~
+0 0 11167
+D3
+~
+~
+0 0 11165
+M 50 H 50
+S
+#11167
+On the Pond of Lava~
+Intense heat rises from the pool of hot lava that surrounds the small
+trail of stepping stones, enveloping the air above the rock in a steamy
+moisture.  Glowing red rocks bubble to the surface of the pond and then sink
+back to the depths in a neverending cycle.  
+~
+0 8193 3
+D1
+~
+~
+0 0 11168
+D2
+~
+~
+0 0 11166
+M 50 H 50
+S
+#11168
+On the Pond of Lava~
+A pool of pure red heat spreads in every direction, away from the thin
+path of stepping stones that lead across the molten pond.  Flat rocks just
+within jumping distance of each other form a trail across the pond like
+fiery lilypads, a mixture of silver and sickly green streaked with red
+flames.  
+~
+0 8193 10
+D2
+~
+~
+0 0 11169
+D3
+~
+~
+0 0 11167
+M 50 H 50
+S
+#11169
+The Valley of Death~
+Carcasses line the sides of a path of the dead that winds through the
+valley, curving gently to the north and east among the assorted corpses.  A
+nearly intolerable stench rises from the rotting flesh as it bakes in the
+intense heat that emanates from the east, and various body parts have fallen
+into the walkway, littering the soil with deteriorating skin and organs.  
+~
+0 1 2
+D0
+~
+~
+0 0 11168
+D1
+~
+~
+0 0 11170
+M 70 H 80
+S
+#11170
+The Valley of Death~
+Stacks of corpses form a corridor for travel through the valley, allowing
+passage east and west along the makeshift path.  Fierce heat emanates from a
+gigantic cave of steel and swirling fire that opens to the east, and the
+trail disappears around a curve far to the west.  Horrible fumes are almost
+visible as they rise from the bodies that bake in the wretched heat.  
+~
+0 8192 2
+D1
+~
+~
+0 0 11171
+D3
+~
+~
+0 0 11169
+M 80 H 80
+S
+#11171
+The Entrance to the Steel Cave~
+Wrought from tons of hot steel, a fiery cave arches high overhead, silver
+and red mixing in a molten swirl that lights the room in an orange glow.  An
+immense amount of heat radiates through the cave from the south, where it
+continues to melt into a substance that resembles silver lava flowing in the
+shape of an archway.  
+~
+0 8200 0
+D2
+~
+~
+0 0 11172
+D3
+~
+~
+0 0 11170
+M 60 H 60
+S
+#11172
+The End of the Steel Cave~
+The molds of skeletons have been burnt into the walls of pure, melted
+steel by a force of heat that must be roughly equivalent to that at the
+center of the planet.  The walls, ceiling, and floor of the huge cave are
+colored silver, reflecting any light like a warped mirror that twists forms
+and shapes, and the hot, dry air is reminiscent of the interior of an oven. 
+~
+0 8200 0
+D0
+~
+~
+0 0 11171
+M 60 H 60
+S
+#11173
+A Small Clearing~
+This clearing was somewhat made naturally.  Many of the trees encircling
+it have huge gashes on them, made from the boar tusks.  The clearing is
+actually filled with felled trees that have either been stomped flat or
+decayed.  
+~
+0 1 3
+D2
+~
+~
+0 0 11134
+S
+#11174
+Tunnel to Ant Graveyard~
+Lots of large worker ants are here, crawling with ant bodies in their
+huge mandibles.  The ants they have in their mandibles look dead, and they
+are taking them east.  
+~
+0 9 0
+D0
+~
+~
+0 0 11159
+D1
+~
+~
+0 0 11175
+S
+#11175
+An Ant Graveyard~
+You stand in the ant graveyard.  Worker ants are sent to retrieve their
+dead and stack them here.  This graveyard is huge, the room probably close
+to fifty feet in diameter.  There is also a huge pile of ant bodies.  
+~
+0 9 0
+D3
+~
+~
+0 0 11174
+S
+#11176
+A Large Opening~
+The tunnel leads to a large room that opens up.  You can smell the stench
+of decaying corpses to the south and east.  Ants seem to come into this room
+and drop off bodies and plants for storage.  
+~
+0 9 0
+D0
+~
+~
+0 0 11177
+D1
+~
+~
+0 0 11179
+D2
+~
+~
+0 0 11178
+D3
+~
+~
+0 0 11160
+S
+#11177
+Tunnel to the Queen Ant~
+The large tunnel bends east and south.  To the east you can see a huge
+ant surrounded with white things.  To the south you see ants dragging in and
+piling things.  You also catch the scent of rotting flesh.  
+~
+0 9 0
+D1
+~
+~
+0 0 11161
+D2
+~
+~
+0 0 11176
+S
+#11178
+Food Storage~
+This room stores a lot of animals, most of them very fresh.  You see a
+few ants migrating to this area to munch on a few carcasses.  More food
+stockpiles are east.  
+~
+0 9 0
+D0
+~
+~
+0 0 11176
+D1
+~
+~
+0 0 11180
+S
+#11179
+Food Storage~
+You see a pile of carcasses stored here.  It is mostly composed of deer
+carcass, most likely found from the end of the main deer trail where many
+deer carcasses lay.  You see more food piles stored to the south.  
+~
+0 0 0
+D2
+~
+~
+0 0 11180
+D3
+~
+~
+0 0 11176
+S
+#11180
+Food Storage~
+In this room the ants store plants.  In most cases, the plants are small
+saplings, chewed off at the base.  This could explain why there are so many
+stumps in the forest.  To the north and west there are more food stockpiles.
+~
+0 9 0
+D0
+~
+~
+0 0 11179
+D3
+~
+~
+0 0 11178
+S
+#11181
+A Small Clearing~
+All of the stumps and roots in this part of the small clearing seems to
+have been cleared, replaced by lush grass and small, colorful flowers.  The
+trees stand tall, providing an impenetrable and protective barrier, both
+from the sun and any predators.  
+~
+0 0 2
+D0
+~
+~
+0 0 11122
+D1
+~
+~
+0 0 11182
+S
+#11182
+A Small Clearing~
+The grass is a lush green, carpeting the clearing and providing
+sustenance for the inhabitants.  Small flowers dot the carpeting, giving it
+a moziac appearance.  The clearing extends north, east, and west.  To the
+south you see a break in the barrier of trees.  
+~
+0 0 2
+D0
+~
+~
+0 0 11121
+D1
+~
+~
+0 0 11184
+D2
+~
+~
+0 0 11185
+D3
+~
+~
+0 0 11181
+S
+#11183
+A Small Clearing~
+You enter a part of the clearing where the dominate trees are saplings
+instead of the mature ones.  This area looks very young, and these trees
+look native to the rest of the forest, unlike the other trees located in
+this clearing.  This place provides very little, if any, shade from the sun
+or from any rain.  
+~
+0 0 2
+D2
+~
+~
+0 0 11184
+D3
+~
+~
+0 0 11121
+S
+#11184
+A Small Clearing~
+This place provides a lot of shade from the light.  A few animals lay on
+the ground, on their backs, their feet in the air, basking in the coolness
+provided by the trees.  
+~
+0 0 2
+D0
+~
+~
+0 0 11183
+D3
+~
+~
+0 0 11182
+S
+#11185
+A Break in the Barrier of Trees~
+There are many small animals in this place.  Rabbits dart from behind the
+trees, squirrels scamper to the branches and to the ground, and birds sing
+songs.  They do not seem to be phased by your presence.  A small path leads
+south.  
+~
+0 0 2
+D0
+~
+~
+0 0 11182
+D2
+~
+~
+0 0 11186
+S
+#11186
+A Druid's Home~
+You set foot into a druid's home.  It is not build of anything artifical,
+nor have the local plants been disturbed to create this place.  From the
+looks of it, this looks like it was naturally formed.  A stump provides a
+place to sit.  Herbs are scattered along the floor, and all sorts of exotic
+plants and flowers blossom with life.  
+~
+0 524288 2
+D0
+~
+~
+0 0 11185
+S
+#11187
+Path to a Small Clearing~
+Tree stumps and roots have decayed and been trampled on for many years,
+resulting in a trail leading to a small clearing.  There are many footprints
+on the ground of a wide variety of animals leading to this clearing to the
+south.  North leads back to the main deer trail.  
+~
+0 5 3
+D0
+~
+~
+0 0 11154
+D2
+~
+~
+0 0 11122
+S
+#0
+
+
+
+#SPECIALS
+M 11100 spec_breath_lightning
+M 11112 spec_guard
+M 11114 spec_poison
+M 11121 spec_cast_cleric
+S
+
+
+
+#RESETS
+M 0 11107 3 11104 1
+M 0 11105 4 11105 2
+M 0 11105 4 11105 2
+M 0 11105 4 11106 2
+M 0 11105 4 11106 2
+M 0 11106 1 11109 1
+M 0 11117 2 11116 2
+M 0 11115 2 11117 1
+M 0 11116 2 11117 1
+M 0 11115 2 11118 1
+M 0 11117 2 11120 2
+M 0 11118 3 11121 1
+M 0 11119 2 11121 1
+M 0 11120 3 11122 1
+M 0 11107 3 11123 1
+M 0 11125 4 11128 2
+M 0 11125 4 11131 2
+M 0 11125 4 11133 2
+M 0 11109 4 11136 1
+M 0 11109 4 11138 2
+M 0 11109 4 11138 2
+M 0 11111 1 11138 1
+M 0 11123 2 11140 1
+M 0 11123 2 11141 1
+M 0 11114 3 11142 1
+M 0 11122 1 11143 1
+M 0 11122 1 11143 1
+M 0 11102 9 11145 1
+M 0 11114 3 11146 1
+M 0 11114 3 11148 1
+M 0 11102 9 11150 1
+M 0 11108 1 11151 1
+M 0 11102 9 11153 1
+M 0 11103 3 11155 1
+M 0 11103 3 11156 1
+M 0 11112 6 11158 2
+M 0 11112 6 11159 1
+M 0 11113 2 11159 1
+M 0 11112 6 11160 3
+M 0 11113 2 11160 1
+M 0 11110 3 11161 1
+M 0 11110 3 11161 1
+M 0 11104 1 11161 1
+M 0 11101 5 11165 1
+M 0 11101 5 11166 1
+M 0 11101 5 11168 1
+M 0 11101 5 11170 1
+M 0 11101 5 11171 1
+M 0 11100 1 11172 1
+M 0 11109 4 11173 1
+M 0 11112 6 11175 3
+M 0 11112 6 11179 3
+M 0 11120 3 11181 1
+M 0 11118 3 11182 1
+M 0 11120 3 11182 1
+M 0 11118 3 11183 1
+M 0 11121 1 11186 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

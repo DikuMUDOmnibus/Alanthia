@@ -1,0 +1,631 @@
+#AREADATA
+Name Housing~
+Builders Fluffy Halodar~
+VNUMs 4600 4799
+Credits {  ALL  } Shoshara    Housing~
+Security 9
+Version 1
+End
+
+
+
+#MOBILES
+#4600
+no name~
+(no short description)~
+(no long description)
+~
+~
+unique~
+A 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+#4601
+woowoo~
+woowoo~
+Woowoo
+~
+Woowoo is here to kill the residents and reset the mob program so people can trick or treat again!
+~
+unique~
+ABM BP 0 0
+309 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#4600
+Scatha Street~
+Yellow lanterns cast gentle spirals on the cobblestone street.  Sturdy
+green plants fight their way into the sunlight from tiny cracks in the
+cobbles.  The street is a patchwork of granite browns and greys.  A small,
+cozy brown shack lies to the south.  A tiny house of white marble and
+granite overlooks the street from upon a hill.  Small wooden stairs lead
+down the hill to a quaint cottage built of deep brown logs.  North of the
+street lies a simple grey house with white doors and window panes.  A small
+sign lies in the street.  
+~
+0 0 1
+D0
+~
+door~
+4 4606 4606
+D1
+~
+~
+0 0 4601
+D2
+~
+door~
+4 4605 4605
+D3
+~
+~
+0 0 3259
+D4
+~
+door~
+4 4616 4616
+D5
+~
+door~
+4 4615 4615
+S
+#4601
+Scatha Street~
+The cobblestone street continues, reavealling yet another culdesac of
+housing.  A gentle hill slopes upward to the north and downward to the
+south.  A small set of red-stained wooden stairs climb and descend the hill,
+extending from the street.  A tiny cottage built of red pine wood sits on
+the northern side of the street.  Behind it, up the hill, lies a larger
+house built of red-brick.  On the southern end of the street a home of
+seamless dried clay with a grass roof dominates the view.  The stairs lead
+down to a small waddle shack.  In the center of the street sits a small
+sign.  
+~
+0 0 1
+D0
+~
+door~
+4 4608 4608
+D1
+~
+~
+0 0 4602
+D2
+~
+door~
+4 4607 4607
+D3
+~
+~
+0 0 4600
+D4
+~
+door~
+4 4618 4618
+D5
+~
+door~
+4 4617 4617
+S
+#4602
+Scatha Street~
+The cobblestone street, a tapestry of greys and browns, continues east
+and west.  A small garden extends from the street to the north and up the
+hill.  Two houses off white-washed wood share the garden's multitude of
+flowers, herbs, and vegetables.  A large tree hovers over the small brick
+cottage to the south.  It's emerald leafy branches cast the cottage into a
+cool, pleasant shade.  Behind the cottage is a small but comfortable shack
+of tan sun-dried clay.  A small sign is nailed to a post extending from a
+break in the cobbles.  
+~
+0 0 1
+D0
+~
+door~
+4 4610 4610
+D1
+~
+~
+0 0 4603
+D2
+~
+door~
+4 4609 4609
+D3
+~
+~
+0 0 4601
+D4
+~
+door~
+4 4620 4620
+D5
+~
+door~
+4 4619 4619
+S
+#4603
+Scatha Street~
+This stretch of Scatha street seems nearly unkept.  Wild bushes of
+emeralds and various shades of green battle for hold of the street.  Several
+cracks in the cobbles reveal tiny green weeds peeking through the stone.  A
+white house north of the road is a haven for crawling ivies and vines. 
+Further up the hill, several varieties of weeds and vines grow from a
+blackened brick home.  The southern side of the road is quieter than the
+north, but a sense of wildness pervades.  Looming trees, pines and
+evergreens, fight for the downward sloping hill.  Two small houses, one of
+mapel and the other of oak, are barely visible through the thick rush of
+trees.  The tiny weeds in the cobbles cling happily to the base of a small
+sign.  
+~
+0 0 1
+D0
+~
+door~
+4 4612 4612
+D1
+~
+~
+0 0 4604
+D2
+~
+door~
+4 4611 4611
+D3
+~
+~
+0 0 4602
+D4
+~
+door~
+4 4622 4622
+D5
+~
+door~
+4 4621 4621
+S
+#4604
+Scatha Street~
+The far eastern end of Scatha Street reveals a quiet, serene neighborhood
+of four houses.  A small pond, set into the gently sloping hill, reflects
+the yellow lamplight shining from the door of a tan house south of the road.
+Behind the tan house, on the southern side of the pond, sits a cottage of
+blue stained wooden beams.  Bordering the north end of the road is a simple,
+white house with icy blue shutters and doors.  Looking up the hill reveals a
+shack of waddle with a tightly thatched roof.  A small sign extends upward
+from the cobblestone street.  
+~
+0 0 1
+D0
+~
+door~
+4 4614 4614
+D1
+~
+~
+0 0 3265
+D2
+~
+door~
+4 4613 4613
+D3
+~
+~
+0 0 4603
+D4
+~
+door~
+4 4624 4624
+D5
+~
+door~
+4 4623 4623
+S
+#4605
+House One~
+Sparse walls of unfinished and natural brown wood encase a hard floor of
+reddish brown clay.  Soft swirls of deep mahogany swim in the lighter brown
+of the walls.  Dusts and clouds of reds and browns cast shadows of color on
+the floor.  A small indentation in the center of the room holds a pile of
+dried firewood and kindling.  A circular break in the thatched grass roofing
+lies just above the pit.  
+~
+0 1032 0
+D0
+~
+door~
+4 4605 4600
+M 115 H 115
+S
+#4606
+House Two~
+A bare floor carpeted in soft, squishy grey is bordered by walls of light
+grey wood.  One, singular window draped in pure white satin curtains
+overlooks Scatha Street to the south.  The door, situated next to the
+window, is made of light maple and carved with simple patterns.  A small,
+grey lantern in the northeastern corner provides the room with sparse
+lighting.  
+~
+0 1032 0
+E
+lantern~
+A cage of grey metal wires and planks encases a large, flat candle.  The
+scent of vanilla permeates from the candle along with a soft, yellow light. 
+~
+E
+door~
+The light maple door is covered by squares of simple spirals and
+illuminations.  A light grey doorway frames the door.  
+~
+E
+window~
+A small ledge extends from the window pane, just wide enough to sit on. 
+Looking beyond the grey crossed planks of the window, one can see a quiet
+street of grey cobbles.  
+~
+D2
+~
+door~
+4 4606 4600
+M 115 H 115
+S
+#4607
+House Three~
+A floor of clay shaded in an array of red, brown, and tan clouds blends
+seamlessly into walls of the same texture.  A small metal stove glows orange
+with warmth and casts small spheres of light around the room.  A pipe of
+black metal snakes out of the stove in harsh twists created by seams of
+nails.  The pipe exits through a hole in the thatched roof.  
+~
+0 1032 0
+D0
+~
+door~
+4 4607 4601
+M 115 H 115
+S
+#4608
+House Four~
+A hearth of auburn hued clay encases an intense fire.  Strange, oblong
+shadows are cast onto the floor by beams of light reflecting off walls of
+red pine logs.  Green moss in the cracks between the logs keeps the cool
+Midgaardian air from chilling the room.  A solid plank of smooth, red pine
+creates a sturdy door.  
+~
+0 1032 0
+D2
+~
+door~
+4 4608 4601
+M 115 H 115
+S
+#4609
+House Five~
+Hardened bricks of red clay form sturdy, lasting walls.  Seen through a
+tiny window, a towering tree waves its branches like an old friend giving a
+fond salutation.  A jolly little stove sits in the corner, merrily casting
+flickering beams of light around the cozy room.  The stove's chimney pipe
+pokes through a hole in the roof, leading the wood smoke away from the
+house.  In the north wall of the home is a well-fashioned door of dark brown
+wood.  
+~
+0 1032 0
+D0
+~
+door~
+4 4609 4602
+M 115 H 115
+S
+#4610
+House Six~
+Inside the simple whitewashed home is a cozy room of aromatic pine wood. 
+A set of neatly tied blue curtains frame a window that overlooks a beautiful
+garden.  A small metal lantern hangs from the ceiling, casting brilliant
+light throughout the comfortable abode.  
+~
+0 1032 0
+D2
+~
+door~
+4 4610 4602
+M 115 H 115
+S
+#4611
+House Seven~
+Dark walls of smooth, polished, red oak are decorated with swirling grain
+of deep mahogany.  An inviting fire burns, radiating yellow heat throughout
+the room.  The flame is encased by a hearth of dark marbled stones.  Set
+within the northern wall is a door of polished oak planks.  A small,
+tarnished, metal knob latches the door.  
+~
+0 1032 0
+D0
+~
+door~
+4 4611 4603
+M 115 H 115
+S
+#4612
+House Eight~
+Stark white paint blankets a wooden floor and walls, creating a light,
+airy environment.  A large window dominates the northern wall.  During the
+day, rays of brilliant sunlight filter through the foliage and envelop the
+small house in splotchy light.  The white ceiling arches gently into a soft
+dome.  Even the smallest of noises echoes throughout the room, playfully
+bouncing off the bare walls.  
+~
+0 1032 0
+D2
+~
+door~
+4 4612 4603
+M 115 H 115
+S
+#4613
+House Nine~
+Vertical beams rise from a light hardwood floor to meet a ceiling of
+textured white paint.  Light brown scaffolding lies along lines of
+intersection between the walls, floor, and ceiling.  A strong metal chain
+suspends a glass lantern from the ceiling.  A pale tan frame borders a
+doorway of the same color and texture.  
+~
+0 1032 0
+D0
+~
+door~
+4 4613 4604
+M 115 H 115
+S
+#4614
+House Ten~
+A strange chilling cold engulfs the room despite the raging fire that
+provides sparse illumination.  Icey blue scaffolding links snow white walls
+to a floor blanketed in a soft, white carpet.  A small, blue-lined window
+lies within the eastern wall and overlooks a wall of stoney grey.  The door,
+on the southern wall, blends nearly seamlessly into the white walls.  
+~
+0 1032 0
+D2
+~
+door~
+4 4614 4604
+M 115 H 115
+S
+#4615
+House Eleven~
+The fresh scent of pine mingles with the smokey aroma of burning logs in
+the red brick fireplace.  Dark grey morter is squeezed within the small
+cracks between each smooth, sienna log stacked high to create a cozy log
+home.  Several crossed planks and triangular beams stretch across the walls.
+A sturdy layer of black shingles lay atop the beams.  
+~
+0 1032 0
+D4
+~
+~
+4 4615 4600
+M 115 H 115
+S
+#4616
+House Twelve~
+A hardwood floor of smooth, shimmering maple intersects with four walls
+of swirling grey and white marble.  Four small but sturdy wooden shelves are
+set high within each wall.  A large, pearly white candle lies in a shiny
+metal dish on each shelf.  The dishes reflect the luminescence of the
+candles throughout the room causing beams to dance playfully on the walls
+and floor.  
+~
+0 1032 0
+D5
+~
+~
+4 4616 4600
+M 115 H 115
+S
+#4617
+House Thirteen~
+A plank of wood, infested with insects of several varieties, acts as a
+door to the clay shack.  The walls are crudely constructed.  They bulge and
+crack.  Holes and cracks litter the walls like mountains and rivers on a
+map.  Miniscule insects inhabit the cracks, occassionaly venturing into the
+small light provided by a fire-pit dug within the dirt floor.  A hole in the
+ceiling, probobly larger than when first built, allows the dirty smoke of
+the fire to escape, but also invites an array of insects and bugs into the
+house.  
+~
+0 1032 0
+D4
+~
+door~
+4 4617 4601
+M 115 H 115
+S
+#4618
+House Fourteen~
+Small squares of red clay are stacked in an alternating pattern.  Greyish
+morter fills the spaces between each brick.  A thin, woven rug of earth
+tones covers the hard, clay floor beneath the fireplace.  A door of
+blackened, rough planks bound by thin metal sheets opens south and down the
+hill to Scatha Street.  
+~
+0 1032 0
+D5
+~
+door~
+4 4618 4601
+M 115 H 115
+S
+#4619
+{cA {cS{gimpl{ce {cD{gwarve{cn {cC{gabi{cn{x~
+The light glow of a warm, crackling fire fills the room.  As if by some
+slight magic trick, the low, unobtrusive light saturates the entire room,
+even places the light would normally not be able to reach.  The entire cabin
+is built of a fine oak, including the furniture.  The decorations are sparse
+at best, as is the standard among dwarves.  Among the decorations are a
+small array of dwarven weaponry, including a particularly impressive looking
+battle-axe hung above the fire.  The house likely belongs to a dwarven
+adventurer, who uses this simple cabin for shelter.  It's homey, in a
+dwarven sort of way.  
+~
+0 1032 0
+D4
+~
+door~
+4 4619 4602
+M 115 H 115
+S
+#4620
+House Sixteen~
+Two square windows dominate the east and west walls of the cottage. 
+Brilliant fountains of light cascade over the house's whitewashed walls and
+bath it in cool sunlight.  Each window holds a planter of aromatic herbs and
+brilliant flowers.  The door, to the south, is made of shimmering,
+opalescent glass.  Rainbow patterns litter the white floor beneath the door.
+~
+0 1032 0
+D5
+~
+door~
+4 4620 4602
+M 115 H 115
+S
+#4621
+House Seventeen~
+Deep shadows pervade the small maple house.  Metal sconces on each wall
+bear torches that provide short-lived illumination in the room's dense
+shadows.  Small globes of dark, yellow-orange light encase each torch.  The
+room is strangly warm, despite the chill darkness.  A strange door to the
+north opening upward lies littered with strange symbols and engravings.  
+~
+0 1032 0
+D4
+~
+door~
+4 4621 4603
+M 115 H 115
+S
+#4622
+House Eighteen~
+The wild forests and underbrush outside the house seems to have fought
+its way inside.  Snakey vines crawl along the walls and large leafy plants
+grow from the dirt floor in the corners.  The house is amazingly
+comfortable, despite it's uninvited inhabitants.  The foliage seems to keep
+itself to the walls, leaving the center of the house clean, easily
+habitable, and comfortable.  A break in the vines reveals the dark wood
+door.  
+~
+0 1032 0
+D5
+~
+door~
+4 4622 4603
+M 115 H 115
+S
+#4623
+House Nineteen~
+The interior of the small house is rather colorful.  Pale blue walls
+extend upward from a floor tiled in emerald, ruby, and gold patterns.  A
+small window overlooking Scatha street is encased in curtains of emerald and
+azure swirls.  A plank covered in splashes of blue, green, red, and gold
+acts as a door.  
+~
+0 1032 0
+D4
+~
+door~
+4 4623 4604
+M 115 H 115
+S
+#4624
+House Twenty~
+The tiny cottage of waddle and thatched roofing has an ancient and
+comfortable feel to it.  The walls are well constructed of tanish red clay
+with various grasses as support.  The thatched roofing is tight and secure. 
+Not even the smallest particles of grass rain down and the finished clay
+floor is remarkably smooth and clean.  The only blemish on the floor's
+surface is a small pit in the center to act as a fireplace.  A curving metal
+chimney snakes out of the roofing.  
+~
+0 1032 0
+D5
+~
+door~
+4 4624 4604
+M 115 H 115
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 4600 0 2
+D 0 4600 2 2
+D 0 4600 4 2
+D 0 4600 5 2
+D 0 4601 0 2
+D 0 4601 2 2
+D 0 4601 4 2
+D 0 4601 5 2
+D 0 4602 0 2
+D 0 4602 2 2
+D 0 4602 4 2
+D 0 4602 5 2
+D 0 4603 0 2
+D 0 4603 2 2
+D 0 4603 4 2
+D 0 4603 5 2
+D 0 4604 0 2
+D 0 4604 2 2
+D 0 4604 4 2
+D 0 4604 5 2
+D 0 4605 0 2
+D 0 4606 2 2
+D 0 4607 0 2
+D 0 4608 2 2
+D 0 4609 0 2
+D 0 4610 2 2
+D 0 4611 0 2
+D 0 4612 2 2
+D 0 4613 0 2
+D 0 4614 2 2
+D 0 4615 4 2
+D 0 4616 5 2
+D 0 4617 4 2
+D 0 4618 5 2
+D 0 4619 4 2
+D 0 4620 5 2
+D 0 4621 4 2
+D 0 4622 5 2
+D 0 4623 4 2
+D 0 4624 5 2
+M 0 8601 1 4600 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

@@ -1,0 +1,115 @@
+#AREADATA
+Name Palekaiko Island~
+Builders Xynq~
+VNUMs 20900 20999
+Credits {??   ??} Xynq        Palekaiko~
+Security 0
+Version 1
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#20900
+The Dock~
+The smell of saltwater permeates the air as the waves from the south lap
+against the pilings.  There is a ladder down to the mouth of the lagoon, and
+the beach sprawls westwards.  A dense jungle lies to the north.  
+~
+0 0 2
+D3
+~
+~
+0 0 20901
+S
+#20901
+The Beach~
+The pristine sand stretches as far as the eye can see along the west edge
+of the island.  Any footprints have been washed away by the tide, as will
+happen to any new prints that are left behind.  To the east you can see the
+dock.  Strange noises emanate from the jungle to the north, mingling with
+the sound of the ocean to the south.  
+~
+0 0 0
+D1
+~
+~
+0 0 20900
+D3
+~
+~
+0 0 20902
+S
+#20902
+Curving Shoreline~
+Sand stretches north and east following the edge of the island.  Waves
+from the south and west smooth the already immaculate sand.  Looking out to
+sea, one can try to see land or other signs of life...  Try, but not
+succeed.  
+~
+0 0 0
+D0
+~
+~
+0 0 20903
+D1
+~
+~
+0 0 20901
+S
+#20903
+The Beach~
+The shoreline extends north and south before curving away from the ocean.
+To the west the water sparkles until it meets with the horizon and the
+occasional bird call can be heard from the east.  
+~
+0 0 0
+D0
+~
+~
+0 0 20904
+D2
+~
+~
+0 0 20902
+S
+#20904
+The Beach~
+
+~
+0 0 0
+D2
+~
+~
+0 0 20903
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

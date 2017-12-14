@@ -1,0 +1,1700 @@
+#AREADATA
+Name Z'tari's Tomb~
+Builders Fluffy Halodar~
+VNUMs 2700 2799
+Credits {100 180} Karl/Glory  Z'tari's Tomb~
+Security 9
+Version 1
+End
+
+
+
+#MOBILES
+#2700
+tobias~
+Tobias~
+Tobias, the gallery guard, looks around for trouble.
+~
+Tobias scowls at you while muttering under his breath.  He has remained
+within the gallery for years, taking over where generations of his family
+left off.  
+~
+unique~
+ABCDEFGT ABCDEFGV 500 0
+99 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+ABCDEFGHK ABC ABCD ABC
+stand stand male 0
+ABCHMV ABCDEFGHIJK medium flesh
+#2701
+agony wolf~
+a black wolf~
+A large black wolf howls at the moon.
+~
+You see a bristly black wolf that stands about 3 feet off the ground
+while on all fours.  As it bares its teeth, you see streams of purple vapor
+flowing past its lips.  
+~
+unique~
+ABCDEFGT ABCDEFGPQZc 100 0
+101 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+ABCDEFGU ABCL ABCEI ABCY
+stand stand male 0
+ABCGV ABCDEFJKQV medium flesh
+#2702
+towering~
+an onyx statue~
+{y     A towering onyx statue stands before you.{x
+~
+~
+unique~
+ABCDEFGT ABCDEFGTV 100 0
+107 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+ABCDEFGK ABCH ABCD ABC
+stand stand none 1000
+ABCHZ ABCDEFHJKLOPQUVWXY medium onyx
+#2703
+dragon~
+an onyx dragon~
+A large nasty onyx dragon stands here waiting to kill you.
+~
+This magnificent creature is picking his teeth with a two-handed sword as
+it snears disdainfully at you.  
+~
+unique~
+ABCDEFGT ABCDEFGT -1000 0
+105 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+ABCDEFGK ABCIL ABCK ABCE
+stand stand male 2000
+ABCHZ ABCDEFHJKLOPQUVWXY medium onyx
+#2704
+fire dragon~
+a fire dragon~
+A large dragon made of fire melts all he touches.
+~
+You have interrupted a fire dragon as it burns his next meal with its
+searing flame breath.  The dying human is merely a crunchy snack.  The
+dragon turns its attention on you as it licks its fiery lips.  
+~
+unique~
+ABCDEFGT ABCDEFGHV -1000 0
+117 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+ABCDEFGKV ABCH ABCDJ ABCI
+stand stand male 100
+ABCHZ ABCDEFHJKLOPQUVWXY medium fire
+#2705
+thora shadow dragon~
+Thora~
+A shadow on the wall is in the shape of a large dragon.
+~
+Nasty little Thora looks at your shadow and licks her reptilian lips.
+~
+unique~
+ABCDEFG ABCDEFGNQTVa -1000 0
+122 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+ABCDEFGHKV ABCD ABCEHIJ ABCO
+stand stand female 3000
+ABCHZ ABCDEFHJKLOPQUVWXY medium shadow
+#2706
+breath dragon~
+the breath dragon~
+The swirling gas and lightning take dragon form.
+~
+The incorpereal mist rears its mighty head as elements ignite.
+~
+unique~
+ABCDEFGT ABCDEFGQV -1000 0
+118 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+ABCDEFGKV ABCDIKL ABC ABCE
+stand stand none 0
+ABCHZ ABCDEFHJKLOPQUVWXY medium gas
+#2707
+fang~
+the fang~
+A sharp fang rises above the rest.
+~
+A massive fang lunges from the wall, eagerly anticipating your impalement.  
+~
+unique~
+ABCDEFGT ABCDEFGV -1000 0
+114 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+ABCDEFGK ABC ABCD ABCH
+stand stand none 0
+ABCHZ ABCDEFHJKLOPQUVWXY medium ivory
+#2708
+lava dragon pool~
+a lava dragon~
+The pool of lava takes shape.
+~
+The lava pool swirls and undulates, quickly rising into the form of a
+dragon.  Bits of molten material sizzle as they fall to the ground.  
+~
+unique~
+ABCDEFGT ABCDEFGHV 0 0
+132 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+ABCDEFGKV ABCH ABC ABCI
+stand stand none 0
+ABCHZ ABCDEFHJKLOPQUVWXY medium lava
+#2709
+tear teardrop~
+teardrop~
+There is a man-sized teardrop here.
+~
+The teardrop quivers violently as if angered by your intrusion.  It drips
+a clear sticky substance that suctions itself to the ground as it lands.  
+~
+unique~
+ABCDEFGT ABCDEFGV -1000 0
+118 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+ABCDEFGU ABC ABC ABCD
+stand stand none 0
+ABCHMV ABCDEFGHIJK medium flesh
+#2710
+beast~
+a lava beast~
+A large six-foot beast of lava hisses at you.
+~
+The creature is an animated mass of lava that slowly flows upon itself,
+constantly reshaping.  Though there are no visible eyes to the creature, its
+actions prove that it is aware of your presence.  Scalding steam hisses from
+an opening on the creature that must be its mouth.  
+~
+unique~
+ABCDEFGT ABCDEFGZ -1000 0
+122 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+ABCDEFGU ABCH ABC ABCD
+stand stand none 0
+ABCGV ABCDEFJKQV medium lava
+#2711
+ice~
+the ice dragon~
+A giant ice dragon crystalizes upon the floor.
+~
+Crystalline breath glitters with every exhalation of the creature.  Your
+light source sparkles against the dragon, providing a vision of a beautiful
+creature of destruction.  
+~
+unique~
+ABCDEFGT ABCDEFGTV -1000 0
+119 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+ABCDEFG ABCI ABC ABCHO
+stand stand female 1000
+ABCHZ ABCDEFHJKLOPQUVWXY medium ice
+#2712
+guardian~
+a five-headed dragon~
+A five-headed dragon guardian perches here.
+~
+The dragon stands about 200 feet tall and is the width of a small house. 
+Each of its heads are filled with gargantuan teeth that seem eager to rip
+your flesh from your bones.  Their jaws gnash violently, sending dragon
+spray throughout the room.  
+~
+unique~
+ABCDEFGT ABCDEFGHTV 200 0
+141 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+ABCDEFGHKUV ABCD ABCHI ABC
+stand stand none 0
+ABCHZ ABCDEFHJKLOPQUVWXY medium shadow
+#2713
+dracolich sabtooth~
+Sabtooth~
+A massive obsidian dracolich stands here.
+~
+Sabtooth looks right through you as he picks up the remains of his last
+victim.  His skeletal form clanks noisily as all of his cartilage was worn
+away centuries ago.  
+~
+unique~
+ABCDEFGT ABCDEFGHV -1000 0
+132 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+ABCDEFGKV ABCHI ABCD ABC
+stand stand none 1000
+ABCHZ ABCDEFHJKLOPQUVWXY medium onyx
+#2714
+crai dragon~
+Crai~
+A jet-black, 100 foot dragon eyes you intensely.
+~
+Crai is covered in blood and wears a giant skin pouch around his neck. 
+The baby dragon is still discovering his might and would be happy to use you
+as a sparring partner.  
+~
+unique~
+ABCDEFGT ABCDEFGTV -1000 0
+143 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+ABCDEFGKV ABCHI ABC ABCD
+stand stand male 500
+ABCHZ ABCDEFHJKLOPQUVWXY large scales
+#2715
+hurrican dragon tornado~
+a hurricane dragon~
+A large tornado hovers off the ground.
+~
+As the dragon swirls violently within the room, it requires all of your
+strength not to be sucked in by its force.  Dirt and debris tumble
+recklessly through the air, the velocity of the projectiles being quite
+deadly to an unlucky victim.  
+~
+unique~
+ABCDEFG ABCDEFGHTV -800 0
+143 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+ABCDEFGKV ABC ABCD ABCJ
+stand stand female 2000
+ABCHZ ABCDEFHJKLOPQUVWXY large air
+#2716
+ven knight~
+Ven~
+A tall and powerful looking knight stands here.
+~
+Sir Ven Rhomdyl tightens his grip around his weapon as he stares you
+down.  Those versed in the ways of the Order of Honor would know of his
+stature within the society, judging by his insignias.  
+~
+unique~
+ABCDEFGT ABCDEFGV -1000 0
+145 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+ABCDEFGKRV ABC ABC ABC
+stand stand male 200
+ABCHMV ABCDEFGHIJK medium flesh
+#2717
+anton mage~
+Anton~
+A elderly man stands here with book in hand.
+~
+Anton has ice blue eyes that hold a look of forgiveness.  A thick grey
+beard cascades from his chin, and his thinning hair lies flat against his
+head.  His mastery of magic have permanently endowed him with a mystical
+aura.  
+~
+unique~
+ABCDEFGR ABCDEFG -1000 0
+143 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+ABCDEFGKRV ABC ABC ABCD
+stand stand male 100
+ABCHMV ABCDEFGHIJK medium flesh
+#2718
+voldage thief~
+Voldage~
+A figure hides in the shadow.
+~
+A black figure fades in and out of sight as the master thief melds with
+the shadows.  
+~
+unique~
+ABCDEFGS ABCDEFGQV -1000 0
+144 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+ABCDEFGKRV ABC ABC ABC
+stand stand male 5000
+ABCHMV ABCDEFGHIJK medium flesh
+#2719
+tragg cleric~
+Tragg~
+A monk stands here looking for his god.
+~
+Tragg flashes you a look ripe with disappointment.  He grips at his holy
+symbol and closes his eyes briefly before once again gazing at you.  
+~
+unique~
+ABCDEFGQ ABCDEFGH -1000 0
+143 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+ABCDEFGR ABC ABCJ ABCD
+stand stand male 100
+ABCHMV ABCDEFGHIJK medium flesh
+#2720
+no name~
+(no short description)~
+(no long description)
+~
+~
+unique~
+ABCDEFG ABCDEFG 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+ABCDEFG ABC ABC ABC
+stand stand none 0
+ABCHMV ABCDEFGHIJK medium unknown
+#2721
+black fog~
+a black fog~
+A black fog swirls at your feet.
+~
+A thick black fog envelops you angrily.  
+~
+unique~
+ABCDEFGT ABCDEFGQUVZ -1000 0
+180 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+ABCDEFGHK ABCL ABCJQ ABCDHN
+stand stand none 0
+ABCHMV ABCDEFGHIJK medium shadow
+#2722
+ancient deep dragon~
+the ancient deep dragon~
+A looming dragon begins to bite you.
+~
+The ancient dragon of the deep is searching for his offspring that has
+strayed from the lair.  Your scent obviously disgusts him as he snorts
+violently at you.  He seems to have decided to rid his sanctuary of rubbish,
+namely you.  
+~
+unique~
+ABCDEFGT ABCDEFGTV -1000 0
+139 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+ABCDEFGK ABC ABC ABC
+stand stand male 1000
+ABCHZ ABCDEFHJKLOPQUVWXY medium flesh
+#2723
+zombie dragon~
+the zombie dragon~
+A repulsive rotting dragon walks toward you.
+~
+The dragon clambers noisily about as bits of rotting flesh drip from its
+frame.  The stench it emits is similar to raw meat that has been left in the
+sun for too long.  
+~
+unique~
+ABCDEFGOT ABCDEFGMc -111 0
+122 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+ABCDEFGK ABC ABC ABCD
+stand stand none 0
+ABCHZ ABCDEFHJKLOPQUVWXY medium flesh
+#2724
+bats~
+the onyx bat~
+A bat screeches loudly!
+~
+The bat defecates all over you and the surrounding floor as it flutters
+about.  
+~
+unique~
+ABCDEFGT ABCDEFGTVZ -100 0
+145 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+ABCDEFGH ABC ABC ABCS
+stand stand male 0
+ABCGV ABCDEFHJKP medium onyx
+#2725
+mercury dragon~
+a mercury dragon~
+The mercury pool comes to life!
+~
+The dragon, formed from the very mercury it now bathes in, swirls with
+the silver liquid.  As it begins to loom ominously, the beauty of the
+creature has an almost hypnotic affect upon your senses.  
+~
+unique~
+ABCDEFGT ABCDEFGc -1000 0
+158 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+ABCDEFG ABC ABCD ABCI
+stand stand male 1000
+ABCHZ ABCDEFHJKLOPQUVWXY medium mercury
+#2726
+vortex~
+the vortex dragon~
+A swirling vortex lashes at you.
+~
+The claws and fangs of the wind are all you can see as the vortex dragon
+attempts to rip your limbs from their sockets.  
+~
+unique~
+ABCDEFGT ABCDEFGTV -1000 0
+150 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+ABCDEFGK ABC ABC ABC
+stand stand female 0
+ABCHZ ABCDEFHJKLOPQUVWXY medium air
+#2727
+dragon guardian~
+the dragon guardian~
+A 200 foot dragon looms over you.
+~
+The dragon is formed of solid onyx and somehow moves as silently as an
+assassin.  Each of its movements are fluid and swift.  The creature was bred
+for destruction.  
+~
+unique~
+ABCDEFGT ABCDEFGV -1000 0
+162 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+ABCDEFGKV ABCJ ABCD ABCHI
+stand stand male 500
+ABCHZ ABCDEFHJKLOPQUVWXY medium onyx
+#2728
+dracolich~
+the onyx dracolich~
+A 200 foot onyx dracolich peers at you.
+~
+The dracolich, an animated onxy skeleton, rushes at you with a vengeance.
+The creature is the result of the darkest of magic, commanded to protect its
+lord, Z'tari, at all cost.  
+~
+unique~
+ABCDEFGOT ABCDEFGHV -1000 0
+164 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+ABCDEFGK ABCHI ABCD ABCJ
+stand stand none 5000
+ABCHZ ABCDEFHJKLOPQUVWXY medium bone
+#2729
+ztari~
+Z'tari~
+A massive dragon cackles at you!
+~
+Z'tari, fallen lord of the dragons, eyes you as a lion eyes its prey. 
+His echoing laughter strikes harshly against your ears as he flicks his
+massive tail.  His towering stature fills the room as his lungs fill with
+breath, ready to disintegrate you with a mere puff.  You notice a dark gleam
+in his eye just before his jaws snap you in two.  
+~
+unique~
+ABCDEFGT ABCDEFGV -1000 0
+180 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+ABCDEFGKV ABCJ ABCHI ABCD
+stand stand none 10000
+ABCHZ ABCDEFHJKLOPQUVWXY medium onyx
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#2700
+Art Gallery~
+You have entered an immense art gallery overflowing with paintings. 
+Portraits engulfed with a light green glow are hovering just below the
+ceiling.  The artwork on the floor is dull, broken, and uncared for.  The
+walls are covered with framed pictures of various dragons in battle stances.
+Upon a raised dias, in the center of the room, is a painting surrounded by
+an onyx frame.  
+~
+0 12 0
+D2
+~
+~
+0 0 1812
+S
+#2701
+Forest of Agony~
+You are surrounded with blackened trees devoid of any vegetation.  Their
+trunks ooze with a brackish liquid, and there is a faint sulfuric odor in
+the air.  A greenish mist writhes in the air, pieces of it entwining around
+your feet.  Your limbs are starting to go numb.  
+~
+0 0 3
+D0
+~
+~
+0 0 2702
+D1
+~
+~
+0 0 2703
+D2
+~
+~
+0 0 2702
+D3
+~
+~
+0 0 2705
+M -25 H -25
+S
+#2702
+Forest of Agony~
+The trees are petrified and tangled together, and a greenish mist oozes
+through the air.  The scent of sulfur stings your nasal passages.  The
+forest is deathly silent save for the sound of your own movement.  Your
+limbs feel slightly numb and leaden.  Rodents are gnawing on dead branches,
+though their actions are strangely inaudible.  
+~
+0 0 3
+D0
+~
+~
+0 0 2701
+D1
+~
+~
+0 0 2705
+D2
+~
+~
+0 0 2701
+D3
+~
+~
+0 0 2703
+M -25 H -25
+S
+#2703
+Forest of Agony~
+The trees are petrified and tangled together, and a greenish mist oozes
+through the air.  The scent of sulfur stings your nasal passages.  The
+forest is deathly silent save for the sound of your own movement.  Your
+limbs feel slightly numb and leaden.  Rodents are gnawing on dead branches,
+though their actions are strangely inaudible.  
+~
+0 0 3
+D0
+~
+~
+0 0 2704
+D1
+~
+~
+0 0 2702
+D2
+~
+~
+0 0 2705
+D3
+~
+~
+0 0 2701
+M -25 H -25
+S
+#2704
+Forest of Agony~
+You are surrounded with blackened trees devoid of any vegetation.  Their
+trunks ooze with a brackish liquid, and there is a faint sulfuric odor in
+the air.  A greenish mist writhes in the air, pieces of it entwining around
+your feet.  Your limbs are starting to go numb.  
+~
+0 0 3
+D0
+~
+~
+0 0 2705
+D1
+~
+~
+0 0 2706
+D2
+~
+~
+0 0 2703
+D3
+~
+~
+0 0 2706
+M -25 H -25
+S
+#2705
+Guard Tower~
+Two stone pillar formed from onyx border the remains of an old wooden
+tower.  The tower has been completely destroyed, as is evidenced by the
+pieces of mangled wood all around.  Giant claw prints are fossilized in the
+ground, and they are large enough for you to fit inside easily.  The
+sulfuric odor following you through the forest appears to have dissipated,
+and the greenish mist is nowhere in sight.  Your limbs have regained their
+strength.  
+~
+0 0 3
+D1
+~
+~
+0 0 2701
+D3
+~
+~
+0 0 2702
+S
+#2706
+Forest of Agony~
+The trees are petrified and tangled together, and a greenish mist oozes
+through the air.  The scent of sulfur stings your nasal passages.  The
+forest is deathly silent save for the sound of your own movement.  Your
+limbs feel slightly numb and leaden.  Rodents are gnawing on dead branches,
+though their actions are strangely inaudible.  
+~
+0 0 3
+D1
+~
+~
+0 0 2704
+D2
+~
+~
+0 0 2707
+D3
+~
+~
+0 0 2704
+M -25 H -25
+S
+#2707
+Forest of Agony~
+You are surrounded with blackened trees devoid of any vegetation.  Their
+trunks ooze with a brackish liquid, and there is a faint sulfuric odor in
+the air.  A greenish mist writhes in the air, pieces of it entwining around
+your feet.  Your limbs are starting to go numb.  
+~
+0 0 3
+D0
+~
+~
+0 0 2706
+D2
+~
+~
+0 0 2708
+M -25 H -25
+S
+#2708
+Clearing~
+Vibrant living grasses with flowers all around stand as a stark contrast
+to the surrounding forest.  The air is fresh, and clear of any sulfur or
+mist.  Looking south, you see huge steps over 10 feet high and 15 feet wide
+that lead up a steep hill.  The steps lead to an immense building made of
+glossy onyx.  From this distance, it appears that the craftsmanship of the
+structure rivals that of even the most talented dwarves.  
+~
+0 0 2
+D0
+~
+~
+0 0 2707
+D4
+~
+~
+0 0 2709
+S
+#2709
+Tomb Entrance~
+A set of 114 foot tall double doors stand open at the top of the immense
+stairs leading down from the tomb.  They are made of onyx and hold a gilded
+placque.  The inner walls of the tomb are flawless and fit perfectly
+together without any visible seams.  The enormous structure is a mason's
+dream.  
+~
+0 12 0
+E
+placque~
+Z'tari Tomb
+Enter if you Dare
+~
+D1
+~
+~
+0 0 2712
+D2
+~
+~
+0 0 2711
+D3
+~
+~
+0 0 2710
+D5
+~
+~
+0 0 2708
+S
+#2710
+Courtyard of the Dragon~
+You are standing in a massive courtyard enclosed by onyx walls and open
+at the top, offering a perfect view of the Alanthian sky.  Statues of
+dragons and demons standing about 92 feet tall and made of onyx fill the
+room completely.  The statues are all positioned within an expansive rock
+garden that borders the short path spiraling through the courtyard.  
+~
+0 0 0
+D1
+~
+~
+0 0 2709
+S
+#2711
+Inside the Tomb~
+This short hallway has a ceiling about 136 feet high, dwarfing you. 
+There is blood splatter on the walls and pieces of rotten flesh covering the
+floor.  A door is embedded within the western onyx wall, a strange odor
+seeping from underneath.  The tomb is blissfully quiet.  A set of darkened
+stairs lead down from the southern end of the room.  
+~
+0 8 0
+D0
+~
+~
+0 0 2709
+D1
+~
+~
+0 0 2714
+D3
+Carvings on the onyx door form the word "Stormsfury".  
+~
+stormsfury~
+1 0 2713
+D5
+~
+~
+0 0 2715
+S
+#2712
+Statue Room~
+The creator of this tomb had a penchant for artwork as is evidenced by
+the various statues positioned within this room.  All of the structures
+stand about 120 feet tall.  One statue in particular catches your eye.  It
+is positioned in the center of the room and depicts a glorious red dragon
+with its wings outstretched.  The centerpiece was carved from flawless ruby.
+~
+0 8 0
+E
+'statue centerpiece'~
+The ruby statue has a name carved at the bottom - "Darzantha, Dragon
+Goddess".  
+~
+D3
+~
+~
+0 0 2709
+S
+#2713
+Stormsfury~
+You are surrounded by a vortex of elemental energy.  Blue flames, pools
+of acid, poisonous gas, and streaks of lightning wreak havoc upon you. 
+Through the vortex you can see a chest against the northern edge of the
+room.  Your body begins to unravel like twine.  
+~
+0 520 0
+D1
+~
+stormsfury~
+1 0 2711
+M -900 H -900
+S
+#2714
+Shadow Hall~
+A searing heat seems to bubble up from the floor, and the darkened hall
+dances with shadows that seem to taunt you.  There are no signs of bricks
+here, merely smooth onyx walls that appear to have been magically melded
+together.  There are no apparent exits from the hall other than retreating
+back to the west.  
+~
+0 9 0
+D3
+~
+~
+0 0 2711
+S
+#2715
+Dark Passage~
+The inky darkness within this passageway attempts to swallow all light. 
+The cold damp floor reeks of rotting flesh.  Looking down, bits and pieces
+of body parts fill your vision.  Thick streams of blood ooze around you in a
+constant state of coagulation.  Shadows dance along the walls as if filled
+with their own life.  There appears to be a faint glimmer of light to the
+north.  
+~
+0 9 0
+D0
+~
+~
+0 0 2716
+D1
+~
+~
+0 0 2717
+D2
+~
+~
+0 0 2718
+D3
+~
+~
+0 0 2719
+D4
+~
+~
+0 0 2711
+S
+#2716
+Temple of the Dragon~
+Two 180 foot high thrones greet your vision upon entering the room. 
+Though finely crafted, the thrones are layered with dust and unpolished. 
+Several pieces of artwork line the northern and southern walls,
+aesthetically placed.  A portrait on the western wall depicts an onyx and
+ruby dragon with their upstretched talons entwined in a symbol of unity. 
+The painting on the eastern wall shows the same two dragons with wings
+outstretched, standing before a mass of humanoids who are bowed in
+reverance.  The floor of the temple is speckled with dried blood.  
+~
+0 8 0
+D2
+~
+~
+0 0 2715
+S
+#2717
+Hall of Fangs~
+The ceiling of the hall rises about 115 feet into the air, while the
+width extends about 90 feet.  Extending from the northern and southern walls
+are masses of 15 foot long, razor-sharp dragon fangs.  The fangs appear to
+be moving, though perhaps it is a trick of the eyes.  As you continue to
+examine the hall, you notice the rows of fangs are most definitely nearer.  
+~
+0 8 0
+D1
+~
+~
+0 0 2720
+D3
+~
+~
+0 0 2715
+S
+#2718
+Inner Sanctum~
+A tremendous heat blasts against you, emitting from a 40 foot wide river
+of molten lava that flows east to west through the room.  Smoldering bodies
+have mercifully been washed ashore while the less fortunate are flaming
+within the current of the river.  The onyx walls seem to shimmer and sweat
+under the intense heat, and the floor is beginning to bubble.  
+~
+0 8 0
+D0
+~
+~
+0 0 2715
+D1
+~
+~
+0 0 2722
+D2
+~
+~
+0 0 2723
+D3
+~
+~
+0 0 2724
+S
+#2719
+Organ Room~
+You find yourself within a massive room with walls that appear to have
+been crafted from rotten flesh.  The floor has a slimy coating lathered over
+it, making it difficult to maintain your footing.  The scent of death and
+decay is reminiscent of a battlefield immediately after conflict.  Bones are
+protruding from parts of the walls and floor as if forcefully implanted
+there.  A mass of maggots are feeding upon chunks of flesh scattered about. 
+~
+0 8 0
+D1
+~
+~
+0 0 2715
+D3
+~
+~
+0 0 2721
+S
+#2720
+Hall of Torture~
+Sharp metal prods and pincers are propped up against the walls with
+blazing braziers nearby.  One ominous-looking prod with a barbed tip is
+resting within one of the braziers and glows with white heat.  A number of
+contraptions fill the room, all of which are used for the mere pleasure of
+the perpetrator.  Half-dead bodies are trapped within each torture device
+except the Iron Maiden in the center of the room.  The tools of torture seem
+small in comparison to the hall, but they are large enough to comfortably
+fit even the largest troll.  
+~
+0 8 0
+D1
+~
+~
+0 0 2727
+D3
+~
+~
+0 0 2717
+S
+#2721
+Eye Room~
+The room is brightly lit with 20 foot torches that blaze furiously.  In
+the center of the room is a glowing eye easily the size of a large human. 
+The outer part of the eye is yellow and bloodshot, and the pupil is a long
+black slit.  The eye peers at you, following your movement.  A musty stench
+fills the air.  
+~
+0 8 0
+D1
+~
+~
+0 0 2719
+D3
+~
+~
+0 0 2728
+S
+#2722
+Lava River~
+Gurgling and boiling lava fill the room, with widely spread stepping
+stones that somehow withstand the heat.  The smell of burning flesh and hair
+surrounds you, and frantic screams reverberate through the air.  The
+temperature is well above boiling, and the simply act of breathing is
+singing your nasal passages.  The room glows a dull red as you watch the
+lava flow veer south.  
+~
+0 8 0
+D2
+~
+~
+0 0 2726
+D3
+~
+~
+0 0 2718
+S
+#2723
+Hall of Judgment~
+The hall is unlike most of the tomb for there are slight imperfections in
+the onyx walls and several cracks in the rock.  The familiar scent of
+rotting flesh follows you through the hall.  A finely crafted onyx door is
+centered within the south wall.  Smoothly carved runes cover the surface of
+the door, many of them difficult to translate.  
+~
+0 8 0
+E
+door~
+After some struggle, you read the following warning:
+"Go no further. Z'tari awaits."
+~
+D0
+~
+~
+0 0 2718
+D2
+~
+~
+0 0 2731
+S
+#2724
+Lava Pool~
+The sloped edges of the room have caused a massive pool of lava to form. 
+Searing heat rises from the pool, and the lava casts an eerie red glow to
+your body and armor.  The scent of burning flesh seems permanently embedded
+within your nostrils.  To the south is a thick fog that seems to rest in
+place, caught between the heat of this room and the icy drafts from the
+south.  
+~
+0 8 0
+D1
+~
+~
+0 0 2718
+D2
+~
+~
+0 0 2725
+S
+#2725
+Chamber of Ice~
+An icy blast freezes the perspiration covering your body.  Bluish ice
+layers the walls and floors in beautiful formations.  You see humanoid forms
+trapped within the ice, their faces frozen in mid-scream.  The air is fresh
+and clean, though frigid against you.  There is a small grate on the floor
+that is clear of ice.  Warm drafts of air flow up from the grate, creating a
+light mist along the ground.  The northern exit is foggy as heat and ice
+clash.  
+~
+0 8 0
+D0
+~
+~
+0 0 2724
+S
+#2726
+Chamber of Gas~
+A noxious dark green mist spreads around the room so thickly you could
+slice it with a dagger.  The walls and floor are not visible through the
+gaseous cloud.  You notice your skin beginning to boil as the mist attempts
+to cling to you.  Breathing is nearly impossible and your vital functions
+are beginning to falter.  
+~
+0 8 0
+D0
+~
+~
+0 0 2722
+M -700 H -700
+S
+#2727
+Hall of the Dead~
+The hall is expansive, and the onyx walls are covered with a painted
+mural depicting a forest shrouded in greyish twilight.  Enormous crypts rest
+peacefully throughout the hall, each blanketed with runic carvings and
+dragon engravings.  This hall serves as a final resting place for the
+ancient dragons of the land.  Piles of bones lie scattered about the ground,
+though none of them appear to belong to wyrms.  A crypt against the
+northeast wall stands out above the rest.  
+~
+0 8 0
+D3
+~
+~
+0 0 2720
+S
+#2728
+Hall of Vision~
+Eyeballs are embedded within the onyx walls from ceiling to floor, each
+of them turning to gaze at you upon your entrance.  They watch your every
+movement regardless of where you stand.  The irises of the eyes are shades
+of all different colors and the sizes range from tiny to gigantic.  In the
+center of the northern wall is an etched onyx eye that shows your
+reflection.  
+~
+0 8 0
+D1
+~
+~
+0 0 2721
+S
+#2729
+Realm of the Spirit Dragon~
+You emerge onto a mass of hazy smoke colored clouds that somehow support
+your weight.  You can see and hear spirits of dragons swirling around you,
+brushing against you with a chilling tremor.  The translucent beings snort
+at you, beating their ethereal wings slowly.  A sense of misery and anger
+invades your mind, tearing at your will.  
+~
+0 524300 0
+S
+#2730
+Crypt of Darzantha~
+You find yourself within a beautiful crypt with live grasses nurturing
+fragrant flowers.  The crypt does not appear to be in use, but it is
+well-kept and somehow teeming with life.  Along the northern wall is a
+full-size painting of the beautiful ruby dragon known as Darzantha.  Her
+reign has not ended, though her final resting place is reserved.  This inner
+sanctum reflects all of the beauty of life, everything that the dragon
+goddess treasures.  
+~
+0 12 0
+S
+#2731
+Everlasting Life~
+A thick green mist undulates at your feet, clouding the many sharp spikes
+protruding from the floor.  The mist begins to snake its way along your body
+in a slow dance.  With each breath you take, your throat constricts as if
+under a mild grip that is slowly strengthing itself.  A beautiful gold door
+is to the west, and to the east you see an untarnished silver door that is
+easily 100 feet high.  
+~
+0 8 0
+D0
+~
+~
+0 0 2723
+D1
+~
+door~
+1 0 2732
+D2
+~
+~
+0 0 2733
+D3
+~
+door~
+1 0 2732
+S
+#2732
+Oblivion~
+You have entered a dimension non-existant in space or time.  Inky
+darkness envelops your body.  Your body and soul unravel like shorn thread. 
+An intense pressure presses against you, threatening your physical
+integrity.  Your brain is caught in a vise-grip, depressing all normal
+thought patterns.  The pressure intensifies until your body begins to
+implode.  Oblivion has consumed you!  
+~
+0 525 0
+D1
+~
+~
+0 0 8
+M -50 H -50
+S
+#2733
+Cathedral of Z'tari~
+You find yourself within a towering cathedral with not a breath of air
+stirring.  Rows of onyx pews border a center aisle burdened by a thickly
+corded crimson runner.  At the furthest end of the room you can dimly see an
+immense altar.  As you approach with echoing steps, a portrait of an onyx
+dragon comes into view, mounted upon the wall directly behind the altar. 
+Engraved along the bottom of the framed portrait is the word "Z'tari".  
+~
+0 8 0
+D0
+~
+~
+0 0 2731
+S
+#2734
+Bloodstained Cavern~
+Limestone formations dripping with a greenish-white liquid fill this vast
+cavern.  Bloodsplatter covers most of the cavern in a macabre decoration. 
+The corpses of dead adventurers are piled up in a corner, decomposing at an
+unusually slow rate.  The bodies seem to have been shredded and ripped
+apart.  The chilled air has an overwhelming stench of death.  An open cave
+lies to the south.  
+~
+0 9 0
+D1
+~
+~
+0 0 2736
+D2
+~
+~
+0 0 2737
+D3
+~
+~
+0 0 2735
+S
+#2735
+Cavern Ledge~
+The cavern has narrowed into a precarious ledge.  Peering down, you see a
+sheer drop-off that appears to descend several hundred feet.  There is a
+greenish-white glow at the bottom that seems to pulse slightly.  Stalagmites
+and stalagtites thrust from the ceiling, walls, and ledge, all stretching
+nearly 140 feet in length.  
+~
+0 9 0
+D1
+~
+~
+0 0 2734
+D2
+~
+~
+0 0 2738
+S
+#2736
+Rockslide~
+A rockslide fills this portion of the cavern, a result of an intense
+alanthiaquake.  Rubble is strewn everywhere and consists of broken
+stalamites, shattered limestone, and crumbled boulders.  Amidst the debris,
+you see a human hand reaching from beneath boulders.  The hand is frozen in
+the final stages of rigor mortis.  A small trail has been cleared through a
+portion of the rockslide.  It leads south and is adorned with what appear to
+be fresh footprints left by humanoids.  You notice that all of the
+footprints trace a path south, and none have returned.  
+~
+0 8 0
+D2
+~
+~
+0 0 2739
+D3
+~
+~
+0 0 2734
+S
+#2737
+Within the Cave~
+You find yourself surrounded by 200 foot high walls carved from giant
+rocks and stones.  Powerful air currents beat harshly against you, making it
+seem as if you are being pushed back by an invisible foe.  Pebbly dirt
+swirls throughout the cave, carried by unseen hands that seem set on ridding
+themselves of your presence.  Barely keeping your foothold, you see the cave
+continues south, while sanctuary lies to the north.  
+~
+0 8 0
+D0
+~
+~
+0 0 2734
+D2
+~
+~
+0 0 2740
+S
+#2738
+Cavern Ledge~
+The surrounding cavern is black as pitch, the only light source coming
+from a glowing object several hundred feet below you.  Rustlings and scrapes
+reach your ears as the narrow ledge every so slowly deteriorates under your
+weight.  Gazing about, you see natural footholds and handholds leading down
+the side of the rock.  They appear sturdy enough to support you.  A greenish
+mist is snaking its way up from below, its apparent target is you!  
+~
+0 8 0
+D0
+~
+~
+0 0 2735
+D5
+~
+~
+0 0 2741
+S
+#2739
+Rockslide~
+The trail of footprints that lead south are muddled together here, as if
+a scuffle broke out.  The rockslide surrounds the narrow path, making
+movement difficult.  Boulders and broken stones perch unsteadily around you,
+waiting to crush your skeleton with one fell swoop.  You hear rustlings and
+what sounds like low whispers to the south.  Perhaps the owners of the
+footprints are nearby.  
+~
+0 8 0
+D0
+~
+~
+0 0 2736
+D2
+~
+~
+0 0 2742
+S
+#2740
+Deep Within the Cave~
+A solid darkness surrounds you as there are no light sources other than
+that which you brought with you.  The detail of the cave is barely visible,
+though your echoing footsteps tell you the area is immense.  The galestorm
+seems impossibly strong, forcing you to use all muscle strength to remain
+upright.  Squinting against the wind, you suddenly notice what appears to be
+a flicker of light to the south.  Your breath forms small frosty clouds as
+it flows from your mouth and nose.  
+~
+0 9 0
+D0
+~
+~
+0 0 2737
+D2
+~
+~
+0 0 2747
+S
+#2741
+Descent~
+As you carefully travel along the sloping ledge, you notice blood
+splatter covering the rocks.  The remains of what appears to be a fallen
+adventurer are scattered about, pieces of her corpse littering the ledge. 
+Gazing down, you see the torso of the corpse impaled upon a stalagmite that
+is coated with oozing blood.  A greenish mist clings tightly to you,
+chilling you with an icy embrace.  
+~
+0 8 0
+D4
+~
+~
+0 0 2738
+D5
+~
+~
+0 0 2745
+S
+#2742
+Rockslide~
+The trail that has been blazed through the expansive rockslide is
+somewhat wide here, allowing easier travel.  The masses of stone bordering
+the trail seem to glow with an ultraviolet radiance, and your eyes catch
+quick movements in the shadows of the rock.  To the south, the path curves
+around an enormous boulder that reflects a faint orange glow.  To the north,
+the trail narrowly traverses the rockslide.  
+~
+0 8 0
+D0
+~
+~
+0 0 2739
+D2
+~
+~
+0 0 2743
+S
+#2743
+Encampment~
+You have reached an encampment built after intensive clearing of rocky
+debris.  Four canvas tents surround a small campfire which still burns
+warmly.  Eating utensils and scraps of food lie discarded around the
+campsite, most of it teeming with small beetles and millipedes.  Sentry
+trenches have been dug around the border of the comparatively well-kept
+camp.  To the south you glimpse some sort of metallic object.  
+~
+0 8 0
+D0
+~
+~
+0 0 2742
+D2
+~
+~
+0 0 2744
+M 130 H 130
+S
+#2744
+Mercury Pool~
+You see a large pool of mercury about 180 feet in diameter.  The thick
+mercury shivers as large, silvery bubbles grow slowly from its surface
+before breaking back into the pool.  A comfortable heat flows from the
+liquid, a striking contrast from the chilled cavern.  The walls and floor
+surrounding the mercury are formed from polished onyx.  The distinct smell
+of sulfur fills the air, and as you peer at the pool, you can distinguish
+part of a skeleton suspended within the mercury.  
+~
+0 8 0
+D0
+~
+~
+0 0 2743
+S
+#2745
+Bottom of the Ledge~
+Chipped and eroding stalagmites fill the cavernous space.  It is
+difficult not to notice the streams of dried blood that cover the majority
+of the stalagmites, one of which is supporting an impaled corpse.  The air
+is thick with the stench of decay, though it seems your body has become
+somewhat accustomed to it.  The shadows along the walls are flickering, and
+a thick green mist blankets the cavern floor.  You see a small opening in
+the wall to the south.  
+~
+0 8 0
+D2
+~
+~
+0 0 2746
+D4
+~
+~
+0 0 2741
+S
+#2746
+Small Cave~
+You are inside a small, cramped cave that is quite warm in comparison
+with the outer cavern.  The walls and floor have been carved from smooth,
+polished onyx that is somewhat slick to walk upon.  Loud, high-pitched
+squeaking floats down from the ceiling, accompanied by the rapid flapping of
+wings.  A stringent ammonia odor stings your nostrils.  Piles of bones rest
+in the corners of the cave, and a full skeleton lies prone in the center of
+the room.  
+~
+0 8 0
+D0
+~
+~
+0 0 2745
+S
+#2747
+The Vortex~
+You have stumbled into a tempestuous vortex whose winds toss you about
+like a ragdoll.  Your muscles are no longer able to withstand the forceful
+gales, and you are spinning so fast you can barely view the details of the
+room.  Amidst the vertigo, you seem to catch glimpses of a large statue
+swirling in and out of view.  As your body is thrown around the room, you
+realize there are no visible exits entering your swirling vision.  
+~
+0 12 0
+S
+#2748
+Hall of the Fallen~
+You find yourself at the end of a hallway that extends east.  The hall is
+carved from onyx and formed with the same extraordinary craftsmanship that
+was apparent at the surface of the tomb.  There are repetitive symbols
+carved along the over 200 foot high walls.  A mass of corpses litter the
+floor of the hallway, a mixture of human and elvish.  A larger corpse lies
+in the center of the others and is the form of a small onyx dragon, though
+its size is gigantic in comparison to the humans and elves.  Battered
+weapons and armor deteriorate around the bodies.  
+~
+0 8 0
+E
+'corpses'~
+The bodies are beyond recognition.  
+~
+E
+symbols~
+The symbols blanket the walls, and all form the same phrase, "Z'tari
+shall rise again".  
+~
+D1
+~
+~
+0 0 2749
+S
+#2749
+Hall of the Fallen~
+This portion of the enormous hallway contains flaws in the walls and
+small cracks in the floor, a sight rarely seen within the massive tomb. 
+Chips of onyx have been broken from the ceiling.  It appears that a rather
+large creature was the cause of the hall's damage.  The corpse of a knight
+is mangled along the northern edge of the room, most of his armor torn
+apart.  
+~
+0 8 0
+D1
+~
+~
+0 0 2750
+D3
+~
+~
+0 0 2748
+S
+#2750
+Hall of the Fallen~
+The hall is strewn with bones, skulls, and scraps of flesh and armor. 
+Deep gouges that give off a sulfuric scent have been scratched into the onyx
+walls.  A very deep growl echoes through the room, seeming to originate from
+the east.  You begin to notice that the further east you travel, the icier
+the air feels.  Adrenaline begins to pump madly through your blood.  
+~
+0 8 0
+D1
+~
+~
+0 0 2751
+D3
+~
+~
+0 0 2749
+S
+#2751
+Hall Bend~
+The expansive hall turns southward and extends back to the west.  As you
+move onward, you hear the low growling turn into deep echoing laughter.  A
+massive voice says, "Darzantha sent you?  She must be getting desperate in
+her old age"!  The scratches in the wall are long and deep.  Judging from
+the size of the claw marks, the creature that left them must be over 200
+feet tall.  The onyx floor is severely marred and is laden with piles of
+skeletal remains.  
+~
+0 8 0
+D2
+~
+~
+0 0 2752
+D3
+~
+~
+0 0 2750
+S
+#2752
+Hall Junction~
+This junction is free of any mangled bodies and skeletons, but there is
+fresh blood that trails to the south.  A flicker of light catches your
+attention to the west, and to the south is a narrow, partially caved-in
+passageway.  This portion of the hall is in poor condition with chunks of
+onyx shattered around you.  An icy draft flows in from the west, frosting
+your armor.  Something seems odd about the cold that brushes against you, as
+if it were mystical in origin.  
+~
+0 8 0
+D0
+~
+~
+0 0 2751
+D2
+~
+~
+0 0 2753
+D3
+~
+~
+0 0 2754
+S
+#2753
+Passage Cave-in~
+The walls have collapsed haphazardly, and small rocks and dirt continue
+to slide down the massive chunks of stone and onyx.  There is a body of a
+mage lying on the ground, his fingers and hair scorched as if from a
+misfired spell.  He is dressed in long, thick robes and has fallen next to a
+shattered staff.  Unfinished letters have been scrawled in the mage's own
+blood.  
+~
+0 8 0
+D0
+~
+~
+0 0 2752
+S
+#2754
+Hall of Pain~
+A purple mist, flowing in from the west, swirls around you.  Each time
+the mist establishes direct contact with you, mild electric shocks cause
+jolts throughout your body.  The hall is partially destroyed, though the
+source of the destruction is not readily apparent.  You see a small opening
+to the west that you could fit through without much struggle.  A layer of
+frost coats the walls and floor, chilling the air.  A great low voice
+cackles at you.  
+~
+0 8 0
+D1
+~
+~
+0 0 2752
+D3
+~
+~
+0 0 2755
+M -10 H -10
+S
+#2755
+Hall of Pain~
+An enormous passage surrounds you, easily stretching over 300 feet high. 
+The walls are of the same smooth and polished onyx that has traced your way
+through the tomb.  A thick purple mist clings to you, sending electric
+shocks through your muscles.  The southern passage is filled with a soft
+glow.  The air has turned so cold that the air vapor is crystalizing.  A
+mangled corpse is on the floor.  
+~
+0 8 0
+D1
+~
+~
+0 0 2754
+D2
+~
+~
+0 0 2756
+M -20 H -20
+S
+#2756
+Mouth of the Cave~
+You stand before the gaping mouth of a cave that is surrounded by icy
+formations twisted into hideous forms.  Chilly drafts bluster from within
+the opening as a vicious roar beats against your eardrums.  Purple mist
+shrouds the cave entrance, stretching quickly toward you with electrical
+fingers.  A plaque burdened with icicles is mounted to the right of the cave
+entrance.  
+~
+0 8 0
+E
+plaque~
+Welcome to Z'tari's Tomb.
+May what the Immortals have taught, prepare you for what lies ahead.
+~
+D0
+~
+~
+0 0 2755
+D3
+~
+~
+0 0 2757
+M -35 H -35
+S
+#2757
+Tomb of Z'tari~
+An elaborate cave fills your vision.  The ceiling rises about 400 feet
+high, and the walls extend several hundred feet in diameter.  50 foot high
+torches line the gleaming onyx walls, all of them blazing furiously with
+intense flames.  A beautiful mirror standing about 100 feet high and 30 feet
+wide rests against the western wall.  The glass of the mirror wavers with a
+glowing purple light.  Plush bundles of satin fill the western end of the
+cave, permanently indented from constant useage.  
+~
+0 8 0
+D1
+~
+~
+0 0 2756
+S
+#0
+
+
+
+#SPECIALS
+M 2703 spec_breath_gas
+M 2704 spec_breath_fire
+M 2706 spec_breath_any
+M 2708 spec_breath_fire
+M 2713 spec_breath_any
+M 2717 spec_cast_mage
+M 2719 spec_cast_cleric
+M 2722 spec_breath_any
+M 2725 spec_breath_fire
+M 2727 spec_breath_any
+M 2729 spec_breath_any
+S
+
+
+
+#RESETS
+D 0 2711 3 1
+D 0 2713 1 1
+D 0 2731 1 1
+D 0 2731 3 1
+M 0 2700 1 2700 1
+M 0 2701 10 2703 2
+M 0 2702 1 2705 1
+M 0 2701 10 2706 2
+M 0 2703 6 2710 1
+M 0 2703 6 2711 1
+M 0 2703 6 2712 4
+M 0 2706 1 2713 1
+M 0 2704 2 2714 2
+M 0 2705 1 2715 1
+M 0 2707 2 2717 2
+M 0 2708 2 2718 1
+M 0 2709 4 2721 4
+M 0 2710 2 2722 2
+M 0 2708 2 2724 1
+M 0 2711 1 2725 1
+M 0 2712 4 2729 4
+M 0 2712 4 2729 4
+M 0 2713 1 2730 1
+M 0 2701 10 2731 6
+M 0 2701 10 2731 6
+M 0 2701 10 2731 6
+M 0 2721 1 2732 1
+M 0 2723 6 2734 6
+M 0 2714 2 2735 1
+M 0 2715 1 2737 1
+M 0 2714 2 2738 1
+M 0 2716 1 2742 1
+M 0 2717 1 2742 1
+M 0 2718 1 2742 1
+M 0 2719 1 2742 1
+M 0 2725 1 2744 1
+M 0 2722 1 2745 1
+M 0 2724 4 2746 4
+M 0 2724 4 2746 4
+M 0 2726 1 2747 1
+M 0 2727 4 2750 4
+M 0 2727 4 2751 4
+M 0 2728 2 2757 2
+M 0 2729 1 2757 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

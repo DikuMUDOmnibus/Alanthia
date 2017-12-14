@@ -1,0 +1,193 @@
+#AREADATA
+Name Valhalla~
+Builders Fluffy Halodar~
+VNUMs 1200 1299
+Credits {  IMM  } Staff       Immortal Zone~
+Security 9
+Version 1
+End
+
+
+
+#MOBILES
+#1202
+jeweler~
+the jeweler~
+The jeweler is here selling gems.
+~
+A rather fat man, the jeweler sits behind his desk waiting for someone to
+buy his wares.  
+~
+unique~
+ABG H 0 0
+200 17 1d165+100 1d1+195 1d1+1000 divine
+-40 -40 -40 -40
+0 ABCD 0 0
+stand stand male 100000
+AHMV ABCDEFGHIJK medium unknown
+#1203
+minister~
+a pious-looking minister~
+A respectable young minister awaits the wedding ceremony.
+~
+~
+unique~
+ABCFGMSTU I 0 0
+1 0 2d6+10 1d1+499 1d4+0 punch
+0 0 0 0
+0 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#1200
+Chat Lounge~
+You are in a large bright room.  The light seems to just exist coming
+from nowhere specifically.  This is the Chat Lounge where players can come
+chat and idle.  Without getting hungry or anything while talking and
+visiting.  There are several couches and recliners throughout the room.  
+~
+0 1028 0
+S
+#1212
+The Realm of the Dead~
+You are standing on an immense, grey stone floor that stretches as far as
+you can see in all directions.  Rough winds plunging from the dark, starless
+sky tear savagely at your fragile body.  
+~
+0 9216 0
+E
+floor~
+The stone floor is the same shade of grey as the sky and is completely plain
+and unscratched.  It is probably too hard for anything to leave as much as a
+scratch on it.
+~
+E
+sky wind winds~
+Cold winds plunge ceaselessly at you from the dark, cloudless sky.
+~
+D0
+The hard floor seems to go on forever.
+~
+~
+0 -1 1212
+D1
+The hard floor seems to go on forever.
+~
+~
+0 -1 1212
+D2
+The hard floor seems to go on forever.
+~
+~
+0 -1 1212
+D3
+The hard floor seems to go on forever.
+~
+~
+0 -1 1212
+S
+#1215
+Head of the Rainbow Bridge~
+Standing on the mortal end of the Rainbow Bridge, the bridge arches up
+before you and seems to disappear into the clouds.  You wonder if it is wise
+to venture upward into the realm of the gods.  But it seems so calm and
+peaceful here that it would be a shame to leave...  
+~
+0 0 1
+D4
+The Rainbow Bridge stretches ahead before you.
+~
+~
+0 -1 1220
+D5
+~
+~
+0 0 3054
+S
+#1220
+On the Rainbow Bridge~
+You have reached the center of the Rainbow Bridge.  Clouds and mist swirl
+around your feet.  The view from here is incredible.  It is little wonder
+that the heavens were saved for the gods personal pleasures.  A bright
+sparkle captures your sights to the east.  
+~
+0 0 1
+E
+clouds~
+The clouds are beautiful.  There are shades of gray, pink and purple swirled
+into the blue sky.
+~
+D1
+~
+~
+0 0 1225
+D4
+The Rainbow Bridge continues upwards into the heavens.
+~
+~
+0 -1 1221
+D5
+The Rainbow Bridge disappears down into the clouds.
+~
+~
+0 -1 1215
+S
+#1221
+The End of the Rainbow Bridge~
+You have reached the end of the Rainbow Bridge.  Asgard stretches out
+above you.  Looking around, you search for the legendary guardian of Asgard.
+The clouds are far below you and a sense of beauty and peacefulness
+surrounds you.  
+~
+0 0 -1
+D5
+Bifrost, the Rainbow Bridge leads down to the Temple of Midgaard.
+~
+~
+0 -1 1220
+S
+#1225
+The Treasury~
+Bits of diamond dust glitter in the air, as the jeweler crafts his wares.
+Various shelves are suspended without any visible means of support, and upon
+these shelves are crystalline figurines and gemstones of unbelievable
+wealth.  The temptation to purchase such beauty causes you to reach for your
+gold.  
+~
+0 0 0
+D3
+~
+~
+0 0 1220
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 1202 1 1225 1
+S
+
+
+
+#SHOPS
+1202 32 0 0 0 0 100 50 0 23
+0
+
+
+
+#$

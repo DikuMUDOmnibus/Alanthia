@@ -1,0 +1,1741 @@
+#AREADATA
+Name Old Midgaard~
+Builders Fluffy~
+VNUMs 700 799
+Credits {115 145} Dex         Midgaard Fort~
+Security 9
+Version 1
+End
+
+
+
+#MOBILES
+#700
+platesmith~
+A platesmith~
+A platesmith stands here forming steel to armor.
+~
+This man is burnt to a crisp.  He does nothing but make armor all day.  
+~
+unique~
+ABCDEFGM ABCDEFG 1000 0
+300 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+ABCDEFG ABC ABC ABC
+stand stand none 100000
+ABCHMV ABCDEFGHIJK medium unknown
+#701
+tall blacksmith~
+A tall blacksmith~
+A tall muscular blacksmith is here making and selling weapons.
+~
+He is very well built and has decent manners.  He sells his wares to
+support his family.  
+~
+unique~
+ABCDEFGM ABCDEFG 0 0
+300 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+ABCDEFG ABC ABC ABC
+stand stand none 100000
+ABCHMV ABCDEFGHIJK large unknown
+#702
+old watchguard man~
+An old watchguard~
+An angry looking old man stands here.
+~
+He is a frail old man.  He has wrinkles all over his face.  He even has
+that old man smell.  
+~
+unique~
+ABCDEFGT ABCDEFG 5000 0
+130 1666 100d100+1000 155d515+515 105d155+300 none
+-50 -15 -51 -62
+ABCDEFGQ ABC ABCD ABC
+stand stand none 10000
+ABCHMV ABCDEFGHIJK small unknown
+#703
+Crying boy~
+A crying boy~
+A crying boy sits here crying.
+~
+This boy is no bigger than a 4 feet tall.  His face is bright red and
+covered in tears.  
+~
+unique~
+ABCDEFG ABCDEFGVY 1000 0
+110 0 0d0+0 0d0+0 0d0+0 slap
+0 0 0 0
+ABCDEFGKNX ABC ABC ABCH
+stand stand male 0
+ABCHMV ABCDEFGHIJK medium unknown
+#704
+bartender troll~
+A bartender~
+A rather ugly looking bartender stands here cleaning a glass.
+~
+She is a troll.  Drool is dripping from her mouth and face.  She is
+sweating cause of the tempeture of the room.  
+~
+unique~
+ABCDEFG ABCDEFGH 0 0
+300 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+ABCDEFG ABC ABCE ABCHK
+stand stand female 100000
+ABCHMV ABCDEFGHIJKUV large unknown
+#705
+stray feline cat~
+A stray feline~
+A stray feline is here purring.
+~
+She is a very tierd and hungry looking cat.  She is really thin and boney.  
+~
+unique~
+ABCDEFG ABCDEFGV 1000 0
+115 100 150d300+150 100d1001+1000 15d35+100 claw
+-30 -50 -21 -16
+ABCDEFGH ABC ABC ABCD
+stand stand none 100000
+ABCGV ABCDEFHJKQUV small unknown
+#706
+watchguard guard~
+The Watchguard~
+A large orcish watchguard is watching over the city from here.
+~
+He is an orc.  He stands 5'5".  He is very well built.  
+~
+unique~
+ABCDEFG ABCDEFG 1000 0
+130 0 0d0+0 0d0+0 0d0+0 punch
+0 0 0 0
+ABCDEFGHIKLNQX ABC ABCDQ ABCS
+stand stand none 0
+ABCHMV ABCDEFGHIJK huge unknown
+#707
+large black horse~
+a black horse~
+A large black horse is eatting its oats.
+~
+It is an ugly horse, its hair is nappy, it is dirty and grimy, and it
+smells like rancid horse crap!  
+~
+unique~
+ABCDEFG ABCDEFGV -500 0
+150 0 0d0+0 0d0+0 0d0+0 smash
+0 0 0 0
+ABCDEFGHOW ABC ABCEI ABCH
+stand stand none 0
+ABCHMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#700
+Town Square~
+A raging bonfire marks the town square of Midgaard.  Travellers have put
+up tents near the fire, and nearby, the smell of thick lamb stew wafts from
+a pot over someones fire.  Horses may be tied to a hitching post to the
+north.  
+~
+0 0 1
+D0
+~
+~
+0 0 701
+D1
+~
+~
+0 0 766
+D2
+~
+~
+0 0 718
+D3
+~
+~
+0 0 736
+S
+#701
+A Hitching Post~
+The grass here has been flattened, and along side the dirt path, several
+posts have been thrust into the ground for the purpose of tying horses. 
+Piles of manure are drawing flies near the posts.  
+~
+0 0 11
+D0
+~
+~
+0 0 702
+D2
+~
+~
+0 0 700
+S
+#702
+Wyndhall Way~
+A wide road is marked with wagon tracks and footprints here.  Drainage
+ditches on either side of the road help keep it dry even in torrential
+downpours.  The road marches alongside a wide open field in which dozens of
+sheep are roaming.  
+~
+0 0 11
+D0
+~
+~
+0 0 703
+D2
+~
+~
+0 0 701
+S
+#703
+Wyndhall Way~
+The field here looks well-tended to the west.  The grains have been
+neatly cut, and rows through the field look well-travelled.  Mountains loom
+in the distance to the north.  
+~
+0 0 11
+D0
+~
+~
+0 0 704
+D2
+~
+~
+0 0 702
+S
+#704
+Wyndhall Way~
+To the east, a small path leads to an open clearing that appears to be
+used as a market.  The fields to the west move from wheat in the south to
+rye in the north.  A well-travelled road leads west between the crops.  
+~
+0 0 11
+D0
+~
+~
+0 0 786
+D1
+~
+~
+0 0 708
+D2
+~
+~
+0 0 703
+D3
+~
+~
+0 0 705
+S
+#705
+The Path to Wyndhall Farm~
+A dirt path, smoothed by wagon tracks, leads to the west to Wynhall Farm.
+A soft hush of rustling wheat and lush ryegrass bespeaks prosperity.  
+~
+0 0 1
+D1
+~
+~
+0 0 704
+D3
+~
+~
+0 0 706
+S
+#706
+The Path to Wyndhall Farm~
+This dirt road branches off here in several directions.  The main road
+continues west towards Wyndhall farm and east to Wyndhall Way - small trails
+leading north and south lead to hovels where the farmhands reside.  
+~
+0 0 1
+D1
+~
+~
+0 0 705
+D3
+~
+~
+0 0 707
+S
+#707
+The Path to Wyndhall Farm~
+Just west of here, Wyndhall farm looms on a high hilltop.  A large stone
+house is flanked by wooden stables, the dirt path giving way to a
+cobblestone walk leading to the terrace of Lord Wynn's abode.  To the east,
+the path leads back to Wyndhall Way and Midgaard.  
+~
+0 0 1
+D1
+~
+~
+0 0 706
+S
+#708
+Entrance to the Market~
+The entrance to the farmers market has been well-trampeled by wagons and
+humankind alike.  There is a hitching post here, as well as a small pool to
+the north filled with water from an underground spring.  To the east lie the
+merchant stalls.  
+~
+0 0 1
+D1
+~
+~
+0 0 709
+D3
+~
+~
+0 0 704
+S
+#709
+Farmer's Market~
+Blackened stones for building fires are found in each of the stalls. 
+Roughly built of wood, these stalls separate the merchants and their wares. 
+Each merchant pays a tithe to Lord Wynn for the privledge of trading here.  
+~
+0 0 1
+D0
+~
+~
+0 0 714
+D1
+~
+~
+0 0 710
+D2
+~
+~
+0 0 717
+D3
+~
+~
+0 0 708
+S
+#710
+Farmer's Market~
+A community pile of wood is available for building fires to ward against
+the cold winds that blow year-round here.  The stalls are cheaply made, yet
+adequate for their purpose.  
+~
+0 0 1
+D0
+~
+~
+0 0 713
+D1
+~
+~
+0 0 711
+D2
+~
+~
+0 0 716
+D3
+~
+~
+0 0 709
+S
+#711
+Farmer's Market~
+A row of trees to the east prevents trespassers from continuing to Lord
+Wynn's hunting forests.  The final stalls to the south and the north appear
+better made than the rest, and cost a pretty copper more to rent.  
+~
+0 0 1
+D0
+~
+~
+0 0 712
+D2
+~
+~
+0 0 715
+D3
+~
+~
+0 0 710
+S
+#712
+A Fine Merchant Stall~
+Sanded wood planks provide a good amount of shelter from wind and harsh
+weather in this stall.  The roof is made of thick thatch and is sturdy.  
+~
+0 0 1
+D2
+~
+~
+0 0 711
+S
+#713
+A Merchant Stall~
+The dirt floor here is kept clear of clutter, swept flat frequently by
+the look of the patterns in the soil.  The walls and roof provide protection
+from the elements.  
+~
+0 0 1
+D2
+~
+~
+0 0 710
+S
+#714
+A Shabby Merchant Stall~
+A small hole in the roof is wanting repair - the thatch wearing thin in
+many places.  The walls are roughly thrown together, looking flimsy yet not
+dangerous.  
+~
+0 0 1
+D2
+~
+~
+0 0 709
+S
+#715
+A Fine Merchant Stall~
+Cobblestones have been formed into a floor in this stall -- the sanded
+walls providing shelter to keep the area warm.  A hollow in the center of
+the stall provides space for a small fire.  
+~
+0 0 1
+D0
+~
+~
+0 0 711
+S
+#716
+A Merchant Stall~
+The walls here are well made of rough wood, keeping out drafts.  The
+thatch roof is recently repaired.  
+~
+0 0 1
+D0
+~
+~
+0 0 710
+S
+#717
+A Shabby Merchant Stall~
+This stall is full of filth, drawing flies.  The thatch is rotted in many
+places, holes in the walls provide some precious little protection from
+harsh weather.  
+~
+0 0 1
+D0
+~
+~
+0 0 709
+S
+#718
+Outside the Half-Moon Inn~
+South from the Town Square of Midgaard, the Half-Moon Inn offers lodging
+to wayfaring adventurers for a reasonable fee.  Farther to the south, the
+road continues to the thick forest.  
+~
+0 0 1
+D0
+~
+~
+0 0 700
+D1
+~
+~
+0 0 727
+D2
+~
+~
+0 0 719
+S
+#719
+Half-Moon Road~
+Along-side this cobbled road, wildflowers grow, giving it a quaint and
+homey look.  Far to the west, mountains can be seen, overlooking the
+forested lands.  
+~
+0 0 1
+D0
+~
+~
+0 0 718
+D2
+~
+~
+0 0 720
+S
+#720
+Half-Moon Road~
+The road narrows here, allowing for no more than one wagon at a time.  To
+the west, the forest has been cut down for lumber.  
+~
+0 0 1
+D0
+~
+~
+0 0 719
+D2
+~
+~
+0 0 721
+S
+#721
+Half-Moon Road~
+The road here is no longer of cobblestone but of dirt and trodden down
+grass.  Small hovels to the east and west appear to be in good condition.  
+~
+0 0 1
+D0
+~
+~
+0 0 720
+D2
+~
+~
+0 0 722
+S
+#722
+A Winding Road~
+An anchor has been stuck in the ground here, next to a pile of rocks that
+seem to point to the east.  
+~
+0 0 1
+D0
+~
+~
+0 0 721
+D1
+~
+~
+0 0 723
+S
+#723
+A Winding Road~
+A thin band through a forest, this road is wide enough to allow passage
+of wagons carrying boats and skins for trade.  
+~
+0 0 1
+D1
+~
+~
+0 0 724
+D3
+~
+~
+0 0 722
+S
+#724
+A Winding Road~
+The forest to the east is too thick to past - the roar of the ocean can
+be heard in that direction.  
+~
+0 0 1
+D2
+~
+~
+0 0 725
+D3
+~
+~
+0 0 723
+S
+#725
+A Winding Road~
+A river churns to the south here - to the north, the road leads back to
+Midgaard.  The thick forest begins to thin here as it approaches the river
+delta.  
+~
+0 0 1
+D0
+~
+~
+0 0 724
+D2
+~
+~
+0 0 726
+S
+#726
+A Winding Road~
+The forest thins and disappears entirely here on the river delta.  Thick
+grass and cattails spread along the east-west river.  Docks to the south and
+a small bridge allow passage along the river, and to the lands beyond in the
+south.  
+~
+0 0 1
+D0
+~
+~
+0 0 725
+D2
+~
+~
+0 0 792
+D4
+~
+~
+0 0 793
+S
+#727
+Half-Moon Inn: Foyer~
+This inn is decorated in a somewhat elaborate manner, compared to its
+surroundings.  The stone floor is polished, and antlers mounted to the walls
+offer places to hang one's hat.  To the north there is a dining hall, and to
+the south, a saloon.  
+~
+0 8 1
+D0
+~
+~
+0 0 731
+D2
+~
+~
+0 0 728
+D3
+~
+~
+0 0 718
+D4
+~
+~
+0 0 733
+S
+#728
+Half-Moon Inn:  Saloon~
+Small tables with four chairs each sit scattered, at which patrons can
+play games or watch the scantily-clad entertainment.  Moonshine and ale flow
+freely here.  
+~
+0 8 1
+D0
+~
+~
+0 0 727
+S
+#729
+Half-Moon Inn:  A Guest Room~
+Two sets of bunk beds along two walls and a washbasin on top of a simple
+dressing table are the only items of furniture in this room.  
+~
+0 8 1
+D3
+~
+~
+0 0 733
+S
+#730
+~
+The washbasin in this room is slightly cracked but still servicable.  Two
+set of bunk beds provide sleeping quarters for four in this simple room.  
+~
+0 8 1
+D1
+~
+~
+0 0 733
+S
+#731
+Half-Moon Inn:  Dining Hall~
+Three tables with benches made of pine offer seating for six per table. 
+A fourth table, for more important guests, boasts eight padded chairs around
+a finely made circular table.  To the east, a small kitchen provides the
+fare for the diners.  
+~
+0 8 1
+D1
+~
+~
+0 0 732
+D2
+~
+~
+0 0 727
+S
+#732
+Half-Moon Inn:  Kitchen~
+From hooks in the ceiling, legs of lamb and ham hocks hang.  A large iron
+kettle hangs inside a hollow in the wall in which a fire can be made.  In
+another hollow, coals can be used for baking bread.  On a large table, a
+mortar and pistle lie next to a bag of wheat.  
+~
+0 8 1
+D3
+~
+~
+0 0 731
+S
+#733
+Half-Moon Inn:  Hallway~
+A low hallway, lit with a single sconce, reveals doors to the north, east
+and west into guest lodgings.  The north door is more elaborate than the
+other two.  
+~
+0 8 1
+D0
+~
+~
+0 0 734
+D1
+~
+~
+0 0 729
+D3
+~
+~
+0 0 730
+D5
+~
+~
+0 0 727
+S
+#734
+Half-Moon Inn: A Fine Guest Parlor~
+A simple parlor with its own fireplace, as well as two padded chairs and
+a small table, appears to be for more important guests.  
+~
+0 8 1
+D1
+~
+~
+0 0 735
+D2
+~
+~
+0 0 733
+S
+#735
+Half-Moon Inn: A Fine Guest Bedroom~
+A comfortable bed with linens and a feather-filled mattress sits
+alongside a dresser.  On the opposing wall, a dressing table and a small
+bath basin are for the comfort of the important guests of the Half-Moon Inn.
+~
+0 8 1
+D3
+~
+~
+0 0 734
+S
+#736
+Smithy Way~
+The blacksmith shop to the south looks to be quite profitable - smoke
+rises from the chimney, made of stone.  The road to the west looks heavily
+travelled.  
+~
+0 0 1
+D1
+~
+~
+0 0 700
+D2
+~
+~
+0 0 789
+D3
+~
+~
+0 0 737
+S
+#737
+Smithy Way~
+The cobblestone has been worn flat here by horses and wagons that travel
+this road day and night.  To the east is the center of town and farther
+beyond, the ocean.  
+~
+0 0 1
+D1
+~
+~
+0 0 736
+D2
+~
+~
+0 0 790
+D3
+~
+~
+0 0 738
+S
+#738
+Smithy Way~
+The road widens here, cobblestone giving way to a wide dirt trail.  To
+the south, the forest has been clear cut for lumber to build homes and
+shops.  
+~
+0 0 1
+D1
+~
+~
+0 0 737
+D2
+~
+~
+0 0 739
+S
+#739
+Smithy Way~
+The grasses here have been trodden down by the horses that run to and
+from the military compound to the west.  
+~
+0 0 1
+D0
+~
+~
+0 0 738
+D3
+~
+~
+0 0 740
+S
+#740
+Smithy Way~
+Houses here are run down, with broken thatched walls that offer little
+protection from biting winds.  Wildflowers among them have been cut and
+broken down.  
+~
+0 0 1
+D1
+~
+~
+0 0 739
+D3
+~
+~
+0 0 741
+S
+#741
+Smithy Way~
+Smithy way ends here at the military complex.  To the north, the barracks
+lie.  South can be found the training grounds.  East, Midgaard.  
+~
+0 0 1
+D0
+~
+~
+0 0 742
+D1
+~
+~
+0 0 740
+D2
+~
+~
+0 0 759
+D3
+~
+~
+0 0 380
+S
+#742
+Barracks Road~
+To the south, the military training grounds can be seen.  To the north, a
+watchtower guards the entrance to the barracks.  
+~
+0 0 1
+D0
+~
+~
+0 0 743
+D2
+~
+~
+0 0 741
+S
+#743
+Barracks Road~
+Here, a large watchtower has been erected of heavy granite stone.  A
+stone wall prevents passage to the west without going underneath the tower. 
+~
+0 0 1
+D2
+~
+~
+0 0 742
+D3
+~
+~
+0 0 744
+D4
+~
+~
+0 0 775
+S
+#744
+Barracks Road~
+Far to the west, mountains can be seen on the horizon.  To the east, the
+land is forested and city, with the ocean lying beyond.  
+~
+0 0 1
+D1
+~
+~
+0 0 743
+D3
+~
+~
+0 0 745
+S
+#745
+Barracks Road~
+The road abruptly ends at a large fortress here.  Crafted of stone and
+protected by a port terrace, the military compound looks impenetrable.  
+~
+0 0 1
+D1
+~
+~
+0 0 744
+D3
+~
+~
+0 0 746
+S
+#746
+Entrance to the Barracks~
+Inside this stone building, the ambient temperature is cold.  Tapestries
+depicting battle scenes are hung in the entryway.  To the east, a nearly
+impassable port terrace protects the barracks from attack.  
+~
+0 8 1
+D0
+~
+~
+0 0 747
+D1
+~
+~
+0 0 745
+D3
+~
+~
+0 0 748
+S
+#747
+Barracks:  Mess Hall~
+The mess hall is filled with tables and benches.  A giant fireplace along
+the east wall has hooks above it for hanging stewpots.  There doesn't appear
+to be a kitchen nearby.  
+~
+0 8 1
+D2
+~
+~
+0 0 746
+S
+#748
+Barracks: Hallway~
+A high cathedral ceiling accents this cold stone hallway.  There are
+doors to the north and south.  
+~
+0 8 1
+D0
+~
+~
+0 0 750
+D1
+~
+~
+0 0 746
+D2
+~
+~
+0 0 749
+D3
+~
+~
+0 0 752
+S
+#749
+Barracks:  Office Entry~
+There is a heavy wooden door to the south in this room.  The tapestries
+on the wall here are spattered with blood.  
+~
+0 8 1
+D0
+~
+~
+0 0 748
+D2
+~
+~
+0 0 751
+S
+#750
+Barracks:  Armor Storage~
+The walls of this room are lined with grates, designed to contain helms,
+gloves, boots, and other bits and pieces of platemail.  
+~
+0 8 1
+D2
+~
+~
+0 0 748
+S
+#751
+Barracks:  Commander Draeken's Chamber~
+This large room is comfortably outfitted - a table with two chairs, a
+fireplace, a bed, and a table full of weapons.  
+~
+0 8 1
+D0
+~
+~
+0 0 749
+S
+#752
+Barracks:  Hallway~
+The hallway is lit with four lamps filled with bear fat.  The peculiar
+smell of rendered fat and flax fills the hallway.  
+~
+0 8 1
+D0
+~
+~
+0 0 754
+D1
+~
+~
+0 0 748
+D2
+~
+~
+0 0 753
+D3
+~
+~
+0 0 755
+S
+#753
+Barracks:  Sleeping Quarters~
+Eight beds, each two feet apart on either wall, take up nearly all the
+space in this room.  A very small fireplace is along the southern wall,
+opening to the outside.  
+~
+0 8 1
+D0
+~
+~
+0 0 752
+S
+#754
+Barracks: Sleeping Quarters~
+Eight beds, each two feet apart on either wall, take up nearly all the
+space in this room.  A very small fireplace is along the northern wall,
+opening to the outside.  
+~
+0 8 1
+D2
+~
+~
+0 0 752
+S
+#755
+Barracks:  Hallway~
+Dimly lit and cold, this hallway leads east-west through the entire
+complex.  
+~
+0 8 1
+D0
+~
+~
+0 0 756
+D1
+~
+~
+0 0 752
+D2
+~
+~
+0 0 757
+D3
+~
+~
+0 0 758
+S
+#756
+Barracks:  Sleeping Quarters~
+Eight beds, each two feet apart on either wall, take up nearly all the
+space in this room.  A very small fireplace is along the northern wall,
+opening to the outside.  
+~
+0 8 1
+D2
+~
+~
+0 0 755
+S
+#757
+Barracks:  Sleeping Quarters~
+Eight beds, each two feet apart on either wall, take up nearly all the
+space in this room.  A very small fireplace is along the southern wall,
+opening to the outside.  
+~
+0 8 1
+D0
+~
+~
+0 0 755
+S
+#758
+Barracks:  Hallway~
+The hallway continues east to the front of the complex.  The dungeons are
+located down from this point.  
+~
+0 0 0
+D0
+~
+~
+0 0 777
+D1
+~
+~
+0 0 755
+D2
+~
+~
+0 0 776
+D5
+~
+~
+0 0 778
+S
+#759
+Entrance to the Training Grounds~
+A very narrow trail, allowing only single horses with riders or footmen,
+leads south to the hacked down clearing in the middle of the southern
+forest.  
+~
+0 0 1
+D0
+~
+~
+0 0 741
+D2
+~
+~
+0 0 760
+S
+#760
+Military Training Grounds~
+Stumps and soil are the only features of this landscape.  Targets have
+been thrust into the ground near the stumps.  
+~
+0 0 1
+D0
+~
+~
+0 0 759
+D1
+~
+~
+0 0 762
+D2
+~
+~
+0 0 761
+D3
+~
+~
+0 0 763
+S
+#761
+Military Training Grounds~
+A large stuffed straw horse invites sword thrusts here.  To the south,
+the clearing narrows.  
+~
+0 0 1
+D0
+~
+~
+0 0 760
+D1
+~
+~
+0 0 765
+D2
+~
+~
+0 0 764
+S
+#762
+Military Training Grounds~
+Scarecrows have been outfitted with armor here.  Various holes in the
+armor appear to have been made with rapiers.  
+~
+0 0 1
+D2
+~
+~
+0 0 765
+D3
+~
+~
+0 0 760
+S
+#763
+Military Training Grounds~
+Around the perimiter of the cleared area, a track provides racing space
+for horses.  Here, a starting post is stuck in the ground.  
+~
+0 0 1
+D1
+~
+~
+0 0 760
+S
+#764
+Military Training Grounds~
+Thick trees to the south prevent further passage.  A number of wooden
+pegs have been thrust into the ground here, upon each balances a pin, to be
+knocked off with thrown stones.  
+~
+0 0 1
+D0
+~
+~
+0 0 761
+S
+#765
+Military Training Grounds~
+A deep pit has been dug here.  At the bottom, weapons of all types are
+stored beneath a cover of leaves.  
+~
+0 0 1
+D0
+~
+~
+0 0 762
+D3
+~
+~
+0 0 761
+S
+#766
+Ocean Road~
+The cobblestone road here is flanked by a clearing on each side in which
+horses can be equipped for the journey to the ocean.  To the west, the
+center of Midgaard and the military training grounds lie.  
+~
+0 0 1
+D0
+~
+~
+0 0 791
+D1
+~
+~
+0 0 767
+D3
+~
+~
+0 0 700
+S
+#767
+Ocean Road~
+Far to the west, the mountains can be seen looming over Midgaard.  East
+of here is a small residential area.  
+~
+0 0 1
+D1
+~
+~
+0 0 768
+D3
+~
+~
+0 0 766
+S
+#768
+Ocean Road~
+The huts along this road seem better kept up than those in the rest of
+Midgaard proper.  To the west is the center of town.  
+~
+0 0 1
+D1
+~
+~
+0 0 769
+D3
+~
+~
+0 0 767
+S
+#769
+Ocean Road~
+To the east, the terrain becomes nearly impassable as fallen trees
+prevent wagons and horses from safely travelling.  The forest is dense to
+the north.  West of here is Midgaard.  
+~
+0 0 1
+D0
+~
+~
+0 0 797
+D1
+~
+~
+0 0 354
+D3
+~
+~
+0 0 768
+S
+#770
+A trail to the Ocean~
+A hitching post to the south provides rest and succor for the horses that
+travel this path.  A small clearning has been made for lumber there, and the
+grasses that have grown in place of the trees are healthy and green.  
+~
+0 0 1
+D2
+~
+~
+0 0 797
+D3
+~
+~
+0 0 771
+S
+#771
+A trail to the Ocean~
+The forest becomes impassable by wagon at this point along the ocean
+trail.  West of here lies the city of Midgaard.  To the east, the ocean
+roars in the distance.  
+~
+0 0 1
+D1
+~
+~
+0 0 770
+D3
+~
+~
+0 0 772
+S
+#772
+A trail to the Ocean~
+A ragged stump has been covered with moss over the ages, and provides an
+excellent resting place along side the trail to the ocean.  
+~
+0 0 1
+D1
+~
+~
+0 0 771
+D3
+~
+~
+0 0 773
+S
+#773
+A trail to the Ocean~
+The dense undergrowth here is difficult to navigate on foot, let alone on
+horseback.  The ocean lies just to the north.  
+~
+0 0 1
+D0
+~
+~
+0 0 774
+D1
+~
+~
+0 0 772
+S
+#774
+Bluffs overlooking the Ocean~
+The trail terminates abruptly here, overlooking a seemingly endless body
+of water.  Light glinting off the ocean gleams brightly, the pure intensity
+of the blue water is captivating in its brilliance and simplicity.  One
+might scale the bluffs down to the oceanside.  
+~
+0 0 1
+D2
+~
+~
+0 0 773
+D4
+~
+~
+0 0 794
+S
+#775
+Watchtower~
+The top of this watchtower allows a sentry to see in every direction. 
+Arsenal can be stored in cubbyholes in the walls.  
+~
+0 0 1
+E
+north~
+Beyond the north forest, snow-capped mountains can be seen.  
+~
+E
+south~
+The southern forest has been partially cleared for lumber and to create
+training grounds for the military forces.  Beyond the grounds, the forest is
+broken by a river that isolates Midgaard from the rest of the continent.  
+~
+E
+west~
+To the west, the military barracks lie, surrounded by a stone wall. 
+Beyond them, mountains can be seen in the distance.  
+~
+E
+east~
+Beyond Midgaard, the ocean stretches out in a vast blue lanscape.  
+~
+D5
+~
+~
+0 0 743
+S
+#776
+Barracks:  Sleeping Quarters~
+Eight beds, each two feet apart on either wall, take up nearly all the
+space in this room.  A very small fireplace is along the southern wall,
+opening to the outside.  
+~
+0 8 1
+D0
+~
+~
+0 0 758
+S
+#777
+Barracks:  Sleeping Quarters~
+Eight beds, each two feet apart on either wall, take up nearly all the
+space in this room.  A very small fireplace is along the northern wall,
+opening to the outside.  
+~
+0 8 1
+D2
+~
+~
+0 0 758
+S
+#778
+Barracks:  Dungeon Corridor~
+The damp floor in this corridor reeks of mold and feces.  Puddles on the
+floor are filled with viscous liquid, sticky and red.  The lighting in here
+is from two sconces, very very dim.  
+~
+0 8 1
+D1
+~
+~
+0 0 779
+D4
+~
+~
+0 0 758
+S
+#779
+Barracks:  Dungeon Corridor~
+The corridor is dimly lit with cells on the north and south side.  The
+floor is covered with a sticky substance.  
+~
+0 8 1
+D0
+~
+~
+0 0 784
+D1
+~
+~
+0 0 780
+D2
+~
+~
+0 0 785
+D3
+~
+~
+0 0 778
+S
+#780
+Barracks:  Dungeon Corridor~
+The corridor is dimly lit here, ending with cells to the east, north and
+south.  The floor is covered with a foul-smelling ooze.  
+~
+0 8 1
+D0
+~
+~
+0 0 783
+D1
+~
+~
+0 0 781
+D2
+~
+~
+0 0 782
+D3
+~
+~
+0 0 779
+S
+#781
+Barracks:  Prisoner Cell~
+The cell reeks of sewage and decay.  The bedframe is broken, the mattress
+infested.  The walls are damp and covered in mold.  
+~
+0 8 1
+D3
+~
+~
+0 0 780
+S
+#782
+Barracks:  Prisoner Cell~
+A tight, cramped cell with a wet floor and a small bedframe.  The
+mattress, made of straw tick, has been infested with mice and various bugs. 
+~
+0 8 1
+D0
+~
+~
+0 0 780
+S
+#783
+Barracks:  Prisoner Cell~
+This cell has bars thinner than normal, closer together, near to a
+screen.  The walls have been scratched into.  
+~
+0 8 1
+D2
+~
+~
+0 0 780
+S
+#784
+Barracks:  Prisoner Cell~
+A tight, cramped cell with a wet floor and a small bedframe.  A puddle on
+the floor has begun to grow a family of maggots.  
+~
+0 8 1
+D2
+~
+~
+0 0 779
+S
+#785
+Barracks:  Prisoner Cell~
+A cell much larger than the rest, though in no better condition, this
+cell seems fit for holding creatures of a larger stature than humankind.  
+~
+0 8 1
+D0
+~
+~
+0 0 779
+S
+#786
+Wynn's Selling Stables~
+The stables are grand, with several pens to show available horses.  Along
+the west wall, a table is lined with teasel for brushing and grooming, and
+leather for bridles and stirrups.  
+~
+0 0 1
+D1
+~
+~
+0 0 787
+D2
+~
+~
+0 0 704
+S
+#787
+Wynn's Selling Stables~
+Large stables, spacious, with freshly changed hay that smells slightly of
+clover, are specifically designed to show off horses to their best
+advantage.  
+~
+0 0 1
+D1
+~
+~
+0 0 788
+D3
+~
+~
+0 0 786
+S
+#788
+Wynn's Selling Stables~
+The finest horseflesh is kept in the rear of the stables, farthest from
+the drafty entrance.  Warm and comfortable, the horses lucky enough to live
+here live in better comfort than the serf population of Midgaard.  
+~
+0 0 1
+D3
+~
+~
+0 0 787
+S
+#789
+Blacksmith's Shop~
+A hot fire is kept blazing in the fire pit of this room.  The walls are
+tinged black with smoke - the cobblestone floor worn smooth.  A large table
+has ample space for the smith's tools.  
+~
+0 8 1
+D0
+~
+~
+0 0 736
+S
+#790
+Town Armory~
+A large stone building is used by the platesmith to create and store
+armor for sale.  The room is warmed by a fire in the fireplace.  
+~
+0 1032 1
+D0
+~
+~
+0 0 737
+S
+#791
+Weaponsmith's Shop~
+A blazing fire and a table with molds for creating swords and axes take
+up most of the space in this small stone structure.  A wall is lined with
+ready-made weapons for sale.  
+~
+0 8 1
+D2
+~
+~
+0 0 766
+S
+#792
+River Pass Docks~
+Set into the river, these floating wooden docks are anchored by long
+poles, tethered with leather to the shore.  Boats can be tied to posts along
+the shore, near the docks, and launched with ease into the swift river.  
+~
+0 0 1
+D0
+~
+~
+0 0 726
+S
+#793
+Watchtower~
+A large watchtower has enough space to be manned by four soldiers.  A
+ram's horn, tied to a post, can be used to sound an alarm when unwanted
+visitors approach from the river pass to the south.  
+~
+0 0 1
+E
+south~
+The river can be seen from here, and a clear view of the docks allows for
+careful inspection of new visitors to Midgaard.  
+~
+D5
+~
+~
+0 0 726
+S
+#794
+Watchtower~
+The watchtower gives a clear view of the beautiful, serene ocean and the
+beach and bluffs that provide minimal access to Midgaard.  A ram's horn can
+be used to signal danger from here.  
+~
+0 0 1
+E
+east~
+The ocean gleams beautifully, the picture of serenity and lovliness.  
+~
+E
+west~
+The city of Midgaard can be observed from here.
+~
+D5
+~
+~
+0 0 774
+S
+#795
+Connection to Lost Vale~
+
+~
+0 4 0
+S
+#796
+Connection to the Lost Vale~
+
+~
+0 0 0
+D0
+~
+~
+0 0 20001
+D1
+~
+~
+0 0 380
+S
+#797
+A trail to the Ocean~
+
+~
+0 0 0
+D0
+~
+~
+0 0 770
+D1
+~
+~
+0 0 360
+D2
+~
+~
+0 0 769
+D3
+~
+~
+0 0 361
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 705 3 720 1
+M 0 703 6 736 3
+M 0 702 1 736 2
+M 0 703 6 737 1
+M 0 703 6 738 2
+M 0 706 2 775 1
+M 0 707 1 787 1
+M 0 701 1 789 1
+M 0 700 1 790 1
+M 0 706 1 793 1
+S
+
+
+
+#SHOPS
+700 0 9 0 0 0 100 50 0 23
+701 5 0 0 0 0 100 50 0 23
+704 0 0 0 0 0 100 50 0 23
+0
+
+
+
+#$

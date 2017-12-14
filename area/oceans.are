@@ -1,0 +1,688 @@
+#AREADATA
+Name Oceans of Alanthia~
+Builders None~
+VNUMs 26500 26799
+Credits {  ALL  } Fluffy      Oceans of Alanthia~
+Security 0
+Version 1
+End
+
+
+
+#MOBILES
+#26500
+woohoo~
+woohoo~
+Woohoo!
+~
+This is one enthusiastic mob!
+~
+unique~
+ABCDEFGM ABCDEFG 0 0
+1 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+ABCDEFG ABC ABC ABC
+stand stand none 0
+ABCHMV ABCDEFGHIJK medium unknown
+M grall 26502 100~
+#26501
+ranger joe~
+ranger Joe~
+Ranger Joe is here, polishing his long bow.
+~
+~
+unique~
+ABCDEFG ABCDEFG 0 0
+1 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+ABCDEFG ABC ABC ABC
+stand stand none 0
+ABC ABC medium unknown
+#26502
+sergeant~
+a sargeant~
+"Get your ass to the other side!" he yells at you.
+~
+~
+unique~
+ABCDEFGT ABCDEFG 0 0
+300 0 0d0+0 0d0+0 0d0+0 slash
+0 0 0 0
+ABCDEFGKNX ABC ABC ABC
+stand stand male 0
+ABCHMV ABCDEFGHIJK medium unknown
+M grall 26500 99~
+M delay 26501 99~
+#26503
+Artillerist~
+The Artillerist~
+Your Artillerist is here, waiting to blow the shit out of the enemy.
+~
+~
+unique~
+ABCDEFG ABCDEFG 0 0
+100 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+ABCDEFG ABC ABC ABC
+stand stand none 0
+ABC ABC medium unknown
+M speech 26506 fire~
+M delay 26505 99~
+M speech 26504 reload~
+#26504
+helmsman~
+the helmsman~
+A hot helmsman navigates the ship in a sexy fashion.
+~
+~
+unique~
+ABCDEFG ABCDEFG 0 0
+100 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+ABCDEFG ABC ABC ABC
+stand stand female 0
+ABCHMV ABCDEFGHIJK medium unknown
+#26505
+pirate artillerist~
+a sexy pirate artillerist~
+A sexy pirate artillerist!
+~
+~
+unique~
+ABCDEFG ABCDEFG 0 0
+100 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+ABCDEFG ABC ABC ABC
+stand stand female 0
+ABCHMV ABCDEFGHIJK medium unknown
+#26506
+enemy artillery guy 1knw1~
+the enemy artillery guy~
+The enemy artillery guy, waiting to get blown to shit.
+~
+~
+unique~
+ABCDEFG ABCDEFG 0 0
+100 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+ABCDEFG ABC ABC ABC
+stand stand male 0
+ABC ABC medium unknown
+M speech 26510 death~
+#26507
+helmsman~
+the helmsman~
+The helmsman of the ship.
+~
+~
+unique~
+ABCDEFG ABCDEFG 0 0
+100 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+ABCDEFG ABC ABC ABC
+stand stand male 0
+ABCHMV ABCDEFGHIJK medium unknown
+#26508
+cook~
+the cook~
+The cook is here, making a seamen's feast.
+~
+~
+unique~
+ABCDEFG ABCDEFG 0 0
+100 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+ABCDEFG ABC ABC ABC
+stand stand male 0
+ABCHMV ABCDEFGHIJK medium unknown
+#26509
+a crewman~
+a crewman~
+A crewman is here.
+~
+~
+unique~
+ABCDEFG ABCDEFG 0 0
+80 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+ABCDEFG ABC ABC ABC
+stand stand male 0
+ABCHMV ABCDEFGHIJK medium unknown
+M greet 26541 100~
+#26510
+lookout~
+the lookout~
+The lookout keeps watch over the seas.
+~
+~
+unique~
+ABCDEFG ABCDEFG 0 0
+100 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+ABCDEFG ABC ABC ABC
+stand stand male 0
+ABCHMV ABCDEFGHIJK medium unknown
+M grall 26503 100~
+#26511
+artillerist 1~
+the artillerist~
+The artillerist is here.
+~
+~
+unique~
+ABCDEFG ABCDEFG 0 0
+80 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+ABCDEFG ABC ABC ABC
+stand stand male 0
+ABCHMV ABCDEFGHIJK medium unknown
+#26512
+first officer 3~
+the first officer 3~
+The first officer is here 3.
+~
+~
+unique~
+ABCDEFGM ABCDEFG 0 0
+100 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+ABCDEFG ABC ABC ABC
+stand stand male 0
+ABCHMV ABCDEFGHIJK medium unknown
+M greet 26518 100~
+M delay 26519 100~
+M speech 26520 yes~
+M speech 26521 no~
+#26513
+first officer 4~
+the first officer 4~
+The first officer is here 4.
+~
+~
+unique~
+ABCDEFG ABCDEFG 0 0
+100 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+ABCDEFG ABC ABC ABC
+stand stand male 0
+ABCHMV ABCDEFGHIJK medium unknown
+M bribe 26520 92~
+M delay 26521 100~
+#26516
+first officer 7~
+the first officer 7~
+The first officer is here 7.
+~
+~
+unique~
+ABCDEFG ABCDEFG 0 0
+100 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+ABCDEFG ABC ABC ABC
+stand stand male 0
+ABCHMV ABCDEFGHIJK medium unknown
+#26517
+first officer 8~
+the first officer 8~
+The first officer is here 8.
+~
+~
+unique~
+ABCDEFG ABCDEFG 0 0
+100 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+ABCDEFG ABC ABC ABC
+stand stand male 0
+ABCHMV ABCDEFGHIJK medium unknown
+#26518
+first officer 9~
+the first officer 9~
+The first officer is here 9.
+~
+~
+unique~
+ABCDEFG ABCDEFG 0 0
+100 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+ABCDEFG ABC ABC ABC
+stand stand male 0
+ABCHMV ABCDEFGHIJK medium unknown
+#26519
+first officer 10~
+the first officer 10~
+The first officer is here 10.
+~
+~
+unique~
+ABCDEFG ABCDEFG 0 0
+100 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+ABCDEFG ABC ABC ABC
+stand stand male 0
+ABCHMV ABCDEFGHIJK medium unknown
+#26520
+first officer 11~
+the first officer 11~
+The first officer is here 11.
+~
+~
+unique~
+ABCDEFG ABCDEFG 0 0
+100 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+ABCDEFG ABC ABC ABC
+stand stand male 0
+ABCHMV ABCDEFGHIJK medium unknown
+#26521
+first officer 12~
+the first officer 12~
+The first officer is here 12.
+~
+~
+unique~
+ABCDEFG ABCDEFG 0 0
+100 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+ABCDEFG ABC ABC ABC
+stand stand male 0
+ABCHMV ABCDEFGHIJK medium unknown
+#26522
+pirate~
+a pirate~
+A pirate is ready to snag some booty.
+~
+~
+unique~
+ABCDEFG ABCDEFG -500 0
+90 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+ABCDEFG ABC ABC ABC
+stand stand male 0
+ABCHMV ABCDEFGHIJK medium unknown
+#26523
+pirate captain~
+the pirate captain~
+The pirate captain!
+~
+~
+unique~
+ABCDEFG ABCDEFG -500 0
+105 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+ABCDEFG ABC ABC ABC
+stand stand male 0
+ABCHMV ABCDEFGHIJK medium unknown
+#26524
+crewman~
+a crewman~
+A crewman is here.
+~
+~
+unique~
+ABCDEFG ABCDEFG 0 0
+80 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+ABCDEFG ABC ABC ABC
+stand stand either 0
+ABCHMV ABCDEFGHIJK medium unknown
+M delay 26523 100~
+M grall 26522 100~
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#26500
+A Thick Forest~
+You follow the path to a dead end.  In front of you are big and tall
+trees that seem to extend skyward without limit.  You feel very small in
+here.  The only exit from here is north.  
+~
+0 4 0
+D0
+~
+~
+0 0 26501
+S
+#26501
+On a Gigantic Spoon~
+Woo!  You're on a spoon!  You look around and see many giant spoons laid
+out in columns.  Some of the spoons have chunks of ice cream on them. 
+Wonder who its for.  
+~
+0 0 0
+D1
+~
+~
+0 0 26502
+D2
+~
+~
+0 0 26500
+S
+#26502
+Inside a Hut~
+You enter an old ranger's hut.  He seems to be sitting on a rocking
+chair, polishing his fine long bow.  He notices you and nods to you in
+greeting.  "What can I do for you?"  He asks politely.  
+~
+0 0 0
+D2
+~
+~
+0 0 26503
+D3
+~
+~
+0 0 26501
+S
+#26503
+Under Fire~
+You crawl inside a trench filled with many soldiers, ducking from
+incoming fire.  A sargeant grabs you by the helmet strap and screams for you
+to get over to the otherside to reinforce the left echelon.  You nod and
+scramble away.  
+~
+0 0 0
+D0
+~
+~
+0 0 26502
+D1
+~
+~
+0 0 26504
+S
+#26504
+JackAss Delight~
+You find yourself in a room filled with jackasses.  The ground under
+boots seem to be bubbling.  Although you don't know what's causing it.  You
+can see a path to the left of you.  
+~
+0 0 0
+D3
+~
+~
+0 0 26503
+S
+#26505
+The Deck with Guns~
+Big fuck guns are ready at your disposal.  
+~
+0 0 0
+D2
+~
+~
+0 0 26509
+S
+#26506
+The Helm~
+This is the helm to steer the ship.  Whee.  
+~
+0 0 0
+D0
+~
+~
+0 0 26509
+D2
+~
+~
+1 0 26510
+S
+#26507
+The Bitch Enemy Ship Weapons Place~
+Yeah this is your bitch enemies' weapons.  
+~
+0 0 0
+D0
+~
+~
+0 0 26508
+S
+#26508
+Bitch Enemy Command Center~
+Kill this bitch.  
+~
+0 0 0
+D2
+~
+~
+0 0 26507
+S
+#26509
+On the Deck~
+
+~
+0 0 0
+D0
+~
+~
+0 0 26505
+D2
+~
+~
+0 0 26506
+D3
+~
+~
+0 0 8
+D4
+~
+~
+0 0 26516
+D5
+~
+~
+0 0 26511
+S
+#26510
+The Captain's Quarters~
+Woowoo 
+~
+0 0 0
+D0
+~
+~
+1 0 26506
+M 200 H 200
+S
+#26511
+Below the Deck~
+
+~
+0 0 0
+D0
+~
+~
+0 0 26512
+D1
+~
+~
+0 0 26514
+D2
+~
+~
+1 0 26513
+D3
+~
+~
+0 0 26515
+D4
+~
+~
+0 0 26509
+S
+#26512
+Crewmen's Quarters~
+
+~
+0 0 0
+D2
+~
+~
+0 0 26511
+S
+#26513
+Officer's Quarters~
+
+~
+0 0 0
+D0
+~
+~
+1 0 26511
+S
+#26514
+Mess Hall~
+
+~
+0 0 0
+D3
+~
+~
+0 0 26511
+S
+#26515
+Cargo Hold~
+
+~
+0 0 0
+D1
+~
+~
+0 0 26511
+S
+#26516
+The Crow's Nest~
+
+~
+0 0 0
+D5
+~
+~
+0 0 26509
+S
+#26517
+On the Pirate Deck~
+
+~
+0 0 0
+D0
+~
+~
+0 0 26519
+D2
+~
+~
+0 0 26518
+S
+#26518
+On the Pirate Deck~
+
+~
+0 0 0
+D0
+~
+~
+0 0 26517
+S
+#26519
+On the Pirate Deck~
+
+~
+0 0 0
+D2
+~
+~
+0 0 26517
+D5
+~
+~
+0 0 26520
+S
+#26520
+Below the Deck~
+
+~
+0 0 0
+D1
+~
+~
+0 0 26522
+D2
+~
+~
+0 0 26523
+D3
+~
+~
+0 0 26521
+D4
+~
+~
+0 0 26519
+S
+#26521
+Captain's Quarters~
+
+~
+0 0 0
+D1
+~
+~
+0 0 26520
+S
+#26522
+Storage room~
+
+~
+0 0 0
+D3
+~
+~
+0 0 26520
+S
+#26523
+Pirate Quarters~
+
+~
+0 0 0
+D0
+~
+~
+0 0 26520
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 26506 2 1
+D 0 26510 0 1
+D 0 26511 2 1
+D 0 26513 0 1
+M 0 26500 1 26501 1
+M 0 26501 1 26502 1
+M 0 26502 1 26503 1
+M 0 26506 1 26507 1
+M 0 26505 1 26508 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

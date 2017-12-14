@@ -1,0 +1,814 @@
+#AREADATA
+Name Rabbitton~
+Builders Morpheus~
+VNUMs 10900 10999
+Credits {50   90} Fash        Rabbits!~
+Security 0
+Version 1
+End
+
+
+
+#MOBILES
+#10900
+ingot troll~
+a giant ingot troll~
+A great hulking ingot troll bares its fangs.
+~
+Spit and saliva fly from the stinking maw of the savage troll as it
+snarls and rears back.  Two beady red eyes flare out from the mass of scars
+on its face and a porcine nose drives great draughts of foul breath in and
+out.  Great massive clubbish arms pound the ground while its small stub legs
+cover a great deal of ground.  
+~
+unique~
+ABFGT VZc -500 0
+58 5 150d7+1700 1d1+499 10d5+5 bite
+-21 -21 -21 -5
+CDFHKNU B E FHKS
+stand stand none 0
+ABGHMV ABCDEFGHIJKPUV large unknown
+#10901
+deep swimmer creature~
+a swimmer of the deep~
+A scaled and tentacled creature crawls about.
+~
+A horrifying mass of eyestalks and tentacles slithers about with alarming
+quickness, leaving a trail of mucus even in the water.  Its body is
+protected by thick, algae-covered scales of immortal greyness which lock and
+turn away all but the toughest blades.  
+~
+unique~
+ACFGTY FZ -100 0
+55 6 145d7+2175 1d1+499 15d3+5 shock
+-26 -26 -26 -8
+EFKMNOU B AFGJ KS
+stand stand none 0
+AGHSb ABCDEFKMNX medium unknown
+#10902
+rabbit~
+a grey and white rabbit~
+A grey and white rabbit hops around.
+~
+Nervously hopping around, the rabbit twitches its nose expectantly in the
+air.  Small beady black eyes dart around, on the watch for danger.  Its pelt
+is wonderfully soft to the touch, fluffy and warm.  
+~
+unique~
+ACGHT Vac 200 0
+75 6 155d7+1940 1d1+499 13d5+5 none
+-24 -24 -24 -7
+FHUVW A B EQ
+stand stand either 0
+AHV ABCDEFGHJK small unknown
+#10903
+giant brown rabbit~
+a giant brown rabbit~
+An enormous giant brown rabbit the size of a dragon looms over you.
+~
+This rabbit is enormous, huge, gargantuan, and titanic!  It is absolutely
+big, in the biggest sense of the word.  Dragons would hardly measure up to
+it, and here it is, looking at you with those big, dark, bubbly eyes. 
+Twitch goes its nose, throwing up a huge cloud of dust.  Twitch.  
+~
+unique~
+ABGU c 465 0
+80 5 155d7+1720 1d1+499 15d3+5 bite
+-22 -22 -22 -5
+CFHKO ABEQ CD 0
+stand stand male 0
+AGMV ABCDEFGHJK giant unknown
+#10904
+rabbit pellet~
+a rabbit pellet~
+A rabbit pellet rolls around on the floor.
+~
+Looks like there's some wood mixed in there.  Normal, except for the
+whole self-propulsion factor.  
+~
+unique~
+AGHU 0 0 0
+68 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+FHOUW B A H
+stand stand none 0
+0 0 tiny unknown
+#10905
+green rabbit~
+a scaley green rabbit~
+A scaled green rabbit is hopping around on the pillars.
+~
+The scaley little critter seems to be defying gravity as it hops straight
+up the verticaly pillars.  
+~
+unique~
+AGU PV 0 0
+70 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+FHV B A 0
+stand stand none 0
+AGV ACDEFHJK medium unknown
+#10906
+puddle goop~
+A goopey puddle of water~
+A goopey puddle of water is here, being, goopey.
+~
+The puddle here is laying on the ground, and it has a greenish tint to
+it.  It seems to try to grab onto anything that comes near it.  Maybe you
+should stay away from it to make sure you don't have a blob stuck to you.  
+~
+unique~
+ABUY be 438 0
+62 5 155d7+1940 1d1+499 13d5+5 none
+-27 -27 -27 -8
+N HR L I
+stand stand none 0
+A DEFK small water
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#10900
+A Grassy Knoll~
+Whispy cotton-white clouds float over the vast rolling fields of pristine
+green countryside.  A blue sky as clear a winter morning stretches endlessly
+into all the directions of the compass, strong heady gusts of wind throwing
+clouds across the bright blue canvas.  Scattered copses of ancient trees
+litter the rolling hills and ocean of grass, occasional outcroppings of rock
+dotting the horizon.  
+~
+0 4 2
+D1
+~
+~
+0 0 319
+S
+#10901
+A Cramped Cave~
+Overgrown with roots and crawling with insects, the dark tunnel has been
+unused for many ages.  An howling wind can be heard from the tiny rabbit
+hole overhead, yet the tunnel is deathly still.  A scuffled path lined with
+broken roots and jutting stones lead further down into the darkness.  
+~
+0 8193 13
+D4
+~
+~
+0 0 8209
+D5
+~
+~
+0 0 10902
+S
+#10902
+A Runed Tunnel~
+Dirt and mud, roots and stones from the upper half of the tunnel
+gradually give way to reveal the ancient surfaces beneath them.  More
+seamlessly smooth stone lines the passage the further down it goes, and in
+some patches there are still identifiable magical runes etched into the
+surface.  An unearthly hum fills the air, as if the stones were alive and
+responding to some unseen presence.  
+~
+0 8201 13
+D2
+~
+~
+0 0 10903
+D4
+~
+~
+0 0 10901
+S
+#10903
+A Smashed Tunnel~
+The passage is blocked to the south, massive pillars of granite cracked
+and broken filling the path.  The eastern wall lies smashed open, a ragged
+opening leading further down.  From the layout of the inscriptions on the
+wall, the opening almost seems to belong there.  
+~
+0 9 13
+D0
+~
+~
+0 0 10902
+D1
+~
+~
+0 0 10904
+S
+#10904
+A Descending Tunnel~
+Rough, uneven steps lead to an opening in the ceiling of the tunnel, a
+dark blue hole that the greenish glow permeating the tunnel cannot
+penetrate.  Steps no more than bumps in the dirt lead downwards into the
+green glow, and a breeze languidly trails back and forth like a breath from
+the underworld.  
+~
+0 12 13
+D3
+~
+~
+0 0 10903
+D5
+~
+~
+0 0 10905
+S
+#10905
+A Frosty Lake~
+A pale green mist pours out from the crystal smooth surface of
+underground lake.  Stalactites drip with unbearable slowness, each one an
+eternity away from the last.  Faint shadows flit across the rough surfaces
+of the cavern as a mysterious light shines from the clear water.  
+~
+0 8 13
+D0
+~
+~
+0 0 10908
+D1
+~
+~
+0 0 10907
+D2
+~
+~
+0 0 10913
+D3
+~
+~
+0 0 10906
+D4
+~
+~
+0 0 10904
+S
+#10906
+Mess of Mazes~
+Caves, slippery floors and walls, the constant drip.  Fathomless depths. 
+There is nothing here for the sane adventurer.  Greenish light comes from
+the east.  
+~
+0 9 13
+D1
+~
+~
+0 0 10905
+S
+#10907
+Caverns~
+Pellets of dried bone and fur litter the floor.  A fine layer of powdered
+ash covers everything, and only the newest pellets are not grey from the
+dust.  A bright light comes from the east.  
+~
+0 9 13
+D1
+~
+~
+0 0 10909
+D3
+~
+~
+0 0 10905
+S
+#10908
+"Dead" End~
+Clawmarks cover every inch of the cave and the dirt on the floor is
+thrown every which way.  A constant scritch-scratching echoes through the
+dark nooks and crannies that not even torchlight can uncover.  A greenish
+glow comes from the opening to the south.  
+~
+0 13 13
+D2
+~
+~
+0 0 10905
+S
+#10909
+Circular Stone Archway~
+Rough cave suddenly become smooth chiselled walls.  Deep, wide grooves
+run in geometric patterns along the walls, ceiling, and floor.  A huge
+circular archway some feet off the ground stands to the east, glowing weakly
+in the darkness of the tunnels.  Scratches and dents mar the archway, as if
+someone had long ago tried desperately to pry the door open.  
+~
+0 13 13
+D1
+~
+slab~
+3 0 10910
+D3
+~
+~
+0 0 10907
+S
+#10910
+A Giant Pen~
+A vast, spacious cave with a soaring ceiling lost in shadows lies just on
+this side of the stone archway.  Flickering torches are spaced tightly on
+the walls, and a frail wire-link fence encloses the center of the room.  The
+ground is made of firm, patted wood chips, lending a rather woodsy smell to
+the room.  
+~
+0 8 13
+D0
+~
+~
+0 0 10911
+D1
+~
+~
+0 0 10912
+D2
+~
+~
+0 0 10915
+D3
+~
+~
+3 0 10909
+S
+#10911
+A Giant Pen~
+A storage bin for tools stands in this corner, along with a giant pile of
+flattened buckets and soleless shoes.  Some shackleless chains hang from
+flimsy spikes driven into the wall.  
+~
+0 9 13
+D1
+~
+~
+0 0 10914
+D2
+~
+~
+0 0 10910
+S
+#10912
+A Giant Pen~
+An entire wall of coiled wire fencing fills this corner of the cave. 
+Spare scraps of fencing and wooden posts are carefully placed to one side of
+an old anvil.  More wood chips line the floor.  
+~
+0 8 13
+D0
+~
+~
+0 0 10914
+D1
+~
+~
+1 0 10916
+D3
+~
+~
+0 0 10910
+S
+#10913
+Caverns~
+A long tunnel continues north to south.  Small patches of moss grow on
+the walls and tiny insects scitter around.  A draft comes from the south.  
+~
+0 9 13
+D0
+~
+~
+0 0 10905
+D2
+~
+~
+0 0 10917
+S
+#10914
+A Giant Pen~
+A pile of burnt clothes and shoes lies in this corner, metal spikes
+randomly thrusting forth from beneath the smoldering rags.  A trail of dark
+soot rises all the way up to a small hole in the ceiling.  
+~
+0 8 13
+D2
+~
+~
+0 0 10912
+D3
+~
+~
+0 0 10911
+S
+#10915
+A Barricaded Alcove~
+Heavy crates, lengths of wire fence, full sacks and tools are jammed
+against each other to create a makeshift barrier.  Only a tiny little gap
+serves as an entrance to this alcove, though the signs of struggle and bite
+marks around the hole are unsettling.  
+~
+0 13 13
+D0
+~
+~
+0 0 10910
+S
+#10916
+Connecting Tunnel~
+Rows of torches strung on ropes hang from the low-lying ceiling.  The
+tunnel is roughly cylindrical with a rough, unfinished floor.  The wall
+crumbles to your touch, showing an inner layer of brick and mortar.  
+~
+0 13 0
+D1
+~
+~
+0 0 10921
+D3
+~
+~
+1 0 10912
+S
+#10917
+Sharp Cliff~
+A tiny tunnel opens into a large natural cavern.  Water drips and the
+sound of bats' wings flutter.  Every sound echoes endlessly off the cold
+stone walls.  There is a large drop from the ledge down to the bottom.  
+~
+0 9 13
+D0
+~
+~
+0 0 10913
+D5
+~
+~
+0 0 10920
+S
+#10918
+A Thin Ledge over the Gorge~
+The thin ledge ends before a tunnel entrance into the sharp cliff face. 
+Strange markings can be seen around the tunnel rim, etched deep into the
+stone.  
+~
+0 13 13
+D0
+~
+~
+0 0 10932
+S
+#10919
+A Turn in the Caverns~
+Burnt out torches litter the floor, covered with cobwebs and dust.  The
+ground is marked and scuffed, even rubbed smooth in some spots.  A dark spot
+or two grace the walls and rocks here.  
+~
+0 9 13
+D1
+~
+~
+0 0 10920
+D2
+~
+~
+0 0 10927
+S
+#10920
+Splitting Caves~
+A small trickle of clear water forms a pitiful water down the face of the
+cave cliff.  Tiny footprints lead all around the stream, and some scratches
+on the rock.  
+~
+0 13 13
+D1
+~
+~
+0 0 10931
+D3
+~
+~
+0 0 10919
+D4
+~
+~
+0 0 10917
+S
+#10921
+Abandoned Halls~
+Great blue columns form a line in front of the tunnel, supporting an
+unseen ceiling far overhead.  Overturned cartwheels, shattered crates, and
+the remnants of a barricade are scattered all across the vast hall, dwarfed
+by the huge pillars.  Thin blue light streams through the gaps leaving a
+grill of shadows before you.  
+~
+0 9 0
+D0
+~
+~
+0 0 10922
+D2
+~
+~
+0 0 10925
+D3
+~
+~
+0 0 10916
+S
+#10922
+Hall End~
+A soft blue light glows around everything in this end of the hall.  To
+the south are gigantic columns splitting the hallway lengthwise in two,
+while the north is the end of the hall.  A door lies to the east, the wooden
+planks covering the entrance broken.  
+~
+0 9 0
+D1
+~
+~
+0 0 10923
+D2
+~
+~
+0 0 10921
+S
+#10923
+Old Library~
+Books line the walls in gorgeous wooden bookshelves that tower stories
+above the floor.  Bits of carpeting lies everywhere, as do opened books. 
+Crisp torn pages crumble into dust when you step on them, and everything is
+covered in a layer of dust.  Everything is also covered in little pawprints.
+~
+0 9 0
+D0
+~
+~
+0 0 10924
+D3
+~
+~
+0 0 10922
+S
+#10924
+A Ruined Laboratory~
+Smashed beakers, shards of glass, metal, and a wooden table lie strewn
+about.  Scraps of a chart of rabbit anatomy hang on one stone wall, another
+wall is covered with smudged chalk scribblings.  
+~
+0 9 0
+D2
+~
+~
+0 0 10923
+S
+#10925
+Abandoned Halls~
+Blue light falls from above, shining on the room like a full moon.  Trash
+litters the dusty ground, more chests and crates.  Small scratchmarks mar
+the giant pillars, and a deep gash runs across the width of the room.  
+~
+0 0 0
+D0
+~
+~
+0 0 10921
+D2
+~
+~
+0 0 10926
+S
+#10926
+A Mess of Corpses~
+Hundreds of ancient corpses lie frozen in their death throes.  The hair
+on their heads has shriveled into string, and their skin is like parchment. 
+A pair of giant gates stand ajar, barely a man's width of space.  Many died
+while trying to scramble through the thin exit.  Possessions lie tossed
+aside, forgotten as the dead had finally desperately tried to survive.  
+~
+0 0 0
+D0
+~
+~
+0 0 10925
+D4
+~
+~
+0 0 10929
+S
+#10927
+The Edge of a Vast Gorge~
+A thin, precarious path stretches out across a vast bottomless gorge. 
+The sheer cliff face extends up and down into the shadows with almost no
+footholds or jutting features.  
+~
+0 9 13
+D0
+~
+~
+0 0 10919
+D3
+~
+~
+0 0 10928
+S
+#10928
+On a Thin Prayer~
+A thin, artificial bridge stretches over the bottomless gorge.  Its
+surface is flat, if a bit dusty, and there is barely room for two dwarves to
+walk side by side.  
+~
+0 9 13
+D1
+~
+~
+0 0 10927
+D3
+~
+~
+0 0 10930
+M 0 H 0
+S
+#10929
+On a Pile of Corpses~
+Corpses are piled on top of each other, every tens of feet high.  Many
+died trying to fit through the thin space between the doors, mouths
+screaming, arms reaching.  The huge stone gates to either side do not budge
+an inch, the hinges rusted in place.  
+~
+0 13 0
+D2
+~
+~
+0 0 10933
+D5
+~
+~
+0 0 10926
+S
+#10930
+On a Thin Prayer~
+A thin, artificial bridge stretches over the bottomless gorge.  Its
+surface is flat, if a bit dusty, and there is barely room for two dwarves to
+walk side by side.  
+~
+0 9 13
+D1
+~
+~
+0 0 10928
+D3
+~
+~
+0 0 10932
+M 0 H 0
+S
+#10931
+Dead End~
+Collapsed stalactites lie like iron bars across the path, blocking any
+progress to the east.  A puddle of ruddy water collects under the giant heap
+of stones with nowhere to go.  
+~
+0 9 13
+D3
+~
+~
+0 0 10920
+S
+#10932
+On One Edge of a Vast Gorge~
+A thin and treacherous ledge leads down the side of the sheer cliff.  To
+the east, a thin walkway extends across the gorge and to the south the ledge
+continues downwards.  
+~
+0 13 13
+D1
+~
+~
+0 0 10930
+D2
+~
+~
+0 0 10918
+S
+#10933
+On a Pile of Corpses~
+Dark, damp, and silent.  Every sound seems muffled on this side of the
+great doors, as if the darkness is swallowing everything.  The corpses are
+piled only a couple of feet high, a dead wave of outstretched arms and
+heads.  
+~
+0 9 13
+D0
+~
+~
+0 0 10929
+D5
+~
+~
+0 0 10934
+S
+#10934
+Foot of the Tunnel~
+To the north lie the great stone gates of the underground lair, blocked
+with bodies.  To the south lies the mouth of another vast underground
+tunnel.  Smashed boulders lie about, strewn like marbles.  
+~
+0 9 13
+D2
+~
+~
+0 0 10935
+D4
+~
+~
+0 0 10933
+S
+#10935
+Tunneling~
+This tunnel seems unnatural in construction, the walls rough and
+scratched as if great claws had broken the rocks.  Lots of little pebbles
+cover the floor like a dry riverbed.  
+~
+0 13 13
+D0
+~
+~
+0 0 10934
+D2
+~
+~
+0 0 10937
+S
+#10937
+Tunneling~
+Patches of moss and lichen grow in the small spots between the
+pebble-covered floor.  Great gashes cover the walls, travelling from one end
+of the tunnel to the other.  
+~
+0 8 13
+D0
+~
+~
+0 0 10935
+D2
+~
+~
+0 0 10938
+S
+#10938
+An Immense Cave~
+Skulls, ribs, and femurs lie strewn like confetti around the floor of
+this large cave.  The ceiling rises overhead to come down on the far side,
+and huge boulders fill the ground in between.  Streamlets of water trace
+down the cave walls into puddles on the floor.  
+~
+0 8 13
+D0
+~
+~
+0 0 10937
+S
+#0
+
+
+
+#SPECIALS
+M 10901 spec_breath_gas
+S
+
+
+
+#RESETS
+D 0 10909 1 1
+D 0 10910 3 1
+D 0 10912 1 1
+D 0 10916 3 1
+M 0 10901 8 10905 2
+M 0 10901 8 10905 2
+M 0 10900 1 10908 1
+M 0 10902 8 10910 2
+M 0 10902 8 10910 2
+M 0 10902 8 10911 2
+M 0 10902 8 10911 2
+M 0 10902 8 10912 2
+M 0 10902 8 10912 2
+M 0 10902 8 10914 2
+M 0 10902 8 10914 2
+M 0 10906 2 10917 2
+M 0 10906 2 10917 2
+M 0 10905 1 10921 1
+M 0 10904 6 10934 2
+M 0 10904 6 10935 2
+M 0 10904 6 10937 2
+M 0 10903 1 10938 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

@@ -1,0 +1,373 @@
+#AREADATA
+Name Quest Area I~
+Builders Fluffy Halodar~
+VNUMs 23000 23199
+Credits {  All  } Jared       Qwest Area~
+Security 9
+Version 1
+End
+
+
+
+#MOBILES
+#23000
+Raven Guardian~
+Raven Guardians~
+A raven blocks the stairwell up.
+~
+These ravens serve the archmage Fenalyn. Their beaks look very sharp, their
+eyes glinting with intelligence and something else...
+~
+unique~
+AB 0 -1000 0
+150 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+FH A 0 0
+stand stand male 0
+AGW ACDEFHKP medium unknown
+#23001
+Fenalyn, the Arch Mage~
+Fenalyn, the Arch Mage~
+A man clothed in darkness stands before you, an evil glint in his eye.
+~
+Fenalyn is indescribably aincent, with the eyes of an 18 year old boy.  His
+hands are gnarled like tree branches, tipped with claws.  His teeth are
+pointed, though he is no vampire.  He appears to grow larger as you look at
+him.
+~
+unique~
+A 0 -1000 0
+175 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand male 0
+0 0 medium unknown
+#23002
+hate~
+Hate~
+The bringer of hate stands here.
+~
+You see {rHate{X standing here, he is the culmination of all that you have ever despised forged into a huge, grotesque form.
+~
+unique~
+A 0 0 0
+1 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 AB 0 0
+stand stand none 0
+ABHMV ABCDEFGHIJKQ giant unknown
+#23003
+envy~
+envy~
+The bringer of envy stands here.
+~
+Envy stands here {Ggreen{w with jealousy. He will take everything you own, even your soul.{X
+~
+unique~
+A 0 0 0
+1 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 AB 0 0
+stand stand none 0
+0 0 giant unknown
+#23004
+greed~
+greed~
+The bringer of greed stands here.
+~
+Greed is here hoarding his {ymoney{X from anyone who might try to take it.
+~
+unique~
+A 0 0 0
+1 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 AB 0 0
+stand stand none 0
+0 0 medium unknown
+#23005
+pride~
+pride~
+The bringer of pride stands here.
+~
+{cPride{X is here, so full of himself that you barely fit in the room.
+~
+unique~
+A 0 0 0
+1 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 AB 0 0
+stand stand none 0
+0 0 medium unknown
+#23006
+lust~
+lust~
+The bringer of lust stands here.
+~
+{MLust{X is here making you feel hot and steamy with passion.
+~
+unique~
+A 0 0 0
+1 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 AB 0 0
+stand stand none 0
+0 0 medium unknown
+#23007
+sloth~
+sloth~
+The bringer of sloth lies here.
+~
+{BSloth{X, the sin of laziness is here. He hasn't moved from this spot in what appears to be several years.
+~
+unique~
+A 0 0 0
+1 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 AB 0 0
+stand stand none 0
+0 0 medium unknown
+#23008
+gluttony~
+Gluttony~
+The bringer of gluttony stands here.
+~
+{DGluttony{X, the sin of fulfilment to the extreme is here. He's fat, he's ugly, and oh the stench!
+~
+unique~
+A 0 0 0
+1 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 AB 0 0
+stand stand none 0
+0 0 medium unknown
+#23009
+Easter bunny qwest~
+{A Gigantic easter bunny{X~
+A gigantic bunny is hopping around here.
+~
+The easter bunny is spreading eggs all over alanthia.
+~
+unique~
+AH 0 0 0
+1 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 AB 0 0
+stand stand none 0
+0 0 medium unknown
+#23017
+a hairy spider~
+a hairy spider~
+A hairy spider rests on a thread.
+~
+~
+unique~
+ABFT DF 0 0
+226 0 0d0+0 0d0+0 0d0+0 bite
+0 0 0 0
+CEFVX AB CF 0
+stand stand none 0
+0 0 medium unknown
+#23025
+the king~
+the king~
+The king paces the room, waiting eternally for his subjects to appear.
+~
+~
+unique~
+AB DFH 0 0
+305 0 0d0+0 0d0+0 0d0+0 punch
+0 0 0 0
+CDFGHKMV ABI CFHJ 0
+stand stand none 0
+0 0 medium unknown
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#23000
+Entrance to the Tower of Tallis~
+The cold stone walls are polished smooth, hung with tapestries depicting
+horrors of the flesh.  A staircase on the north end of the room is the only
+furnishing.  There is a red door halfway up the staircase.  
+~
+0 0 0
+D4
+~
+red_door~
+4 23000 23001
+S
+#23001
+Stairwell of Fire~
+The stairs are hot to the touch, the walls glimmering with living, red
+fire.  Chandeliers created of rubies light the staircase, dark in spite of
+the flames.  There is an orange door leading up the stairs.  
+~
+0 0 0
+D4
+~
+~
+4 23002 23002
+D5
+~
+~
+4 23000 23000
+S
+#23002
+Stairwell of Sunlight~
+The walls are lit with an orange glow, radiating from within.  No
+chandeliers are necessary, as the stairs are bathed in harsh, overbright
+sunlight.  There is a yellow door leading up the stairs.  
+~
+0 0 0
+D4
+~
+~
+4 23003 23003
+D5
+~
+~
+4 23002 23001
+S
+#23003
+Stairwell of the Plains~
+A tapestry adorns the walls of this stairwell, depicting a field of
+yellow corn, recently set ablaze.  A lone figure in the background laughs at
+the destruction of the natural beauty of the plains.  A window provides dim
+yellow light.  There is a green door leading up the stairs.  
+~
+0 0 0
+D4
+~
+~
+4 23004 23004
+D5
+~
+~
+4 23003 23002
+S
+#23004
+Stairwell of the Forest~
+Thick vines grow over the walls here, green leaves shining with good
+health.  A chandelier crafted of emeralds hangs above, bathing the room in
+green light.  There is a blue door leading up the stairs.  
+~
+0 0 0
+D4
+~
+~
+4 23005 23005
+D5
+~
+~
+4 23004 23003
+S
+#23005
+Stairwell of the Ocean~
+The walls move here, the stairs wet and precarious.  Fish and oceanic
+plants move gently within their blue depths.  Light abounds in this gentle
+blue realm.  There is an indigo door leading up the stairs.  
+~
+0 0 0
+D4
+~
+~
+4 23006 23006
+D5
+~
+~
+4 23005 23004
+S
+#23006
+Stairwell of Midnight~
+Cut from the night sky, the indigo beauty of this stairwell is not marred
+with any decoration, nor any light.  Dimly the stairs are visible through
+the thick night.  There is a purple door leading up the stairs.  
+~
+0 0 0
+D4
+~
+~
+4 23007 23007
+D5
+~
+~
+4 23006 23005
+S
+#23007
+Stairwell of Magick~
+This stairwell is created of pure amethyst, channeling the energy of
+purple magick throughout.  The grand door to the north, crafted of silver
+and gold, signifies the end of the stairwell.  
+~
+0 0 0
+D0
+~
+~
+4 23008 23008
+D5
+~
+~
+4 23005 23006
+S
+#23008
+Fenalyn's Chambers~
+The majesty of this room is overwhelming.  A large silver throne sits on
+one side, the other holding a library of arcane knowledge.  Shelves hold
+jars of conjuring elements.  The walls are covered in satin tapestries, the
+floor richly carpeted in velvet.  
+~
+0 9216 0
+D2
+~
+~
+4 0 23007
+S
+#23100
+Starting Point~
+This is the starting point of the QP mob.  Nobody should be in here.  
+~
+0 8196 0
+S
+#0
+
+
+
+#SPECIALS
+M 23001 spec_breath_any
+S
+
+
+
+#RESETS
+D 0 23000 4 2
+D 0 23001 4 2
+D 0 23001 5 2
+D 0 23002 4 2
+D 0 23002 5 2
+D 0 23003 4 2
+D 0 23003 5 2
+D 0 23004 4 2
+D 0 23004 5 2
+D 0 23005 4 2
+D 0 23005 5 2
+D 0 23006 4 2
+D 0 23006 5 2
+D 0 23007 0 2
+D 0 23007 5 2
+D 0 23008 2 2
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

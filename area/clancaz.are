@@ -1,0 +1,401 @@
+#AREADATA
+Name Clan Ca'Zultai~
+Builders Halodar Fluffy~
+VNUMs 21900 21999
+Credits {  ALL  } Staff       Clan Ca'Zultai~
+Security 9
+Version 1
+End
+
+
+
+#MOBILES
+#21900
+exzodea cazultai ca'zultai~
+{rE{Dxz{mo{Dde{ra{D~
+{rE{Dxz{mo{Dde{ra{D, the legendary {mDrow{X
+~
+Exzodea, Legendary Drow of the olden days.  He was once said to have
+taken on an entire army of Dragon, alone.  He came out of the battle the
+victor, with only a few scratches, bumps and bruises.  He has now retired
+his adventure days to protect his kin in Ca'Zultai.  
+~
+unique~
+ABMN HLTVa -1000 0
+300 500 50d50+100 50d50+100 50d50+100 slash
+-50 -50 -50 -50
+BDEFKNOVWX Q L N
+stand stand male 1000000
+AIc ABCDEFGHIJKLOPQUVWXY medium souls
+M speech 21900 shelter me from the light~
+#21901
+exfrith cazultai ca'zultai~
+{rE{Dxf{mr{Dit{rh{X ~
+{rE{Dxf{mr{Dit{rh{D is here selling some armor{X
+~
+A large, burly drow stands tall before you, adjusting his wares upon the
+countertop.  He nods his greeting to you and awaits your order.  He wears a
+thick leather apron and his hammer is at his hip like a sword ready for
+battle.  
+~
+unique~
+ABGM HVa -1000 0
+300 0 0d0+0 0d0+0 0d0+0 slash
+0 0 0 0
+0 Q L HNS
+stand stand male 100000
+AHMVZ ABCDEFGHIJKLOPQUVWXY large unknown
+#21902
+stryver weaponsmith cazultai ca'zultai~
+{rS{Dtr{my{Dve{rr{X~
+{rS{Dtr{my{Dve{rr{D is here, crafting weapons{X
+~
+A large drow rises up before you hammering away at a sword gleaming red
+in the light.  He eyes you suspiciously as you approach and looks none to
+happy.  Better keep your distance.
+~
+unique~
+ABGM 0 -1000 0
+300 0 0d0+0 0d0+0 0d0+0 slash
+0 0 0 0
+0 Q L HNS
+stand stand male 100000
+AHZ ACDEFHJKLOPQUVWXY large unknown
+#21903
+Alliana Cazultai Ca'zultai~
+{rA{Dll{mi{Dan{ra{X~
+{rA{Dll{mi{Dan{ra{D lies peacefully watching you with one eye partially open.{X
+~
+A sleek black dragon rises tall before you, glinting the light back into
+your eyes from her glass like scales.  Her claws sizzle with energy and a
+faint aura glows and pulses around her from the untamed energy.  She watches
+you carefully, studying your every move.  She is willing to aid her clansmen
+when they seek her for healing.  
+~
+unique~
+ABGMa CDEFGOVZac -1000 0
+150 0 0d0+0 0d0+0 0d0+0 claw
+0 0 0 0
+I Q L HNS
+stand stand female 10
+AHZ ACDEFHJKLOPQUVWXY huge unknown
+M speech 21903 bless me~
+#21904
+demun cazultai ca'zultai demon mage~
+{rD{De{mm{De{rn{x~
+A Wiley Demon is here.
+~
+A wiley Demon Mage, crafting many spells and potions.
+~
+unique~
+ABGM 0 -750 0
+200 0 0d0+0 0d0+0 0d0+0 slash
+0 0 0 0
+0 0 0 0
+stand stand none 100000
+AHMV ABCDEFGHIJK large unknown
+#21905
+gorre gargoyle cazultai ca'zultai~
+{rG{Do{mr{Dr{re{x~
+A dirty old Gargoyle is here.
+~
+A dirty old Gargoyle is here, perched on a stool awaiting a halfling demon
+or even dragon to come in and taste his newest blood bone chili!
+~
+unique~
+ABGM 0 -750 0
+200 0 0d0+0 0d0+0 0d0+0 slash
+0 0 0 0
+0 0 D C
+stand stand none 100000
+AHZ ACDEFHJKLOPQUVWXY medium unknown
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#21900
+{rA {RB{rl{Roo{rd {RS{rta{Ri{rne{Rd T{ru{Rnn{rel{x~
+From the ground above, a tunnel has been dug.  The path leads to an
+underground world of destruction and chaos.  The soil is wet with the blood
+of helpless vitcims.  The mud is tracked with trails left by bodies, dragged
+inside by their murderers.  Screams can be heard from deep inside the
+tunnel.  The harsh, coppery smell of freshly spilled blood permeates the
+air.  
+~
+0 8200 0
+D2
+~
+~
+0 0 6013
+S
+#21901
+{RIn{rs{Ri{rde {RT{rh{Re T{ru{Rnn{rel{x~
+A lake of blood seeps around your boots, silently pooling above the
+saturated soil.  Your every step sinks into the muck, bits of flesh floating
+grossly in the pool as you disturb it.  Lost weapons and forgotten bits of
+armor stick up from the pool, the last defense of those too weak too
+survive.  The tunnel continues in all directions.  
+~
+0 8200 0
+D0
+~
+~
+0 0 21902
+D1
+~
+~
+0 0 21903
+D3
+~
+~
+0 0 21904
+S
+#21902
+{RIn{rs{Ri{rde {RT{rh{Re T{rre{Rn{rch{X~
+A lake of blood fills the trench, rising half the height of the trench. 
+Rats swim through the stail blood, eating pieces of rotted flesh that float
+in the pool.  Weapons and armor collect on the ground of the trench,
+dacaying in the endless pool of blood.  
+~
+0 8200 0
+D2
+~
+~
+0 0 21901
+D4
+~
+~
+0 0 21907
+S
+#21903
+{RH{ral{rl o{Rf H{read{Rs{X~
+Plaques cover the walls, blood drips from them leaving puddles on the
+ground.  Mounted on these plaques are the heads from which Ca'Zultai
+barbarians have stolen from the living bodies of wandering Alanthians.  The
+wall extend with one abrupt interruption.  
+~
+0 8200 0
+D0
+~
+~
+0 0 21908
+D2
+~
+~
+0 0 21905
+D3
+~
+~
+0 0 21901
+S
+#21904
+{RH{ral{rl o{Rf H{read{Rs{X~
+Plaques cover the walls, blood drips from them leaving puddles on the
+ground.  Mounted on these plaques are the heads from which Ca'Zultai
+barbarians have stolen from the living bodies of wandering Alanthians.  The
+wall extend with one abrupt interruption.  
+~
+0 8200 0
+D0
+~
+~
+0 0 21909
+D1
+~
+~
+0 0 21901
+D2
+~
+~
+0 0 21906
+S
+#21905
+{RT{rhe {RA{rrmourers {RB{rarracks{X~
+Deep in the trench, a shop has been set up.  A table has been built from
+the ground up, so the blood can't wash it away.  Many differant pieces of
+armor have been shoved into the moist soil showing off what this elite,
+underground society uses for protection.  
+~
+0 8200 0
+D0
+~
+~
+0 0 21903
+S
+#21906
+{RT{rhe {RB{rlack{RS{rmith's {RB{rarracks{X~
+A rather large, metal made anvil has been left next to a nice sized desk
+sort table.  Forgings lay disregarded all around.  Large, handling tongs are
+close to the anvil, laying on the ground.  A furnace is blazing a variety of
+Red, Yellow, and Orange warriors, all dancing to the beat of crackles.  
+~
+0 8200 0
+D0
+~
+~
+0 0 21904
+S
+#21907
+{rAb{Ro{rve {RT{rhe T{Rre{rn{Rch{X~
+An alter overlooking the trench offers sanctuary to all clansmen of
+Ca'Zultai.  The entire trench can be seen from here, from the armoury to the
+weaponry, and even the entrance.  The alter is stained with a rich, crimson
+liquid.  
+~
+0 8200 0
+E
+sign direction~
+{RMany directions are here, for young Ca'Zultai's to find their way.
+{mAmber Palace - 2s, 13w, 2n, e, open east, e.
+{rWeary Peasants - 2s, 3e, open east, 3e, 4s, 2e, s, 2e, d, 2e, 7n
+{mFawcroed - 2s, 13w, n, 2e
+{rGalaxy - 2s, 3w, open west, 10w, s, 2w, 2s, w, s, 3w, n, w, 2n, w, 4n, w
+{mDragon Tower - 2s, 3w, open west, 10w, s, 2w, 2s, w, s, 3w, n, w, 2n, w, 3n, 2w
+{rBlood Fountain - 4s, d, n
+{mOrc Fortress - 2s, 3e, open east, 3e, 4s, 2e, s, 2e, d, 5n, 4w, s, w
+~
+D5
+~
+~
+0 0 21902
+S
+#21908
+{RA {rT{Ro{rrt{Ru{rr{Re {rCh{Ra{rmb{Re{rr{X~
+There are chains linked to the blood covered walls, giant wooden slabs
+nestle themselves on the ground, blood stained and occupied with a great
+axe.  A basket filled with various heads is just beneath the wooden block.  
+~
+0 8200 0
+D2
+~
+~
+0 0 21903
+D3
+~
+~
+0 0 21910
+S
+#21909
+{rA {RG{ria{Rn{rt {rPr{Ri{rs{Ro{rn C{Re{rll{X~
+A rather large, metal cell has been built on the entire left wall.  A pit
+lies just out of reach of the cell, filled with various parts of armor,
+weapons, and other miscellaneous items.  A pool of blood trickles from the
+cell into the pit.  
+~
+0 8200 0
+D1
+~
+~
+0 0 21910
+D2
+~
+~
+0 0 21904
+S
+#21910
+{RA {rCel{Re{rbr{Rati{ron {RH{ra{Rl{rl{X~
+The trench has been widened somewhat here.  Cups and scraps of food have
+been disregarded all over the place.  There is a basket filled with alcohol
+of all sorts.  Directly next to it is a family of kegs, housing a plentiful
+amount of rum.  
+~
+0 8200 0
+D0
+~
+~
+0 0 21911
+D1
+~
+~
+0 0 21908
+D3
+~
+~
+0 0 21909
+S
+#21911
+{rT{Rh{re {RM{ree{Rt{rin{Rg {rP{Ri{rt{X~
+A round room filled with chairs, stained of blood, fill this part of the
+trench.  The dirt surrounding has been packed back tight, and boarded with
+wood.  The wood seems to have some kind of insignia.  
+~
+0 8200 0
+E
+sign death list~
+{RCa{r'{RZultai's Most Hated and Wanted Dead are listed here.
+{mSpree - Spree is wanted dead every time she is seen to be pk. Full Looting, Saccing, or Leaving her corpse is fine.
+~
+D1
+~
+~
+0 0 21912
+D2
+~
+~
+0 0 21910
+D3
+~
+~
+0 0 21913
+S
+#21912
+{RMa{rgi{Rc B{rarr{Rac{rks{x~
+Viles, flasks and all sorts of test tubes fill this room.  One could
+assume it to be a laboratory, but in all actuallity it's another barrack
+deep in the Ca'Zultai Hall.  A brewer pulls up a potion and pours it onto a
+pill, and then enchants a scroll with a spell.  Wonder what they do....  
+~
+0 8200 0
+D3
+~
+~
+0 0 21911
+S
+#21913
+{RT{rh{Re E{rat{Re{rry{x~
+Dirty trays and broken down benches fill this blood perfumed trench. 
+Many soldiers of the Dead and of the Shadows have been known to stop and
+take a bite to eat here..  But more than likely they just eat what they
+kill....  
+~
+0 8200 0
+D1
+~
+~
+0 0 21911
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 21900 1 21900 1
+M 0 21901 1 21905 1
+M 0 21902 1 21906 1
+M 0 21903 1 21911 1
+M 0 21904 1 21912 1
+M 0 21905 1 21913 1
+S
+
+
+
+#SHOPS
+21901 9 1 15 0 0 100 50 0 23
+21902 5 0 0 0 0 100 50 0 23
+21904 26 10 3 4 2 100 50 0 23
+0
+
+
+
+#$

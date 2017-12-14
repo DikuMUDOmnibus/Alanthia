@@ -1,0 +1,346 @@
+#AREADATA
+Name Loner Clan Hall~
+Builders Halodar Fluffy~
+VNUMs 800 825
+Credits {  ALL  } Staff       Clan Loner Hall~
+Security 9
+Version 1
+End
+
+
+
+#MOBILES
+#800
+Jerore middle aged bartender rotund~
+Jerore the Lone Bartender~
+A rotund middle-aged man stands behind the bar waiting to serve you a drink.
+~
+Before you stands Jerore, owner of the "Weary Wanderer."  He appears very
+tired and very lonely, having hardly anything better to do than clean his
+place, making this tavern among one of the cleanest in the entire realm.
+~
+unique~
+ABGM 0 0 0
+309 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand male 100000
+AHMV ABCDEFGHIJK medium unknown
+#801
+caladien elven barmaid~
+Caladien, the Sylvan Barmaid~
+A young, gorgeous elven barmaid serves drinks to the few customers.
+~
+Here you see a tall slender elf maiden with long black hair and hazel
+eyes.  She is a sylvan elf named Caladien.  Outcast from normal elven
+society she came here to live out her life and make a living, a meager one,
+but a living none the less.  She moves around the room serving drinks to the
+weary patrons.  
+~
+unique~
+ABG 0 0 0
+20 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 B Z
+stand stand female 300000
+AHMV ABCDEFGHIJK medium unknown
+#802
+Ceocyn the Chef~
+Ceocyn, the Chef~
+A small portly man wearing a chef's hat and apron walks around smacking a rolling pin in the palm of his hand.
+~
+Before you is a small man with a large gut, covered by a chef's apron. 
+His chef's cap covers his balding head.  He carries a large rolling pin
+around in his inspections of the ovens.  He is Ceocyn, the Chef.  He has
+mastered the culinary arts in every way, and makes many mouthwatering
+delicacies.  
+~
+unique~
+ABG 0 0 0
+20 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand male 100
+AHMV ABCDEFGHIJK small unknown
+#803
+loner greyelf guardian armored guard~
+(no short description)~
+(no long description)
+~
+~
+unique~
+AB 0 0 0
+20 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+D 0 B Z
+stand stand male 100
+AHMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#800
+Worn Cobblestone Path~
+Two rows of large Oak trees line either side of a worn cobblestone path
+leading to a large stone walled building.  Large steel doors lay open,
+inviting those few who belong, or don't belong rather, to enter.  This is a
+place for the loners of Alanthia to come congregate in peace.  
+~
+0 0 11
+D0
+~
+~
+0 0 801
+C Loner~
+S
+#801
+Entrance Archway~
+You are walking through a medium sized stone archway that leads to a
+large open courtyard.  There are four sconces on the walls, two on each
+side, each holding a torch.  Some moss has managed to worm its way between
+the stone slabs used for the wall.  There is a rather large hole in the
+ceiling presumeably allowing for boiling oil to be poured on any enemies the
+loners might have.  At the very end of this small hallway is another set of
+large steel doors, wide open as they have no reason to be shut.  A courtyard
+is up ahead to the north, it's very quiet, as it normally is being that
+loners don't talk much.  
+~
+0 8 0
+D0
+~
+~
+0 0 802
+D2
+~
+~
+0 0 800
+C Loner~
+S
+#802
+A Large Quiet Courtyard~
+You are in a large, almost deserted, but tranquil, court yard.  Trees of
+all kinds are scattered throughout it providing shade, and adding to the
+tranquility.  Not a single piece of trash or debris mars this entire area. 
+Few people are wandering about right now, few ever are.  To the north there
+is a stone keep, a stable next to that, only occupied by a couple horses. 
+Off to the west there is a small inn and tavern.  East there are stairs
+leading up to the top of the walls.  
+~
+0 0 2
+D2
+~
+~
+0 0 801
+D3
+~
+~
+0 0 803
+C Loner~
+S
+#803
+Before an Imaculate Tavern~
+You stand before a lonely building, identified with a sign of a traveller
+named "The Weary Wanderer".  The sign swings silently on it's well oiled
+hinges.  Having little fame due to its poor location, you see very few
+patrons through the windows.  
+~
+0 0 11
+D1
+~
+~
+0 0 802
+D3
+~
+~
+0 0 804
+C Loner~
+S
+#804
+Inside the Tavern~
+This room is dimly lit by a fair sized fire blazing in the large marble
+fireplace off to the right, along with a few well placed lanterns throughout
+the room.  Directly ahead is a well polished redwood bar lined with well
+cushioned comfy swivel bar stools the whole way down.  Scattered throughout
+the room are tables and chairs also made of redwood, welcome to any visitors
+who would like to rest and order food.  Some booths also line the walls,
+which are used much more frequently for the privacy they provide.  Delicious
+smells waft into the room from the open door behind the bar.  Ahead and to
+the left is a stairway leading to rooms for weary travellers.  
+~
+0 8 0
+D0
+~
+~
+0 0 808
+D1
+~
+~
+0 0 803
+D4
+~
+~
+0 0 805
+C Loner~
+S
+#805
+Hallway of the Weary Wanderer~
+You are in a hallway, well lit by a few lanterns.  Rooms for patrons to
+stay in are to the east and west.  
+~
+0 8 0
+D1
+~
+~
+0 0 807
+D3
+~
+~
+1 0 806
+D5
+~
+~
+0 0 804
+C Loner~
+S
+#806
+Room in the Weary Wanderer~
+
+~
+0 8 0
+D1
+~
+~
+1 0 805
+M 150 H 150
+C Loner~
+S
+#807
+A spotless hallway~
+
+~
+0 8 0
+D0
+~
+~
+0 0 810
+D2
+~
+~
+0 0 809
+D3
+~
+~
+0 0 805
+C Loner~
+S
+#808
+The Kitchen of the Weary Wanderer~
+This room is filled with enticing smells of foods and spices of all
+kinds.  There are several ovens all lined up together on the otherside of
+the room, cooking anything you can imagine.  Pots, pans, knives spoons,
+bowls, and measuring cups are hanging from the walls, or stacked in opened
+cupboards.  Flour and other cooking ingredients cover the counter tops.  A
+small man paces back and forth, lightly smacking a rolling pin in the palm
+of his hand, from oven to oven checking on the contents of each.  The only
+way out is back the way you came.  
+~
+0 8 0
+D2
+~
+~
+0 0 804
+C Loner~
+S
+#809
+A Lavish Room~
+
+~
+0 0 0
+D0
+~
+~
+0 0 807
+M 200 H 200
+C Loner~
+S
+#810
+A small room~
+
+~
+0 0 0
+D2
+~
+~
+0 0 807
+M 150 H 120
+C Loner~
+S
+#811
+A spotless hallway~
+
+~
+0 0 0
+D0
+~
+~
+0 0 812
+D2
+~
+~
+0 0 813
+C Loner~
+S
+#812
+A medium sized room~
+
+~
+0 0 0
+D2
+~
+~
+0 0 811
+C Loner~
+S
+#813
+A large room~
+
+~
+0 0 0
+D0
+~
+~
+0 0 811
+C Loner~
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 805 3 1
+D 0 806 1 1
+M 0 800 1 804 1
+M 0 801 1 804 1
+M 0 802 1 808 1
+S
+
+
+
+#SHOPS
+800 9 19 5 0 0 100 50 0 23
+0
+
+
+
+#$

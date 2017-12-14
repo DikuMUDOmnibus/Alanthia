@@ -1,0 +1,365 @@
+#AREADATA
+Name Clan Kardis~
+Builders Fluffy Halodar~
+VNUMs 21800 21899
+Credits {  ALL  } Staff       Clan Kardis~
+Security 9
+Version 1
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#21800
+{cT{Ch{We {CC{cr{Cy{Ws{Ct{ca{Cl {WG{Ca{ct{Ce{x~
+Before you is a set of massive gates, standing at least fifty feet tall. 
+They stand nebulously seperate from any other structure, seeming to be gates
+to nowhere.  They are closed, and there seems to be no obvious way to open
+them.  They shine with an unnatural glow.  As you look into the crystal, it
+seems to swirl and flow like a liquid, and is yet solid to the touch.  
+~
+0 532489 0
+D0
+~
+~
+0 0 21801
+S
+#21801
+{cT{Ch{We {CC{cr{Cy{Ws{Ct{ca{Cl {WA{Cn{ct{Ce{Wr{Co{co{Cm{x~
+You stand in a room of unparalleled beauty.  The walls and floor are all
+constructed of a shining blue crystal.  You see no torches or light source
+of any kind, and yet the room is filled with a strange, but all encompassing
+glow.  The room is circular, the only exit a door set into a crystalline
+arch to the north.  
+~
+0 532489 0
+D0
+~
+~
+0 0 21802
+D2
+~
+~
+0 0 21800
+D5
+~
+~
+5 0 21803
+S
+#21802
+{cT{Ch{We {CC{cr{Cy{Ws{Ct{ca{Cl {WM{Ca{cn{Cs{Wi{Co{cn{x~
+The mansion of Kardis lies out before you, expansive and beautiful.  The
+walls are constructed of shining, liquescent crystal, which seems to flow
+through the room.  The crystalline structure is punctuated by floor to
+ceiling windows, lined with silver frames.  Beyond them are expansive
+gardens, filled with blooming flowers and trees.  A large fountain in the
+center of the room flows with water as clear as the fine crystal that
+surrounds it.  A staircase spirals around the fountain, leading up into
+another room.  There are also doors to the east, west, and north.  
+~
+0 532489 0
+D0
+~
+~
+0 0 21819
+D1
+~
+~
+0 0 21818
+D2
+~
+~
+0 0 21801
+D3
+~
+~
+0 0 21817
+D4
+~
+~
+0 0 21820
+S
+#21803
+{cT{Ch{We {cC{Cr{Wy{Cs{ct{Ca{Wl {CC{ca{Cv{We{x~
+You are standing on a platform constructed of a fine sapphire.  There
+doesn't appear to be anything supporting the platform, it seems to be merely
+floating in midair.  Surrounding the platform is a cave of immense
+proportions, formed of a shining blue crystal.  It is as though a huge
+spherical gouge had been taken from the earth to form this cave, the nearest
+cave wall at least a hundred yards away.  The cave floor is obscured by a
+tumultuous flow of a strangely liquid blue energy.  It gives the appearance
+of a glowing blue sea, with tendril of blue light reaching up from its
+depths to cover the cave walls.  There is a catwalk leading from the
+platform to the north, and stairs leading upward out of sight.  
+~
+0 532489 0
+D0
+~
+~
+0 0 21806
+D4
+~
+~
+5 0 21801
+S
+#21804
+{cT{Ch{We {CB{ca{Cl{Wc{Co{cn{Cy{x~
+You stand on a balcony constructed of a fine blue crystal.  A
+breathtaking view of the Kardis gardens surrounds you.  There are several
+chairs about, seated in front of musical instruments, including among others
+a cello.  This is a place of beauty and song.  
+~
+0 0 0
+D0
+~
+~
+0 0 21823
+S
+#21806
+{cT{Ch{We {CA{cr{Cm{Wo{Cr{cy{x~
+Before you are three paths, each leading to different platforms amidst
+the chaotic lights of the crystalline cave.  To the west, you can see a
+platform filled with shining, beautiful suits of armor set on display.  To
+the east, racks of blades and weapons wait for new masters.  To the south, a
+catwalk leads to a larger platform.  
+~
+0 525321 0
+D1
+~
+~
+0 0 21807
+D2
+~
+~
+0 0 21803
+D3
+~
+~
+0 0 21808
+S
+#21807
+{cT{Ch{We {CB{cl{Ca{Wd{Ce{cs{Cm{Wi{Ct{ch{x~
+Tendrils of blue light swirl around this platform.  Before your eyes, the
+light is molded by Kardis' master craftsmen into works of deadly art. 
+Blades, chains, staves, bows; all are constructed and prepared for battle
+before you.  Atop a small round table, a selection of the weapons is offered
+for your perusal and purchase.  To the west, a catwalk leads away from this
+platform.  
+~
+0 525321 0
+D3
+~
+~
+0 0 21806
+S
+#21808
+{cT{Ch{We {CF{co{Cr{Wg{Ce{x~
+The chaos of the energy below the platform you're standing on finds shape
+here in the form of armor.  A large, ever shifting tentacle of blue light
+reaches up from the sea below, coming close enough to the platform for the
+craftsmen of Kardis to mold it to their own design.  Here this energy is
+shaped into suits of shining, radiant armor, which appear to be as strong as
+they are beautiful.  A catwalk leads away to the east.  
+~
+0 525321 0
+D1
+~
+~
+0 0 21806
+S
+#21817
+~
+
+~
+0 532489 0
+D1
+~
+~
+0 0 21802
+S
+#21818
+~
+
+~
+0 532489 0
+D3
+~
+~
+0 0 21802
+S
+#21819
+{cT{Ch{We {CC{co{Cn{Wf{Ce{cr{Ce{Wn{Cc{ce {CR{Wo{Co{cm{x~
+
+~
+0 532489 0
+D1
+~
+~
+0 0 21822
+D2
+~
+~
+0 0 21802
+D3
+~
+~
+0 0 21821
+S
+#21820
+{cT{Ch{We {CL{ci{Cb{Wr{Ca{cr{Cy{x~
+Books line every wall in this room, a sea of bindings stretching far up
+the the high ceiling.  Their shelves seem to be part of the crystalline
+walls themselves, each one simply an inset in the amazing construction.  As
+with the other rooms in the mansion, this one too is filled with an
+unnatural and inexplicable glow.  The sea of books continues to the south,
+and stairs lead downward.  
+~
+0 532489 0
+D2
+~
+~
+0 0 21823
+D5
+~
+~
+0 0 21802
+S
+#21821
+~
+
+~
+0 532489 0
+D0
+~
+~
+0 0 21835
+D1
+~
+~
+0 0 21819
+S
+#21822
+{cT{Ch{We {CC{co{Cm{Wm{Ca{cn{Cd{We{Cr{c'{Cs {WP{Cr{ci{Cv{Wa{Ct{ce {CO{Wf{Cf{ci{Cc{We{x~
+In the center of this room rests a very large and impressive diamond
+desk.  On the walls, portraits of ancient hereos and heroines, all dedicated
+to the protection of good and noble causes, are hung in lapis lazuli frames.
+Light streams in through the large windows to strike a very lush and thick
+white carpet lying upon the entirety of the floor, seeming to simulate polar
+bear fur.  The room also seems to be scented in a very refreshing and
+cooling fragrance, evoking images of the benevolent leader you assume must
+spend many hours here.  The double doors north lead to private quarters, and
+through the arched entryway to the west, the doors lead to the conference
+room.  
+~
+0 532489 0
+D0
+~
+~
+0 0 21834
+D3
+~
+~
+0 0 21819
+S
+#21823
+{cT{Ch{We {CL{ci{Cb{Wr{Ca{cr{Cy{x ~
+An enormous number of books fills every wall, circling the room and
+continuing to the north.  Every subject imaginable is contained in this
+complete library, including the histories of each of Kardis' members. 
+Stepladders dot the walls every so often, allowing access to the higher
+shelves.  A door south leads out to an expansive balcony.  
+~
+0 532489 0
+D0
+~
+~
+0 0 21820
+D2
+~
+~
+0 0 21804
+S
+#21828
+~
+
+~
+0 532493 0
+S
+#21829
+~
+
+~
+0 532493 0
+S
+#21832
+~
+
+~
+0 532493 0
+S
+#21833
+~
+
+~
+0 532493 0
+S
+#21834
+{cT{Ch{We {CC{co{Cm{Wm{Ca{cn{Cd{We{Cr{c'{Cs {WP{Cr{ci{Cv{Wa{Ct{ce {CQ{Wu{Ca{cr{Ct{We{Cr{cs{x~
+Decorated in a very classic and elegant style, the blues, whites,
+silvers, and even purples of the room, blend into a very calming and
+peaceful atmosohere.  A large, comfy louging chair sits in front of a
+cerulean flame roaring in the fireplace, beckoning visitors to rest and
+relax.  Scattered thoughout the room are various articles that identify the
+character and private personality of the leader of Kardis.  This room is
+meant to be an inner sactum is which the leader can retreat to sleep,
+meditate, and unload the stresses of running Kardis.  To the south, double
+doors lead to the office.  
+~
+0 533513 0
+D2
+~
+~
+0 0 21822
+S
+#21835
+Monkeytastic~
+
+~
+0 533513 0
+D2
+~
+~
+0 0 21821
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 21801 5 1
+D 0 21803 4 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

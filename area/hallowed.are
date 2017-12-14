@@ -1,0 +1,53 @@
+#AREADATA
+Name Hallowed Grounds~
+Builders Fluffy Halodar~
+VNUMs 5900 5999
+Credits (null)~
+Security 9
+Version 1
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#5999
+{wThe Belly of the Beast{X~
+You stand within the carved out belly of some enormous, primal beast. 
+The walls of the round belly are smooth, fossilized from age and bone white.
+The ribs of the ancient beast form a canopy sheltering those within from the
+outside.  Remnants of previous kills --- long since decayed --- are
+scattered throughout the belly forming tables and seats of a fashion.  
+~
+0 41996 0
+M 500 H 500
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

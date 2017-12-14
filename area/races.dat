@@ -1,0 +1,65 @@
+Name unique~
+Who "u n i q u e"~
+Gen {GUnique       ~
+PC 1
+Act ABCDEFG
+Aff CDEFG
+Off ABCDEFG
+Imm BC
+Res ABC
+Vuln ABC
+Form ABC
+Parts ABC
+Sex 3
+Size 6
+Min 1
+Max 100
+Version 1
+Lifespan 100
+Points 0
+Stats 25 25 25 25 25 
+Senses 0 0 0 0 0 0 
+Skill 'bash'
+Skill 'berserk'
+Skill 'infravision'
+Skill ''
+Skill ''
+Feeds 'unique'
+Feeds 'human'
+Feeds ''
+Feeds ''
+Feeds ''
+End
+Name human~
+Who human~
+Gen {XHuman        ~
+PC 1
+Act C
+Aff 0
+Off R
+Imm 0
+Res 0
+Vuln 0
+Form AHMV
+Parts ABCDEFHIJK
+Sex 3
+Size 2
+Min 1
+Max 200
+Version 0
+Lifespan 60
+Points 5
+Stats 50 60 40 70 60 
+Senses 43 45 65 78 56 45 
+Skill ''
+Skill ''
+Skill ''
+Skill ''
+Skill ''
+Feeds 'hu'
+Feeds ''
+Feeds ''
+Feeds ''
+Feeds ''
+End
+$

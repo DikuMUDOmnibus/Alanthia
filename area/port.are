@@ -1,0 +1,3761 @@
+#AREADATA
+Name Port of Aachen~
+Builders Fluffy Halodar~
+VNUMs 400 599
+Credits {50   80} Froth       Port of Aachen~
+Security 9
+Version 1
+End
+
+
+
+#MOBILES
+#400
+seagull gull~
+a seagull~
+A seagull glides about, searching for food.
+~
+White and grey markings pattern the stomach of the black-backed gull as
+it peers as the familiar coastal world out of shiny, dark-rimmed eyes.  
+~
+unique~
+AGUW FTb 0 400
+51 0 2d6+10 1d1+1 1d4+0 peckb
+9 9 9 9
+FH 0 R 0
+stand stand either 0
+AGW ACDEFHKLPQU small 0
+#401
+pelican~
+a pelican~
+A large pelican shifts from leg to leg.
+~
+The snowy pelican is a large fishing bird with a highly specialized beak
+much like a large net, which it uses to catch fish and hold them before
+gulping them down.  
+~
+unique~
+AGUW FTb 0 400
+52 0 2d7+21 1d1+1 1d5+0 peckb
+8 8 8 8
+FH 0 R 0
+stand stand either 0
+AGW ACDEFHKLPQU small 0
+#402
+Ishmael~
+Ishmael~
+Ishmael is here, hawking his wares.
+~
+Ishmael is a very skinny fellow - so skinny, in fact, that his wooden leg
+is roughly the same diameter as his real one.  He deals in the import
+business, and his attire reflects his trade, sparkling with pretty
+rhinestones and beautiful brocade.  His skinny, hooked nose draws attention
+from his clothes up to his tanned, thin face, and makes his shiny brown eyes
+seem squinty and devious.  
+~
+unique~
+ABCGMY 0 1000 400
+300 100 50d10+9500 1d1+1 8d6+28 punch
+-30 -30 -30 -30
+HO 0 0 0
+stand stand male 100000
+AGHMV ABCDEFGHIJKL medium 0
+#403
+one thumb bartender~
+One-Thumb~
+One-Thumb is tending bar here.  
+~
+One-Thumb is a large, powerful man who lost his thumb in a knife 
+fight decades ago.  He is a veritable legend in Aachen, and knows 
+much about what goes on in town.
+~
+unique~
+ABCGMY 0 1000 400
+300 100 50d10+9500 1d1+1 8d6+28 punch
+-30 -30 -30 -30
+HO 0 0 0
+stand stand male 100000
+AGHMV ABCDEFGHIJKL medium 0
+#404
+joe bartender~
+Joe~
+Joe is tending bar here.
+~
+Joe is a permanent fixture at the Ginger Man, his bar.  He is an ale
+fanatic, and is doing his best to convert the entire populace into ale
+drinkers.  Joe is a young man, sandy-haired and blue-eyed, tan from living
+on the shore, and he is known by the locals to be quite a ladies man.  
+~
+unique~
+ABCGMY 0 1000 400
+300 100 50d10+9500 1d1+1 8d6+28 punch
+-30 -30 -30 -30
+HO 0 0 0
+stand stand male 100000
+AGHMV ABCDEFGHIJKL medium 0
+#405
+mykono sail~
+Mykono~
+Mykono is carefully mending torn sails.
+~
+Mykono is a short, withered man who has spent almost all of his life
+creating and repairing sails for the many ships that stop at the Port of
+Aachen.  His work has left him permanently hunched over, and his hands are
+so calloused that it has made it nearly impossible for Mykono to take care
+of himself.  Long white hair runs unkempt down his back, snarling towards
+the ends of the strands, and his clothing is covered with stains and spots. 
+~
+unique~
+ABCGMY 0 1000 400
+300 100 50d10+9500 1d1+1 8d6+28 punch
+-30 -30 -30 -30
+HO 0 0 0
+stand stand male 100000
+AGHMV ABCDEFGHIJKL medium 0
+#406
+port authority guard~
+a port guard~
+A port authority guard presides over the piers.
+~
+The guard is stern, but even tempered, used to the jibes of the sailors
+who have been in the same compant for too long.  Dark hair flows across his
+wrinkled forehead, accenting the solemn brown of his eyes, and his mouth is
+turned down at the corners.  A life of cargo inspection and tariff
+collection calls for a harsh devotion to the job, oftentimes.  
+~
+unique~
+ABGT 0 500 401
+65 0 3d9+208 1d1+1 2d6+3 punch
+-2 -2 -2 -2
+EFNU 0 0 0
+stand stand male 1500
+AGHMV ABCDEFGHIJKL medium 0
+#407
+blacksmith bruce~
+Bruce~
+Bruce the Blacksmith is here, offering his fine wares.
+~
+Bruce is an immense mountain of a man.  Long years at the forge have 
+made him strong and hardy.  He is known as an honest, hard working 
+man.  He deals heavily with the shipyard, and is an expert smith.
+~
+unique~
+ABCGMY 0 1000 400
+300 100 50d10+9500 1d1+1 8d6+28 punch
+-30 -30 -30 -30
+HO 0 0 0
+stand stand male 100000
+AGHMV ABCDEFGHIJKL medium 0
+#408
+dock worker~
+a dock worker~
+A dock worker is here, moving boxes around.
+~
+Her looks back at you indignantly, mutters something about his aching 
+back, and gets on with his work.
+~
+unique~
+ABGT 0 500 402
+55 0 2d6+60 1d1+1 1d6+1 punch
+5 5 5 5
+CEFNX 0 0 0
+stand stand male 1500
+AGHMV ABCDEFGHIJKL medium 0
+#409
+warehouse worker~
+a warehouse worker~
+A warehouse worker is here, stacking boxes.
+~
+He is too busy to notice you looking at him.
+~
+unique~
+ABGT 0 500 402
+58 0 2d7+96 1d1+1 1d7+2 punch
+3 3 3 3
+CEFNX 0 0 0
+stand stand male 1500
+AGHMV ABCDEFGHIJKL medium 0
+#410
+shipwright worker~
+a shipwright~
+A shipwright is here, hacking away at a chunk of wood.
+~
+Manual labor has made the shipwright strong.  He is preparing a large 
+spar for placement onto the hull of a ship under construction.
+~
+unique~
+ABGTU 0 500 402
+60 0 2d7+121 1d1+1 2d4+2 punch
+1 1 1 1
+DEFNX 0 0 0
+stand stand male 1500
+AGHMV ABCDEFGHIJKL medium 0
+#411
+foreman ~
+the foreman~
+The foreman is here, telling people what to do.
+~
+He has worked here long enough to run the place.  He looks very frustrated 
+with the pace of construction, and is shouting orders at the workers.
+~
+unique~
+ABGT 0 500 402
+65 0 3d9+208 1d1+1 2d6+3 punch
+-2 -2 -2 -2
+CDEFN 0 0 0
+stand stand male 1500
+AGHMV ABCDEFGHIJKL medium 0
+#412
+shady rogue~
+a shady rogue~
+A shady rogue eyes you furtively.
+~
+He is dressed in shabby, dirty clothes.  He has a hungry look in his beady 
+little eyes.  Must be of house Jhereg or Orca.
+~
+unique~
+ABGT 0 -500 403
+60 2 2d7+121 1d1+1 2d4+2 punch
+-2 -2 -2 -2
+EFW 0 0 0
+stand stand male 1500
+AGHMV ABCDEFGHIJKL medium 0
+#413
+mercanary shady~
+a shady mercenary~
+A shady mercenary is here, looking for work or easy profit.
+~
+The mercenary makes a living by his sword, and is currently looking 
+for employment.
+~
+unique~
+ABGT 0 -750 403
+63 0 2d10+170 1d1+1 2d5+3 punch
+-1 -1 -1 -1
+CFX 0 0 0
+stand stand male 1500
+AGHMV ABCDEFGHIJKL medium 0
+#414
+sailor~
+a sailor~
+A sailor on shore leave is here, in a drunken stupor.
+~
+He looks like he just got back from a long voyage.  Unshaven and 
+unclean, he is drowning his inhibitions in cheap liquor. 
+~
+unique~
+ABGT 0 500 401
+65 0 3d9+208 1d1+1 2d6+3 punch
+-2 -2 -2 -2
+EFN 0 0 0
+stand stand male 1500
+AGHMV ABCDEFGHIJKL medium 0
+#415
+sailor duty~
+a sailor~
+A sailor is on duty here.
+~
+He is constantly in motion, trimming sails, tying ropes, making 
+adjustments to the winches and tie lines.  His life depends on the state 
+of the ship, and he is doing his best to make sure he survives the voyage.
+~
+unique~
+ABGT 0 500 401
+65 0 3d9+208 1d1+1 2d6+3 punch
+-2 -2 -2 -2
+DEFN 0 0 0
+stand stand male 1500
+AGHMV ABCDEFGHIJKL medium 0
+#416
+captain ~
+the captain~
+The captain is here, plotting the ships course.
+~
+The captain is an experienced sailor and looks wise beyond his years.
+~
+unique~
+ABGT 0 500 401
+70 3 3d9+333 1d1+1 2d8+5 punch
+-4 -4 -4 -4
+DFKX 0 0 0
+stand stand male 1500
+AGHMV ABCDEFGHIJKL medium 0
+M give 400 3186~
+M speech 401 passage~
+#417
+mate first~
+the first mate~
+The first mate is here, making sure things are going smoothly.
+~
+He is second in command to the captain.  He looks like he was born at sea, 
+with darkly tanned skin, lines in his face from squinting into the sun, 
+and bleached blonde hair.
+~
+unique~
+ABGT 0 500 401
+69 2 3d9+300 1d1+1 2d7+4 punch
+-4 -4 -4 -4
+DFKX 0 0 0
+stand stand male 1500
+AGHMV ABCDEFGHIJKL medium 0
+#418
+sailor crusty old~
+a crusty old sailor~
+A crusty old sailor is here, telling stories.
+~
+He looks thin and wispy now, but in his prime he must have been a strong 
+and powerful sailor.  He is telling fabulous stories about faraway lands 
+with large lizards, pirate treasures, and of dangerous sea-creatures.
+~
+unique~
+ABGT 0 500 401
+65 0 3d9+208 1d1+1 2d6+3 punch
+-2 -2 -2 -2
+EFN 0 0 0
+stand stand male 1500
+AGHMV ABCDEFGHIJKL medium 0
+#419
+smuggler shady~
+a shady smuggler~
+A shady smuggler is here, hiding from the port authorities.
+~
+Obviously of House Orca, he has a round face, is rather squat, and is 
+obviously involved in organized crime.  He squints back at you warily.
+~
+unique~
+ABGT 0 500 401
+60 0 2d7+121 1d1+1 2d4+2 punch
+1 1 1 1
+EFKNV 0 0 0
+stand stand male 1500
+AGHMV ABCDEFGHIJKL medium 0
+#420
+serena prostitute~
+Serena the prostitute~
+Serena lounges gracefully here, waiting for a big, strong man.
+~
+She looks like a cheap whore, which is what she is.  She looks back at you 
+expectantly, waiting for you to proposition her.
+~
+unique~
+ABGT 0 500 401
+8 0 2d7+96 1d1+1 1d7+2 none
+2 2 2 2
+FN 0 0 0
+stand stand female 1500
+AGHMV ABCDEFGHIJKL medium 0
+#421
+daphne prostitute woman~
+Daphne the prostitute~
+Daphne the prostitute is here, plying her trade.
+~
+Daphne looks back at you and says, "Would you like to get a room?"
+
+She is quite beautiful, despite her situation.  You can't help but feel 
+that perhaps she did not choose this life for herself.
+~
+unique~
+ABGT 0 500 401
+58 0 2d7+96 1d1+1 1d7+2 none
+2 2 2 2
+EFN 0 0 0
+stand stand female 1500
+AGHMV ABCDEFGHIJKL medium 0
+#422
+lorus bard~
+Lorus Taervald~
+Lorus Taervald the bard is here, telling tales of wonder.
+~
+Lorus is a regular sight at the Crown and Anchor, where he usually 
+performs his act.
+~
+unique~
+ABGT 0 500 401
+68 3 3d9+285 1d1+1 2d7+4 punch
+-4 -4 -4 -4
+EFNV 0 0 0
+stand stand male 15000
+AGHMV ABCDEFGHIJKL medium 0
+#423
+guard security east-west~
+a security guard~
+A guard stands here, guarding the entrance.
+~
+He looks back at you, waiting for you to try and get past him.  He is 
+trained to react, not act.  At least you have that in your favor...
+~
+unique~
+ABGT 0 500 401
+65 1 3d9+212 1d1+1 2d7+3 punch
+-2 -2 -2 -2
+CDEFX 0 0 0
+stand stand male 1500
+AHMV ABCDEFGHIJK medium 0
+#424
+sentry scruffy~
+a scruffy sentry~
+A scruffy looking sentry is here, guarding the exit.
+~
+He watches you carefully, preparing to bar your entry into the room beyond 
+this one.
+~
+unique~
+ABGT 0 500 401
+58 0 2d7+96 1d1+1 1d7+2 punch
+2 2 2 2
+CEFX 0 0 0
+stand stand male 1500
+AGHMV ABCDEFGHIJKL medium 0
+#425
+sentry thief scruffy west~
+a scruffy sentry~
+A scruffy looking sentry is here, guarding the exit.
+~
+He watches you carefully, preparing to bar your entry into the room beyond 
+this one.
+~
+unique~
+ABGT 0 500 401
+58 0 2d7+96 1d1+1 1d7+2 punch
+2 2 2 2
+CEFX 0 0 0
+stand stand male 1500
+AGMV ABCDEFGHIJKL medium 0
+#426
+sentry thief scruffy east~
+a scruffy sentry~
+A scruffy looking sentry is here, guarding the exit.
+~
+He watches you carefully, preparing to bar your entry into the room beyond 
+this one.
+~
+unique~
+ABGT 0 500 401
+58 0 2d7+96 1d1+1 1d7+2 punch
+2 2 2 2
+CEFX 0 0 0
+stand stand male 1500
+AGHMV ABCDEFGHIJKL medium 0
+#427
+fisherman man~
+a  fisherman~
+A fisherman is here, trying to catch a fish from the pier.
+~
+He watches the water expectantly, and hardly seems to notice you.
+~
+unique~
+ABGT 0 500 401
+53 0 2d6+36 1d1+1 1d4+2 punch
+2 1 2 1
+EFN 0 0 0
+stand stand male 300
+AGHMV ABCDEFGHIJKL medium 0
+#428
+hakeem fishmonger~
+Hakeem the fishmonger~
+Hakeem the fishmonger is here, selling fishing supplies.  
+~
+A large scar stretches from above his left eye down to his chin.  It is 
+rumored that he acquired the scar in a fight with a burglar.  At any 
+rate, Hakeem knows much about the traffic in and out of the port.  He 
+looks quite well off, and spends most of his time raising fish in his 
+aquariums in the back room. 
+~
+unique~
+ABCGMY 0 1000 400
+300 100 50d10+9500 1d1+1 8d6+28 punch
+-30 -30 -30 -30
+HO 0 0 0
+stand stand male 100000
+AGHMV ABCDEFGHIJKL medium 0
+#429
+guard security east~
+a security guard~
+A guard stands here, guarding the entrance.
+~
+He looks back at you, waiting for you to try and get past him.  He is 
+trained to react, not act.  At least you have that in your favor...
+~
+unique~
+ABGT 0 500 401
+65 1 3d9+212 1d1+1 2d7+3 punch
+-2 -2 -2 -2
+DFKNX 0 0 0
+stand stand male 1500
+AGHMV ABCDEFGHIJKL medium 0
+#430
+guard security west~
+a security guard~
+A guard stands here, guarding the entrance.
+~
+He looks back at you, waiting for you to try and get past him.  He is 
+trained to react, not act.  At least you have that in your favor...
+~
+unique~
+ABGT 0 500 401
+65 1 3d9+212 1d1+1 2d7+3 punch
+-2 -2 -2 -2
+DFKNX 0 0 0
+stand stand male 1500
+AGHMV ABCDEFGHIJKL medium 0
+#431
+guard security north~
+a security guard~
+A guard stands here, guarding the entrance.
+~
+He looks back at you, waiting for you to try and get past him.  He is 
+trained to react, not act.  At least you have that in your favor...
+~
+unique~
+ABGT 0 500 401
+65 1 3d9+212 1d1+1 2d7+3 punch
+-2 -2 -2 -2
+DFKNX 0 0 0
+stand stand male 1500
+AGHMV ABCDEFGHIJKL medium 0
+#432
+guildmaster rogue~
+the Rogue guildmaster~
+The guildmaster for Rogues stands here patiently.
+~
+The guildmasters in Aachen complete the training of young recruits.
+The city Rogues carry a reputation of being thieves.  Outside the
+city, Rogues are used as trackers or bards and are well-respected.
+This guildmaster is now your master.  Throughout the day, he provides
+a strict regiment of training for his pupils.
+~
+unique~
+ABGJKMSb CDEFHZ 1000 3700
+300 0 1d1+1999 1d1+999 3d8+24 pierce
+-15 -15 -15 -15
+0 0 0 0
+stand stand male 1
+AHMV ABCDEFGHIJK medium 0
+#433
+rogue mobguard~
+The Rogue guard~
+A guard keeps watch here at the Rogue's Guild.
+~
+Rogues are found in many professions: woodsmen, bards, merchants,
+diplomats, or even as thieves.  Their knowledge of stealth, commerce,
+and combat makes the profession very diversified. The guild is protective
+of its knowledge, and for this reason, guards its secrets from the
+other guilds.  The guard watches you carefully and seems to blend in
+with the surroundings.
+~
+unique~
+ABGS CDEFQc 300 3700
+70 3 5d10+400 1d1+99 4d4+6 punch
+-4 -6 -4 0
+EFNW 0 0 0
+stand stand either 1
+AHMV ABCDEFGHIJK medium 0
+#434
+ship merchant~
+a ship merchant~
+A ship merchant is here.
+~
+He's your average merchant.
+~
+unique~
+ABGM 0 0 0
+50 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+M greet 26510 100~
+M bribe 26511 300000~
+#435
+first officer 1~
+a first officer 1~
+A first officer 1 stands here, looking bored.
+~
+~
+unique~
+ABGM 0 0 0
+100 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+M give 26512 501~
+M speech 26513 yes~
+M speech 26514 no~
+#436
+first officer 2~
+the first officer 2~
+The first officer is here 2.
+~
+~
+unique~
+ABGM 0 0 0
+100 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+M speech 26515 thalos~
+M speech 26516 midgaard~
+M delay 26517 100~
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#400
+Dolphin Road~
+The corridor appears to be cut into the rock of the steep slope, extends
+downwards to the south and rising to the north where it meets with a forest
+and disappears among the trees.  A small ugly plaque is here, firmly
+attached to the boulders that border the walkway.  
+~
+0 262144 1
+E
+small plaque~
+The small plaque reads:
+____________________________________________________________
+
+      The Port area was created by Froth of Dyre MUD.
+              Modifications made by Pinto.
+Area originally created for DYRE Mud on 18 February 1997.
+_____________________________________________________________
+~
+D0
+~
+~
+0 0 8213
+D2
+The road continues.
+~
+~
+0 -1 401
+S
+#401
+Dolphin Road~
+Dolphin Road, leading from the city of Aachen to the port that provides
+for it, runs along the rocky land on this coastal shore.  The road slopes
+from the north to the south, and sheer rock faces block passage to the east
+and west.  The tall wooden masts of a flock of sailing ships bob over the
+roof tops to the south, the full length of each boat visible between the
+buildings at intervals.  
+~
+0 262144 1
+D0
+The road leads back to Aachen
+~
+~
+0 -1 400
+D2
+An intersection is visible.
+~
+~
+0 -1 402
+S
+#402
+Intersection of Dolphin and Orca~
+From the intersection of Dolphin and Orca, rough dirt roads lead off in
+every direction.  Dolphin leads down a steep slope to the south, back to the
+sea, while to the north it runs straight into Aachen.  Orca is more like a
+back alley running east and west behind the two buildings that lie to the
+south.  
+~
+0 262144 1
+D0
+A road leads north.
+~
+~
+0 -1 401
+D1
+~
+~
+0 -1 444
+D2
+A road leads south.
+~
+~
+0 -1 403
+D3
+~
+~
+0 -1 456
+S
+#403
+Dolphin Road~
+Dolphin Road extends north and south, running among the buildings that
+crop up randomly on the rocky shore.  The sides of two such structures
+border the road on the east and west, and rough faded paint on the eastern
+wall identify it as some sort of bar, the writing almost etched in the wood
+over the years.  The masts of several ships bob over and among the other
+buildings that are scattered over the landscape to the south.  
+~
+0 262144 1
+D0
+An intersection is visible.
+~
+~
+0 -1 402
+D2
+A large intersection is visible.
+~
+~
+0 -1 404
+S
+#404
+Intersection of Dolphin and Bittern~
+This is the intersection of Dolphin Road and Bittern Street.  Bittern
+heads east and west from here, and Dolphin continues to the north and south.
+The sea is clearly visible to the south, with a large pier sitting on the
+coast to the southeast.  Two large warehouses are located to the south, on
+either side of Dolphin Road.  
+~
+0 262144 1
+D0
+A road leads north.
+~
+~
+0 -1 403
+D1
+~
+~
+0 -1 429
+D2
+A road leads south.
+~
+~
+0 -1 405
+D3
+~
+~
+0 -1 477
+S
+#405
+Dolphin Road~
+Dolphin Road runs north and south between two large warehouses, neither
+of which is accessible from here.  To the south, the rough dirt road dips
+down, allowing a full view of the sea in the break between the buildings,
+and in the other direction, it winds away north towards the city of Aachen. 
+~
+0 262144 1
+D0
+A large intersection is visible.
+~
+~
+0 -1 404
+D2
+The road continues between the buildings.
+~
+~
+0 -1 406
+S
+#406
+Dolphin Road~
+To the south, Dolphin Road intersects with another street before running
+down to the sea, and it twists and winds its way to the city of Aachen to
+the north.  A few dry yellow grasses have sprung up here among the rocks and
+parched dirt, gracing the coast with a bit of color to break up the drab
+brown.  
+~
+0 262144 1
+D0
+The road continues between large buildings.
+~
+~
+0 -1 405
+D2
+A large intersection can be seen.
+~
+~
+0 -1 407
+S
+#407
+Intersection of Dolphin and Bywater~
+Dolphin Road comes to a dead end where it intersects with Bywater Road
+along the waterfront.  Dolphin heads back north to the city of Aachen,
+winding its way up the rocky coastline towards the distant town, and Bywater
+travels among the piers right along the shore to the east and west.  A large
+jetty is visible to the west, and a lighthouse is perched atop it, tiny
+against the immense spans of ocean and sky.  
+~
+0 262144 1
+D0
+A road leads north.
+~
+~
+0 -1 406
+D1
+The road stretches to the east.
+~
+~
+0 -1 408
+D3
+~
+~
+0 -1 479
+S
+#408
+Bywater Road at Shruna Pier~
+Bywater Road meanders along the shore to the east and west behind the
+multitude of piers that extend out into the gulf waters.  Shruna Pier, the
+largest in sight, connects to the shore here, catering to the larger ships
+that come into port to unload their hefty cargos into the warehouse that
+lies to the south.  
+~
+0 262144 1
+D0
+~
+~
+1 -1 498
+D1
+~
+~
+0 -1 413
+D2
+A pier heads south over the water.
+~
+~
+0 -1 409
+D3
+The road continues.
+~
+~
+0 -1 407
+S
+#409
+Shruna Pier~
+The largest of the long wooden piers that support the Port of Aachen,
+Shruna is capable of hosting up to six ships at one time.  At the present
+moment, only two large fishing boats take advantage of her hospitality, and
+they are anchored to the south on either side of the pier.  Bywater Road
+runs along the backs of the piers to the north, allowing for the
+transportation of goods along the coast and inland.  
+~
+0 1310720 1
+D0
+The pier heads back to land.
+~
+~
+0 -1 408
+D2
+The pier continues over the water.
+~
+~
+0 -1 410
+S
+#410
+Shruna Pier~
+A huge three-masted schooner is docked off the east side of Shruna Pier,
+and a wide plank leads up off the dock into the ship.  Another ship stands
+closer to the end of the pier to the south, and to the north, Bywater Road
+runs along the back side of Shruna and three other docks.  The gulf that the
+Port of Aachen sits in is contained by a huge jetty that is barely visible,
+the lighthouse on the tip of it winking merrily.  
+~
+0 1310720 1
+E
+ship~
+The ship is a large three masted schooner.  Men are loading and 
+unloading cargo furiously, as if the ship were preparing to set sail 
+soon.  Scrawled on the bow are the words: "H.M.S. Voyager"
+
+In smaller print, you can make out:
+"We come in peace, we leave you in pieces"
+~
+E
+sign~
+The sign reads:
+__________________________
+
+     H.M.S. Voyager
+Sails to the Spice Islands.
+__________________________
+~
+D0
+Back to Bywater.
+~
+~
+0 -1 409
+D1
+~
+~
+0 -1 485
+D2
+Out to sea.
+~
+~
+0 -1 411
+S
+#411
+Shruna Pier~
+A good sized fishing vessel is tethered off Shruna Pier to the west, its
+huge barnacle-covered hull bumping against the buffers as the waves roll in.
+The dock ends to the south, a small raft of wood amid the immense sea that
+affords a magnificent view of the mainland and the other piers of the port. 
+To the north, the dock retreats to the shore, where a small dirt road winds
+along the back side of the piers.  
+~
+0 1310720 1
+E
+ship~
+The boat is crusted with barnacles and looks like it has advanced hull 
+rot.  You know not by what force is remains afloat, but it has been a 
+part of the fishing fleet since before the emperor was born.  A long 
+time, indeed.
+~
+E
+sign~
+The sign reads:
+__________________________
+
+     The Sandpiper
+      Deep Sea Fishing 
+       No Trespassing!
+__________________________
+~
+D0
+The pier heads back toward land.
+~
+~
+0 -1 410
+D2
+The pier heads out to sea.
+~
+~
+0 -1 412
+D3
+~
+~
+0 -1 486
+S
+#412
+End of Pier~
+Shruna Pier ends suddenly, the wooden planking dropping off into the wide
+span of gulf that the Port of Aachen sits on.  Two good-sized ships, a
+schooner and a fishing vessel, flank the dock to the north as it heads back
+inland towards Bywater Road and the large warehouse that provides temporary
+storage for offloaded goods.  
+~
+0 1310720 1
+D0
+The pier heads back to land
+~
+~
+0 -1 411
+S
+#413
+Intersection of Bywater and Romen Alley~
+Romen Alley runs into Bywater Road, a narrow street built up by wood and
+stone to about fifteen feet above the tide line that runs east and west
+behind the piers that sit on this shore.  The alley leads north off of
+Bywater between two warehouses that store the cargo of the various ships
+that dock in the Port of Aachen, and a clear view of most of the gulf is
+available from the seawall, looking to the south.  
+~
+0 262144 1
+D0
+~
+~
+0 -1 431
+D1
+~
+~
+0 -1 414
+D3
+The road continues.
+~
+~
+0 -1 408
+S
+#414
+Bywater Road at a Warehouse~
+One of the many wooden piers that serves the Port of Aachen extends out
+to the south over the gulf, and several more piers lie to the east and west.
+A large warehouse for storage of offloaded cargo sits to the north on the
+other side of Bywater Road, a rough dirt track that runs along the backside
+of the piers and connects them to each other and the mainland.  
+~
+0 262144 1
+D1
+~
+~
+0 -1 415
+D2
+~
+~
+0 -1 432
+D3
+The road continues.
+~
+~
+0 -1 413
+S
+#415
+Bywater Road at a Warehouse~
+A large warehouse, storing goods brought off the ships that dock at the
+piers to the east and west, blocks the north side of Bywater Road.  Bywater
+intersects with an alley to the west, at the head of one of the larger piers
+in the Port of Aachen, and to the south, sea and sky blend together over the
+edge of the stone seawall.  
+~
+0 262144 1
+D1
+~
+~
+0 -1 416
+D3
+The road continues.
+~
+~
+0 -1 414
+S
+#416
+Intersection of Bywater and Rhun~
+A peaceful coastal scene, complete with tall-masted ships sliding slowly
+out to sea, dominates the view, spreading out to the south like a massive
+blue and brown blanket.  A shipyard with a few boats in various stages of
+completion opens up to the east, and there is a large wooden pier to the
+south and several more to the west.  
+~
+0 262144 1
+D1
+~
+~
+0 -1 417
+D2
+~
+~
+0 -1 435
+D3
+The road continues.
+~
+~
+0 -1 415
+S
+#417
+Bywater at the Shipyard~
+The vast shipyard that helps maintain the traffic in this port is to the
+north, settled among the rocky crags that make up the coast of this
+protected gulf.  Bywater Road slopes down to sea level to the east and
+mingles with the sand to blend into the narrow beach, a low spot on the
+shore where many of the smaller dories coming off the massive ships in the
+harbor can land safely.  
+~
+0 262144 1
+D1
+~
+~
+0 -1 418
+D3
+The road continues.
+~
+~
+0 -1 416
+S
+#418
+Bywater at the Shipyard~
+The enormous shipyard that serves the Port of Aachen stretches out to the
+north, a landmark visible from every direction due to the huge skeleton of a
+schooner that sits in the yard.  A long row of logs used to roll the ships
+down to the sea after their completion lays across the road, angled towards
+the open sea to the south, and a wide river drains into the ocean to the
+east and in the opposite direction lie the busy piers of the well-frequented
+port.  
+~
+0 262144 1
+D0
+~
+~
+0 -1 528
+D1
+~
+~
+0 -1 419
+D3
+The road continues.
+~
+~
+0 -1 417
+S
+#419
+Intersection of Bywater and Formen~
+Bywater Road ends abruptly here at the bank by the river's mouth, where
+it connects at a right angle with Formen Road.  A skeleton of a ship's hull
+protrudes into the sky to the north, marking the location of the
+professional shipyard for the port, and Formen Road runs north along the
+river bank, appearing to melt into the brown, silty river in the distance.  
+~
+0 262144 1
+D0
+~
+~
+0 -1 420
+D3
+The road continues.
+~
+~
+0 -1 418
+S
+#420
+Formen Road~
+Formen Road slopes down from north to south, heading for the sea where it
+meets the river and forms a small whirlpool.  To the east, the bank slopes
+down to the muddy river, and huge piles of timber and debris border the edge
+of the shipyard to the west, blocking entrance into the yard from this
+direction.  The bare ribs of a half-completed schooner rise above the stacks
+like an ancient mammoth stripped bare of flesh.  
+~
+0 262144 1
+D0
+~
+~
+0 -1 421
+D2
+~
+~
+0 -1 419
+S
+#421
+Bend in Formen Road~
+A small landing has been established by the shipyard, extending from the
+bank out over the mucky water for the shipyard workers to retrieve the logs
+that the lumberjacks float down.  The yard lies to the south along Formen
+Road, and another small wooden building sits to the east, cradled among the
+rocky crags that define the rough shore.  
+~
+0 262144 1
+D2
+~
+~
+0 -1 420
+D3
+~
+~
+0 -1 422
+S
+#422
+Intersection of Bittern and Formen~
+Formen and Bittern Roads form a massive intersection, running between the
+smithy, the shipyard, the piers, and the mighty Anorien River with the odors
+of smoke, fresh wood, and salt air dancing on the ocean breezes.  Logs and
+small watercraft float by on the river, and a few of the outlying buildings
+of the city of Aachen are visible on a rise to the north.  
+~
+0 262144 1
+D0
+~
+~
+0 -1 453
+D1
+~
+~
+0 -1 421
+D2
+~
+~
+0 -1 525
+D3
+~
+~
+0 -1 423
+S
+#423
+Bittern at the Shipyard and Smithy~
+Acrid smoke spews constantly out of the stacks of the smithy, cavorting
+with the fresh salt air on the ocean breezes that roll in from the south. 
+The sea lies just beyond the shipyard to the south, blue waves peeking
+through the half-completed ships and low buildings, and a river flows down
+to the ocean in the east, where the muddy brown water deposits the silt and
+mingles with the fresh, clear sea water.  
+~
+0 262144 1
+D0
+~
+~
+0 -1 524
+D1
+~
+~
+0 -1 422
+D3
+~
+~
+0 -1 424
+S
+#424
+Intersection of Bittern and Rhun~
+Bittern Road makes a small intersection with Rhun, bordered by buildings
+on all sides as it heads east past the shipyard and west between two
+buildings, narrowing to the width of a simple alley.  Rhun Road runs down to
+the sea, ending in a pier to the south, and climbing to the north up the
+craggy shore towards Aachen, the city that maintains this port.  
+~
+0 262144 1
+D0
+An intersection.
+~
+~
+0 -1 450
+D1
+~
+~
+0 -1 423
+D2
+~
+~
+0 -1 437
+D3
+~
+~
+0 -1 425
+S
+#425
+Bittern Road~
+An ancient wooden sign is skewed above the doorway of the low building to
+the north, and Bittern Road runs east and west among the shops and
+warehouses that populate the piers.  There are small intersections along
+Bittern in either direction where alleys branch off to run between the
+buildings and provide access to the various piers.  
+~
+0 262144 1
+E
+sign~
+The sign has a picture of a fish painted upon it.  The fish has been 
+hooked, and is splashing out of some blue water.
+~
+D0
+~
+~
+0 -1 439
+D1
+~
+~
+0 -1 424
+D3
+~
+~
+0 -1 426
+S
+#426
+Intersection of Bittern Road and Poseidon~
+Poseidon leads off of Bittern Road, sliding into the thin gap between two
+buildings to form a small alleyway to the north, and an enormous warehouse
+borders Bittern to the south, blocking traffic in that direction.  A few
+crates have been stacked like a pyramid by the side of the road.  
+~
+0 262144 1
+D0
+~
+~
+0 -1 451
+D1
+~
+~
+0 -1 425
+D3
+~
+~
+0 -1 427
+S
+#427
+Intersection of Bittern and Romen~
+Ocean waves are barely visible breaking on the rocky shore to the south,
+where an alley slopes down to waterlevel between two low buildings from
+Bittern Road.  The wall of a large warehouse blocks the northern edge of the
+road as it runs east and west through the shops and warehouses that service
+the district, and several other alleys branch off the road in either
+direction.  
+~
+0 262144 1
+D0
+~
+~
+0 -1 523
+D1
+~
+~
+0 -1 426
+D2
+~
+~
+0 -1 430
+D3
+~
+~
+0 -1 428
+S
+#428
+Bittern Road at an Alley~
+A narrow alley tumbles out of the gap between two warehouses and empties
+into Bittern Road, stopping abruptly when it hits the wall of the large
+warehouse to the south.  The road runs to the east and west and is bordered
+on either side by a myriad of warehouses, shops, and various other
+establishments.  
+~
+0 262144 1
+D0
+~
+~
+0 -1 452
+D1
+~
+~
+0 -1 427
+D3
+~
+~
+0 -1 429
+S
+#429
+Bittern Road~
+A huge two-story warehouse rises from the craggy shore to the south and
+extends east along the edge of Bittern Road, blocking any travel in that
+direction.  The road continues east and west, running parallel to the coast
+about a third of the way up the rocky slope, and the outlying houses and
+shops of the city of Aachen are just barely visible on the top of the hill
+to the north.  
+~
+0 262144 1
+D0
+~
+~
+0 -1 509
+D1
+~
+~
+0 -1 428
+D2
+~
+~
+0 -1 501
+D3
+~
+~
+0 -1 404
+S
+#430
+Romen Alley~
+Romen Alley slopes down from the north, running between two tall
+buildings similar to the hundreds of other shops and warehouses that
+populate the shore of the harbor.  A long pier and the broad gulf are
+visible to the far south, and to the north, there is a three-way
+intersection that splits the alley.  
+~
+0 262144 1
+D0
+~
+~
+0 -1 427
+D2
+~
+~
+0 -1 431
+S
+#431
+Romen Alley~
+Large buildings made of wood and stone sweep down towards the water,
+carrying along Roman Alley positioned between two of them.  A busy pier
+stands at the end of the alleyway to the south, and there is an intersection
+of two streets to the north, including this one.  
+~
+0 262144 1
+D0
+~
+~
+0 -1 430
+D2
+~
+~
+0 -1 413
+S
+#432
+On the Pier~
+A weathered wooden pier creaks and groans as the waves buffet the pilings
+that hold it mere feet above the waters of the Gulf of Aachen.  The pier
+continues south and a large ship is anchored on the far end, while to the
+north, an alleyway runs uphill through the shops and warehouses that sit on
+the shore and service the crews and companies that work in the city.  
+~
+0 1310720 1
+D0
+~
+~
+0 -1 414
+D2
+~
+~
+0 -1 433
+S
+#433
+On the Pier~
+A ship is docked to the west, midway down the long wooden pier that
+serves the Port of Aachen, and a plank runs up off of the wooden decking to
+provide passage into the ship for the less adventurous.  The waters of the
+gulf spread out to the south, flowing away from the pier in every direction.
+~
+0 1310720 1
+D0
+~
+~
+0 -1 432
+D2
+~
+~
+0 -1 434
+D3
+~
+~
+0 -1 487
+S
+#434
+End of the Pier~
+The sea spreads out to the south, seemingly endless in every direction as
+the gulf opens up, surrenduring its land-bound safety to the whims of the
+waves.  A huge ship is anchored at the end of the pier, a monster that
+clings precariously to the thin walk of wood that holds it to the shore.  
+~
+0 1310720 1
+D0
+~
+~
+0 -1 433
+S
+#435
+On a Pier~
+Several ships are moored to this short wooden pier alongside smaller
+sailboats and dories that serve to fish the nearby rivers and run to the
+ships that are anchored farther out in the harbor.  This pier is lower than
+the others visible along the rocky shore and there is but a short drop off
+the side of the dock to the beach below.  
+~
+0 1310720 1
+E
+boats ships sailboats sail~
+The boats have their sails furled and tied down, their anchors are in 
+the water, and they don't look ready to sail. Barnacles are growing 
+below the waterline on their hull.  These are the personal boats of the 
+citizens of Aachen, and await use by their owners for pleasure cruises, 
+fishing trips and the like.
+~
+D0
+~
+~
+0 -1 416
+D2
+~
+~
+0 -1 436
+D5
+~
+~
+0 -1 553
+S
+#436
+End of Pier~
+A flock of small sailboats hover at the end of the pier, skittish in the
+waves that drift in and break against the pilings of the dock.  More piers
+lie to the west, standing in for the larger ships and schooners that come to
+the Port of Aachen from other lands.  
+~
+0 1310720 1
+E
+boats ships sailboats sail~
+The boats are small wooden sailboats, which belong to the well-to-do 
+citizens of Aachen, who use them for cruises, smuggling and fishing 
+trips.  They are not ready for use, and require crews of a few men to 
+operate.
+~
+D0
+~
+~
+0 -1 435
+S
+#437
+Rhun Road~
+The road slopes down to the sea to the south, tumbling over a small
+seawall and down the rocky shore to the water's edge.  A large warehouse is
+situated on the western side of the road, and several half-completed
+skeletons of ships mark the location of the shipyard to the east, visible to
+travellers far out in the gulf.  Scrambling up the gradual hill to the
+north, Rhun Road heads for the well-populated city of Aachen.  
+~
+0 262144 1
+D0
+~
+~
+0 -1 424
+D2
+~
+~
+0 -1 438
+S
+#438
+Rhun Road~
+Rhun Road slopes on a gradual grade, running down to the sea to the south
+and up the hill to the city of Aachen to the north.  The vast shipyard of
+the port lies to the east, with the ribs of a massive schooner jutting into
+the sky, and a large warehouse sits sturdy and secure to the west.  Coarse
+seagrass grows in clumps along the sides of the road, the only sign of green
+life on this rocky coastline.  
+~
+0 262144 1
+D0
+~
+~
+0 -1 437
+S
+#439
+The Bait and Tackle Shop~
+There is a counter here, and several aisles crammed overfull with fishing
+tackle, bait, ropes, nets, strings, small implements of aquarian genocide,
+and other assorted gear.  An open doorway leads north into another room.  
+~
+0 1310728 0
+D0
+~
+~
+0 -1 440
+D1
+~
+~
+0 -1 442
+D2
+~
+~
+0 -1 425
+S
+#440
+A Storage Room in the Tackle Shop~
+This small room is full of many small boxes, presumably of fishing tackle
+and other gear.  There are a few shelves and displays of things for sale in
+this room, too.  A wooden door is located on the eastern wall.  
+~
+0 1310720 1
+D1
+~
+~
+0 -1 441
+D2
+~
+~
+0 -1 439
+S
+#441
+A Back Room~
+This is obviously a storage room of some sort.  Several crates are
+stacked against the back wall.  The room has been spared most of the clutter
+prevalent in the shop, and even has a rug on the floor.  
+~
+0 1310720 1
+D2
+~
+~
+0 -1 442
+D3
+~
+~
+0 -1 440
+D5
+The rug rolls away, revealing a trapdoor set in the floor!
+~
+trap door rug floor trapdoor~
+1 -1 443
+S
+#442
+A Fishy Room~
+This room is the display and storage area for the live bait.  Several
+tanks rest against the eastern wall, teeming with aquatic life.  
+~
+0 1310720 1
+D0
+~
+~
+0 -1 441
+D3
+~
+~
+0 -1 439
+S
+#443
+A Cellar~
+Little more than a hole in the ground, this cellar is surprisingly clean.
+The walls are rock, like the ground above.  There is a trapdoor in the
+ceiling, and a tunnel leading to the west.  
+~
+0 1310729 1
+D3
+~
+~
+0 -1 547
+D4
+A trapdoor is set into the ceiling here.
+~
+ceiling trap door trapdoor~
+1 -1 441
+S
+#444
+Orca Street~
+A high rock face blocks the northern side of the road.  The port was
+carved in to the stone and the ground was made lower in height to make
+Aachen more easily defensible, should the attack come from the sea.  A
+building lies to the south, and you can see more to the east and west along
+the street.  
+~
+0 262144 1
+D1
+~
+~
+0 -1 445
+D3
+~
+~
+0 -1 402
+S
+#445
+Intersection of Orca and Romen~
+An alleyway lies to the south, between two buildings.  A sheer rock face
+blocks all passage and view to the north.  Buildings are visible to the east
+and west along the street.  
+~
+0 262144 1
+D1
+~
+~
+0 -1 446
+D2
+~
+~
+0 -1 452
+D3
+~
+~
+0 -1 444
+S
+#446
+Orca Street~
+A building lies to the south, and a sheer rock face to the north. 
+Several buildings are visible to the west along the street.  The river is
+barely visible to the east.  
+~
+0 262144 1
+D1
+~
+~
+0 -1 447
+D3
+~
+~
+0 -1 445
+S
+#447
+Intersection of Orca and Poseidon~
+A large road slopes upward from the south here.  The road heads south to
+the side of a large warehouse.  A rather large building with a large chimney
+is to the southeast.  From this raised vantage point, you can see the sea
+and the masts of tall ships docked at the piers of Aachen's port.  
+~
+0 262144 1
+D1
+~
+~
+0 -1 448
+D2
+~
+~
+0 -1 451
+D3
+~
+~
+0 -1 446
+S
+#448
+Orca Street~
+A sheer rock face blocks all vision and movement to the north.  A
+building to the south blocks your view of the sea, as well.  The river is
+visible to he east now, and you can make out many boats and ships on the
+water.  
+~
+0 262144 1
+D1
+~
+~
+0 -1 449
+D3
+~
+~
+0 -1 447
+S
+#449
+Intersection of Orca and Rhun~
+A road slopes upward from the south here.  The street continues to the
+east and west.  The sea can be seen beyond the road heading south.  The road
+terminates at a pier far in the distance, and you can make out the shapes of
+several ships docked there.  
+~
+0 262144 1
+D1
+~
+~
+0 -1 455
+D2
+~
+~
+0 -1 450
+D3
+~
+~
+0 -1 448
+S
+#450
+Rhun Road~
+A building with a large chimney looms to the east.  A small building is
+on the west side of the road.  No entrance is visible to either building
+from this road.  There are intersections to the south and north of here.  
+~
+0 262144 1
+D0
+A road leads north.
+~
+~
+0 -1 449
+D2
+An intersection.
+~
+~
+0 -1 424
+S
+#451
+Poseidon's Alley~
+A small statue of a man holding a trident is set against the wall of the
+building to the west.  It is a local custom to put flowers around the statue
+to bring good luck on voyages.  
+~
+0 262144 1
+D0
+~
+~
+0 -1 447
+D2
+~
+~
+0 -1 426
+S
+#452
+Romen Alley~
+This is a small alley that descends from the north to the south. 
+Buildings line both the east and west side of the alley.  Intersections are
+visible to the north and south.  
+~
+0 262144 1
+D0
+~
+~
+0 -1 445
+D2
+~
+~
+0 -1 428
+S
+#453
+Formen Road~
+The road heads north and south along the river here.  You can see many
+small ships sailing up and down the river, as well as several large rafts
+made of trees being floated into the shipyards to the south.  
+~
+0 262144 1
+D0
+~
+~
+0 -1 454
+D2
+~
+~
+0 -1 422
+S
+#454
+Intersection of Formen and Orca~
+Formen road ends at the rock face to the north, but the road continues as
+Orca to the west.  The river blocks passage to the east.  Although ships and
+large rafts can traverse the water, personal craft would be swept out to
+sea.  Several large rafts and ships can be seen on the water from here.  The
+ships head upriver with cargo, and the rafts float down to the shipyards to
+the south.  
+~
+0 262144 1
+D2
+~
+~
+0 -1 453
+D3
+~
+~
+0 -1 455
+S
+#455
+Orca Street~
+A large wood and stone building lies to the south.  A large chimney pokes
+from its roof.  You can see the river to the east and the street is lined
+with buildings to the west.  
+~
+0 262144 1
+D1
+~
+~
+0 -1 454
+D3
+~
+~
+0 -1 449
+S
+#456
+Orca Street~
+A narrow street heads east and west from here.  A large intersection is
+visible to the east, and another can be seen to the west.  The back of a
+good sized wooden building can be seen to the south.  A sheer rock face
+blocks vision and movement to the north.  It appears that the area was
+carved from the bedrock to make the city proper more easy to defend.  
+~
+0 262144 1
+D1
+~
+~
+0 -1 402
+D3
+~
+~
+0 -1 457
+S
+#457
+Orca at Andune Alley~
+A narrow alley leads south between two wooden buildings.  A large
+warehouse can be seen off to the south.  The masts of ships poke above the
+rooftops to the south.  
+~
+0 262144 1
+D1
+~
+~
+0 -1 456
+D2
+~
+~
+0 -1 474
+D3
+~
+~
+0 -1 458
+S
+#458
+Orca Street~
+A small wooden building lies to the south.  More buildings line the
+southern side of the street to the east.  A sheer rock wall lies to the
+north, and another is visible to the west.  
+~
+0 262144 1
+D1
+~
+~
+0 -1 457
+D3
+~
+~
+0 -1 459
+S
+#459
+Intersection of Orca and Pike~
+A narrow street slopes downward to the south.  A long jetty is visible to
+the south, as well.  High rock faces block all passage and vision to the
+north and west.  The rock continues to the east and south.  
+~
+0 262144 1
+D1
+~
+~
+0 -1 458
+D2
+~
+~
+0 -1 460
+S
+#460
+Pike Road~
+A high rock face blocks all passage to the west.  A small building lies
+to the east.  No entrances are visible on this side of the building.  There
+is an intersection to the south.  
+~
+0 262144 1
+D0
+A road leads north.
+~
+~
+0 -1 459
+D2
+~
+~
+0 -1 461
+S
+#461
+Intersection of Pike and Bittern~
+A large road leads to the east from here.  Buildings line the north and
+south side of the road as far as you can see.  A large jetty is visible to
+the south, and the fountain square lies to the southeast.  
+~
+0 262144 1
+D0
+A road leads north.
+~
+~
+0 -1 460
+D1
+~
+~
+0 -1 476
+D2
+~
+~
+0 -1 462
+S
+#462
+Pike at Fountain Square~
+A large fountain with a garden is visible to the east.  It is enclosed by
+a rusty iron fence.  Lush flower bushes surround the fountain.  
+~
+0 262144 1
+E
+flowers~
+The bushes have large, red blossoms of fragrant flowers.  They make the 
+garden a peaceful refuge from the hustle and bustle of the port.  
+~
+D0
+A road leads north.
+~
+~
+0 -1 461
+D1
+~
+~
+0 -1 494
+D2
+~
+~
+0 -1 463
+S
+#463
+Intersection of Pike and Bywater~
+A large stone jetty lies to the south.  A lighthouse can be seen at its
+end.  The sea is visible to the south, and spans the entire horizon.  Ships
+of all sizes and makes can be seen at the piers to the east.  A warehouse is
+visible to the east.  
+~
+0 262144 1
+D0
+A road leads north.
+~
+~
+0 -1 462
+D1
+~
+~
+0 -1 478
+D2
+~
+~
+0 -1 464
+S
+#464
+On the Jetty~
+Several large stone blocks were placed here to form the jetty.  A
+lighthouse was built on the edge of the jetty for navigation.  The jetty is
+at least 300 feet across and over 200 feet above sea level.  The jetty
+extends further to the south.  
+~
+0 1310720 1
+D0
+A road leads north.
+~
+~
+0 -1 463
+D2
+~
+~
+0 -1 465
+S
+#465
+On the Jetty~
+You are about one-third out on the jetty.  Large stone blocks form this
+structure that protects the port from high seas.  A large lighthouse is
+visible south out on the jetty.  
+~
+0 1310720 1
+D0
+A road leads north.
+~
+~
+0 -1 464
+D2
+~
+~
+0 -1 466
+S
+#466
+On the Jetty~
+You are halfway out on the jetty.  A lighthouse is visible to the south. 
+Several piers can be seen to the east, and many ships are sailing to and
+from them.  The sea stretches to the south, across the entire horizon.  
+~
+0 1310720 1
+D0
+A road leads north.
+~
+~
+0 -1 465
+D2
+~
+~
+0 -1 467
+S
+#467
+On the Jetty~
+About two thirds of the way to the end, this jetty widens out from its
+narrow origins by the shore.  The surface of the pier turns to an upward
+angle, affording a panoramic view of the greater area of Aachen to the
+north, and the rest of the jetty and a lighthouse to the south.  A few
+jagged rocks jut from the sea on either side of the narrow path, remnants of
+a much larger natural formation, now sunk beneath the waves.  
+~
+0 1310720 1
+D0
+A road leads north.
+~
+~
+0 -1 466
+D2
+~
+~
+0 -1 468
+S
+#468
+On a Jetty Before the Lighthouse~
+Not far south of here, the jetty terminates in a tall, white lighthouse. 
+The blocks of stone have gradually given way to the living rock, part of a
+natural formation protruding from the water.  This was once a stony island,
+but now it is a wide part of this jetty.  Patches of stringy grass cling
+haphazardly to bits of sparse earth caught in cracks in the stone, evidence
+that this section of ground is usually above the waves.  
+~
+0 1310720 1
+D0
+A road leads north.
+~
+~
+0 -1 467
+D2
+~
+~
+0 -1 469
+S
+#469
+Jetty at the Lighthouse~
+Rising above the end of the jetty is a tall, white lighthouse.  Steps
+lead to a landing before a small door several feet above the stone
+foundation.  Above the door, a carved wooden sign proclaims, "Aachen
+Lighthouse."  
+~
+0 1310720 1
+D0
+A road leads north.
+~
+~
+0 -1 468
+D4
+~
+~
+0 -1 470
+S
+#470
+Landing of the Lighthouse~
+A wooden door leads south into the lighthouse from the landing, which is
+constructed of wooden planks with wrought-iron railings.  Wooden steps
+descend to the long, stone jetty heading north, and the white brick
+lighthouse rises far above.  
+~
+0 1310720 1
+D2
+~
+door wooden~
+1 498 471
+D5
+~
+~
+0 -1 469
+S
+#471
+First Floor in the Lighthouse~
+Hanging over the door connecting to the landing to the north is a huge
+sharp-toothed fish.  Nets and navigational maps are tacked to the walls, and
+a large stone fireplace graces the eastern wall.  A set of steel stairs
+spirals upwards from the southwest corner.  
+~
+0 1310720 1
+D0
+A road leads north.
+~
+door wood~
+1 498 470
+D4
+~
+~
+0 -1 472
+S
+#472
+Second Floor in Lighthouse~
+The second floor of the Aachen lighthouse is a small, round, bare-walled
+room.  Kegs marked "Kerosene" are stacked three barrels high on the
+perimeter, with various other boxes of supplies lying neatly in a
+pyramid-shaped pile.  A spiral staircase takes up the center of the room,
+ascending to the third floor and leading to the base of the lighthouse as
+well.  
+~
+0 1310720 1
+D4
+~
+~
+0 -1 473
+D5
+~
+~
+0 -1 471
+S
+#473
+The Beacon Room~
+This room is circular in design, with a large apparatus taking up the
+center.  The walls are a full 360 degrees of skillfully cut crystal,
+allowing light from the giant lantern to warn ships from afar of the
+dangerous Aachen coastline.  
+~
+0 1310720 1
+D5
+~
+~
+0 -1 472
+S
+#474
+Andune Alley~
+The alley slopes down from north to south between two wooden buildings
+here.  A rock face is visible to the north.  A warehouse lies to the south. 
+The masts of a few tall ships are visible over the top of the warehouse.  A
+small building is visible to the west, although there is no entrance on this
+side.  
+~
+0 262144 1
+D0
+~
+~
+0 -1 457
+D2
+~
+~
+0 -1 475
+S
+#475
+Intersection of Bittern and Andune~
+An alley leads north between two buildings.  A warehouse blocks passage
+to the south.  A large flower garden lies tot the southwest.  A road leads
+to the east and west of here.  Buildings line the road to the east.  
+~
+0 262144 1
+D0
+~
+~
+0 -1 474
+D1
+~
+~
+0 -1 477
+D3
+~
+~
+0 -1 476
+S
+#476
+Bittern Road~
+A large flower garden enclosed by a rusty iron fence lies to the south. 
+A small wooden building sits on the north side of the road.  The road heads
+to a rock face to the west, and is lined with more buildings to the east.  
+~
+0 262144 1
+D0
+~
+~
+0 -1 495
+D1
+~
+~
+0 -1 475
+D2
+A road leads north.
+~
+~
+0 -1 494
+D3
+~
+~
+0 -1 461
+S
+#477
+Bittern Road~
+A large road heads east and west here.  A wooden warehouse lies to the
+south.  A wooden building which can only be a bar looms over the street to
+the north.  Wooden buildings line the street to the east, and you can hear
+the sounds of the sea to the south.  
+~
+0 262144 1
+D0
+~
+~
+0 -1 522
+D1
+~
+~
+0 -1 404
+D3
+~
+~
+0 -1 475
+S
+#478
+Bywater Road~
+The jetty juts out into the sea to the west, and a pier lies to the east.
+You can see many ships docking and leaving the piers to the east.  A rusty
+iron fence guards a lush garden to the north.  
+~
+0 262144 1
+D0
+~
+~
+0 -1 494
+D1
+~
+~
+0 -1 479
+D3
+~
+~
+0 -1 463
+S
+#479
+Bywater Road at Pier~
+A wooden pier heads out over the water to the south.  The sea stretches
+out before you, as far as you can see tot he south and west.  A warehouse is
+located to the north.  A large intersection is directly to the east.  More
+warehouses can be seen in the distance to the east.  
+~
+0 262144 1
+D0
+~
+~
+0 -1 496
+D1
+~
+~
+0 -1 407
+D2
+~
+~
+0 -1 480
+D3
+~
+~
+0 -1 478
+S
+#480
+The Pier~
+The jetty can be seen to the west.  More piers lie to the east.  There
+are two ships tethered to the south at this pier.  
+~
+0 1310720 1
+D0
+A road leads north.
+~
+~
+0 -1 479
+D2
+~
+~
+0 -1 481
+S
+#481
+On a Pier~
+A ship is tied to the pier to the east.  A plank connects the pier to the
+ship, making passage onto the sip possible.  There is an important looking
+sign here.  
+~
+0 1310720 1
+E
+sign~
+__________________________
+
+     H.M.S. Celebros
+    Sailing to Freeport.
+__________________________
+~
+E
+ship~
+The ship is a large three masted schooner.  It looks like it was 
+designed for long sea voyages far from shore.  Scrawled on its bow are 
+the words: "H.M.S.Celebros"
+~
+D0
+A road leads north.
+~
+~
+0 -1 480
+D1
+~
+~
+0 -1 484
+D2
+~
+~
+0 -1 482
+S
+#482
+End of Pier~
+The wooden pier ends here.  A ship is tied to the west side of the pier,
+and a plank has been drawn to allow for boarding.  There is an important
+looking sign here.  
+~
+0 1310720 1
+E
+ship~
+The ship is a large, three masted schooner.  It looks like it was built 
+to withstand the rigors of long sea voyages.  barnacles are visible just 
+above the waterline on it's hull, indicating its age and experience.  
+~
+E
+sign~
+__________________________
+
+      H.M.S. Algonquin
+      Sailing to and from
+      Freeport regularly.
+__________________________
+~
+D0
+A road leads north.
+~
+~
+0 -1 481
+D1
+~
+~
+0 0 26509
+D3
+~
+~
+0 -1 483
+S
+#483
+On the Algonquin~
+You are on a ship.  A plank leads back to the pier to the east.  You can
+see the port of Aachen to the north.  Several warehouses are visible along
+the waterfront, and three more piers can be seen to the east.  The jetty is
+to the west, with its lighthouse.  
+~
+0 1310720 1
+D1
+~
+~
+0 -1 482
+S
+#484
+On the Celebros~
+You are on a large three masted schooner.  The ship will be departing
+soon, and sailors are scurrying around making preparations, loading and
+unloading cargo furiously.  
+~
+0 1310720 1
+D3
+~
+~
+0 -1 481
+S
+#485
+On the Voyager~
+You are on the deck of a good sized schooner.  From the activity onboard,
+you determine that the ship is going to depart soon.  
+~
+0 0 1
+D3
+~
+~
+0 -1 410
+S
+#486
+On Board the Sandpiper~
+This is a medium sized fishing vessel.  The Sandpiper is a well-known
+sight at the port of Aachen.  It commonly fishes the waters just outside the
+port for fish, which it sells at the market.  From the activity on board,
+you determine that the ship is about to set sail!  
+~
+0 1310720 1
+D1
+~
+~
+0 -1 411
+S
+#487
+On Board the Nemesis~
+This is a large ship of the line.  Boasting four masts, a large hold,
+multiple decks and a host of large anti-ship weapons, this is a warship in
+the emperor's navy.  The sails are furled and the anchor dropped.  It does
+not appear that this ship will be leaving anytime soon.  
+~
+0 1310720 1
+D0
+~
+~
+0 -1 492
+D1
+~
+~
+0 -1 433
+D2
+~
+~
+0 -1 491
+D4
+~
+~
+0 -1 490
+D5
+~
+~
+0 -1 488
+S
+#488
+Below Decks aboard the Nemesis~
+You are below decks on the Nemesis.  The hold is down below.  This level
+is dedicated to crew quarters and anti-ship ballistae.  
+~
+0 1310721 1
+D0
+~
+~
+0 -1 493
+D4
+~
+~
+0 -1 487
+D5
+~
+~
+0 -1 489
+S
+#489
+In the Hold of the Nemesis~
+You are in the hold of the Nemesis.  Large crates and barrels fill the
+space, all of it tied down with rope.  
+~
+0 1310729 1
+D4
+~
+~
+0 -1 488
+S
+#490
+Up in the Crows Nest on the Nemesis~
+You are in the crow's nest of the Nemesis.  From here, you can see the
+port of Aachen over a large warehouse to the north, piers to the east and
+west, and the sea stretching out to the south as far as your eyes can see. 
+Ships pass to and from the piers endlessly, in a swarm of commerce and trade
+that keeps Aachen the center of power in the Empire.  
+~
+0 1312768 1
+D5
+~
+~
+0 -1 487
+S
+#491
+Forecastle of the Nemesis~
+You are on the forecastle of the Nemesis.  Two of the four masts the ship
+possesses rise from the floorboards here, and the anchor wich is fastened
+securely to the deck near the bowspit.  You can see another ship docked at a
+pier to the west, and the pier this ship is docked to the east.  
+~
+0 1310720 1
+D0
+~
+~
+0 -1 487
+S
+#492
+Aft of the Nemesis~
+This is the rear section of the Nemesis.  Below here is the officer's
+quarters and the mess hall.  
+~
+0 1310728 1
+D2
+~
+~
+0 -1 487
+D5
+~
+~
+0 -1 493
+S
+#493
+The Officer's Quarters of the Nemesis.~
+The officers quarters of the Nemesis are here, underneath the aft section
+of the ship.  These rooms are much more roomy and well-appointed than the
+regular crew's quarters.  A passage leads south to the below decks area.  
+~
+0 1310729 1
+D2
+~
+~
+0 -1 488
+D4
+~
+~
+0 -1 492
+S
+#494
+The Garden of Poseidon~
+This is a garden devoted to the god of the sea.  It is enclosed by a
+rusty iron fence.  There are many flower bushes here, which grow year round,
+making this garden perpetually beautiful and fresh-smelling.  It is a common
+retreat for romantic interludes and quiet meditation.  A tall wooden
+warehouse was built right up against the eastern boundary of the garden, and
+blocks the view in that direction.  The sea beckons to the south, and there
+is a small wooden building to the north.  
+~
+0 262144 1
+D0
+A road leads north.
+~
+~
+0 -1 476
+D2
+~
+~
+0 -1 478
+D3
+~
+~
+0 -1 462
+S
+#495
+Ishmael's Import Shop~
+This is a small shop devoted to the selling of rare and expensive
+imported items from over the sea.  It is filled with all sorts of wondrous
+junk, useful gadgets, and assorted rubbish.  ** Caveat Emptor!  ** 
+~
+0 1310728 0
+D2
+A road leads north.
+~
+~
+0 -1 476
+S
+#496
+The Einzigen Warehouse~
+You are inside a large wooden building.  There are no walls on the
+interior, as it is a large warehouse for the storage of goods.  The
+warehouse continues to the north.  Tall stacks of crates and boxes make
+moving through the warehouse difficult.  
+~
+0 1310728 0
+D0
+~
+~
+0 -1 497
+D2
+~
+~
+0 -1 479
+S
+#497
+A Back Room in the Einzige Warehouse~
+You are in the north section of the Einzige Warehouse.  Tall crates of
+unknown origin fill the room.  Some are labeled in languages you have never
+seen before, others are simply not labeled.  
+~
+0 1310728 0
+D2
+~
+~
+0 -1 496
+S
+#498
+The Zweitze Warehouse~
+This is the Zweitze Warehouse.  There are dual staircases leading up to
+the second story, and hallways leading to the east and west.  
+~
+0 1310728 0
+D1
+~
+~
+0 -1 503
+D2
+A pier heads south over the water.
+~
+~
+1 -1 408
+D3
+~
+~
+0 -1 499
+D4
+~
+~
+0 -1 504
+S
+#499
+The Southwest Corner of the Warehouse~
+This is a large room inside the warehouse.  It is filled with boxes and
+crates of varying sizes.  The air is thick with dust and the smell of
+spices.  Hallways lead north and east.  
+~
+0 1310728 0
+D0
+~
+~
+0 -1 500
+D1
+~
+~
+0 -1 498
+S
+#500
+The Northwest Corner of the Warehouse~
+You are in an open area in the warehouse.  This section is filled with
+stacks of small wooden boxes.  The air is thick with dust and the smell of
+strange spices.  
+~
+0 1310728 0
+D1
+~
+~
+0 -1 501
+D2
+~
+~
+0 -1 499
+S
+#501
+The Zweitze Warehouse North Entryway~
+A large door is set in the northern wall of the warehouse here.  It leads
+to Bittern Street.  Some boxes and barrels are stacked against the southern
+wall of this wide hallway.  The hallway leads to open areas to east and
+west.  Passage to the south is blocked by a wooden wall.  
+~
+0 1310728 0
+D0
+~
+~
+0 -1 429
+D1
+~
+~
+0 -1 502
+D3
+~
+~
+0 -1 500
+S
+#502
+Northeast Corner of the Warehouse~
+This is an open area in the warehouse.  It is filled with numerous large
+wine casks and barrels.  A hallway leads south, and a wide passage leads to
+the west.  
+~
+0 1310728 0
+D2
+~
+~
+0 -1 503
+D3
+~
+~
+0 -1 501
+S
+#503
+Southeast Corner of the Warehouse~
+This is the southeastern corner of the warehouse.  It is a large room,
+filled with barrels and baskets of grain.  The air is think with dust,
+chaff, and the smell of spices.  
+~
+0 1310728 0
+D0
+~
+~
+0 -1 502
+D3
+~
+~
+0 -1 498
+S
+#504
+Offices of the Zwietze Warehouse~
+This is the office area of the warehouse.  There are dual staircases
+heading back down to the ground level.  A door is set in the north wall, and
+passageways lead both east and west from here.  
+~
+0 1310728 0
+D0
+~
+~
+0 -1 507
+D1
+~
+~
+0 -1 506
+D3
+~
+~
+0 -1 505
+D5
+~
+~
+0 -1 498
+S
+#505
+A Office in the Warehouse~
+This is a small office.  From here, the accountants keep track of
+inventory and balance the ledgers.  
+~
+0 1310728 0
+D1
+~
+~
+0 -1 504
+S
+#506
+A Office in a Warehouse~
+This is a small office.  The room is well-appointed and has decorations
+from all over the civilized world.  Several chairs occupy the corners along
+with a desk, cabinet, and a large couch.  A strangely patterned rug covers
+the floor.  
+~
+0 1310728 0
+D3
+~
+~
+0 -1 504
+S
+#507
+The Business Office in a Warehouse~
+This is the business office of the warehouse, where deals are made and
+meetings are held.  A set of heavy-looking doors are set in the eastern
+wall.  
+~
+0 1310728 0
+D1
+~
+~
+1 -1 508
+D2
+~
+~
+0 -1 504
+S
+#508
+A Storage Room~
+The storage room is primarily used to store valuables of the wharehouse. 
+The doors are three inches thick, made from a hardened wood, and reinforced
+with iron bars.  
+~
+0 1310728 0
+D3
+~
+~
+0 -1 507
+S
+#509
+The Crown and Anchor~
+This is the infamous sailor's dive, the Crown and Anchor.  A bar is
+situated against the west wall, and a small stage is set into the eastern
+wall.  There is a door in the northern wall.  
+~
+0 1310728 0
+D0
+~
+~
+0 -1 510
+D2
+~
+~
+0 -1 429
+S
+#510
+Back Room in the Crown and Anchor~
+This is a small stairwell in the back of the bar.  Stairs lead upwards to
+the second floor.  A hallway leads to the east.  
+~
+0 1310728 0
+D1
+~
+~
+0 -1 511
+D2
+~
+~
+0 -1 509
+D4
+~
+~
+0 -1 513
+S
+#511
+A Storage Room in the Crown and Anchor~
+This is the storage room for the Crown and Anchor.  You see several casks
+of wine, a few barrels of beer and some baskets containing vegetables and
+other foodstuffs.  There is a filthy rug on the floor here.  
+~
+0 1310728 0
+D3
+~
+~
+0 -1 510
+D5
+~
+~
+1 -1 512
+S
+#512
+An Underground Tunnel Entrance~
+You are underneath the Crown and Anchor pub, in a well-made tunnel.  A
+tunnel heads off into darkness to the east.  
+~
+0 1048585 0
+D1
+~
+~
+0 -1 531
+D4
+~
+~
+1 -1 511
+S
+#513
+A Stairwell in the Crown and Anchor~
+You are on the second floor of the Crown and Anchor, in the stairwell. 
+Steps lead back down to ground level, and a lounge is north of here.  
+~
+0 1310728 0
+D0
+~
+~
+0 -1 514
+D5
+~
+~
+0 -1 510
+S
+#514
+The Lounge of the Crown and Anchor~
+This is the lounge of the Crown and Anchor.  Adventurers may take a room
+here for private conversations, or merely to rest up after a long adventure.
+A hallway heads east, and the stairs are to the south.  
+~
+0 1310728 0
+D1
+~
+~
+0 -1 515
+D2
+~
+~
+0 -1 513
+S
+#515
+A Hallway~
+You are in a hallway in the Crown and Anchor.  There is a door to the
+north, and another to the south.  The hallway continues to the east.  
+~
+0 1310728 0
+D0
+~
+~
+0 -1 516
+D1
+~
+~
+0 -1 518
+D2
+~
+~
+0 -1 517
+D3
+~
+~
+0 -1 514
+S
+#516
+Room 1: The Honeymoon Suite~
+This is a small room, sparsely furnished the floorboards creak as you
+walk across them.  The only exit is a door leading south.  
+~
+0 1310728 0
+D2
+~
+~
+0 -1 515
+S
+#517
+Room 2:  The Presidential Suite~
+You are in a sparsely furnished room in the Crown and Anchor.  The only
+exit is a door to the north.  
+~
+0 1310728 0
+D0
+~
+~
+0 -1 515
+S
+#518
+A Hallway~
+You are in a hallway in the Crown and Anchor.  There are doors to the
+north and south, and the hallway continues to the west.  
+~
+0 1310728 0
+D0
+~
+~
+0 -1 519
+D2
+~
+~
+0 -1 520
+D3
+~
+~
+0 -1 515
+S
+#519
+Room 3:  Ambassador's Suite~
+You are in a sparsely furnished room in the Crown and Anchor.  The only
+exit is to the south.  
+~
+0 1310728 0
+D2
+~
+~
+0 -1 518
+S
+#520
+Room 4:  The Businessman's Suite~
+You are in a sparsely furnished room in the Crown and Anchor.  The only
+exit is to the north.  
+~
+0 1310728 0
+D0
+~
+~
+0 -1 518
+S
+#521
+A Small Shop~
+You enter a nice and cozy shop that sells ships.  
+~
+0 0 0
+D5
+~
+~
+0 0 479
+S
+#522
+The Gingerman~
+This is the famous Gingerman.  A pub of world renown.  Famous for its
+wide selection of beers and other fine spirits, it vies only with the Crown
+and Anchor for customers.  Dart boards have been set up in the corner, and
+patrons frequently play for the enjoyment and competition.  
+~
+0 1310728 0
+E
+dart board dartboard corner~
+There are two dart boards set up in the corner of the bar.  Chalkboards 
+are located within easy reach for score keeping.  Booths and tables are 
+close at hand for the players.  This is truly paradise for the dart player.
+~
+D2
+~
+~
+0 -1 477
+S
+#523
+The Seaman's Supply Shop~
+This is a shop that specializes in making sails or the many ships that
+frequent the port.  There is a large open area where the sails are
+assembled, and several large heaps of fabric lying around the room.  
+~
+0 1310728 0
+D2
+~
+~
+0 -1 427
+S
+#524
+The Smithy~
+This is the smithy for the shipyard.  A large forge roars constantly
+here, making braces, nails, screws, winches and pulleys for the many ships
+that are serviced in the shipyards.  The smith also deals in fishing
+supplies, such as gaffs, harpoons and other weaponry.  
+~
+0 1310728 0
+E
+forge~
+The forge is a large pit of fire, kept going by a large billows.  Large 
+piles of coal and wood are kept nearby for fuel.  Everything in the room 
+is covered with a fine layer of soot from the raging fire that never 
+goes out.
+~
+D2
+~
+~
+0 -1 423
+S
+#525
+The Shipyard~
+This is the mighty shipyard of Aachen.  Wood is brought in from upriver,
+and made into the many ships of the Imperial fleet.  The tail end of what
+will be a massive ship is under construction here.  The spars of the ship
+jut upward like the ribcage of a dragon's skeleton.  You can see large piles
+of timber to the west, and a small building to the east.  
+~
+0 1310720 1
+D0
+~
+~
+0 -1 422
+D1
+~
+~
+0 -1 526
+D2
+~
+~
+0 -1 528
+D3
+~
+~
+0 -1 530
+S
+#526
+The Shipwright's Barracks~
+This is the barracks for the shipwrights and the shipyard's indentured
+servants.  There is a large kitchen here to feed the men, and several long
+tables for them to sit at.  A hallway leads south.  
+~
+0 1310728 0
+D2
+~
+~
+0 -1 527
+D3
+~
+~
+0 -1 525
+S
+#527
+The Sleeping Quarters~
+These are the sleeping quarters of the shipyard.  Here the workers rest
+after a long day's work.  Bunks and hammocks fill the room.  
+~
+0 1310728 0
+D0
+~
+~
+0 -1 526
+S
+#528
+The Shipyard~
+The front of a large ship is under construction here.  The skeletal hull
+continues to the north.  Large piles of timber are visible to the west, and
+a building can be seen to the east, although the entrance is located
+northeast from here.  
+~
+0 262144 1
+D0
+~
+~
+0 -1 525
+D2
+~
+~
+0 -1 418
+D3
+~
+~
+0 -1 529
+S
+#529
+The Southern Timber Piles~
+The is where timer is stored and processed for use in the construction of
+ships.  You see several jigs for bending and positioning the wood for
+construction.  A large pile of fresh timber can be seen to the north.  A
+large ship is under construction to the east, and beyond the ship is the
+barracks for the shipyard.  The sea lies to the south, and the mighty
+Anorien river flows to the east, beyond the building.  A pier heads out over
+the water to the southwest.  
+~
+0 262144 1
+D0
+~
+~
+0 -1 530
+D1
+~
+~
+0 -1 528
+S
+#530
+The Northern Timber Piles~
+Large neatly stacked piles of timber are stashed here for use in the
+shipyard.  A well worn trail leads east then north to the river, from where
+the wood is brought into the shipyard.  
+~
+0 262144 1
+D1
+~
+~
+0 -1 525
+D2
+~
+~
+0 -1 529
+S
+#531
+An Underground Tunnel~
+This is a neat tunnel under the port.  The walls are slick with moisture,
+and water pools on the floor.  Wooden supports keep the ceiling from
+collapsing.  The tunnel heads east and west.  
+~
+0 1048585 1
+D1
+~
+~
+0 -1 532
+D3
+~
+~
+0 -1 512
+S
+#532
+An Underground Tunnel~
+This is a neat tunnel under the port.  The walls are slick with moisture,
+and water pools on the floor.  Wooden supports keep the ceiling from
+collapsing.  The tunnel heads east and west.  
+~
+0 1048585 1
+D1
+~
+~
+0 -1 533
+D3
+~
+~
+0 -1 531
+S
+#533
+An Underground Tunnel~
+This is a neat tunnel under the port.  The walls are slick with moisture,
+and water pools on the floor.  Wooden supports keep the ceiling from
+collapsing.  The tunnel heads east and west.  
+~
+0 1048585 1
+D1
+~
+~
+0 -1 534
+D3
+~
+~
+0 -1 532
+S
+#534
+An Underground Tunnel~
+This is a neat tunnel under the port.  The walls are slick with moisture,
+and water pools on the floor.  Wooden supports keep the ceiling from
+collapsing.  The tunnel heads east and west.  
+~
+0 1048585 1
+D0
+~
+~
+0 -1 535
+D3
+~
+~
+0 -1 533
+S
+#535
+An Underground Tunnel~
+The tunnel bends here.  One passage leads north, and another leads west. 
+The walls are slick with moisture, and there are large pools of water on the
+floor.  The tunnel rises to the north.  
+~
+0 1048585 1
+D0
+~
+~
+0 -1 536
+D2
+~
+~
+0 -1 534
+S
+#536
+An Underground Tunnel~
+The tunnel slopes upward here, and the dirt walls are augmented by stone.
+This section of the tunnel must be carved into the bedrock.  The floor is
+almost completely dry.  The tunnel heads south and east.  
+~
+0 1048585 1
+D1
+~
+~
+0 -1 537
+D2
+~
+~
+0 -1 535
+S
+#537
+An Underground Tunnel~
+The tunnel slopes upward here, and walls are bare stone.  This section of
+the tunnel must be carved into the bedrock.  The floor is almost completely
+dry.  The tunnel heads south and west.  
+~
+0 1048585 1
+D2
+~
+~
+0 -1 538
+D3
+~
+~
+0 -1 536
+S
+#538
+An Underground Tunnel~
+The tunnel slopes upward to the north here, and the walls stone.  This
+section of the tunnel must have been carved into the bedrock.  The floor is
+almost completely dry.  The tunnel heads north and south.  
+~
+0 1048585 1
+D0
+~
+~
+0 -1 537
+D2
+~
+~
+0 -1 539
+S
+#539
+A Bend in an Underground Tunnel~
+The tunnel slopes upward to the north.  The Walls are carved from the
+stone.  The tunnel heads north and west from here.  
+~
+0 1048585 1
+D0
+~
+~
+0 -1 538
+D3
+~
+~
+0 -1 540
+S
+#540
+A Bend in the Tunnel~
+The tunnel slopes down to the south.  The walls are carved stone.  The
+tunnel heads south and east from here.  
+~
+0 1048585 1
+D1
+~
+~
+0 -1 539
+D2
+~
+~
+0 -1 541
+S
+#541
+An Underground Intersection~
+The tunnel heads off in four directions here.  The ground looks drier to
+the north, and gets progressively wetter to the south.  Passages head of to
+the east and west.  
+~
+0 1048585 1
+D0
+~
+~
+0 -1 540
+D1
+~
+~
+0 -1 543
+D2
+~
+~
+0 -1 542
+D3
+~
+~
+0 -1 548
+S
+#542
+An Underground Tunnel~
+You have reached a dead end.  The floor has given away to mud, and the
+ceiling drips muck onto your head.  
+~
+0 3145737 1
+E
+dt~
+The mud ceiling collapses on your head!  Your sink deeper into the muck.  
+Soon you will give up the will to fight, and die a slow death by suffocation!
+~
+D0
+~
+~
+0 -1 541
+S
+#543
+An Underground Tunnel~
+The tunnel slopes upward to the east.  The walls are made of carved
+stone.  The tunnel heads east and west from here.  
+~
+0 1048585 1
+D1
+~
+~
+0 -1 544
+D3
+~
+~
+0 -1 541
+S
+#544
+An Underground Tunnel~
+The tunnel heads west and north from here.  The stone walls and floor are
+quite dry here.  
+~
+0 1048585 1
+D0
+~
+~
+0 -1 545
+D3
+~
+~
+0 -1 543
+S
+#545
+An Intersection of Tunnels~
+Tunnel branch off here and lead to the north, west, and south from here. 
+The floor slopes gently down from the north to the south.  
+~
+0 1048585 1
+D0
+~
+~
+0 -1 546
+D2
+~
+~
+0 -1 544
+S
+#546
+A Bend in an Underground Tunnel~
+The tunnel has a bend here.  One passage leads east and another leads
+south.  
+~
+0 1048585 1
+D1
+~
+~
+0 -1 547
+D2
+~
+~
+0 -1 545
+S
+#547
+An Underground Tunnel~
+The tunnel is carved into the bedrock here.  It is quite dry and the
+absence of debris indicate that it is quite sturdy, as well.  
+~
+0 1048585 1
+D1
+~
+~
+0 -1 443
+D3
+~
+~
+0 -1 546
+S
+#548
+An Underground Tunnel~
+The tunnel opens up here, becoming wider and taller.  You see a large
+carved stone portal to the west.  
+~
+0 1048585 1
+D1
+~
+~
+0 -1 541
+D3
+~
+~
+0 -1 549
+S
+#549
+The Entrance to the Den of Thieves~
+This is the entrance to some kind of underground base, the hidden base of
+the thieves guild.  The tunnel heads to the west.  
+~
+0 1048585 1
+D1
+~
+~
+0 -1 548
+D3
+~
+~
+0 -1 550
+S
+#550
+An Open Room~
+This is a rather large open room.  The floor is made of stone.  The
+ceiling is supported by wooden beams set into the walls.  Passages head off
+in all four cardinal directions.  
+~
+0 1048585 1
+D0
+~
+~
+0 -1 551
+D1
+~
+~
+0 -1 549
+D2
+~
+~
+0 -1 554
+D3
+~
+~
+0 -1 555
+S
+#551
+A Meeting Room~
+This is a meeting room.  A long table is set in the middle of the room,
+with many chairs surrounding it.  A door is set in the western wall.  
+~
+0 1048585 1
+D2
+~
+~
+0 -1 550
+D3
+~
+~
+1 -1 552
+S
+#552
+A Private Room~
+This is a small room.  It appears to be the quarters of a high ranking
+person.  The walls are decorated with rich tapestries.  There is a door set
+in the eastern wall.  
+~
+0 1048585 1
+D1
+~
+~
+1 -1 551
+D4
+A funny looking rock is set in the ceiling here.
+~
+rock trap door funny~
+1 -1 553
+S
+#553
+Under the Pier~
+You are under a pier on the seashore.  The pier is made of wood, and is
+built on top of a rocky shore.  There is a funny looking rock back in the
+shadows.  
+~
+0 1048585 1
+D4
+~
+~
+0 -1 435
+D5
+A funny looking rock lies on the ground here.
+~
+funny rock trapdoor trap~
+1 -1 552
+S
+#554
+The Barracks~
+This is a barracks of sorts.  There are many cots and pallets lying about
+on the floor.  They don't look like they are used very often.  
+~
+0 1048585 1
+D0
+~
+~
+0 -1 550
+S
+#555
+A Training Room~
+This is the training room for the thieves den.  There are all manner of
+training devices here, from weights to combat dummies.  
+~
+0 1048585 1
+D1
+~
+~
+0 -1 550
+S
+#556
+On the ship~
+
+~
+0 4 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 441 5 1
+D 0 443 4 1
+D 0 470 2 2
+D 0 471 0 2
+D 0 552 4 2
+D 0 553 5 2
+M 0 400 20 400 2
+M 0 400 20 402 1
+M 0 400 20 405 1
+M 0 400 20 407 1
+M 0 427 20 407 3
+M 0 406 20 408 2
+M 0 406 20 408 2
+M 0 409 20 408 3
+M 0 431 20 408 1
+M 0 408 20 410 3
+M 0 400 20 411 1
+M 0 408 20 411 3
+M 0 408 20 411 3
+M 0 427 20 411 3
+M 0 400 20 412 1
+M 0 427 20 412 3
+M 0 401 20 413 2
+M 0 401 20 413 2
+M 0 414 20 413 3
+M 0 415 20 414 3
+M 0 415 20 414 3
+M 0 400 20 415 1
+M 0 408 20 415 3
+M 0 400 20 416 1
+M 0 406 20 416 2
+M 0 406 20 416 2
+M 0 408 20 416 3
+M 0 412 20 416 3
+M 0 414 20 416 3
+M 0 401 20 417 2
+M 0 415 20 417 3
+M 0 400 20 418 1
+M 0 408 20 418 3
+M 0 408 20 418 3
+M 0 414 20 419 3
+M 0 427 20 419 3
+M 0 412 20 420 3
+M 0 400 25 430 1
+M 0 408 20 432 3
+M 0 408 20 433 3
+M 0 427 20 433 3
+M 0 427 20 433 3
+M 0 400 25 434 1
+M 0 401 20 435 2
+M 0 427 20 435 3
+M 0 400 50 436 4
+M 0 400 50 436 4
+M 0 419 20 436 3
+M 0 400 20 438 2
+M 0 428 1 439 1
+M 0 412 20 446 3
+M 0 412 20 448 3
+M 0 414 20 451 3
+M 0 418 20 451 3
+M 0 418 20 455 3
+M 0 412 20 458 3
+M 0 412 20 458 3
+M 0 413 20 459 3
+M 0 406 20 463 2
+M 0 406 20 463 2
+M 0 400 50 464 4
+M 0 400 50 464 4
+M 0 400 50 464 4
+M 0 427 20 464 3
+M 0 401 20 465 2
+M 0 401 20 465 2
+M 0 427 20 465 3
+M 0 400 50 466 4
+M 0 400 50 466 4
+M 0 400 50 466 4
+M 0 400 50 466 4
+M 0 401 20 467 2
+M 0 401 20 467 2
+M 0 427 20 467 2
+M 0 427 20 467 3
+M 0 400 50 468 4
+M 0 415 20 469 3
+M 0 406 20 470 2
+M 0 406 20 470 2
+M 0 412 20 474 3
+M 0 400 50 476 4
+M 0 414 20 477 3
+M 0 400 50 478 4
+M 0 400 50 478 4
+M 0 415 20 478 3
+M 0 408 20 479 2
+M 0 408 20 479 2
+M 0 406 20 479 2
+M 0 406 20 479 2
+M 0 408 20 479 3
+M 0 408 20 479 3
+M 0 431 20 479 1
+M 0 408 20 480 3
+M 0 408 20 480 3
+M 0 427 20 480 3
+M 0 427 20 481 3
+M 0 400 50 482 4
+M 0 415 20 483 3
+M 0 415 20 483 3
+M 0 416 10 483 1
+M 0 417 20 483 3
+M 0 415 20 484 3
+M 0 415 20 484 3
+M 0 416 10 484 1
+M 0 417 20 484 3
+M 0 415 20 485 3
+M 0 415 20 485 3
+M 0 416 10 485 1
+M 0 417 20 485 3
+M 0 415 20 486 3
+M 0 415 20 486 3
+M 0 416 10 486 1
+M 0 417 20 486 3
+M 0 415 20 487 3
+M 0 415 20 487 3
+M 0 415 20 487 3
+M 0 415 20 487 3
+M 0 416 20 487 3
+M 0 417 20 487 3
+M 0 413 20 494 3
+M 0 414 20 494 3
+M 0 418 20 494 3
+M 0 402 1 495 1
+M 0 409 20 496 3
+M 0 409 20 496 3
+M 0 409 20 497 3
+M 0 409 20 498 3
+M 0 409 20 499 3
+M 0 409 20 501 3
+M 0 409 20 501 3
+M 0 409 20 503 3
+M 0 414 20 504 3
+M 0 423 20 504 1
+M 0 429 20 507 1
+M 0 403 1 509 1
+M 0 412 20 509 3
+M 0 412 20 509 3
+M 0 413 20 509 3
+M 0 413 20 509 3
+M 0 414 20 509 3
+M 0 414 20 509 3
+M 0 422 1 509 1
+M 0 412 20 511 3
+M 0 426 20 512 1
+M 0 414 20 513 3
+M 0 414 20 514 3
+M 0 414 20 514 3
+M 0 418 20 514 3
+M 0 420 1 514 1
+M 0 421 1 514 1
+M 0 418 20 515 3
+M 0 434 1 521 1
+M 0 404 1 522 1
+M 0 413 20 522 3
+M 0 413 20 522 3
+M 0 414 20 522 3
+M 0 418 20 522 3
+M 0 405 1 523 1
+M 0 418 20 523 3
+M 0 407 1 524 1
+M 0 410 20 525 3
+M 0 410 20 526 3
+M 0 410 20 527 3
+M 0 410 20 528 3
+M 0 410 20 528 3
+M 0 411 20 528 3
+M 0 414 20 528 3
+M 0 410 20 529 3
+M 0 410 20 530 3
+M 0 410 20 530 3
+M 0 412 20 532 3
+M 0 412 20 538 3
+M 0 419 20 540 3
+M 0 419 20 540 3
+M 0 412 20 544 3
+M 0 413 20 544 3
+M 0 419 20 545 3
+M 0 419 20 545 3
+M 0 412 20 546 3
+M 0 425 20 547 1
+M 0 419 20 548 3
+M 0 425 20 548 1
+M 0 425 20 549 1
+M 0 433 1 550 1
+M 0 412 20 550 3
+M 0 412 20 550 3
+M 0 413 20 550 3
+M 0 419 20 550 3
+M 0 412 20 554 3
+M 0 412 20 554 3
+M 0 432 1 555 1
+M 0 412 20 555 3
+S
+
+
+
+#SHOPS
+402 5 9 33 8 11 100 50 0 23
+403 17 10 0 0 0 100 50 0 23
+404 17 10 0 0 0 100 50 0 23
+405 22 28 32 33 8 100 50 0 23
+407 5 9 11 22 15 100 50 0 23
+428 5 15 17 22 32 100 50 0 23
+0
+
+
+
+#$

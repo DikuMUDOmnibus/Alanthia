@@ -1,0 +1,1462 @@
+#AREADATA
+Name Etherium~
+Builders Quix~
+VNUMs 21301 21399
+Credits {150 200} Quix        Outside Reality~
+Security 9
+Version 1
+End
+
+
+
+#MOBILES
+#21301
+ethereal citizen~
+an ethereal citizen~
+An ethereal citizen of this place floats about, ignoring you.
+~
+This creature is definitely not from your world.  It seems to be about
+five feet tall, floating in midair, glowing a pale green.  It is
+translucent and shapeless, but you sense conciousness in it.  It is alive. 
+~
+unique~
+A TU 0 0
+150 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 A 0
+stand stand none 0
+AH 0 medium unknown
+#21302
+ethereal guardian gateguard~
+The ethereal gateguard~
+A large, powerful looking ethereal stands before the gates.
+~
+If he...  She...  It was standing, it would be far taller than the other
+ethereals you've met so far.  Although it seems as insubstantial as the
+others, it seems somehow slightly less so.  As though it weren't completely
+ethereal...  
+~
+unique~
+ABNQRT DFHLTUVc 0 0
+200 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 A 0 0
+stand stand none 0
+0 0 medium unknown
+#21303
+ethereal chef~
+an ethereal chef~
+An ethereal stands behind the counter, preparing "food".
+~
+You imagine this ethereal must be some kind of chef, preparing the
+strange "meals" for the other ethereals to eat.  You can't quite determine
+how the ethereals are paying for their food, if they pay at all, but it
+doesn't seem to matter.  Occaisionally, it seems to look at you.  Its hard
+to tell, but it appears uninterested in you.  
+~
+unique~
+AB TU 0 0
+160 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 A 0 0
+stand stand none 0
+0 0 medium unknown
+#21304
+ethereal hungry~
+a hungry ethereal~
+A hungry ethereal floats near a "table", absorbing colored light.
+~
+This ethereal sits eerily still as it absorbs strange pools of colored
+light into itself.  Strings of vibrant color stretch from the pools to what
+you assume is its mouth, disappearing into the creature.  
+~
+unique~
+AB TU 0 0
+155 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 A 0
+stand stand none 0
+0 0 medium unknown
+#21305
+etherial librarian~
+the ethereal librarian~
+An ethereal floats through the books, shifting them aimlessly.
+~
+A thin, wispy etheral appears and disappears, sliding between the books. 
+His motions seem to shift the books, as though he were organizing them, but
+they aren't approaching any kind of order you recognize.  
+~
+unique~
+AB TU 0 0
+158 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+#21306
+axis~
+Axis~
+Axis stands behind the counter, polishing his newest wares.
+~
+A tall man with short, fiery red hair stands tall behind the counter. 
+His eyes are sharp as you wander through the shop, looking away only to
+admire the gear for sale.  
+~
+unique~
+ABM TU 0 0
+180 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand male 100000
+0 0 medium unknown
+#21307
+disgruntled waiter~
+a disgruntled waiter~
+A waiter with an annoyed expression on his face waits to serve you.
+~
+This man is obviously not happy with his vocational choice.  Grudgingly
+wiping the counter as he waits for your order, he's probably an out of work
+actor. 
+~
+unique~
+AB 0 0 0
+180 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand male 100000
+0 0 medium unknown
+#21308
+jason~
+Jason~
+Surrounded in a haze of a light, fragrant smoke, Jason waits to serve you.
+~
+Despite the glaze on his eyes, this man seems fairly intelligent.  He
+mixes and mashes powder and ointments, brewing potions and making pills. 
+Occaisionally, however, he stops and stares into space for no apparent
+reason.  
+~
+unique~
+AB 0 0 0
+180 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand male 100000
+0 0 medium unknown
+#21309
+human consumer~
+A human consumer~
+A human wanders here, looking for wares to purchase.
+~
+Looking quite out of place in this peculiar part of existence, a human
+wanders through the bazaar.  He seems to be rather well off, seeking the
+fabulous wares of these unusual shops.  
+~
+unique~
+AH d 0 0
+180 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#21310
+snob shopkeeper~
+A snob shopkeeper~
+The shopkeeper looks down his nose at you, but still offers you his wares.
+~
+This man is obviously used to a higher class of clientele then
+adventurers such as yourself.  Probably the kind of people who purchase the
+finest weapons to adorn their wall, rather then draw the blood of their
+foes.  Despite his obvious snobbiness, his weapons do seem high quality.  
+~
+unique~
+AB 0 0 0
+180 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 100000
+0 0 medium unknown
+#21311
+phil pharmacist~
+Phil the pharmacist~
+Phil the pharmacist stands in his white lab coat, dusting the counter.
+~
+A short man, Phil appears to be more interested in the cleanliness of his
+shop than his customers.  Noticing you, he wiggles his moustache slightly,
+probably worried about your boots scuffing the tile.  
+~
+unique~
+AB 0 0 0
+180 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 100000
+AHMV ABCDEFGHIJK medium unknown
+#21312
+wacko jester~
+Wacko the Wacky Jester~
+A strange little man, dressed as a jester, awaits your purchase.
+~
+With at least a thousand shades of a dozen colors in his little jester
+hat alone, this man is obviously not your average jester.  Wearing a large
+smile of his face, he stands behind the counter preparing his toys for sale.
+~
+unique~
+AB 0 0 0
+180 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 100000
+AHMV ABCDEFGHIJK medium unknown
+#21313
+snobby salesperson~
+a snobby salesperson~
+A snobby salesperson approaches you, showing off the newest khakis.
+~
+With the latest hairstyle, granted by what appears to be a quart of gel,
+this person is obviously very hip.  With just the right amount of peircings,
+and understated but expensive clothes, they look exactly like the mannequins
+in this store.  
+~
+unique~
+AB 0 0 0
+180 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 AB 0 0
+stand stand male 100000
+AHMV ABCDEFGHIJK medium unknown
+#21314
+jimmy shopkeeper~
+Jimmy~
+A disheveled man stands waiting to serve you. His nametag reads, "Jimmy".
+~
+Wearing what looks like halves of two different shirts sewn together,
+Jimmy does not present the most professional appearance.  Seeming more
+interested in a battle of wits with the cockroach nesting on the counter
+than serving you, he is not inspiring your confidence.  
+~
+unique~
+AB 0 0 0
+180 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand male 100000
+AHMV ABCDEFGHIJK medium unknown
+#21315
+general jim shopkeeper~
+General Jim~
+An imposing man in military dress, General Jim is ready to serve you.
+~
+Garbed in an impressive military uniform, General Jim looks like quite
+the important man.  Although his uniform isn't from any military you've ever
+seen before, it still looks impressive.  
+~
+unique~
+AB 0 0 0
+180 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand male 100000
+AHMV ABCDEFGHIJK medium unknown
+#21316
+ethereal shopkeeper~
+an ethereal shopkeeper~
+An ethereal hovers behind the "counter", giving off an impatient vibe.
+~
+It doesn't look any different than any of the other ethereals in this
+place, except that it apparently runs this shop.  It seems somewhat odd,
+from what you know of etherium, for an ethereal to associate so directly
+with material beings.  But, nevertheless, here he is.  And he wants your
+money.  
+~
+unique~
+AB TU 0 0
+180 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+#21317
+sammy shopkeeper~
+Sammy~
+A derelict gentleman sits behind a sign that reads, "Sammy's Pawn Shop".
+~
+Sammy is an interesting fellow.  His dress makes him appear to be no
+better than a hobo, but he obviously has the cash to operate a pawn shop. 
+Unusual, but then again, nothing is usual in Etherium.  
+~
+unique~
+AB 0 0 0
+180 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand male 100000
+AHMV ABCDEFGHIJK medium unknown
+#21318
+edge shopkeeper~
+Edge the shopkeeper~
+Edge, the shopkeeper, sharpens his blades.
+~
+Looking this shopkeeper up and down, you immedeatly spot at least a dozen
+blades concealed about his person.  At least he enjoys his craft.  
+~
+unique~
+AB 0 0 0
+180 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 100000
+AHMV ABCDEFGHIJK medium unknown
+#21319
+mister feexit~
+Mister Feexit~
+A man stand's behind an anvil, next a sign reading "Mister Feexit's Repair".
+~
+This man appears to be made of tools.  At least, it would appear as much
+except for the few spots of flesh sticking out from underneath his
+gadget-laden overalls.  If anyone could fix something, you'd guess it's this
+guy.  
+~
+unique~
+ABL 0 0 0
+180 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#21320
+mating ethereal couple~
+an ethereal "couple"~
+A pair of ethereals hover in the light, apparently mating.
+~
+Although they aren't even visibly touching, they do seem somehow
+connected.  The strange distortion their shapeless forms emit is joined in a
+way you could not begin to describe.  Between them, something is forming in
+the fog.  Possibly an unborn ethereal.  
+~
+unique~
+AB TU 0 0
+190 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 AB 0 0
+stand stand none 0
+0 0 medium unknown
+#21321
+newborn ethereal~
+A newborn ethereal~
+A newborn ethereal hovers here, lacking direction and purpose.
+~
+Smaller than most of the other ethereals here, it is likely a newborn,
+spawned in the mating pools.  How intelligent it is, and how powerful, you
+have no way to know.  
+~
+unique~
+AB TU 0 0
+160 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+#21322
+curious ethereal~
+A curious ethereal~
+An ethereal floats among the humans, probably curious as to their ways.
+~
+Although it has no physical eyes as far as you can see, it seems to be
+taking some sort of appraisal of the people here.  Possibly an observer of
+material customs, it hovers daintily from shop to shop.  
+~
+unique~
+A TU 0 0
+185 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 AB 0 0
+stand stand none 0
+0 0 medium unknown
+#21323
+wandering adventurer~
+A wandering adventurer~
+An adventurer not unlike yourself wanders the bazaar, perhaps seeking stronger equipment.
+~
+With a slightly haggard expression on his face, and an ever so small limp
+in his stride, this man has obviously been wandering for some time.  
+~
+unique~
+AT H 0 0
+185 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+CDX 0 0 0
+stand stand male 1850
+AHMV ABCDEFGHIJK medium unknown
+#21324
+reptillian beast~
+A reptillian beast~
+A large, ugly reptillian beast snarls angrily.
+~
+With large claws, larger teeth, and an imposing stench, this does not
+look like your average lizard.  
+~
+unique~
+AI 0 0 0
+150 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+FIM 0 L I
+stand stand none 0
+AGXc ACDEFHKQV medium unknown
+#21325
+shackled wraith~
+A shackled wraith~
+A wraith, shackled by chains of ethereal design, floats silently here.
+~
+Although insubstantial, it appears the ethereals have somehow developed
+chains capable of holding wraith flesh in place.  Although it says nothing,
+you detect a strong energy of unhappiness from the creature.  
+~
+unique~
+AIR 0 0 0
+160 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 L JQ FHN
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#21326
+dimensional render~
+A dimensional render~
+A strange, snakelike being worms its way in and out of reality.
+~
+Created in the places between worlds, these beings rend the fabric of
+space in order to move, thus giving them the name "renders".  This one seems
+somehow tamed, although you can't imagine the methods necessary to tame it. 
+~
+unique~
+AT 0 0 0
+175 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+FW 0 0 0
+stand stand none 0
+0 0 medium unknown
+#21327
+Tal'sheen mercenary~
+a Tal'sheen mercenary~
+A member of the Tal'sheen stands, waiting for instructions.
+~
+The Tal'sheen are some of the most feared and powerful warriors in
+interdimensional territory.  This one, for some reason, has gone against the
+teachings of his people, and offered his services for hire.  
+~
+unique~
+AT 0 0 0
+200 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+DFIKNVW 0 0 0
+stand stand none 0
+0 0 medium unknown
+#21328
+nesting ethereal~
+a nesting ethereal~
+An ethereal floats near the wall, apparently nesting.
+~
+This ethereal seems to be dormant, at peace, nesting quietly in what you
+would assume to be its home.  
+~
+unique~
+AB U 0 0
+180 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 AB 0 0
+stand stand none 0
+0 0 medium unknown
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#21301
+Just Outside Reality~
+Before you is an unusual dimensional occurance.  You're standing on an
+oddly plyable surface, rather like standing on a cloud.  Surrounding you on
+all sides is a thick, purple and black fog.  To the south is the tear in
+space between this world and the material realm.  The fog is thinner to the
+north, allowing passage.  The fog swirls around you, obscuring any view of
+the deeper areas of the strange mist.  
+~
+0 8 0
+D0
+~
+~
+0 0 21302
+S
+#21302
+The Realm of the Ethereals~
+The fog is thin around you here, thicker only to the south.  Before you,
+as though in some sort of invisible bubble, is an enormous clear space in
+the mist.  It seems to take a more orderly appearance here.  The swirling
+purple cloud is forming buildings now, Actual structures made of mist.  As
+you look out upon the depths of this place, you see creatures moving in the
+darkness.  You are standing above a city.  
+~
+0 12 0
+D2
+~
+~
+0 0 21301
+D5
+~
+~
+0 0 21304
+S
+#21303
+A Twist In the Fog~
+The fog seemed thinner here before you stepped into it, but it has
+thickened around you as you move.  The exits are all unclear.  As you can't
+determine where you came from, you're not quite sure how to get back.  
+~
+0 12 0
+S
+#21304
+The Ethereal City~
+You are on what you would loosely call a street, at least a fairly flat
+patch of the purple fog, leading into the ethereal city.  Occaisonally,
+strange transparent beings flit by quickly, on their way here and there. 
+The mists still shift around you, making it difficult to determine
+directions, but with some effort, you keep your bearing.  
+~
+0 8 0
+D0
+~
+~
+0 0 21305
+D1
+~
+~
+0 0 21313
+D3
+~
+~
+0 0 21311
+D4
+~
+~
+0 0 21302
+S
+#21305
+The Main Road~
+You are on a large road going through the center of the Ethereal City. 
+Ethereals pass by you quickly, flying on unseen wings through the mists. 
+You see a gathering of them in the structure to the west, and the road
+continues north and south.  
+~
+0 8 0
+D0
+~
+~
+0 0 21306
+D2
+~
+~
+0 0 21304
+D3
+~
+~
+0 0 21317
+S
+#21306
+The Main Road~
+You are on a large road going through the center of the Ethereal City. 
+Ethereals move delicately through the air all around you, seemingly unaware
+of your presence.  The road continues north and south, and there is an odd
+blue glow from the building to the east.  
+~
+0 8 0
+D0
+~
+~
+0 0 21307
+D1
+~
+~
+0 0 21318
+D2
+~
+~
+0 0 21305
+S
+#21307
+An Intersection~
+You're on the intersection of two roads, one extending to the west, and
+another running north and south.  Looking west, you see what looks like a
+material sign, looking very out of place in the purple fog.  North and
+south, only the fog and the occaisional ethereal meet your gaze.  
+~
+0 8 0
+D0
+~
+~
+0 0 21308
+D2
+~
+~
+0 0 21306
+D3
+~
+~
+0 0 21316
+S
+#21308
+The Main Road~
+You are on a large road going through the center of the Ethereal City. 
+Ethereals seem to be always moving, around and past you, few standing still
+long enough the get a good look.  But when some do stop, they still seem
+completely uninterested in your presence here.  
+~
+0 8 0
+D0
+~
+~
+0 0 21309
+D1
+~
+~
+0 0 21341
+D2
+~
+~
+0 0 21307
+S
+#21309
+The Main Road~
+You are on a large road going through the center of the Ethereal City. 
+North, you can see an irregularity in the purple fog.  It's difficult to
+make out from here, but most of the ethereals seem to be staying away from
+it.  The road also continues to the south.  
+~
+0 8 0
+D0
+~
+~
+0 0 21310
+D1
+~
+~
+0 0 21343
+D2
+~
+~
+0 0 21308
+S
+#21310
+The Gates~
+You are standing before a set of what appear to be gates.  They are two
+large blue patches in the purple fog, which block your path forward.  Behind
+them you can see what appears to be a material structure floating in the
+fog.  The path south leads into the ethereal city.  
+~
+0 12 0
+D0
+~
+gates~
+4 21317 21342
+D2
+~
+~
+0 0 21309
+S
+#21311
+A Secluded Road~
+This path seems mostly closed off.  While you're fairly sure you're still
+in the city, this path more resembles a tunnel than a street, enclosed on
+all sides by the purple fog.  You can see a more open road to the east.  
+~
+0 8 0
+D1
+~
+~
+0 0 21304
+D3
+~
+~
+0 0 21312
+S
+#21312
+A Dead End~
+The fog abruptly closes around you in this room, leaving no exits except
+east, towards the city entrance.  Either this is the end of the road, or
+someone doesn't want you going any farther.  
+~
+0 8 0
+D1
+~
+~
+0 0 21311
+S
+#21313
+A Secluded Road~
+This path seems mostly closed off.  While you're fairly sure you're still
+in the city, this path more resembles a tunnel than a street, enclosed on
+all sides by the purple fog.  You can see a more open road to the west.  
+~
+0 8 0
+D1
+~
+~
+0 0 21314
+D3
+~
+~
+0 0 21304
+S
+#21314
+A Secluded Road~
+This path seems mostly closed off.  While you're fairly sure you're still
+in the city, this path more resembles a tunnel than a street, enclosed on
+all sides by the purple fog.  The path continues east and west.  
+~
+0 8 0
+D1
+~
+~
+0 0 21315
+D3
+~
+~
+0 0 21313
+S
+#21315
+A Hole in the Fog~
+Swirling and shifting in the, for lack of a better term, floor beneath
+you, is a large hole.  It appears big enough for you to go down, but you
+can't see anything on the other side.  A tunnel leads away to the west.  
+~
+0 12 0
+D3
+~
+~
+0 0 21314
+D5
+~
+~
+0 0 21328
+S
+#21316
+The Material Bazaar~
+Towering over you is a large arch, built quite clearly out of stone.  It
+is something of a relief to see material construction amidst the fog, as the
+arch appears to be a gateway to a small pavillion of material goods.  A
+stone floor has been built on top of the fog, allowing material beings to
+wander with ease.  You hear the familiar sounds of bartering and bargaining,
+and you even see others from your reality wandering the area.  West will
+take you into the material area, and east will return you to the fogbound
+world of Etherium.  
+~
+0 12 0
+D1
+~
+~
+0 0 21307
+D3
+~
+~
+0 0 21319
+S
+#21317
+An Ethereal Eatery~
+You appear to be inside the ethereal equivalent of a restaurant.  Various
+ethereals flutter back and forth, stopping at "tables" of the purple fog to
+consume pools of colored light.  A counter of sorts lies at the far end of
+the room.  
+~
+0 12 0
+D1
+~
+~
+0 0 21305
+S
+#21318
+The Ethereal Library~
+It's a little hard to tell, but this appears to be a library.  The tall
+room seems filled with unkempt stacks of books.  Most of the books are made
+out of a blue tinted fog, filled with languages you can't begin to
+understand.  A few of the books, however, appear to be material.  
+~
+0 12 0
+D3
+~
+~
+0 0 21306
+S
+#21319
+The Eastern Material Bazaar~
+Brillaintly colored material decorations and banners fly proudly in this
+place, a material haven in the lands of Etherium.  A cavalcade of bargain
+seekers roam aimlessly through this large bazaar, seemingly having little
+purpose other than to find the best deals.  A path into the ethereal fog
+lies east.  
+~
+0 8 0
+D0
+~
+~
+0 0 21320
+D1
+~
+~
+0 0 21316
+D2
+~
+~
+0 0 21336
+D3
+~
+~
+0 0 21326
+S
+#21320
+The Northeastern Material Bazaar~
+This corner of the bazaar seems oddly quiet, until another throng of
+customers make their way past you.  Apparently shops come in and out of
+favor with the customers rather often around here.  Above the shop to the
+east is a sign reading, "Weapons, Weapons, Weapons", and to the north
+appears to be some kind of apothecary.  
+~
+0 8 0
+D0
+~
+~
+0 0 21321
+D1
+~
+~
+0 0 21322
+D2
+~
+~
+0 0 21319
+D3
+~
+~
+0 0 21323
+S
+#21321
+Phil's Pharmacy~
+A sterile air surrounds this shop, well scrubbed and neatly stocked. 
+Small vials of pills, bandages, and bottles of liquid are meticulously
+arranged on well ordered shelves.  The man responsible for this level of
+organization stands behind the counter, awaiting your purchase.  
+~
+0 8 0
+D2
+~
+~
+0 0 21320
+S
+#21322
+Weapons, Weapons, Weapons~
+As your eyes gaze around this room, you see at least one of every style
+and shape of weapon you have ever known in your life.  Although not all of
+it is fit for your purposes, the impressive selection lends credit to this
+shop.  
+~
+0 8 0
+D3
+~
+~
+0 0 21320
+S
+#21323
+The Northern Material Bazaar~
+The northern end of the bazaar is filled with laughter, most of it
+emenating from the shop to the north.  To the south, you notice a large
+signpost dominating the center of the bazaar.  Looking up at the sky, you
+see only the purple fog of Etherium.  
+~
+0 8 0
+D0
+~
+~
+0 0 21324
+D1
+~
+~
+0 0 21320
+D2
+~
+~
+0 0 21326
+D3
+~
+~
+0 0 21325
+S
+#21324
+The Humor Hut~
+As you enter the room, you step on a small wire an inch off the floor. 
+In doing so, you trigger a simple device that hurls a tomato at you. 
+Avoiding it skillfully, you look about and realize this is a joke shop,
+filled with practical jokes and toys.  
+~
+0 8 0
+D2
+~
+~
+0 0 21323
+S
+#21325
+The Northwestern Material Bazaar~
+The people in this corner of the bazaar seem particularly well dressed. 
+Looking about, you notice a clothes shop to the north selling the latest
+modern fashions.  Glancing west, you see a man leading a large...  Well, you
+just don't know what it is, but it's rather big creature, from the western
+shop.  
+~
+0 8 0
+D0
+~
+~
+0 0 21327
+D1
+~
+~
+0 0 21323
+D2
+~
+~
+0 0 21329
+D3
+~
+~
+0 0 21339
+S
+#21326
+Center of the Material Bazaar~
+Everything around you is noise and confusion as people wander the bazaar,
+seeking the fabulous wares of far away lands.  This place seems to be one of
+the few material constructions in Etherium, and makes you feel oddly at
+home.  
+~
+0 8 0
+D0
+~
+~
+0 0 21323
+D1
+~
+~
+0 0 21319
+D2
+~
+~
+0 0 21334
+D3
+~
+~
+0 0 21329
+S
+#21327
+Fifth Avenue Fashion~
+Beige is the dominant color in this room.  Lightly colored clothes lie in
+sterile racks, bearing the labels of their designers.  Snooty salespeople
+zip from customer to customer, treating them all with similar disdain.  Most
+of the selection here is useless pandering to the latest fashion trends, but
+on close inspection, you see some of it may have protective value.  
+~
+0 8 0
+D2
+~
+~
+0 0 21325
+S
+#21328
+A Twisting Funnel~
+The fog swirls faster and faster around you, a tornado of shifting
+texture and color.  It looks like the funnel would continue downward, but
+the fog is too turbulent for you to pass through it.  For now, you're only
+exit is the way you came.  
+~
+0 12 0
+D4
+~
+~
+0 0 21315
+S
+#21329
+The Western Material Bazaar~
+The variety of people wandering this bazaar is astonishing.  They are
+almost varied enough to distract you from the shops, whose signs coat every
+building.  To the west is some kind of armor shop, although it's sign is in
+a poor state of repair.  East, you see a large signpost marking the center
+of the bazaar.  
+~
+0 8 0
+D0
+~
+~
+0 0 21325
+D1
+~
+~
+0 0 21326
+D2
+~
+~
+0 0 21331
+D3
+~
+~
+0 0 21330
+S
+#21330
+The Armor Depository~
+Armor of questionable quality seems to fill this shop.  Some of it is
+dented and obviously previously used in battle, while other pieces appear to
+be in good shape.  As your gaze passes over it, a rat falls out of a leather
+breastplate it has obviously been trying to eat.  Maybe you should find
+another shop.  
+~
+0 8 0
+D1
+~
+~
+0 0 21329
+S
+#21331
+The Southwestern Material Bazaar~
+The stones feel oddly solid beneath your feet, strange after walking in
+the fog of Etherium.  Looking about this corner of the bazaar, you see a
+general store to the west, and a very upscale looking weapon shop to the
+south.  
+~
+0 8 0
+D0
+~
+~
+0 0 21329
+D1
+~
+~
+0 0 21334
+D2
+~
+~
+0 0 21333
+D3
+~
+~
+0 0 21332
+S
+#21332
+General Jim's General Goods~
+This shop is very rigidly organized and regemented, assumably due to the
+apparent military background of its owner.  An assortment of basic goods lie
+here, most of which look like military surplus.  A case behind the counter
+displays several medals, given by an army you've never heard of.  
+~
+0 8 0
+D1
+~
+~
+0 0 21331
+S
+#21333
+The Sharper Blades Weapon Shop~
+This seems to be a very upscale shop.  The latest designs from the
+largest cities of the material realm decorate every wall, complete with
+inflated price tags.  While the gear is quality, this isn't the cheapest
+shop in the bazaar.  
+~
+0 8 0
+D0
+~
+~
+0 0 21331
+S
+#21334
+The Southern Material Bazaar~
+A variety of peculiar smells are prominent in this area, drifting lazily
+from the shop to the south.  The sign above its door says it is an herbal
+apothecary.  Glancing about, you notice people near the shop sitting in some
+kind of daze, slight grins on their faces and a glaze in their eyes.  To the
+north, you see the signpost marking the center of the bazaar.  
+~
+0 8 0
+D0
+~
+~
+0 0 21326
+D1
+~
+~
+0 0 21336
+D2
+~
+~
+0 0 21335
+D3
+~
+~
+0 0 21331
+S
+#21335
+Jason's Herbal Apothecary~
+Strange and exotic fragances fill this shop, which is overgrown in
+peculiar plantlife.  From flowers to weeds, a virtual forest of potted
+plants dominate the room, almost obscuring the counter at the far end.  
+~
+0 8 0
+D0
+~
+~
+0 0 21334
+S
+#21336
+The Southeastern Material Bazaar~
+A strange duality is in this area, as you hear the sounds of a smith
+forging metal coming from the eastern shop, and the delicious smell of
+material food is wafting from the south.  You can see the entrance to the
+bazaar a little away to the north.  
+~
+0 8 0
+D0
+~
+~
+0 0 21319
+D1
+~
+~
+0 0 21337
+D2
+~
+~
+0 0 21338
+D3
+~
+~
+0 0 21334
+S
+#21337
+Axis Arms and Armor~
+Works of weaponry and protective armors both lay scattered about the
+shop.  A large variety of equipment is on display, ranging from daggers to
+full suits of armor.  You can see what looks like a smithy in the back of
+the shop, making it seem this gear is produced locally.  
+~
+0 8 0
+D3
+~
+~
+0 0 21336
+S
+#21338
+Material Food~
+The delicious smells of material cuisine fill your nostrils as you step
+into this place.  It seems a variety of dishes are prepared here, designed
+to appeal to most of the denizens of the material realm.  
+~
+0 8 0
+D0
+~
+~
+0 0 21336
+S
+#21339
+The Interdimensional Pet Shop~
+A smell you cannot describe assaults your senses as you step into this
+shop.  With a peculiar sinking sensation, you realize this shop is not
+material, as it appeared from without, but ethereal.  Standing on the purple
+fog once again, you see an ethereal behind the counter.  Somehow, you get
+the feeling it is impatient with you to buy something.  The "shelves" are
+filled with what you can only imagine are the kinds of things needed to care
+for interdimensional beasts.  With some hesitation, you wonder just what
+kind of animals are in the back room.  
+~
+0 4104 0
+D1
+~
+~
+0 0 21325
+S
+#21340
+Pet Shop Critters~
+
+~
+0 524300 0
+S
+#21341
+The Mating Pools~
+This is a large, open area of the fog.  Floating in the fog here are more
+then just ethereals, there are patches of a strange, deep purple light.  As
+you watch, pairs of ethereals enter these pools of light.  Once inside, you
+see them shifting their "bodies", and linking together.  As they do, a new,
+smaller ethereal seems to grow between them.  This must be how they
+reproduce.  
+~
+0 12 0
+D3
+~
+~
+0 0 21308
+S
+#21342
+Before the Temple~
+You stand before a grand material structure.  Although it is definitely
+built from a material substance, you don't recognize it.  It is a strange,
+silvery blue, smooth structure.  It stretches high into the fog, out of
+sight.  To the north a little ways, there is what looks like an entrance to
+the structure, but it is blocked by a twisting patch of the fog.  It doesn't
+look like there's any way through.  
+~
+0 8 0
+D2
+~
+~
+4 0 21310
+S
+#21343
+The Fog Bridge~
+You are standing on what seems to be a bridge made of purple fog.  To the
+east and west are sections of the ethereal city.  The fog's barriers seem
+far away from you here, as though you were in an open field.  Below you can
+see the fog swirl and flow, like a strange and beautiful sea.  
+~
+0 12 0
+D1
+~
+~
+0 0 21344
+D3
+~
+~
+0 0 21309
+S
+#21344
+Ethereal Housing~
+You appear to be in the ethereal equivalent of a residential district. 
+Small, enclosed areas of the fog are floating here and there, tethered
+loosely to the barely solid ground by thin strands of fog.  The road
+continues east.  
+~
+0 8 0
+D0
+~
+~
+0 0 21346
+D1
+~
+~
+0 0 21348
+D2
+~
+~
+0 0 21347
+D3
+~
+~
+0 0 21343
+D4
+~
+~
+0 0 21345
+S
+#21345
+An Ethereal Home~
+This place is what an ethereal calls home.  It is little more than a
+small enclosure, with nothing in the way of posessions or even furniture. 
+Space is tight, but you feel oddly comfortable here.  
+~
+0 8 0
+D5
+~
+~
+0 0 21344
+S
+#21346
+An Ethereal Home~
+This place is what an ethereal calls home.  It is little more than a
+small enclosure, with nothing in the way of posessions or even furniture. 
+Space is tight, but you feel oddly comfortable here.  
+~
+0 8 0
+D2
+~
+~
+0 0 21344
+S
+#21347
+An Ethereal Home~
+This place is what an ethereal calls home.  It is little more than a
+small enclosure, with nothing in the way of posessions or even furniture. 
+Space is tight, but you feel oddly comfortable here.  
+~
+0 8 0
+D0
+~
+~
+0 0 21344
+S
+#21348
+Ethereal Housing~
+You are in the midst of the ethereal equivalent of a residential
+district.  Small, enclosed areas of the fog are floating here and there,
+tethered loosely to the barely solid ground by thin strands of fog.  There
+seem to be more houses floating east, but a barrier of the fog prevents you
+from going any further that way.  It seems only the ethereals can pass
+through it.  
+~
+0 8 0
+D0
+~
+~
+0 0 21349
+D1
+~
+~
+0 0 21352
+D2
+~
+~
+0 0 21351
+D3
+~
+~
+0 0 21344
+D4
+~
+~
+0 0 21350
+S
+#21349
+An Ethereal Home~
+This place is what an ethereal calls home.  It is little more than a
+small enclosure, with nothing in the way of posessions or even furniture. 
+Space is tight, but you feel oddly comfortable here.  
+~
+0 8 0
+D2
+~
+~
+0 0 21348
+S
+#21350
+An Ethereal Home~
+This place is what an ethereal calls home.  It is little more than a
+small enclosure, with nothing in the way of posessions or even furniture. 
+Space is tight, but you feel oddly comfortable here.  
+~
+0 8 0
+D5
+~
+~
+0 0 21348
+S
+#21351
+An Ethereal Home~
+This place is what an ethereal calls home.  It is little more than a
+small enclosure, with nothing in the way of possessions or even furniture. 
+Space is tight, but you feel oddly comfortable here.  
+~
+0 8 0
+D0
+~
+~
+0 0 21348
+S
+#21352
+Before Chaos~
+You stand at the edge of a fold in this peculiar reality.  The path ends
+abruptly here, leading out into empty space.  Far below, you can see a
+tumultous, churning field of the purple fog, much more active than the fog
+in the city.  To the west is a section of ethereal "homes".  All around you,
+detatched and floating loose in space are other collections of these homes,
+but they are beyond your reach.  It seems only the ethereals can traverse
+the space between you and them.  
+~
+0 8 0
+D3
+~
+~
+0 0 21348
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 21310 0 2
+D 0 21342 2 2
+M 0 21301 10 21305 3
+M 0 21301 10 21306 2
+M 0 21301 10 21307 2
+M 0 21301 10 21308 2
+M 0 21301 10 21309 1
+M 0 21301 2 21310 1
+M 0 21302 1 21310 1
+M 0 21303 1 21317 1
+M 0 21304 3 21317 3
+M 0 21305 1 21318 1
+M 0 21309 15 21319 2
+M 0 21322 5 21319 1
+M 0 21309 15 21320 2
+M 0 21323 2 21320 1
+M 0 21311 1 21321 1
+M 0 21318 1 21322 1
+M 0 21309 15 21323 2
+M 0 21322 5 21323 1
+M 0 21312 1 21324 1
+M 0 21309 15 21325 2
+M 0 21323 2 21325 1
+M 0 21309 15 21326 2
+M 0 21317 1 21326 1
+M 0 21313 1 21327 1
+M 0 21309 15 21329 2
+M 0 21322 5 21329 1
+M 0 21314 1 21330 1
+M 0 21319 1 21331 1
+M 0 21309 15 21331 2
+M 0 21315 1 21332 1
+M 0 21310 1 21333 1
+M 0 21309 15 21334 2
+M 0 21308 1 21335 1
+M 0 21309 15 21336 2
+M 0 21322 5 21336 1
+M 0 21306 1 21337 1
+M 0 21307 1 21338 1
+M 0 21316 1 21339 1
+M 0 21324 1 21340 1
+M 0 21325 1 21340 1
+M 0 21326 1 21340 1
+M 0 21327 1 21340 1
+M 0 21320 2 21341 1
+M 0 21321 2 21341 1
+M 0 21328 4 21345 1
+M 0 21328 4 21346 1
+M 0 21328 4 21349 1
+M 0 21328 4 21351 1
+S
+
+
+
+#SHOPS
+21306 0 5 9 0 0 100 50 0 23
+21307 19 0 0 0 0 100 50 0 23
+21308 10 26 0 0 0 100 50 0 23
+21310 5 0 0 0 0 100 50 0 23
+21311 26 10 0 0 0 100 50 0 23
+21312 2 3 4 26 0 100 50 0 23
+21313 9 0 0 0 0 100 50 0 23
+21314 9 0 0 0 0 100 50 0 23
+21315 1 15 5 12 0 100 50 0 23
+21317 5 9 1 15 32 100 50 0 23
+21318 5 0 0 0 0 100 50 0 23
+0
+
+
+
+#$

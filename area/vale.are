@@ -1,0 +1,5994 @@
+#AREADATA
+Name WhisperWood~
+Builders Fluffy Halodar~
+VNUMs 20001 20253
+Credits {115 180} Genjuro     The Lost Vale~
+Security 9
+Version 1
+End
+
+
+
+#MOBILES
+#20001
+thief sorrow~
+A thief of sorrow~
+A thief sneaks about here.
+~
+This thief carries an oddly sad expression upon his face.
+~
+unique~
+ABCDEFGHS ABCDEFGPQV -50 0
+115 1 1d1+294 1d1+149 3d5+8 slap
+-5 -5 -5 0
+ABCDEFGHIJKNU ABC ABC ABCZ
+stand stand either 2
+ABCHMV ABCDEFGHIJK medium 0
+#20002
+jester~
+A jester~
+A jester stands here, grinning at nothing in particular.
+~
+This jester is a fool.  He is wearing an outfit that seems like it was 
+made by a colorblind tailor.  His fool's cap is cocked to the side, about 
+to fall off.
+~
+unique~
+ABCDEFGT ABCDEFGV -50 0
+110 1 1d1+149 1d1+74 2d5+5 slap
+-5 -5 -5 0
+ABCDEFGHIU ABC ABC ABC
+stand stand none 1
+ABCHMV ABCDEFGHIJK medium 0
+#20003
+jester shopkeeper~
+The jester shopkeeper~
+A jester shopkeeper is here.
+~
+This jester seems to perhaps be selling things.  What he might sell, you 
+are not sure if you wish to know.
+~
+unique~
+ABCDEFGT ABCDEFGNV 0 0
+300 10 1d1+849 1d1+299 12d4+20 slap
+-10 -10 -10 -10
+ABCDEFGHIJKNOTU ABCDEJK ABC ABCY
+stand stand male 100000
+ABCHMV ABCDEFGHIJK medium 0
+#20004
+fool~
+The fool~
+A fool is giggling here for no apparant reason.
+~
+This fool is drooling all over himself.  You inch away carefully.
+~
+unique~
+ABCDEFGT ABCDEFGNV -5 0
+115 1 1d1+259 1d1+149 3d5+8 slap
+-7 -7 -7 0
+ABCDEFGHIKNU ABC ABC ABC
+stand stand none 1
+ABCHMV ABCDEFGHIJK medium 0
+#20005
+king jester~
+The Jester King~
+The Jestor King is here.
+~
+The Jester King is most likely crazier than all the others.  However, 
+this joker also seems bigger and stronger than the others.  Perhaps this 
+is why he is the king.
+~
+unique~
+ABCDEFGT ABCDEFGHVZb 0 0
+140 40 1d1+4114 1d1+409 5d8+20 pierce
+-10 -10 -10 -10
+ABCDEFGHIJKNO ABCH ABCDEJK ABC
+stand stand male 5
+ABCHMV ABCDEFGHIJK medium 0
+#20006
+prankster~
+The prankster~
+A prankster is here, trying to pinch you.
+~
+This prankster pinches you as you look at him, then screams once and 
+falls down giggling.  What a weirdo.
+~
+unique~
+ABCDEFGT ABCDEFGNV -5 0
+120 1 1d1+309 1d1+159 4d5+10 slap
+-3 -3 -3 -3
+ABCDEFGHIKNU ABC ABC ABC
+stand stand none 1
+ABCHMV ABCDEFGHIJK medium 0
+#20007
+man serious~
+The Court's Jester~
+A serious man gloomily ponders here.
+~
+This man is the only sane and serious resident of Jester's Court.  
+Perhaps this is why he is considered the REAL jester to the citizens 
+here.  All the loonies in this town consider hiim crazy.  Seeing him 
+reminds you of the age old adage..if everyone is NOT really crazy while 
+you are sane, then perhaps it is YOU that is crazy while everyone else is 
+sane!  You shiver.
+~
+unique~
+ABCDEFGT ABCDEFGHNV 50 0
+130 5 1d1+1209 1d1+249 5d4+20 slap
+-10 -10 -10 -10
+ABCDEFGHIKNU ABC ABC ABC
+stand stand male 2
+ABCHMV ABCDEFGHIJK medium 0
+#20008
+cult member man~
+a cult member~
+A cult member is here, chanting Thulsa Doom's name.
+~
+Another dupe, bent to perform Thulsa Doom's whim.
+~
+unique~
+ABCDEFGT ABCDEFGV 0 0
+120 1 1d1+213 1d1+103 4d5+10 slap
+-5 -5 -5 0
+ABCDEFGHIJKN ABC ABC ABC
+stand stand male 0
+ABCHMV ABCDEFGHIJK medium 0
+#20009
+python large~
+a large python~
+A large python is coiled about here.
+~
+This python is a large serpent, coiled upon the floor here, basking in 
+the warm of the fires.  It is a beautiful mottled green and blue and its 
+soft scales glisten in the light.
+~
+unique~
+ABCDEFGT ABCDEFGV 0 0
+117 1 1d1+249 1d1+110 4d5+9 crush
+-5 -5 -5 0
+ABCDEFGHMNOU ABC ABC ABC
+stand stand none 0
+ABCHMV ABCDEFGHIJK medium 0
+#20010
+guard elite set~
+An Elite guard of Set~
+An Elite Guard of Set stands at alert here.
+~
+The best of the guard of Set form the troop known as the Elite Guards of 
+Set.  This man is a large, strong guard, flexing his muscles and sporting 
+a gleam in his eyes.  
+~
+unique~
+ABCDEFGT ABCDEFGVb 0 0
+130 5 1d1+1199 1d1+104 5d6+10 pound
+-10 -10 -10 -10
+ABCDEFGHINU ABC ABC ABC
+stand stand male 0
+ABCHMV ABCDEFGHIJK medium 0
+#20011
+old man yen chi chia~
+Yen Chi Chia~
+A tough old Chinese man walks about here.
+~
+Yen Chi Chia is an honorable secretary judge in this province.  He is 
+also a noted Taoist monk that doubles as a ghost hunter.  He sniffs the 
+air, scenting for ghosts and then draws his sword and squints cautiously 
+at you.  Perhaps you should have taken a bath.
+~
+unique~
+ABCDEFGT ABCDEFGHNVb 0 0
+160 270 7000d1+10 1d1+6999 6d20+40 wrath
+-200 -200 -200 -200
+ABCDEFGHIJKNOU ABCH ABCDHK ABC
+stand stand male 0
+ABCHMV ABCDEFGHIJK medium 0
+#20012
+man tax collector ning tsai shen~
+Ning Tsai Shen~
+An honest but poor tax collector wanders about here.
+~
+This young man backs away from you carefully.  His innocent eyes blink 
+frightenedly and he stumbles backwardly from you, managing not to fall 
+down by some great feat of balance.
+~
+unique~
+ABCDEFGT ABCDEFGHNVb 750 0
+140 50 1d1+4149 1d1+497 5d7+20 pierce
+-20 -20 -20 -13
+ABCDEFGHIJKNO ABC ABCD ABC
+stand stand male 0
+ABCHMV ABCDEFGHIJK medium 0
+#20013
+girl ghost nieh hsiao tsing~
+Katiyana~
+A beautiful girl sings a hauntingly forlorn tune here.
+~
+With her long black hair and large soulful eyes, this girl is perhaps the 
+most beautiful woman you have ever laid eyes upon.  She stands tall 
+before you, then leans forward slightly, smiling sweetly at you.  Too bad 
+she's dead.
+~
+unique~
+ABCDEFGOT ABCDEFGHNVb 750 0
+155 50 9000d1+10 1d1+699 5d12+30 divine
+-200 -200 -200 -200
+ABCDEFGHIJKNO ABCH ABCD ABC
+stand stand female 0
+ABCHMV ABCDEFGHIJK medium 0
+#20014
+ghost girl~
+An Evil Ghost~
+An attractive, seductive girl floats about here.
+~
+This girl is incredibly attractive and sensuous.  She leans forward and 
+caresses your face before asking you if you wih to dally with her.  She 
+giggles slightly, seductive in her smile, and then reveals her true form, 
+turning into a horrible, blood hungry ghost!
+~
+unique~
+ABCDEFGOT ABCDEFGNVb -750 0
+135 10 1d1+1349 1d1+249 5d6+15 divine
+-10 -10 -10 -10
+ABCDEFGHIJKNO ABC ABCD ABC
+stand stand female 0
+ABCHMV ABCDEFGHIJK medium 0
+#20015
+ghoul blood thirsty~
+A blood thirsty ghoul~
+A ghoul wails here, thirsty for blood.
+~
+This ghoul lurks about, waiting for mortals to fall into its trap.
+~
+unique~
+ABCDEFGOT ABCDEFGNVb -750 0
+135 15 1d1+1599 1d1+399 5d7+16 acbite
+-15 -15 -15 -10
+ABCDEFGHIJKNO ABC ABCD ABC
+stand stand none 0
+ABCHMV ABCDEFGHIJK medium 0
+#20016
+demon tree~
+The Evil Tree Demon~
+The evil tree demon screams and attacks you!
+~
+This tree demon is half male and half female.  It is rumoured to be a 
+thousand years old.  It has probably lived to reach this age by its 
+careful diet of blood of mortals.  Oops.  You happen to be the next meal.
+~
+unique~
+ABCDEFGOT ABCDEFGHNVb -750 0
+171 170 1d1+15999 1d1+31073 5d15+45 divine
+-200 -200 -200 -200
+ABCDEFGHIJKNO ABC ABCDH ABC
+stand stand none 0
+ABCHMV ABCDEFGHIJK large 0
+#20017
+python small~
+a small python~
+A small python is curled about here.
+~
+There is a small python here.  It coils about your feet, twisting its 
+elongated reddish blue body about as if scratching itself.
+~
+unique~
+ABCDEFGT ABCDEFGV 0 0
+117 1 1d1+249 1d1+110 3d5+9 crush
+-5 -5 -5 0
+ABCDEFGHMNOU ABC ABC ABC
+stand stand none 0
+ABCHMV ABCDEFGHIJK medium 0
+#20018
+cult member girl~
+a cult member girl~
+A pretty, scantily clad girl is sitting here.
+~
+An attractive girl, duped by Thulsa Doom's words, is here.  She is 
+dressed in a few small revealing garment, and engaging in an orgy with 
+the other cult members.
+~
+unique~
+ABCDEFGT ABCDEFGV 0 0
+120 2 1d1+413 1d1+103 4d5+10 slap
+-5 -5 -5 0
+ABCDEFGHIJKN ABC ABC ABC
+stand stand female 0
+ABCHMV ABCDEFGHIJK medium 0
+#20019
+guard set~
+A Guard of Set~
+A Guard of Set stands here.
+~
+The guards of Set are the most devout of the worshippers of Thulsa Doom.  
+They have been trained in the deadly arts of combat, and have no 
+compassion in them to grant mercy.
+~
+unique~
+ABCDEFGT ABCDEFGVb 0 0
+125 3 1d1+599 1d1+104 4d6+13 pound
+-6 -6 -6 0
+ABCDEFGHIJKNU ABC ABC ABC
+stand stand male 0
+ABCHMV ABCDEFGHIJK medium 0
+#20020
+Thulsa Doom~
+Thulsa Doom~
+Thulsa Doom is meditating here, slowly turning into a huge snake.
+~
+Thulsa Doom, rumoured to have lived 1000 years, is now a priest of Set.  
+He once wandered the world, searching for steel, trying to answer the 
+Riddle of Steel.  Now he believes that flesh is stronger than steel, and 
+has formed an army of fanatics to purge the world of unbelievers.
+~
+unique~
+ABCDEFGT ABCDEFGHVb -750 0
+150 50 5000d1+50 1d1+699 5d19+35 crush
+-30 -30 -30 -30
+ABCDEFGHIJKNO ABC ABCDH ABC
+stand stand male 0
+ABCHMV ABCDEFGHIJK medium 0
+#20021
+barbarian conan~
+Conan~
+A mighty Cimmerian barbarian is here, stalking Thulsa Doom.
+~
+Conan the Cimmerian barbarian is a well muscled man, seeking vengeance 
+upon Thulsa Doom, who killed his people when Conan was but a mere boy.  
+With Conan's father's own sword, Thulsa Doom struck the head off Conan's 
+mother while Conan still held her hand.  He has vowed revenge, and is 
+here, looking for Thulsa Doom.
+~
+unique~
+ABCDEFGT ABCDEFGHVb 50 0
+135 40 2800d1+100 1d1+599 5d8+25 crush
+-150 -150 -150 -150
+ABCDEFGHIJKNO ABC ABCDH ABC
+stand stand male 0
+ABCHMV ABCDEFGHIJK large 0
+#20022
+princess~
+the princess~
+The brainwashed princess is lying upon silk pillows here.
+~
+The daughter of King Osric, the princess is an attractive young woman who 
+follows Thulsa Doom with adoring eyes.
+~
+unique~
+ABCDEFGT ABCDEFGVb 20 0
+130 10 1d1+1099 1d1+299 5d6+15 crush
+-10 -10 -10 -10
+ABCDEFGHIJKNO ABC ABCD ABC
+stand stand female 0
+ABCHMV ABCDEFGHIJK medium 0
+#20023
+man blue adept stile~
+Stile the Blue Adept~
+A short man dresed in blue garments is here.
+~
+Stile, formerly of Planet Proton, wandered across the magic curtain and 
+became Phaze's new Blue Adept.  With the power of rhyme, bolstered by 
+music, his magic is most powerful in this realm.  He is a good man, but 
+also a dangerous foe.
+~
+unique~
+ABCDEFGT ABCDEFGHNVb 750 0
+160 175 6999d1+1 9999d1+1 5d20+35 divine
+-200 -200 -200 -200
+ABCDEFGHIJKN ABCH ABCD ABC
+stand stand male 0
+ABCHMV ABCDEFGHIJK medium 0
+#20024
+lady blue~
+Lady Blue~
+A graceful and attractive woman is here, healing animals.
+~
+The Lady Blue, once resistant toward the new Blue Adept, now embraces him
+and loves him with her oath of true love.  Thee Thee Thee..  
+~
+unique~
+ABCDEFGT ABCDEFGHNVb 750 0
+149 150 5000d1+50 3000d1+50 5d15+24 wrath
+-200 -200 -200 -200
+ABCDEFGHIJKN ABCH ABCD ABC
+stand stand female 0
+ABCHMV ABCDEFGHIJK medium 0
+#20025
+unicorn stallion leader~
+The Unicorn Stallion Leader~
+A powerful black unicorn stallion grazes here.
+~
+The most powerful and strongest of the unicorns stands here.
+~
+unique~
+ABCDEFGT ABCDEFGHNVb 750 0
+160 150 6000d1+10 1d1+5999 5d15+39 wrath
+-300 -300 -300 -300
+ABCDEFGHIJKMN ABCH ABC ABC
+stand stand male 0
+ABC ABC large 0
+#20026
+neysa unicorn~
+Neysa~
+A small horse colored unicorn grazes here.
+~
+Neysa became Stile's first friend when he attempted to break her and 
+ended up winning only her heart.  With her quick temper and loving heart, 
+she fast captures the respect of all in the land and has also become oath 
+friend with all unicorns and werewolves alike.
+~
+unique~
+ABCDEFGT ABCDEFGHNVb 750 0
+149 45 1d1+5989 1d1+2989 5d10+30 stab
+-300 -300 -300 -300
+ABCDEFGHIJKMN ABC ABCD ABC
+stand stand female 0
+ABCHMV ABCDEFGHIJK medium 0
+#20027
+clip unicorn~
+Clip~
+A unicorn plays its horn here, sounding like a saxophone.
+~
+Clip is Neysa's brother and a friend of the Blue Adept.
+~
+unique~
+ABCDEFGT ABCDEFGHNVb 750 0
+148 50 5000d1+10 1d1+1989 5d15+25 stab
+-200 -200 -200 -400
+ABCDEFGHIJKMN ABC ABCD ABC
+stand stand male 0
+ABCHMV ABCDEFGHIJK medium 0
+#20028
+unicorn~
+a unicorn~
+A unicorn grazes here.
+~
+This equine is a beautiful specimen of its kind.  Almost like a horse, 
+with the most noticeable difference being the elegant long white horn 
+that graces its magnificent spirited head, the unicorn is also built to 
+achieve a faster speed and higher endurance than a regular horse.
+~
+unique~
+ABCDEFGT ABCDEFGNVb 0 0
+130 5 1d1+1099 1d1+299 5d6+15 stab
+-10 -10 -10 -20
+ABCDEFGHIJKMNOU ABC ABCD ABC
+stand stand none 0
+ABCHMV ABCDEFGHIJK medium 0
+#20029
+werewolf kurrelgyre~
+Kurrelgyre~
+A reddish werewolf bares its fangs and growls at you.
+~
+Kurrelgyre is an oathfriend of Neysa and the leader of the pack of 
+werewolves that wanders about here.  He first met and befriended the Blue 
+Adept at the Oracle, and has remaine a faithful servant and friend of his 
+since then.
+~
+unique~
+ABCDEFGT ABCDEFGHVb 750 0
+140 40 1d1+4109 1d1+495 4d9+20 bite
+-20 -20 -20 -18
+ABCDEFGHIJKMNO ABC ABC ABC
+stand stand male 0
+ABCHMV ABCDEFGHIJK medium 0
+#20030
+werewolf~
+a werewolf~
+A werewolf roams about here.
+~
+This werewolf appears to simply be no more than a wolf.  However, these 
+creatures can morph into human form quite easily.  With its razor sharp 
+claws and ferocious teeth, perhaps the wolf form is more efficient that 
+its human form.
+~
+unique~
+ABCDEFGT ABCDEFGN 0 0
+120 2 1d1+399 1d1+199 4d5+10 bite
+-15 -15 -15 -10
+ABCDEFGHIJKMNOU ABC ABC ABC
+stand stand none 0
+ABCHMV ABCDEFGHIJK medium 0
+#20031
+man musician clef~
+Clef~
+A musician plays the flute here, making the mountains tremble.
+~
+Clef, a friend of Stile, has come to Phaze to assume the role of the 
+Preordained, who is chosen to signal the end of Phaze.  He also can play 
+a mean flute.
+~
+unique~
+ABCDEFGT ABCDEFGN 0 0
+135 50 1d1+1589 1d1+249 5d6+15 punch
+-100 -100 -100 -100
+ABCDEFGHIJKNO ABCH ABCD ABC
+stand stand male 0
+ABCHMV ABCDEFGHIJK medium 0
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#20001
+Entrance to the Lost Vale~
+This is the Lost Vale.  There are strange, dark oaks that seem to be
+keeping watch.  An eerie purplish blue mist floats around the ground,
+obscuring any traces of tracks and clues to what has been here before.  
+~
+0 0 2
+D1
+A wooden glen lies to the east.
+~
+~
+0 -1 20002
+D2
+~
+~
+0 0 796
+S
+#20002
+The Lost Vale~
+This vale is heavily wooded with strange, dark oaks that seem to rustle
+and whisper to each other.  An eerie purplish blue mist floats around the
+ground, obscruing any traces of tracks and clues to what has been here
+before.  
+~
+0 8193 2
+D1
+~
+~
+0 -1 20003
+D3
+entrance to the vale
+~
+~
+0 -1 20001
+S
+#20003
+The Lost Vale~
+This vale is heavily wooded with strange, dark oaks that seem to rustle
+and whisper to each other.  An eerie purplish blue mist floats around the
+ground, obscuring any traces of tracks and clues to what has been here
+before.  
+~
+0 8193 2
+D0
+~
+~
+0 -1 20012
+D1
+~
+~
+0 -1 20004
+D3
+~
+~
+0 -1 20002
+S
+#20004
+The Lost Vale~
+This vale is heavily wooded with strange, dark oaks that seem to rustle
+and whisper to each other.  An eerie purplish blue mist floats around the
+ground, obscuring any traces of tracks and clues to what has been here
+before.  
+~
+0 8193 2
+D0
+~
+~
+0 -1 20005
+D1
+~
+~
+0 -1 20003
+D2
+~
+~
+0 -1 20012
+D3
+~
+~
+0 -1 20003
+S
+#20005
+The Lost Vale~
+This vale is heavily wooded with strange, dark oaks that seem to rustle
+and whisper to each other.  An eerie purplish blue mist floats around the
+ground, obscuring any traces of tracks and clues to what has been here
+before.  
+~
+0 8193 2
+D0
+~
+~
+0 -1 20006
+D1
+~
+~
+0 -1 20003
+D2
+~
+~
+0 -1 20013
+D3
+~
+~
+0 -1 20010
+S
+#20006
+The Lost Vale~
+This vale is heavily wooded with strange, dark oaks that seem to rustle
+and whisper to each other.  An eerie purplish blue mist floats around the
+ground, obscuring any traces of tracks and clues to what has been here
+before.  
+~
+0 8193 2
+D0
+~
+~
+0 -1 20006
+D1
+~
+~
+0 -1 20007
+D2
+~
+~
+0 -1 20003
+D3
+~
+~
+0 -1 20013
+S
+#20007
+The Lost Vale~
+This vale is heavily wooded with strange, dark oaks that seem to rustle
+and whisper to each other.  An eerie purplish blue mist floats around the
+ground, obscuring any traces of tracks and clues to what has been here
+before.  
+~
+0 8193 2
+D0
+the blue path
+~
+~
+0 -1 20196
+D1
+~
+~
+0 -1 20021
+D2
+~
+~
+0 -1 20008
+D3
+~
+~
+0 -1 20013
+S
+#20008
+The Lost Vale~
+This vale is heavily wooded with strange, dark oaks that seem to rustle
+and whisper to each other.  An eerie purplish blue mist floats around the
+ground, obscuring any traces of tracks or clues to what has been here
+before.  
+~
+0 8193 2
+D0
+~
+~
+0 -1 20005
+D1
+~
+~
+0 -1 20009
+D2
+~
+~
+0 -1 20002
+D3
+~
+~
+0 -1 20004
+S
+#20009
+The Lost Vale~
+This vale is heavily wooded with strange, dark oaks that seem to rustle
+and whisper to each other.  An eerie purplish blue mist floats around the
+ground, obscuring any traces of tracks of clues to what has been here
+before.  
+~
+0 8193 2
+D0
+~
+~
+0 -1 20021
+D1
+~
+~
+0 -1 20021
+D2
+~
+~
+0 -1 20010
+D3
+~
+~
+0 -1 20003
+S
+#20010
+The Lost Vale~
+This vale is heavily wooded with strange, dark oaks that seem to rustle
+and whisper to each other.  An eerie purplish blue mist floats around the
+ground, obscuring any traces of tracks or clues to what has been here
+before.  
+~
+0 8193 2
+D0
+~
+~
+0 -1 20009
+D1
+~
+~
+0 -1 20011
+D2
+~
+~
+0 -1 20002
+D3
+~
+~
+0 -1 20022
+S
+#20011
+The Lost Vale~
+This vale is heavily wooded with strange, dark oaks that seem to rustle
+and whisper to each other.  An eerie purplish blue mist floats around the
+ground, obscuring any traces of tracks or clues to what has been here
+before.  
+~
+0 8193 2
+D0
+~
+~
+0 -1 20025
+D1
+~
+~
+0 0 20028
+D2
+~
+~
+0 -1 20026
+D3
+~
+~
+0 -1 20021
+S
+#20012
+The Lost Vale~
+This vale is heavily wooded with strange, dark oaks that seem to rustle
+and whisper to each other.  An eerie purplish blue mist floats around the
+ground, obscuring any traces of tracks and clues to what has been here
+before.  
+~
+0 8193 2
+D0
+~
+~
+0 -1 20013
+D1
+~
+~
+0 -1 20026
+D2
+~
+~
+0 -1 20003
+D3
+~
+~
+0 -1 20012
+S
+#20013
+The Lost Vale~
+This vale is heavily wooded with strange, dark oaks that seem to rustle
+and whisper to each other.  An eerie purplish blue mist floats around the
+ground, obscuring any traces of tracks or clues to what has been here
+before.  
+~
+0 8193 2
+D0
+~
+~
+0 -1 20013
+D1
+~
+~
+0 -1 20006
+D2
+~
+~
+0 -1 20002
+D3
+~
+~
+0 -1 20013
+S
+#20014
+The Lost Vale~
+This vale is heavily wooded with strange, dark oaks that seem to rustle
+and whisper to each other.  An eerie purplish blue mist floats around the
+ground, obscuring any traces of tracks of clues to what has been here
+before.  
+~
+0 8193 2
+D0
+~
+~
+0 -1 20003
+D1
+~
+~
+0 -1 20016
+D2
+~
+~
+0 -1 20015
+D3
+~
+~
+0 -1 20014
+S
+#20015
+The Lost Vale~
+This vale is heavily wooded with strange, dark oaks that seem to rustle
+and whisper to each other.  An eerie purplish blue mist floats around the
+ground, obscuring any traces of tracks or clues to what has been here
+before.  
+~
+0 8193 2
+D0
+~
+~
+0 -1 20014
+D1
+~
+~
+0 -1 20017
+D2
+~
+~
+0 -1 20015
+D3
+~
+~
+0 -1 20015
+S
+#20016
+The Lost Vale~
+This vale is heavily wooded woth strange, dark oaks that seem to rustle
+and whisper to each other.  An eerie purplish blue mist floats around the
+ground, obscuring any traces of tracks or clues to what has been here
+before.  
+~
+0 8193 2
+D0
+~
+~
+0 -1 20009
+D1
+~
+~
+0 -1 20019
+D2
+~
+~
+0 -1 20017
+D3
+~
+~
+0 -1 20014
+S
+#20017
+The Lost Vale~
+This vale is heavily wooded with strange, dark oaks that seem to rustle
+and whisper to each other.  An eerie purplish blue mist floats around the
+ground, obscuring any traces of tracks or clues to what has been here
+before.  
+~
+0 8193 2
+D0
+~
+~
+0 -1 20016
+D1
+~
+~
+0 -1 20020
+D2
+~
+~
+0 -1 20006
+D3
+~
+~
+0 -1 20015
+S
+#20018
+The Lost Vale~
+This vale is heavily wooded with strange, dark oaks that seem to rustle
+and whisper to each other.  An eerie purplish blue mist floats around the
+ground, obscuring any traces of tracks or clues to what has been here
+before.  
+~
+0 8193 2
+D1
+~
+~
+0 -1 20010
+D2
+~
+~
+0 -1 20019
+D3
+~
+~
+0 -1 20004
+S
+#20019
+The Lost Vale~
+This vale is heavily wooded with strange, dark oaks that seem to rustle
+and whisper to each other.  An eerie purplish blue mist floats around the
+ground, obscuring any traces of tracks or clues to what has been here
+before.  
+~
+0 8193 2
+D0
+~
+~
+0 -1 20018
+D1
+~
+~
+0 -1 20022
+D2
+~
+~
+0 -1 20020
+D3
+~
+~
+0 -1 20016
+S
+#20020
+The Lost Vale~
+This vale is heavily wooded with strange, dark oaks that seem to rustle
+and whisper to each other.  An eerie purplish blue mist floats around the
+ground, obscuring any traces of tracks or clues to what has been here
+before.  
+~
+0 8193 2
+D0
+~
+~
+0 -1 20019
+D1
+~
+~
+0 -1 20023
+D2
+the haunted forest
+~
+~
+0 -1 20075
+D3
+~
+~
+0 -1 20017
+S
+#20021
+The Lost Vale~
+This vale is heavily wooded with strange, dark oaks that seem to rustle
+and whisper to each other.  An eerie purplish blue mist floats around the
+ground, obscuring any traces of tracks or clues to what has been here
+before.  
+~
+0 8193 2
+D0
+~
+~
+0 -1 20021
+D1
+~
+~
+0 -1 20024
+D2
+~
+~
+0 -1 20009
+D3
+~
+~
+0 -1 20007
+S
+#20022
+The Lost Vale~
+This vale is heavily wooded with strange, dark oaks that seem to rustle
+and whsiper to each other.  An eerie purplish blue mist floats around the
+ground, obscuring any traces of tracks or clues to what has been here
+before.  
+~
+0 8193 2
+D0
+~
+~
+0 -1 20010
+D1
+~
+~
+0 -1 20026
+D2
+~
+~
+0 -1 20023
+D3
+~
+~
+0 -1 20019
+S
+#20023
+The Lost Vale~
+This vale is heavily wooded with strange, dark oaks that seem to rustle
+and whisper to each other.  An eerie purplish blue mist floats around the
+ground, obscuring any traces of tracks or clues to what has been here
+before.  
+~
+0 8193 2
+D0
+~
+~
+0 -1 20022
+D1
+~
+~
+0 -1 20027
+D2
+~
+~
+0 -1 20023
+D3
+~
+~
+0 -1 20020
+S
+#20024
+The Lost Vale~
+This vale is heavily wooded with strange, dark oaks that seem to rustle
+and whisper to each other.  An eerie purplish blue mist floats around the
+ground, obscuring any traces of tracks of clues to what has been here
+before.  
+~
+0 8193 2
+D0
+the mountain path
+~
+~
+0 -1 20150
+D1
+~
+~
+0 -1 20021
+D2
+~
+~
+0 -1 20025
+D3
+~
+~
+0 -1 20021
+S
+#20025
+The Lost Vale~
+This vale is heavily wooded with strange, dark oaks that seem to rustle
+and whisper to each other.  An eerie purplish blue mist floats around the
+ground, obscuring any traces of tracks or clues to what has been here
+before.  
+~
+0 8193 2
+D0
+~
+~
+0 -1 20024
+D1
+~
+~
+0 -1 20025
+D2
+~
+~
+0 -1 20011
+D3
+~
+~
+0 -1 20009
+S
+#20026
+The Lost Vale~
+This vale is heavily wooded with strange, dark oaks that seem to rustle
+and whisper to each other.  An eerie purplish blue mist floats around the
+ground, obscuring any traces of tracks or clues to what has been here
+before.  
+~
+0 8193 2
+D0
+~
+~
+0 -1 20011
+D1
+~
+~
+0 -1 20026
+D2
+~
+~
+0 -1 20027
+D3
+~
+~
+0 -1 20022
+S
+#20027
+The Lost Vale~
+This vale is heavily wooded with strange, dark oaks that seem to rustle
+and whisper to each other.  An eerie purplish blue mist floats around the
+ground, obscuring any traces of tracks or clues to what has been here
+before.  
+~
+0 8193 2
+D0
+~
+~
+0 -1 20026
+D1
+~
+~
+0 -1 20027
+D2
+~
+~
+0 -1 20075
+D3
+~
+~
+0 -1 20023
+S
+#20028
+Entrance to Jester's Court~
+This is the entrance to Jester's Court.  This fabled city is the city of
+revelry and fun.  The gates to the entrance are decorated with wildy colored
+party streamers and balloons.  This town looks like one giant ball.  
+~
+0 8192 1
+D1
+fool's row
+~
+~
+0 -1 20029
+D3
+~
+~
+0 0 20011
+S
+#20029
+Fool's Row~
+This is Fool's Row, the main road in the city of Jester's Court.  The
+road travels east and west, and a few shops can be found to the north and
+south sides of the road.  This city seems rather insane.  There are jesters
+and fools lounging about, juggling balls and knifes, and playing tricks on
+each other.  
+~
+0 8192 1
+D1
+fool's row
+~
+~
+0 -1 20030
+D3
+fool's row
+~
+~
+0 -1 20028
+S
+#20030
+Fool's Row~
+This is Fool's Row, the main road in the city of Jester's Court.  The
+road travels east and west, and a few shops can be found to the north and
+south sides of the road.  This city seems rather insane.  There are jesters
+and fools lounging about, juggling balls and knifes, and playing tricks on
+each other.  
+~
+0 8192 1
+D1
+fool's row
+~
+~
+0 -1 20031
+D3
+fool's row
+~
+~
+0 -1 20029
+S
+#20031
+Fool's Row~
+This is Fool's Row, the main road in the city of Jester's Court.  The
+road travels east and west, and a few shops can be found to the north and
+south sides of the road.  This city seems rather insane.  There are jesters
+and fools lounging about, juggling balls and knifes, and playing tricks on
+each other.  
+~
+0 8192 1
+D0
+a shop
+~
+~
+0 -1 20059
+D1
+fool's row
+~
+~
+0 -1 20032
+D2
+a shop
+~
+~
+0 -1 20063
+D3
+fool's row
+~
+~
+0 -1 20030
+S
+#20032
+Fool's Row~
+This is Fool's Row, the main road in the city of Jester's Court.  The
+road travels east and west, and a few shops can be found to the north and
+south sides of the road.  This city seems rather insane.  There are jesters
+and fools lounging about, juggling balls and knifes, and playing tricks on
+each other.  
+~
+0 8192 1
+D1
+fool's row
+~
+~
+0 -1 20033
+D3
+fool's row
+~
+~
+0 -1 20031
+S
+#20033
+Fool's Row~
+This is Fool's Row, the main road in the city of Jester's Court.  The
+road travels east and west, and a few shops can be found to the north and
+south sides of the road.  This city seems rather insane.  There are jesters
+and fools lounging about, juggling balls and knifes, and playing tricks on
+each other.  
+~
+0 8192 1
+D0
+a shop
+~
+~
+0 -1 20060
+D1
+fool's row
+~
+~
+0 -1 20034
+D2
+a shop
+~
+~
+0 -1 20064
+D3
+fool's row
+~
+~
+0 -1 20032
+S
+#20034
+Fool's Row~
+This is Fool's Row, the main road in the city of Jester's Court.  The
+road travels east and west, and a few shops can be found to the north and
+south sides of the road.  This city seems rather insane.  There are jesters
+and fools lounging about, juggling balls and knifes, and playing tricks on
+each other.  
+~
+0 8192 1
+D1
+fool's row
+~
+~
+0 -1 20035
+D3
+fool's row
+~
+~
+0 -1 20033
+S
+#20035
+Fool's Row~
+This is Fool's Row, the main road in the city of Jester's Court.  The
+road travels east and west, and a few shops can be found to the north and
+south sides of the road.  This city seems rather insane.  There are jesters
+and fools lounging about, juggling balls and knifes, and playing tricks on
+each other.  
+~
+0 8192 1
+D0
+a shop
+~
+~
+0 -1 20061
+D1
+fool's row
+~
+~
+0 -1 20036
+D2
+a shop
+~
+~
+0 -1 20065
+D3
+fool's row
+~
+~
+0 -1 20034
+S
+#20036
+Fool's Row~
+This is Fool's Row, the main road in the city of Jester's Court.  The
+road travels east and west, and a few shops can be found to the north and
+south sides of the road.  This city seems rather insane.  There are jesters
+and fools lounging about, juggling balls and knifes, and playing tricks on
+each other.  
+~
+0 8192 1
+D1
+fool's row
+~
+~
+0 -1 20037
+D3
+fool's row
+~
+~
+0 -1 20035
+S
+#20037
+Fool's Row~
+This is Fool's Row, the main road in the city of Jester's Court.  The
+road travels east and west, and a few shops can be found to the north and
+south sides of the road.  This city seems rather insane.  There are jesters
+and fools lounging about, juggling balls and knifes, and playing tricks on
+each other.  
+~
+0 8192 1
+D0
+~
+~
+0 0 20062
+D1
+fool's row
+~
+~
+0 -1 20038
+D2
+a shop
+~
+~
+0 -1 20066
+D3
+fool's row
+~
+~
+0 -1 20036
+S
+#20038
+Fool's Row~
+This is Fool's Row, the main road in the city of Jester's Court.  The
+road travels east and west, and a few shops can be found to the north and
+south sides of the road.  This city seems rather insane.  There are jesters
+and fools lounging about, juggling balls and knifes, and playing tricks on
+each other.  
+~
+0 8192 1
+D1
+the eternal carnival
+~
+~
+0 -1 20039
+D3
+fool's row
+~
+~
+0 -1 20037
+S
+#20039
+The Eternal Carnival~
+This appears to be a crazy carnival.  Crazy rides spin people in high
+velocity rides.  Food vendors line the streets, selling cotton candy,
+candied apples, chocolate bananas, and other carnival foods.  
+~
+0 8192 1
+D0
+the eternal carnival
+~
+~
+0 -1 20043
+D1
+the eternal carnival
+~
+~
+0 -1 20040
+D2
+the eternal carnival
+~
+~
+0 -1 20051
+D3
+fool's row
+~
+~
+0 -1 20038
+S
+#20040
+The Eternal Carnival~
+This appears to be a crazy carnival.  Crazy rides spin people in high
+velocity rides.  Food vendors line the streets, selling cotton candy,
+candied apples, chocolate bananas, and other carnival foods.  
+~
+0 8192 1
+D0
+the eternal carnival
+~
+~
+0 -1 20044
+D1
+the eternal carnival
+~
+~
+0 -1 20041
+D2
+the eternal carnival
+~
+~
+0 -1 20052
+D3
+the eternal carnival
+~
+~
+0 -1 20039
+S
+#20041
+The Eternal Carnival~
+This appears to be a crazy carnival.  Crazy rides spin people in high
+velocity rides.  Food vendors line the streets, selling cotton candy,
+candied apples, chocolate bananas, and other carnival foods.  
+~
+0 8192 1
+D0
+the eternal carnival
+~
+~
+0 -1 20045
+D1
+the eternal carnival
+~
+~
+0 -1 20042
+D2
+the eternal carnival
+~
+~
+0 -1 20053
+D3
+the eternal carnival
+~
+~
+0 -1 20040
+S
+#20042
+The Eternal Carnival~
+This appears to be a crazy carnival.  Crazy rides spin people in high
+velocity rides.  Food vendors line the streets, selling cotton candy,
+candied apples, chocolate bananas, and other carnival foods.  
+~
+0 8192 1
+D0
+the eternal carnival
+~
+~
+0 -1 20046
+D1
+the royal court
+~
+~
+0 -1 20067
+D2
+the eternal carnival
+~
+~
+0 -1 20054
+D3
+the eternal carnival
+~
+~
+0 -1 20041
+S
+#20043
+The Eternal Carnival~
+This appears to be a crazy carnival.  Crazy rides spin people in high
+velocity rides.  Food vendors line the streets, selling cotton candy,
+candied apples, chocolate bananas, and other carnival foods.  
+~
+0 8192 1
+D0
+the eternal carnival
+~
+~
+0 -1 20047
+D1
+the eternal carnival
+~
+~
+0 -1 20044
+D2
+the eternal carnival
+~
+~
+0 -1 20039
+D3
+the eternal carnival
+~
+~
+0 -1 20043
+S
+#20044
+The Eternal Carnival~
+This appears to be a crazy carnival.  Crazy rides spin people in high
+velocity rides.  Food vendors line the streets, selling cotton candy,
+candied apples, chocolate bananas, and other carnival foods.  
+~
+0 8192 1
+D0
+the eternal carnival
+~
+~
+0 -1 20048
+D1
+the eternal carnival
+~
+~
+0 -1 20045
+D2
+the eternal carnival
+~
+~
+0 -1 20040
+D3
+the eternal carnival
+~
+~
+0 -1 20043
+S
+#20045
+The Eternal Carnival~
+This appears to be a crazy carnival.  Crazy rides spin people in high
+velocity rides.  Food vendors line the streets, selling cotton candy,
+candied apples, chocolate bananas, and other carnival foods.  
+~
+0 8192 1
+D0
+the eternal carnival
+~
+~
+0 -1 20049
+D1
+the eternal carnival
+~
+~
+0 -1 20046
+D2
+the eternal carnival
+~
+~
+0 -1 20041
+D3
+the eternal carnival
+~
+~
+0 -1 20044
+S
+#20046
+The Eternal Carnival~
+This appears to be a crazy carnival.  Crazy rides spin people in high
+velocity rides.  Food vendors line the streets, selling cotton candy,
+candied apples, chocolate bananas, and other carnival foods.  
+~
+0 8192 1
+D0
+the eternal carnival
+~
+~
+0 -1 20050
+D1
+the eternal carnival
+~
+~
+0 -1 20046
+D2
+the eternal carnival
+~
+~
+0 -1 20042
+D3
+the eternal carnival
+~
+~
+0 -1 20045
+S
+#20047
+The Eternal Carnival~
+This appears to be a crazy carnival.  Crazy rides spin people in high
+velocity rides.  Food vendors line the streets, selling cotton candy,
+candied apples, chocolate bananas, and other carnival foods.  
+~
+0 8192 1
+D0
+the eternal carnival
+~
+~
+0 -1 20047
+D1
+the eternal carnival
+~
+~
+0 -1 20048
+D2
+the eternal carnival
+~
+~
+0 -1 20043
+D3
+the eternal carnival
+~
+~
+0 -1 20047
+S
+#20048
+The Eternal Carnival~
+This appears to be a crazy carnival.  Crazy rides spin people in high
+velocity rides.  Food vendors line the streets, selling cotton candy,
+candied apples, chocolate bananas, and other carnival foods.  
+~
+0 8192 1
+D0
+the eternal carnival
+~
+~
+0 -1 20048
+D1
+the eternal carnival
+~
+~
+0 -1 20049
+D2
+the eternal carnival
+~
+~
+0 -1 20044
+D3
+the eternal carnival
+~
+~
+0 -1 20047
+S
+#20049
+The Eternal Carnival~
+This appears to be a crazy carnival.  Crazy rides spin people in high
+velocity rides.  Food vendors line the streets, selling cotton candy,
+candied apples, chocolate bananas, and other carnival foods.  
+~
+0 8192 1
+D0
+the eternal carnival
+~
+~
+0 -1 20049
+D1
+the eternal carnival
+~
+~
+0 -1 20050
+D2
+the eternal carnival
+~
+~
+0 -1 20045
+S
+#20050
+The Eternal Carnival~
+This appears to be a crazy carnival.  Crazy rides spin people in high
+velocity rides.  Food vendors line the streets, selling cotton candy,
+candied apples, chocolate bananas, and other carnival foods.  
+~
+0 8192 1
+D0
+the eternal carnival
+~
+~
+0 -1 20050
+D1
+the eternal carnival
+~
+~
+0 -1 20050
+D2
+the eternal carnival
+~
+~
+0 -1 20046
+D3
+the eternal carnival
+~
+~
+0 -1 20049
+S
+#20051
+The Eternal Carnival~
+This appears to be a crazy carnival.  Crazy rides spin people in high
+velocity rides.  Food vendors line the streets, selling cotton candy,
+candied apples, chocolate bananas, and other carnival foods.  
+~
+0 8192 1
+D0
+the eternal carnival
+~
+~
+0 -1 20039
+D1
+the eternal carnival
+~
+~
+0 -1 20052
+D2
+the eternal carnival
+~
+~
+0 -1 20055
+D3
+the eternal carnival
+~
+~
+0 -1 20051
+S
+#20052
+The Eternal Carnival~
+This appears to be a crazy carnival.  Crazy rides spin people in high
+velocity rides.  Food vendors line the streets, selling cotton candy,
+candied apples, chocolate bananas, and other carnival foods.  
+~
+0 8192 1
+D0
+the eternal carnival
+~
+~
+0 -1 20040
+D1
+the eternal carnival
+~
+~
+0 -1 20053
+D2
+the eternal carnival
+~
+~
+0 -1 20056
+D3
+the eternal carnival
+~
+~
+0 -1 20051
+S
+#20053
+The Eternal Carnival~
+This appears to be a crazy carnival.  Crazy rides spin people in high
+velocity rides.  Food vendors line the streets, selling cotton candy,
+candied apples, chocolate bananas, and other carnival foods.  
+~
+0 8192 1
+D0
+the eternal carnival
+~
+~
+0 -1 20041
+D1
+the eternal carnival
+~
+~
+0 -1 20054
+D2
+the eternal carnival
+~
+~
+0 -1 20057
+D3
+the eternal carnival
+~
+~
+0 -1 20052
+S
+#20054
+The Eternal Carnival~
+This appears to be a crazy carnival.  Crazy rides spin people in high
+velocity rides.  Food vendors line the streets, selling cotton candy,
+candied apples, chocolate bananas, and other carnival foods.  
+~
+0 8192 1
+D0
+the eternal carnival
+~
+~
+0 -1 20042
+D1
+the eternal carnival
+~
+~
+0 -1 20054
+D2
+the eternal carnival
+~
+~
+0 -1 20058
+D3
+the eternal carnival
+~
+~
+0 -1 20053
+S
+#20055
+The Eternal Carnival~
+This appears to be a crazy carnival.  Crazy rides spin people in high
+velocity rides.  Food vendors line the streets, selling cotton candy,
+candied apples, chocolate bananas, and other carnival foods.  
+~
+0 8192 1
+D0
+the eternal carnival
+~
+~
+0 -1 20051
+D1
+the eternal carnival
+~
+~
+0 -1 20056
+D2
+the eternal carnival
+~
+~
+0 -1 20055
+D3
+the eternal carnival
+~
+~
+0 -1 20055
+S
+#20056
+The Eternal Carnival~
+This appears to be a crazy carnival.  Crazy rides spin people in high
+velocity rides.  Food vendors line the streets, selling cotton candy,
+candied apples, chocolate bananas, and other carnival foods.  
+~
+0 8192 1
+D0
+the eternal carnival
+~
+~
+0 -1 20052
+D1
+the eternal carnival
+~
+~
+0 -1 20057
+D2
+the eternal carnival
+~
+~
+0 -1 20056
+D3
+the eternal carnival
+~
+~
+0 -1 20055
+S
+#20057
+The Eternal Carnival~
+This appears to be a crazy carnival.  Crazy rides spin people in high
+velocity rides.  Food vendors line the streets, selling cotton candy,
+candied apples, chocolate bananas, and other carnival foods.  
+~
+0 8192 1
+D0
+the eternal carnival
+~
+~
+0 -1 20053
+D1
+the eternal carnival
+~
+~
+0 -1 20058
+D2
+the eternal carnival
+~
+~
+0 -1 20057
+D3
+the eternal carnival
+~
+~
+0 -1 20056
+S
+#20058
+The Eternal Carnival~
+This appears to be a crazy carnival.  Crazy rides spin people in high
+velocity rides.  Food vendors line the streets, selling cotton candy,
+candied apples, chocolate bananas, and other carnival foods.  
+~
+0 8192 1
+D0
+the eternal carnival
+~
+~
+0 -1 20054
+D1
+the eternal carnival
+~
+~
+0 -1 20058
+D2
+the eternal carnival
+~
+~
+0 -1 20058
+D3
+the eternal carnival
+~
+~
+0 -1 20057
+S
+#20059
+The Juggler's Jamborie~
+This shop seems devoted to selling the unusual red balls that the
+citizens here use to juggle.  
+~
+0 0 1
+D2
+fool's row
+~
+~
+0 -1 20031
+S
+#20060
+The Jokester's Prank~
+There is a glass case displaying potions to the side and the shopkeeper
+looks around suspiciously.  
+~
+0 0 1
+D2
+fool's row
+~
+~
+0 -1 20033
+S
+#20061
+Jack's Junk~
+Assorted items clutter the shop and a thick layer of dust seems to be on
+everything.  
+~
+0 0 1
+D2
+fool's row
+~
+~
+0 -1 20035
+S
+#20062
+The Trickster's Trap~
+This is the Trickster's Trap, a large gambling institution.  The room is
+filled with so much smoke its impossible to see.  There are sounds of
+betting and people ordering drinks.  
+~
+0 4 1
+D2
+~
+~
+0 0 20037
+S
+#20063
+The Magician's Gambit~
+This shop is dedicated to selling the tricks of magicians.  There are
+various hankerchiefs on the wall.  There are also canes, suits, cards.  And
+cages of small, tamed birds.  
+~
+0 0 1
+D0
+fool's row
+~
+~
+0 -1 20031
+S
+#20064
+The Tarot Shop~
+This appears to be a tarot card shop.  Cards line the walls and display
+cases.  
+~
+0 0 1
+D0
+fools row
+~
+~
+0 -1 20033
+S
+#20065
+Kamikaze Comix~
+This is a large comic store.  Mountains of comics line the walls and
+tables.  Magic, the Gathering cards and other assorted comic cards are
+displayed on the table, next to the Golden age and Silver age books.  The
+new current issues are lined up upon the north wall.  Back issues are in
+large bins in the center of the room.  
+~
+0 0 1
+D0
+fool's row
+~
+~
+0 -1 20035
+S
+#20066
+The Fool's Folly~
+This is the Fool's Folly.  A delicious smell permeates the room from the
+kitchen in the back.  
+~
+0 0 1
+D0
+fool's row
+~
+~
+0 -1 20037
+S
+#20067
+The Royal Court~
+This is the Royal Court.  Large oil paintings of various royal jesters
+hang upon the walls and multicolored tapestries hang beneath the huge
+stained glass windows.  
+~
+0 0 1
+D1
+the royal court
+~
+~
+0 -1 20068
+D3
+the eternal carnival
+~
+~
+0 -1 20042
+S
+#20068
+The Royal Court~
+This is the Royal Court.  Large oil paintings of various royal jesters
+hang upon the walls and multicolored tapestries hang beneath the huge
+stained glass windows.  
+~
+0 0 1
+D1
+the royal court
+~
+~
+0 -1 20069
+D3
+the royal court
+~
+~
+0 -1 20067
+S
+#20069
+The Royal Court~
+This is the Royal Court.  Large oil paintings of various royal jesters
+hang upon the walls and multicolored tapestries hang beneath the huge
+stained glass windows.  
+~
+0 0 1
+D1
+the royal court
+~
+~
+0 -1 20070
+D3
+the royal court
+~
+~
+0 -1 20068
+S
+#20070
+The Royal Court~
+This is the Royal Court.  Large oil paintings of various royal jesters
+hang upon the walls and multicolored tapestries hang beneath the huge
+stained glass windows.  
+~
+0 0 1
+D0
+the teleporter room
+~
+~
+0 -1 20073
+D1
+the royal court
+~
+~
+0 -1 20071
+D2
+the teleporter room
+~
+~
+0 -1 20074
+D3
+the royal court
+~
+~
+0 -1 20069
+S
+#20071
+The Royal Court~
+This is the Royal Court.  Large oil paintings of various royal jesters
+hang upon the walls and multicolored tapestries hang beneath the huge
+stained glass windows.  
+~
+0 0 1
+D1
+the royal court
+~
+~
+0 -1 20072
+D3
+the royal court
+~
+~
+0 -1 20070
+S
+#20072
+The Royal Court~
+This is the Royal Court.  Large oil paintings of various royal jesters
+hang upon the walls and multicolored tapestries hang beneath the huge
+stained glass windows.  There is a large multicolored throne here.  
+~
+0 0 1
+E
+throne~
+This impressive throne is made of the purest crystal, inset with precious 
+jewels.  It is placed in line with the light of the stained glass windows 
+so that it seems to shine with a light all its own.
+~
+E
+throne~
+This throne has swirls of almost every color imaginable.  
+~
+E
+mult~
+~
+E
+mul~
+~
+D3
+the royal court
+~
+~
+0 -1 20071
+S
+#20073
+The Teleporter Room~
+This is the teleporter room.  A door slides shut so there is only one
+exit now.  
+~
+0 8192 1
+D0
+~
+~
+0 0 20018
+S
+#20074
+The Teleporter Room~
+This is the teleporter room.  A door slides shut so there is only one
+exit now.  
+~
+0 8192 1
+D2
+~
+~
+0 0 20047
+S
+#20075
+The Haunted Woods~
+This path is dark and gloomy.  The are mourningful howls and strange
+clicking sounds.  There are dark twisted oaks with holes that look like
+faces.  
+~
+0 8193 3
+D0
+~
+~
+0 0 20027
+D2
+the haunted woods
+~
+~
+0 -1 20076
+S
+#20076
+The Haunted Woods~
+This path is dark and gloomy.  The are mourningful howls and strange
+clicking sounds.  There are dark twisted oaks with holes that look like
+faces.  
+~
+0 8193 3
+D0
+~
+~
+0 0 20075
+D2
+the haunted woods
+~
+~
+0 -1 20077
+S
+#20077
+The Haunted Woods~
+This path is dark and gloomy.  The are mourningful howls and strange
+clicking sounds.  There are dark twisted oaks with holes that look like
+faces.  
+~
+0 8193 3
+D0
+~
+~
+0 0 20076
+D2
+the haunted woods
+~
+~
+0 -1 20078
+S
+#20078
+The Haunted Woods~
+This path is dark and gloomy.  The are mourningful howls and strange
+clicking sounds.  There are dark twisted oaks with holes that look like
+faces.  
+~
+0 8193 3
+D0
+~
+~
+0 0 20077
+D2
+the haunted woods
+~
+~
+0 -1 20079
+S
+#20079
+The Haunted Woods~
+This path is dark and gloomy.  The are mourningful howls and strange
+clicking sounds.  There are dark twisted oaks with holes that look like
+faces.  
+~
+0 8193 3
+D0
+~
+~
+0 0 20078
+D1
+the haunted woods
+~
+~
+0 -1 20080
+D2
+~
+~
+0 0 1839
+S
+#20080
+The Haunted Woods~
+This path is dark and gloomy.  The are mourningful howls and strange
+clicking sounds.  There are dark twisted oaks with holes that look like
+faces.  
+~
+0 8197 3
+D1
+~
+~
+0 0 20082
+D3
+~
+~
+0 0 20079
+S
+#20082
+The Haunted Woods~
+This path is dark and gloomy.  The are mourningful howls and strange
+clicking sounds.  There are dark twisted oaks with holes that look like
+faces.  
+~
+0 8193 3
+D1
+the haunted woods
+~
+~
+0 -1 20083
+D3
+~
+~
+0 0 20080
+S
+#20083
+The Haunted Woods~
+This path is dark and gloomy.  The are mourningful howls and strange
+clicking sounds.  There are dark twisted oaks with holes that look like
+faces.  
+~
+0 8193 3
+D1
+the haunted woods
+~
+~
+0 -1 20084
+D3
+~
+~
+0 0 20082
+S
+#20084
+The Haunted Woods~
+This path is dark and gloomy.  The are mourningful howls and strange
+clicking sounds.  There are dark twisted oaks with holes that look like
+faces.  
+~
+0 8193 3
+D1
+the haunted woods
+~
+~
+0 -1 20085
+D3
+~
+~
+0 0 20083
+S
+#20085
+The Haunted Woods~
+This path is dark and gloomy.  The are mourningful howls and strange
+clicking sounds.  There are dark twisted oaks with holes that look like
+faces.  
+~
+0 8193 3
+D1
+the haunted woods
+~
+~
+0 -1 20086
+D3
+~
+~
+0 0 20084
+S
+#20086
+The Haunted Woods~
+This path is dark and gloomy.  The are mourningful howls and strange
+clicking sounds.  There are dark twisted oaks with holes that look like
+faces.  
+~
+0 8193 3
+D1
+the haunted woods
+~
+~
+0 -1 20087
+D2
+entrance to the temple
+~
+~
+0 -1 20103
+D3
+~
+~
+0 0 20085
+S
+#20087
+The Haunted Woods~
+This path is dark and gloomy.  The are mourningful howls and strange
+clicking sounds.  There are dark twisted oaks with holes that look like
+faces.  
+~
+0 8193 3
+D1
+the haunted woods
+~
+~
+0 -1 20088
+D3
+~
+~
+0 0 20086
+S
+#20088
+The Haunted Woods~
+This path is dark and gloomy.  The are mourningful howls and strange
+clicking sounds.  There are dark twisted oaks with holes that look like
+faces.  
+~
+0 8193 3
+D1
+the haunted woods
+~
+~
+0 -1 20089
+D2
+entrance to the pavillon
+~
+~
+0 -1 20099
+D3
+~
+~
+0 0 20087
+S
+#20089
+The Haunted Woods~
+This path is dark and gloomy.  The are mourningful howls and strange
+clicking sounds.  There are dark twisted oaks with holes that look like
+faces.  
+~
+0 8193 3
+D1
+the haunted graveyard
+~
+~
+0 -1 20090
+D3
+~
+~
+0 0 20088
+S
+#20090
+The Haunted Graveyard~
+Nothing here has been taken care of in years, and broken and ruined
+gravestones lay chipped and broken along the ground.  A thick layer of dead
+leaves carpets the ground.  
+~
+0 1 3
+D0
+the haunted graveyard
+~
+~
+0 -1 20093
+D1
+the haunted graveyard
+~
+~
+0 -1 20091
+D2
+the haunted graveyard
+~
+~
+0 -1 20096
+D3
+the haunted woods
+~
+~
+0 -1 20089
+S
+#20091
+The Haunted Graveyard~
+Nothing here has been taken care of in years, and broken and ruined
+gravestones lay chipped and broken along the ground.  A thick layer of dead
+leaves carpets the ground.  
+~
+0 1 3
+D0
+the haunted graveyard
+~
+~
+0 -1 20094
+D1
+the haunted graveyard
+~
+~
+0 -1 20092
+D2
+the haunted graveyard
+~
+~
+0 -1 20097
+D3
+the haunted graveyard
+~
+~
+0 -1 20090
+S
+#20092
+The Haunted Graveyard~
+Nothing here has been taken care of in years, and broken and ruined
+gravestones lay chipped and broken along the ground.  A thick layer of dead
+leaves carpets the ground.  There is a very large black, gnarled oak here.  
+~
+0 1 3
+E
+tree~
+This is most likely the most evil and large tree you have ever seen.  
+Maybe you can climb it.
+~
+D0
+the haunted graveyard
+~
+~
+0 -1 20095
+D2
+the haunted graveyard
+~
+~
+0 -1 20098
+D3
+the haunted graveyard
+~
+~
+0 -1 20091
+D4
+up the tree
+~
+tree~
+0 -1 20148
+S
+#20093
+The Haunted Graveyard~
+Nothing here has been taken care of in years, and broken and ruined
+gravestones lay chipped and broken along the ground.  A thick layer of dead
+leaves carpets the ground.  
+~
+0 1 3
+D0
+the haunted graveyard
+~
+~
+0 -1 20093
+D1
+the haunted graveyard
+~
+~
+0 -1 20094
+D2
+the haunted graveyard
+~
+~
+0 -1 20090
+D3
+the haunted graveyard
+~
+~
+0 -1 20093
+S
+#20094
+The Haunted Graveyard~
+Nothing here has been taken care of in years, and broken and ruined
+gravestones lay chipped and broken along the ground.  A thick layer of dead
+leaves carpets the ground.  
+~
+0 1 3
+D0
+the haunted graveyard
+~
+~
+0 -1 20094
+D1
+the haunted graveyard
+~
+~
+0 -1 20095
+D2
+the haunted graveyard
+~
+~
+0 -1 20091
+D3
+the haunted graveyard
+~
+~
+0 -1 20093
+S
+#20095
+The Haunted Graveyard~
+Nothing here has been taken care of in years, and broken and ruined
+gravestones lay chipped and broken along the ground.  A thick layer of dead
+leaves carpets the ground.  
+~
+0 1 3
+D0
+the haunted graveyard
+~
+~
+0 -1 20095
+D1
+the haunted graveyard
+~
+~
+0 -1 20095
+D2
+the haunted graveyard
+~
+~
+0 -1 20092
+D3
+the haunted graveyard
+~
+~
+0 -1 20094
+S
+#20096
+The Haunted Graveyard~
+Nothing here has been taken care of in years, and broken and ruined
+gravestones lay chipped and broken along the ground.  A thick layer of dead
+leaves carpets the ground.  
+~
+0 1 3
+D0
+the haunted graveyard
+~
+~
+0 -1 20090
+D1
+the haunted graveyard
+~
+~
+0 -1 20097
+D2
+the haunted graveyard
+~
+~
+0 -1 20096
+D3
+the haunted graveyard
+~
+~
+0 -1 20096
+S
+#20097
+The Haunted Graveyard~
+Nothing here has been taken care of in years, and broken and ruined
+gravestones lay chipped and broken along the ground.  A thick layer of dead
+leaves carpets the ground.  
+~
+0 1 3
+D0
+the haunted graveyard
+~
+~
+0 -1 20091
+D1
+the haunted graveyard
+~
+~
+0 -1 20098
+D2
+the haunted graveyard
+~
+~
+0 -1 20097
+D3
+the haunted graveyard
+~
+~
+0 -1 20096
+S
+#20098
+The Haunted Graveyard~
+Nothing here has been taken care of in years, and broken and ruined
+gravestones lay chipped and broken along the ground.  A thick layer of dead
+leaves carpets the ground.  
+~
+0 1 3
+D0
+the haunted graveyard
+~
+~
+0 -1 20092
+D1
+the haunted graveyard
+~
+~
+0 -1 20098
+D2
+the haunted graveyard
+~
+~
+0 -1 20098
+D3
+the haunted graveyard
+~
+~
+0 -1 20097
+S
+#20099
+Entrance to the Pavilion~
+There is a walkway pier that leads north to the haunted woods and south
+to the pavilion.  There is a lovely voice from the pavilion.  
+~
+0 1 2
+D0
+the haunted forest
+~
+~
+0 -1 20088
+D2
+the pavillon
+~
+~
+0 -1 20100
+S
+#20100
+The Pavilion~
+This is a magnificent red pavilion.  Ten-Mile Lake stretches out beside
+the pavilion.  
+~
+0 1 3
+D0
+the entrance to the pavillon
+~
+~
+0 -1 20099
+D2
+the pavillon
+~
+~
+0 -1 20101
+S
+#20101
+The Pavilion~
+This is the middle of a beautiful red pavilion.  The serene waters of
+Acsoria Lake wave gently back and forth.  There is the sound of a lovely
+voice, acoompanied by a flute.  
+~
+0 1 3
+D0
+the pavillon
+~
+~
+0 -1 20100
+D2
+the pavillon
+~
+~
+0 -1 20102
+S
+#20102
+The Pavilion~
+This is the middle of a beautiful red pavilion.  The serene waters of
+Ten-Mile Lake wave gently back and forth.  
+~
+0 1 3
+D0
+the pavillon
+~
+~
+0 -1 20101
+S
+#20103
+Entrance to the Temple~
+This once great structure now stands, ruined and ravaged by the elements
+of nature and time.  Once golden and red paint stood out brightly on the
+walls, but now are faded and drab.  There is a stone sign here, covered in
+ivy.  
+~
+0 1 0
+E
+sign stone~
+The words "Lan Ro Temple" are written on the sign.  
+~
+D0
+the haunted woods
+~
+~
+0 -1 20086
+D2
+Lan-Ro Temple
+~
+~
+0 -1 20104
+S
+#20104
+Inside Lan Ro Temple~
+This is the inside of the once great Lan Ro Orchid Temple.  This once
+grand structure used to house monks and once was alive and bright with the
+joy of life.  Now it is cold and drab.  The damp walls and floors give the
+place a moldy smell and there are sounds of things skittering off into the
+darkness.  
+~
+0 1 0
+D0
+the entrance to the temple
+~
+~
+0 -1 20103
+D2
+~
+~
+0 0 20105
+S
+#20105
+Inside Lan Ro Temple~
+This is the inside of the once great Lan Ro Orchid Temple.  This once
+grand structure used to house monks and once was alive and bright with the
+joy of life.  Now it is cold and drab.  The damp walls and floors give the
+place a moldy smell and there are sounds of things skittering off into the
+darkness.  
+~
+0 1 0
+D0
+inside the temple
+~
+~
+0 -1 20104
+D2
+inside the temple
+~
+~
+0 -1 20106
+S
+#20106
+Inside Lan Ro Temple~
+This is the inside of the once great Lan Ro Orchid Temple.  This once
+grand structure used to house monks and once was alive and bright with the
+joy of life.  Now it is cold and drab.  The damp walls and floors give the
+place a moldy smell and there are sounds of things skittering off into the
+darkness.  
+~
+0 1 0
+D0
+inside the temple
+~
+~
+0 -1 20105
+D2
+inside the temple
+~
+~
+0 -1 20107
+S
+#20107
+Inside Lan Ro Temple~
+This is the inside of the once great Lan Ro Orchid Temple.  This once
+grand structure used to house monks and once was alive and bright with the
+joy of life.  Now it is cold and drab.  The damp walls and floors give the
+place a moldy smell and there are sounds of things skittering off into the
+darkness.  
+~
+0 1 0
+D0
+inside the temple
+~
+~
+0 -1 20106
+D2
+inside the temple
+~
+~
+0 -1 20108
+S
+#20108
+Inside Lan Ro Temple~
+This is the inside of the once great Lan Ro Orchid Temple.  This once
+grand structure used to house monks and once was alive and bright with the
+joy of life.  Now it is cold and drab.  The damp walls and floors give the
+place a moldy smell and there are sounds of things skittering off into the
+darkness.  
+~
+0 1 0
+D0
+inside the temple
+~
+~
+0 -1 20107
+D2
+inside the temple
+~
+~
+0 -1 20109
+S
+#20109
+Inside Lan Ro Temple~
+This is the inside of the once great Lan Ro Orchid Temple.  This once
+grand structure used to house monks and once was alive and bright with the
+joy of life.  Now it is cold and drab.  The damp walls and floors give the
+place a moldy smell and there are sounds of things skittering off into the
+darkness.  
+~
+0 1 0
+D0
+inside the temple
+~
+~
+0 -1 20108
+D2
+inside the temple
+~
+~
+0 -1 20110
+S
+#20110
+Inside Lan Ro Temple~
+This is the inside of the once great Lan Ro Orchid Temple.  This once
+grand structure used to house monks and once was alive and bright with the
+joy of life.  Now it is cold and drab.  The damp walls and floors give the
+place a moldy smell and there are sounds of things skittering off into the
+darkness.  There is a corridor that leads to the west and to the east.  
+~
+0 1 0
+D0
+inside the temple
+~
+~
+0 -1 20109
+D1
+inside the temple
+~
+~
+0 -1 20116
+D2
+inside the temple
+~
+~
+0 -1 20111
+D3
+inside the temple
+~
+~
+0 -1 20124
+S
+#20111
+Inside Lan Ro Temple~
+This is the inside of the once great Lan Ro Orchid Temple.  This once
+grand structure used to house monks and once was alive and bright with the
+joy of life.  Now it is cold and drab.  The damp walls and floors give the
+place a moldy smell and there are sounds of things skittering off into the
+darkness.  
+~
+0 1 0
+D0
+inside the temple
+~
+~
+0 -1 20110
+D2
+inside the temple
+~
+~
+0 -1 20112
+S
+#20112
+Inside Lan Ro Temple~
+This is the inside of the once great Lan Ro Orchid Temple.  This once
+grand structure used to house monks and once was alive and bright with the
+joy of life.  Now it is cold and drab.  The damp walls and floors give the
+place a moldy smell and there are sounds of things skittering off into the
+darkness.  
+~
+0 1 0
+D0
+inside the temple
+~
+~
+0 -1 20111
+D2
+inside the temple
+~
+~
+0 -1 20113
+S
+#20113
+Inside Lan Ro Temple~
+This is the inside of the once great Lan Ro Orchid Temple.  This once
+grand structure used to house monks and once was alive and bright with the
+joy of life.  Now it is cold and drab.  The damp walls and floors give the
+place a moldy smell and there are sounds of things skittering off into the
+darkness.  
+~
+0 1 0
+D0
+inside the temple
+~
+~
+0 -1 20112
+D2
+inside the temple
+~
+~
+0 -1 20114
+S
+#20114
+Inside Lan Ro Temple~
+This is the inside of the once great Lan Ro Orchid Temple.  This once
+grand structure used to house monks and once was alive and bright with the
+joy of life.  Now it is cold and drab.  The damp walls and floors give the
+place a moldy smell and there are sounds of things skittering off into the
+darkness.  
+~
+0 1 0
+D0
+inside the temple
+~
+~
+0 -1 20113
+D2
+inside the temple
+~
+~
+0 -1 20115
+S
+#20115
+Inside Lan Ro Temple~
+This is the inside of the once great Lan Ro Orchid Temple.  This once
+grand structure used to house monks and once was alive and bright with the
+joy of life.  Now it is cold and drab.  The damp walls and floors give the
+place a moldy smell and there are sounds of things skittering off into the
+darkness.  There is a corridor that goes to the west and east of here and a
+corridor that leads north.  There are also stairs here, leading up and down.
+~
+0 1 0
+D0
+~
+~
+0 0 20114
+D1
+inside the temple
+~
+~
+0 -1 20123
+D3
+inside the temple
+~
+~
+0 -1 20131
+D4
+up the stairs
+~
+~
+0 -1 20138
+D5
+down the stairs
+~
+~
+0 -1 20132
+S
+#20116
+Inside Lan Ro Temple~
+This is the inside of the once great Lan Ro Orchid Temple.  This once
+grand structure used to house monks and once was alive and bright with the
+joy of life.  Now it is cold and drab.  The damp walls and floors give the
+place a moldy smell and there are sounds of things skittering off into the
+darkness.  
+~
+0 1 0
+D1
+inside the temple
+~
+~
+0 -1 20117
+D3
+inside the temple
+~
+~
+0 -1 20110
+S
+#20117
+Inside Lan Ro Temple~
+This is the inside of the once great Lan Ro Orchid Temple.  This once
+grand structure used to house monks and once was alive and bright with the
+joy of life.  Now it is cold and drab.  The damp walls and floors give the
+place a moldy smell and there are sounds of things skittering off into the
+darkness.  
+~
+0 1 0
+D2
+inside the temple
+~
+~
+0 -1 20118
+D3
+inside the temple
+~
+~
+0 -1 20116
+S
+#20118
+Inside Lan Ro Temple~
+This is the inside of the once great Lan Ro Orchid Temple.  This once
+grand structure used to house monks and once was alive and bright with the
+joy of life.  Now it is cold and drab.  The damp walls and floors give the
+place a moldy smell and there are sounds of things skittering off into the
+darkness.  
+~
+0 1 0
+D0
+inside the temple
+~
+~
+0 -1 20117
+D2
+inside the temple
+~
+~
+0 -1 20119
+S
+#20119
+Inside Lan Ro Temple~
+This is the inside of the once great Lan Ro Orchid Temple.  This once
+grand structure used to house monks and once was alive and bright with the
+joy of life.  Now it is cold and drab.  The damp walls and floors give the
+place a moldy smell and there are sounds of things skittering off into the
+darkness.  
+~
+0 1 0
+D0
+inside the temple
+~
+~
+0 -1 20118
+D2
+inside the temple
+~
+~
+0 -1 20120
+S
+#20120
+Inside Lan Ro Temple~
+This is the inside of the once great Lan Ro Orchid Temple.  This once
+grand structure used to house monks and once was alive and bright with the
+joy of life.  Now it is cold and drab.  The damp walls and floors give the
+place a moldy smell and there are sounds of things skittering off into the
+darkness.  
+~
+0 1 0
+D0
+inside the temple
+~
+~
+0 -1 20119
+D2
+inside the temple
+~
+~
+0 -1 20121
+S
+#20121
+Inside Lan Ro Temple~
+This is the inside of the once great Lan Ro Orchid Temple.  This once
+grand structure used to house monks and once was alive and bright with the
+joy of life.  Now it is cold and drab.  The damp walls and floors give the
+place a moldy smell and there are sounds of things skittering off into the
+darkness.  
+~
+0 1 0
+D0
+inside the temple
+~
+~
+0 -1 20120
+D2
+inside the temple
+~
+~
+0 -1 20122
+S
+#20122
+Inside Lan Ro Temple~
+This is the inside of the once great Lan Ro Orchid Temple.  This once
+grand structure used to house monks and once was alive and bright with the
+joy of life.  Now it is cold and drab.  The damp walls and floors give the
+place a moldy smell and there are sounds of things skittering off into the
+darkness.  
+~
+0 1 0
+D0
+inside the temple
+~
+~
+0 -1 20121
+D3
+inside the temple
+~
+~
+0 -1 20123
+S
+#20123
+Inside Lan Ro Temple~
+This is the inside of the once great Lan Ro Orchid Temple.  This once
+grand structure used to house monks and once was alive and bright with the
+joy of life.  Now it is cold and drab.  The damp walls and floors give the
+place a moldy smell and there are sounds of things skittering off into the
+darkness.  
+~
+0 4 0
+D1
+~
+~
+0 0 20122
+D3
+~
+~
+0 0 20115
+S
+#20124
+Inside Lan Ro Temple~
+This is the inside of the once great Lan Ro Orchid Temple.  This once
+grand structure used to house monks and once was alive and bright with the
+joy of life.  Now it is cold and drab.  The damp walls and floors give the
+place a moldy smell and there are sounds of things skittering off into the
+darkness.  
+~
+0 1 0
+D1
+inside the temple
+~
+~
+0 -1 20110
+D3
+inside the temple
+~
+~
+0 -1 20125
+S
+#20125
+Inside Lan Ro Temple~
+This is the inside of the once great Lan Ro Orchid Temple.  This once
+grand structure used to house monks and once was alive and bright with the
+joy of life.  Now it is cold and drab.  The damp walls and floors give the
+place a moldy smell and there are sounds of things skittering off into the
+darkness.  
+~
+0 1 0
+D1
+inside the temple
+~
+~
+0 -1 20124
+D2
+inside the temple
+~
+~
+0 -1 20126
+S
+#20126
+Inside Lan Ro Temple~
+This is the inside of the once great Lan Ro Orchid Temple.  This once
+grand structure used to house monks and once was alive and bright with the
+joy of life.  Now it is cold and drab.  The damp walls and floors give the
+place a moldy smell and there are sounds of things skittering off into the
+darkness.  
+~
+0 1 0
+D0
+inside the temple
+~
+~
+0 -1 20125
+D2
+inside the temple
+~
+~
+0 -1 20127
+S
+#20127
+Inside Lan Ro Temple~
+This is the inside of the once great Lan Ro Orchid Temple.  This once
+grand structure used to house monks and once was alive and bright with the
+joy of life.  Now it is cold and drab.  The damp walls and floors give the
+place a moldy smell and there are sounds of things skittering off into the
+darkness.  
+~
+0 1 0
+D0
+inside the temple
+~
+~
+0 -1 20126
+D2
+inside the temple
+~
+~
+0 -1 20128
+S
+#20128
+Inside Lan Ro Temple~
+This is the inside of the once great Lan Ro Orchid Temple.  This once
+grand structure used to house monks and once was alive and bright with the
+joy of life.  Now it is cold and drab.  The damp walls and floors give the
+place a moldy smell and there are sounds of things skittering off into the
+darkness.  
+~
+0 1 0
+D0
+inside the temple
+~
+~
+0 -1 20127
+D2
+inside the temple
+~
+~
+0 -1 20129
+S
+#20129
+Inside Lan Ro Temple~
+This is the inside of the once great Lan Ro Orchid Temple.  This once
+grand structure used to house monks and once was alive and bright with the
+joy of life.  Now it is cold and drab.  The damp walls and floors give the
+place a moldy smell and there are sounds of things skittering off into the
+darkness.  
+~
+0 1 0
+D0
+inside the temple
+~
+~
+0 -1 20128
+D2
+inside the temple
+~
+~
+0 -1 20130
+S
+#20130
+Inside Lan Ro Temple~
+This is the inside of the once great Lan Ro Orchid Temple.  This once
+grand structure used to house monks and once was alive and bright with the
+joy of life.  Now it is cold and drab.  The damp walls and floors give the
+place a moldy smell and there are sounds of things skittering off into the
+darkness.  
+~
+0 1 0
+D0
+inside the temple
+~
+~
+0 -1 20129
+D1
+inside the temple
+~
+~
+0 -1 20131
+S
+#20131
+Inside Lan Ro Temple~
+This is the inside of the once great Lan Ro Orchid Temple.  This once
+grand structure used to house monks and once was alive and bright with the
+joy of life.  Now it is cold and drab.  The damp walls and floors give the
+place a moldy smell and there are sounds of things skittering off into the
+darkness.  
+~
+0 1 0
+D1
+inside the temple
+~
+~
+0 -1 20115
+D3
+inside the temple
+~
+~
+0 -1 20130
+S
+#20132
+The basement of the temple~
+This is the basement of the temple.  It is very dark here.  There are
+strange creaking sounds and the shuffling of feet.  
+~
+0 1 0
+D0
+the basement of the temple
+~
+~
+0 -1 20133
+D4
+the stairs back up
+~
+~
+0 -1 20115
+S
+#20133
+The basement of the temple~
+This is the basement of the temple.  It is very dark here.  There are the
+strange creaking sounds and the shuffling of feet.  
+~
+0 1 0
+D0
+the basement of the temple
+~
+~
+0 -1 20134
+D2
+the basement of the temple
+~
+~
+0 -1 20132
+S
+#20134
+The basement of the temple~
+This is the basement of the temple.  It is very dark here.  There are
+strange creaking sounds and the shuffling of feet.  
+~
+0 1 0
+D0
+the basement of the temple
+~
+~
+0 -1 20135
+D2
+the basement of the temple
+~
+~
+0 -1 20133
+S
+#20135
+The basement of the temple~
+This is the basement of the temple.  It is very dark here.  There are
+strange creaking sounds and the shuffling of feet.  
+~
+0 1 0
+D0
+the basement of the temple
+~
+~
+0 -1 20136
+D2
+the basement of the temple
+~
+~
+0 -1 20134
+S
+#20136
+The basement of the temple~
+This is the basement of the temple.  It is very dark here.  There are
+strange creaking sounds and shuffling of feet.  
+~
+0 1 0
+D0
+the basement of the temple
+~
+~
+0 -1 20137
+D2
+the basement of the temple
+~
+~
+0 -1 20135
+S
+#20137
+The basement of the temple~
+This is the basement of the temple.  It is very dark.  There are strange
+creaking sounds and the shuffling of feet.  
+~
+0 1 0
+D2
+the basement of the temple
+~
+~
+0 -1 20136
+S
+#20138
+The second floor of the temple~
+This is the second floor of the temple.  There are strange creaks and
+noises.  
+~
+0 1 0
+D0
+the second floor of the temple
+~
+~
+0 -1 20139
+D5
+the stairs down
+~
+~
+0 -1 20115
+S
+#20139
+The second floor of the temple~
+This is the second floor of the temple.  There are strange creaks and
+noises.  
+~
+0 1 0
+D0
+the second floor of the temple
+~
+~
+0 -1 20140
+D2
+the second floor of the tunnel
+~
+~
+0 -1 20138
+S
+#20140
+The second floor of the temple~
+This is the second floor of the temple.  There are strange creaks and
+noises.  
+~
+0 1 0
+D0
+the second floor of the temple
+~
+~
+0 -1 20141
+D2
+the second floor of the tunnel
+~
+~
+0 -1 20139
+S
+#20141
+The second floor of the temple~
+This is the second floor of the temple.  There are strange creaks and
+noises.  
+~
+0 1 0
+D0
+the second floor of the temple
+~
+~
+0 -1 20142
+D2
+the second floor of the tunnel
+~
+~
+0 -1 20140
+S
+#20142
+The second floor of the temple~
+This is the second floor of the temple.  There are strange creaks and
+noises.  
+~
+0 1 0
+D0
+the second floor of the temple
+~
+~
+0 -1 20143
+D2
+the second floor of the tunnel
+~
+~
+0 -1 20141
+S
+#20143
+The second floor of the temple~
+This is the second floor of the temple.  There are strange creaks and
+noises.  
+~
+0 1 0
+D1
+the second floor of the temple
+~
+~
+0 -1 20144
+D2
+the second floor of the tunnel
+~
+~
+0 -1 20142
+D3
+the second floor of the tunnel
+~
+~
+0 -1 20146
+S
+#20144
+The second floor of the temple~
+This is the second floor of the temple.  There are strange creaks and
+noises.  
+~
+0 1 0
+D1
+the second floor of the temple
+~
+~
+0 -1 20145
+D3
+the second floor of the tunnel
+~
+~
+0 -1 20143
+S
+#20145
+The second floor of the temple~
+This is the second floor of the temple.  There are strange creaks and
+noises.  
+~
+0 1 0
+D3
+the second floor of the tunnel
+~
+~
+0 -1 20144
+S
+#20146
+The second floor of the temple~
+This is the second floor of the temple.  There are strange creaks and
+noises.  
+~
+0 1 0
+D1
+the second floor of the temple
+~
+~
+0 -1 20143
+D3
+the second floor of the tunnel
+~
+~
+0 -1 20147
+S
+#20147
+The second floor of the temple~
+This is the second floor of the temple.  There are strange creaks and
+noises.  
+~
+0 1 0
+D1
+the second floor of the temple
+~
+~
+0 -1 20146
+S
+#20148
+The Great Tree~
+These are the branches of a great gnarled evil oak tree.  There are
+strange worm-like growths on the slimy bark of this tree.  
+~
+0 8193 0
+D4
+up the tree
+~
+~
+0 -1 20149
+D5
+down the tree
+~
+~
+0 -1 20092
+S
+#20149
+Lair of the Tree Demon~
+This is the lair of the evil tree demon.  There are numerous skeletons
+and skulls lie about here and the room stinks of decay and dried blood.  
+~
+0 1 0
+D5
+down the tree
+~
+~
+0 -1 20148
+S
+#20150
+A mountain path~
+This is a lonely mountain pass that meanders through this area.  The tall
+craggy peaks loom high above watching over the area.  
+~
+0 0 5
+D0
+a mountain pass
+~
+~
+0 -1 20151
+D2
+~
+~
+0 0 20024
+S
+#20151
+A mountain path~
+This is a lonely mountain pass that meanders through this area.  The tall
+craggy peaks loom high above watching over the area.  
+~
+0 0 5
+D0
+a mountain path
+~
+~
+0 -1 20152
+D2
+a mountain path
+~
+~
+0 -1 20150
+S
+#20152
+A mountain path~
+This is a lonely mountain pass the meanders through this area.  The tall
+craggy peaks loom high above watching over the area.  
+~
+0 0 5
+D2
+a mountain path
+~
+~
+0 -1 20151
+D4
+a mountain path
+~
+~
+0 -1 20153
+S
+#20153
+A mountain path~
+This is a lonely mountain pass that meanders through the area.  The tall
+craggy peaks loom high above watching over the area.  
+~
+0 0 5
+D0
+a mountain path
+~
+~
+0 -1 20154
+D5
+a mountain path
+~
+~
+0 -1 20152
+S
+#20154
+A mountain path~
+This is a lonely mountain pass that meanders through this area.  The tall
+craggy peaks loom high above watching over the area.  
+~
+0 0 5
+D2
+a mountain path
+~
+~
+0 -1 20153
+D4
+a mountain path
+~
+~
+0 -1 20155
+S
+#20155
+A mountain path~
+This is a lonely mountain pass that meanders through this area.  The tall
+craggy peaks loom high above watching over the area.  
+~
+0 0 5
+D0
+a mountain path
+~
+~
+0 -1 20156
+D5
+a mountain path
+~
+~
+0 -1 20154
+S
+#20156
+A mountain path~
+This is a lonely mountain pass that meanders through the area.  The tall
+craggy peaks loom high above watching over the area.  
+~
+0 0 5
+D0
+entrance to the mountain
+~
+~
+0 -1 20157
+D2
+a mountain path
+~
+~
+0 -1 20155
+S
+#20157
+The Entrance to the Mountain of Power~
+This is the entrance to the Mountain of Power.  There are large statues
+pf Set here, surrounded by stone snakes.  There is a large cave that serves
+as the entryway into this mountain.  A chill breeze wafts out bringing the
+scent of decay and corruption.  
+~
+0 0 5
+D0
+the mountain of power
+~
+~
+0 -1 20158
+D2
+a mountain path
+~
+~
+0 -1 20156
+S
+#20158
+The Mountain of Power~
+This is the inside of the mountain of power.  The walls here have been
+carved from the solid rock and excavated by hand.  There is a smell of burnt
+human flesh as well as a cornucopia of other scents, such as sweet oil,
+wine, woman, and sweat.  
+~
+0 0 5
+D0
+the mountain of power
+~
+~
+0 -1 20159
+D2
+entrance to the mountain
+~
+~
+0 -1 20157
+S
+#20159
+The Mountain of Power~
+This is the inside of the mountain of power.  The walls here have been
+carved from the solid rock and excavated by hand.  There is a smell of burnt
+human flesh as well as a cornucopia of other scents, such as sweet oil,
+wine, woman, and sweat.  There is a corridor that leads north to south as
+well as a corridor east and west of here.  
+~
+0 0 5
+D0
+the mountain of power
+~
+~
+0 -1 20190
+D1
+the mountain of power
+~
+~
+0 -1 20160
+D2
+the mountain of power
+~
+~
+0 -1 20158
+D3
+the mountain of power
+~
+~
+0 -1 20166
+S
+#20160
+The Mountain of Power~
+This is the inside of the mountain of power.  The walls here have been
+carved from the solid rock and excavated by hand.  There is a smell of burnt
+human flesh as well as a cornucopia of other scents, such as sweet oil,
+wine, woman, and sweat.  
+~
+0 0 5
+D1
+the mountain of power
+~
+~
+0 -1 20161
+D3
+the mountain of power
+~
+~
+0 -1 20159
+S
+#20161
+The Mountain of Power~
+This is the inside of the mountain of power.  The walls here have been
+carved from the solid rock and excavated by hand.  There is a smell of burnt
+human flesh as well as a cornucopia of other scents, such as sweet oil,
+wine, woman, and sweat.  
+~
+0 0 5
+D1
+the mountain of power
+~
+~
+0 -1 20162
+D3
+the mountain of power
+~
+~
+0 -1 20160
+S
+#20162
+The Mountain of Power~
+This is the inside of the mountain of power.  The walls here have been
+carved from the solid rock and excavated by hand.  There is a smell of burnt
+human flesh as well as a cornucopia of other scents, such as sweet oil,
+wine, woman, and sweat.  
+~
+0 0 5
+D0
+the mountain of power
+~
+~
+0 -1 20163
+D3
+the mountain of power
+~
+~
+0 -1 20161
+S
+#20163
+The Mountain of Power~
+This is the inside of the mountain of power.  The walls here have been
+carved from the solid rock and excavated by hand.  There is a smell of burnt
+human flesh as well as a cornucopia of other scents, such as sweet oil,
+wine, woman, and sweat.  
+~
+0 0 5
+D0
+the mountain of power
+~
+~
+0 -1 20164
+D2
+the mountain of power
+~
+~
+0 -1 20162
+S
+#20164
+The Mountain of Power~
+This is the inside of the mountain of power.  The walls here have been
+carved from the solid rock and excavated by hand.  There is a smell of burnt
+human flesh as well as a cornucopia of other scents, such as sweet oil,
+wine, woman, and sweat.  
+~
+0 0 5
+D2
+the mountain of power
+~
+~
+0 -1 20163
+D3
+the mountain of power
+~
+~
+0 -1 20165
+S
+#20165
+The Mountain of Power~
+This is the inside of the mountain of power.  The walls here have been
+carved from the solid rock and excavated by hand.  There is a smell of burnt
+human flesh as well as a cornucopia of other scents, such as sweet oil,
+wine, woman, and sweat.  
+~
+0 0 5
+D1
+the mountain of power
+~
+~
+0 -1 20164
+D3
+the mountain of power
+~
+~
+0 -1 20174
+S
+#20166
+The Mountain of Power~
+This is the inside of the mountain of power.  The walls here have been
+carved from the solid rock and excavated by hand.  There is a smell of burnt
+human flesh as well as a cornucopia of other scents, such as sweet oil,
+wine, woman, and sweat.  
+~
+0 0 5
+D1
+the mountain of power
+~
+~
+0 -1 20159
+D3
+the mountain of power
+~
+~
+0 -1 20167
+S
+#20167
+The Mountain of Power~
+This is the inside of the mountain of power.  The walls here have been
+carved from the solid rock and excavated by hand.  There is a smell of burnt
+human flesh as well as a cornucopia of other scents, such as sweet oil,
+wine, woman, and sweat.  
+~
+0 0 5
+D1
+the mountain of power
+~
+~
+0 -1 20166
+D3
+the mountain of power
+~
+~
+0 -1 20168
+S
+#20168
+The Mountain of Power~
+This is the inside of the mountain of power.  The walls here have been
+carved from the solid rock and excavated by hand.  There is a smell of burnt
+human flesh as well as a cornucopia of other scents, such as sweet oil,
+wine, woman, and sweat.  
+~
+0 0 5
+D0
+the mountain of power
+~
+~
+0 -1 20169
+D1
+the mountain of power
+~
+~
+0 -1 20167
+S
+#20169
+The Mountain of Power~
+This is the inside of the mountain of power.  The walls here have been
+carved from the solid rock and excavated by hand.  There is a smell of burnt
+human flesh as well as a cornucopia of other scents, such as sweet oil,
+wine, woman, and sweat.  
+~
+0 0 5
+D0
+the mountain of power
+~
+~
+0 -1 20170
+D2
+the mountain of power
+~
+~
+0 -1 20168
+S
+#20170
+The Mountain of Power~
+This is the inside of the mountain of power.  The walls here have been
+carved from the solid rock and excavated by hand.  There is a smell of burnt
+human flesh as well as a cornucopia of other scents, such as sweet oil,
+wine, woman, and sweat.  
+~
+0 0 5
+D1
+the mountain of power
+~
+~
+0 -1 20171
+D2
+the mountain of power
+~
+~
+0 -1 20169
+S
+#20171
+The Mountain of Power~
+This is the inside of the mountain of power.  The walls here have been
+carved from the solid rock and excavated by hand.  There is a smell of burnt
+human flesh as well as a cornucopia of other scents, such as sweet oil,
+wine, woman, and sweat.  
+~
+0 0 5
+D1
+the mountain of power
+~
+~
+0 -1 20172
+D3
+the mountain of power
+~
+~
+0 -1 20170
+S
+#20172
+The Hall of Pleasure~
+This is a very large room.  Large marble columns support this part of the
+mountain palace, and the smooth floors are covered with silk pillows and
+elegant tables holding goblets and flagons of rare wine.  All about here are
+men and woman of the snake cult, engaging in...  Interesting activities.  
+~
+0 0 5
+D0
+the hall of pleasure
+~
+~
+0 -1 20175
+D1
+the hall of pleasure
+~
+~
+0 -1 20173
+D2
+the hall of pleaure
+~
+~
+0 -1 20172
+D3
+the mountain of power
+~
+~
+0 -1 20171
+S
+#20173
+The Hall of Pleasure~
+This is a very large room.  Large marble columns support this part of the
+mountain palace, and the smooth floors are covered with silk pillows and
+elegant tables holding goblets and flagons of rare wine.  All about here are
+men and woman of the snake cult, engaging in...  Interesting activities.  
+~
+0 0 5
+D0
+the hall of pleasure
+~
+~
+0 -1 20176
+D1
+the hall of pleasure
+~
+~
+0 -1 20174
+D2
+the mountain of power
+~
+~
+0 -1 20190
+D3
+the hall of pleasure
+~
+~
+0 -1 20172
+S
+#20174
+The Hall of Pleasure~
+This is a very large room.  Large marble columns support this part of the
+mountain palace, and the smooth floors are covered with silk pillows and
+elegant tables holding goblets and flagons of rare wine.  All about here are
+men and woman of the snake cult, engaging in...  Interesting activities.  
+~
+0 0 5
+D0
+the hall of pleasure
+~
+~
+0 -1 20177
+D1
+the mountain of power
+~
+~
+0 -1 20165
+D2
+the hall of pleasure
+~
+~
+0 -1 20174
+D3
+the hall of pleasure
+~
+~
+0 -1 20173
+S
+#20175
+The Hall of Pleasure~
+This is a very large room.  Large marble columns support this part of the
+mountain palace, and the smooth floors are covered with silk pillows and
+elegant tables holding goblets and flagons of rare wine.  All about here are
+men and woman of the snake cult, engaging in...  Interesting activities.  
+~
+0 0 5
+D0
+the hall of pleasure
+~
+~
+0 -1 20178
+D1
+the hall of pleasure
+~
+~
+0 -1 20176
+D2
+the hall of pleasure
+~
+~
+0 -1 20172
+D3
+the hall of pleasure
+~
+~
+0 -1 20175
+S
+#20176
+The Hall of Pleasure~
+This is a very large room.  Large marble columns support this part of the
+mountain palace, and the smooth floors are covered with silk pillows and
+elegant tables holding goblets and flagons of rare wine.  All about here are
+men and woman of the snake cult, engaging in...  Interesting activities.  
+~
+0 0 5
+D0
+the hall of pleasure
+~
+~
+0 -1 20179
+D1
+the hall of pleasure
+~
+~
+0 -1 20177
+D2
+the hall of pleasure
+~
+~
+0 -1 20173
+D3
+the hall of pleasure
+~
+~
+0 -1 20175
+S
+#20177
+The Hall of Pleasure~
+This is a very large room.  Large marble columns support this part of the
+mountain palace, and the smooth floors are covered with silk pillows and
+elegant tables holding goblets and flagons of rare wine.  All about here are
+men and woman of the snake cult, engaging in...  Interesting activities.  
+~
+0 0 5
+D0
+the hall of pleasure
+~
+~
+0 -1 20180
+D1
+the hall of pleasure
+~
+~
+0 -1 20177
+D2
+the hall of pleasure
+~
+~
+0 -1 20174
+D3
+the hall of pleasure
+~
+~
+0 -1 20176
+S
+#20178
+The Hall of Pleasure~
+This is a very large room.  Large marble columns support this part of the
+mountain palace, and the smooth floors are covered with silk pillows and
+elegant tables holding goblets and flagons of rare wine.  All about here are
+men and woman of the snake cult, engaging in...  Interesting activities.  
+~
+0 0 5
+D0
+the hall of pleasure
+~
+~
+0 -1 20181
+D1
+the hall of pleasure
+~
+~
+0 -1 20179
+D2
+the hall of pleasure
+~
+~
+0 -1 20175
+D3
+the guard room
+~
+~
+0 -1 20188
+S
+#20179
+The Hall of Pleasure~
+This is a very large room.  Large marble columns support this part of the
+mountain palace, and the smooth floors are covered with silk pillows and
+elegant tables holding goblets and flagons of rare wine.  All about here are
+men and woman of the snake cult, engaging in...  Interesting activities.  
+~
+0 0 5
+D0
+the hall of pleasure
+~
+~
+0 -1 20182
+D1
+the hall of pleasure
+~
+~
+0 -1 20180
+D2
+the hall of pleasure
+~
+~
+0 -1 20176
+D3
+the hall of pleasure
+~
+~
+0 -1 20178
+S
+#20180
+The Hall of Pleasure~
+This is a very large room.  Large marble columns support this part of the
+mountain palace, and the smooth floors are covered with silk pillows and
+elegant tables holding goblets and flagons of rare wine.  All about here are
+men and woman of the snake cult, engaging in...  Interesting activities.  
+~
+0 0 5
+D0
+the hall of pleasure
+~
+~
+0 -1 20183
+D1
+the guard room
+~
+~
+0 -1 20186
+D2
+the hall of pleasure
+~
+~
+0 -1 20177
+D3
+the hall of pleasure
+~
+~
+0 -1 20179
+S
+#20181
+The Hall of Pleasure~
+This is a very large room.  Large marble columns support this part of the
+mountain palace, and the smooth floors are covered with silk pillows and
+elegant tables holding goblets and flagons of rare wine.  All about here are
+men and woman of the snake cult, engaging in...  Interesting activities.  
+~
+0 0 5
+D0
+the hall of pleasure
+~
+~
+0 -1 20181
+D1
+the hall of pleasure
+~
+~
+0 -1 20182
+D2
+the hall of pleasure
+~
+~
+0 -1 20178
+D3
+the hall of pleasure
+~
+~
+0 -1 20181
+S
+#20182
+The Hall of Pleasure~
+This is a very large room.  Large marble columns support this part of the
+mountain palace, and the smooth floors are covered with silk pillows and
+elegant tables holding goblets and flagons of rare wine.  All about here are
+men and woman of the snake cult, engaging in...  Interesting activities.  
+~
+0 0 5
+D0
+the throne room
+~
+~
+0 -1 20184
+D1
+the hall of pleasure
+~
+~
+0 -1 20183
+D2
+the hall of pleasure
+~
+~
+0 -1 20179
+D3
+the hall of pleasure
+~
+~
+0 -1 20181
+S
+#20183
+The Hall of Pleasure~
+This is a very large room.  Large marble columns support this part of the
+mountain palace, and the smooth floors are covered with silk pillows and
+elegant tables holding goblets and flagons of rare wine.  All about here are
+men and woman of the snake cult, engaging in...  Interesting activities.  
+~
+0 0 5
+D0
+the hall of pleasure
+~
+~
+0 -1 20183
+D1
+the hall of pleasure
+~
+~
+0 -1 20183
+D2
+the hall of pleasure
+~
+~
+0 -1 20180
+D3
+the hall of pleasure
+~
+~
+0 -1 20182
+S
+#20184
+The Throne Room~
+This is the throne room in the Mountain of Power.  There are gold
+embroidered tapestries on the walls, imported slik pillows and cushions upon
+the floor, marble columns, and elegant crystal flagons of wine.  
+~
+0 0 5
+D0
+the throne room
+~
+~
+0 -1 20185
+D2
+the hall of pleasure
+~
+~
+0 -1 20182
+S
+#20185
+The Grand Throne Room~
+This is the grand throne room.  The room is covered in silk and gold.  A
+golden statue of Set is here, and a mound of cushions.  There is a large
+throne of Thulsa Doom.  It is an incredible work of gold and rare jewels,
+glittering in the light.  White curtains and tapestries line the walls as
+well.  
+~
+0 0 5
+D2
+the throne room
+~
+~
+0 -1 20184
+S
+#20186
+The Guard Room~
+This is the guard room in the Mountain of Power.  There are simple beds
+lined in a row here.  The sigil of the serpent god, Set, is painted upon the
+wall in a reddish paint that could easily double as blood.  
+~
+0 0 5
+D1
+the guard room
+~
+~
+0 -1 20187
+D3
+the hall of pleasure
+~
+~
+0 -1 20180
+S
+#20187
+The Guard Room~
+This is the guard room in the Mountain of Power.  There are simple beds
+lined in a row here.  The sigil of the serpent god, Set, is painted upon the
+wall in a reddish paint that could easily double as blood.  
+~
+0 0 5
+D3
+the guard room
+~
+~
+0 -1 20186
+S
+#20188
+The Guard Room~
+This is the guard room in the Mountain of Power.  There are simple beds
+lined in a row here.  The sigil of the serpent god, Set, is painted upon the
+wall in a reddish paint that could easily double as blood.  
+~
+0 0 5
+D1
+the hall of pleasure
+~
+~
+0 -1 20178
+D3
+the guard room
+~
+~
+0 -1 20189
+S
+#20189
+The Guard Room~
+This is the guard room in the Mountain of Power.  There are simple beds
+lined in a row here.  The sigil of the serpent god, Set, is painted upon the
+wall in a reddish paint that could easily double as blood.  
+~
+0 0 5
+D1
+the guard room
+~
+~
+0 -1 20188
+S
+#20190
+The Mountain of Power~
+This is the heart of the Mountain of Power.  There is a large reddish
+statue of Thulsa Doom here, in the center of the room.  The ceiling look
+rather low here as well.  
+~
+0 0 5
+E
+ceiling~
+There is a strange door in the ceiling.
+~
+D4
+the secret room
+~
+ceiling~
+1 -1 20191
+S
+#20191
+The Secret Room~
+This is a secret room.  The room is absouletly bare.  The only exit is
+north.  
+~
+0 0 5
+D0
+the secret room
+~
+~
+0 -1 20192
+S
+#20192
+The Secret Room~
+This is another secret room.  There is nothing here.  The stone ceiling
+and walls are still rough, as if the room was not carved out, but a natural
+formation.  The only exit is north since it is to cramped to turn around
+here.  
+~
+0 8192 5
+D0
+too dark to tell
+~
+~
+0 -1 20193
+S
+#20193
+The Cave In~
+The ceiling caves in blocking off the doorway there are no exits from
+this room.  
+~
+0 4 5
+S
+#20196
+The Blue Path~
+This is a bluish stone path is the land of Phaze.  To the north lies a
+bluish castle.  
+~
+0 0 2
+D0
+the blue path
+~
+~
+0 -1 20197
+D2
+~
+~
+0 0 20007
+S
+#20197
+The Blue Path~
+This is a blusih stone path in the land of Phaze.  To the north lies a
+bluish castle.  
+~
+0 0 2
+D0
+the blue path
+~
+~
+0 -1 20198
+D2
+the blue path
+~
+~
+0 -1 20196
+S
+#20198
+The Blue Path~
+This is a bluish stone path in the land of Phaze.  To the north lies a
+bluish castle.  
+~
+0 0 2
+D0
+the blue path
+~
+~
+0 -1 20199
+D2
+the blue path
+~
+~
+0 -1 20197
+S
+#20199
+The Blue Path~
+This is a bluish stone path in the land of Phaze.  To the north lies a
+bluish castle.  
+~
+0 0 2
+D0
+the blue path
+~
+~
+0 -1 20200
+D2
+the blue path
+~
+~
+0 -2 20198
+S
+#20200
+The Blue Path~
+This is a bluish stone path in the land of Phaze.  To the north lies a
+bluish castle.  
+~
+0 0 2
+D0
+the entrance the the demesnes
+~
+~
+0 -1 20201
+D2
+the blue path
+~
+~
+0 -1 20199
+S
+#20201
+The Entrance to the Blue Demesnes~
+There is a grand open gate here that looks very inviting.  Ahead to the
+north you can make out a bluish cast.  To the south lies a blue path.  
+~
+0 0 2
+D0
+the main path
+~
+~
+0 -1 20202
+D2
+the blue path
+~
+~
+0 -1 20200
+S
+#20202
+The Main Path~
+This is the main path of the Blue Demesnes.  There are bluish flowers
+here and bluegrass grows along the way.  
+~
+0 4 2
+D0
+~
+~
+0 0 20203
+D2
+~
+~
+0 0 20201
+S
+#20203
+The Main Path~
+This is the main path of the Blue Demesnes.  There are bluish flowers
+here an bluegrass grows along the way.  
+~
+0 0 2
+D0
+the main path
+~
+~
+0 -1 20204
+D2
+the main path
+~
+~
+0 -1 20202
+S
+#20204
+The Main Path~
+This is the main path of the Blue Demesnes.  There are bluish flowers
+here and bluegrass grows along the way.  
+~
+0 0 2
+D0
+the main doorway
+~
+~
+0 -1 20205
+D2
+the main path
+~
+~
+0 -1 20203
+S
+#20205
+The Main Doorway~
+The main doorway is here, with its doors thrown wide open, to greet all
+newcomers.  The castle is a grand sight, with flying butresses and blue
+turrets standing out.  Blue crystal windows and stained glass windows fill
+the interior with bluish light.  
+~
+0 0 2
+D0
+the foyer
+~
+~
+0 -1 20206
+D2
+~
+~
+0 0 20204
+S
+#20206
+The Foyer~
+This is the blue foyer of this castle.  There are beautiful tapestries
+upon the walls and a bluish light fills the room in an unearthly glow.  The
+foyer continues north and the main door is to the south.  
+~
+0 0 2
+D0
+the blue hall
+~
+~
+0 -1 20207
+D2
+the main doorway
+~
+~
+0 -1 20205
+S
+#20207
+The Blue Hall~
+Blue.  Blue.  Blue.  That is the only word to describe this hall. 
+Everything seems blue here.  The beautiful blue flowers in the blue crystal
+vases, the bluish tinted walls.  The blue velvet carpet is lush and soft. 
+The very air seems blue.  
+~
+0 0 2
+D0
+the blue hall
+~
+~
+0 -1 20211
+D1
+the blue hall
+~
+~
+0 -1 20208
+D2
+the foyer
+~
+~
+0 -1 20206
+D3
+the blue hall
+~
+~
+0 -1 20209
+S
+#20208
+The Blue Hall~
+Blue.  Blue.  Blue.  That is the only word to describe this hall. 
+Everything seems blue here.  The beautiful blue flowers in the blue crystal
+vases, the bluish tinted walls.  The blue velvet carpet is lush and soft. 
+The very air seems blue.  
+~
+0 0 2
+D0
+the blue hall
+~
+~
+0 -1 20212
+D3
+the blue call
+~
+~
+0 -1 20207
+S
+#20209
+The Blue Hall~
+Blue.  Blue.  Blue.  That is the only word to describe this hall. 
+Everything seems blue here.  The beautiful blue flowers in the blue crystal
+vases, the bluish tinted walls.  The blue velvet carpet is lush and soft. 
+The very air seems blue.  
+~
+0 0 2
+D0
+the blue hall
+~
+~
+0 -1 20210
+D1
+the blue hall
+~
+~
+0 -1 20207
+S
+#20210
+The Blue Hall~
+Blue.  Blue.  Blue.  That is the only word to describe this hall. 
+Everything seems blue here.  The beautiful flowers in the blue crystal
+vases, the bluish tinted walls.  The blue velvet carpet is lush and soft. 
+The very air seems blue.  
+~
+0 0 2
+D0
+the blue hall
+~
+~
+0 -1 20213
+D1
+the blue hall
+~
+~
+0 -1 20211
+D2
+the blue hall
+~
+~
+0 -1 20209
+D3
+the blue hall
+~
+~
+0 -1 20216
+S
+#20211
+The Blue Hall~
+Blue.  Blue.  Blue.  That is the only word to describe this hall. 
+Everything seems blue here.  The beautiful blue flowers in the blue crystal
+vases, the bluish tinted walls.  The blue velvet carpet is lush and soft. 
+The very air seems blue.  
+~
+0 0 2
+D0
+the blue hall
+~
+~
+0 -1 20214
+D1
+the blue hall
+~
+~
+0 -1 20212
+D2
+the blue hall
+~
+~
+0 -1 20207
+D3
+the blue hall
+~
+~
+0 -1 20210
+S
+#20212
+The Blue Hall~
+Blue.  Blue.  Blue.  That is the only word to describe this hall. 
+Everything seems blue here.  The beautiful blue flowers in the blue crystal
+vases, the bluish tinted walls.  The blue velvet carpet is lush and soft. 
+The very air seems blue.  
+~
+0 0 2
+D0
+the blue hall
+~
+~
+0 -1 20215
+D1
+the blue hall
+~
+~
+0 -1 20217
+D2
+the blue hall
+~
+~
+0 -1 20208
+D3
+the blue hall
+~
+~
+0 -1 20211
+S
+#20213
+The Blue Hall~
+Blue.  Blue.  Blue.  That is the only word to describe this hall. 
+Everything seems blue here.  The beautiful blue flowers in the blue crystal
+vases, the blusih tinted walls.  The blue velvet carpet is lush and soft. 
+The very air seems blue.  
+~
+0 0 2
+D1
+the blue hall
+~
+~
+0 -1 20214
+D2
+the blue hall
+~
+~
+0 -1 20210
+S
+#20214
+The Blue Hall~
+Blue.  Blue.  Blue.  That is the only word to describe this hall. 
+Everything seems blue here.  The beautiful blue flowers in the blue crystal
+vases, the bluish tinted walls.  The blue velvet carpet is lush and soft. 
+The very air seems blue.  
+~
+0 0 2
+D0
+the blue corridor
+~
+~
+0 -1 20220
+D1
+the blue hall
+~
+~
+0 -1 20215
+D2
+the blue hall
+~
+~
+0 -1 20211
+D3
+the blue hall
+~
+~
+0 -1 20213
+S
+#20215
+The Blue Hall~
+Blue.  Blue.  Blue.  That is the only word to describe this hall. 
+Everything seems blue here.  The beautiful blue flowers in the blue crystal
+vases, the bluish tinted walls.  The blue velvet carpet is lush and soft. 
+The very air seems blue.  
+~
+0 0 2
+D2
+the blue hall
+~
+~
+0 -1 20212
+D3
+the blue hall
+~
+~
+0 -1 20214
+S
+#20216
+The Blue Hall~
+Blue.  Blue.  Blue.  That is the only word to describe this hall. 
+Everything seems blue here.  The beautiful blue flowers in the blue crystal
+vases, the bluish tinted walls.  The blue velvet carpet is lush and soft. 
+The very air seems blue.  
+~
+0 0 2
+D1
+the blue hall
+~
+~
+0 -1 20210
+D3
+the blue hall
+~
+~
+0 -1 20219
+S
+#20217
+The Blue Hall~
+Blue.  Blue.  Blue.  That is the only word to describe this hall. 
+Everything seems blue here.  The beautiful blue flowers in the blue crystal
+vases, the bluish tinted walls.  The blue velvet carpet is lush and soft. 
+The very air seems blue.  
+~
+0 0 2
+D1
+the blue hall
+~
+~
+0 -1 20218
+D3
+the blue hall
+~
+~
+0 -1 20212
+S
+#20218
+The Blue Hall~
+Blue.  Blue.  Blue.  That is the only word to describe this hall. 
+Everything seems blue here.  The beautiful blue flowers in the blue crystal
+vases, the bluish tinted walls.  The blue velvet carpet is lush and soft. 
+The very air seems blue.  
+~
+0 0 2
+D3
+the blue hall
+~
+~
+0 -1 20217
+D4
+the stairs up
+~
+~
+0 -1 20223
+S
+#20219
+The Blue Hall~
+Blue.  Blue.  Blue.  That is the only word to describe this hall. 
+Everything seems blue here.  The beautiful blue flowers in the blue crystal
+vases, the bluish tinted walls.  The blue velvet carpet is lush and soft. 
+The very air seems blue.  The blue pasture is to the west.  
+~
+0 0 2
+D1
+the blue hall
+~
+~
+0 -1 20216
+D3
+the blue pasture
+~
+~
+0 -1 20245
+S
+#20220
+The Blue Corridor~
+There is a blue corridor that goes north and south.  
+~
+0 0 2
+D0
+the blue corridor
+~
+~
+0 -1 20221
+D2
+the blue hall
+~
+~
+0 -1 20214
+S
+#20221
+The Blue Corridor~
+There is a blue corridor that goes north and south.  
+~
+0 0 2
+D0
+the throne room
+~
+~
+0 -1 20222
+D2
+the blue corridor
+~
+~
+0 -1 20220
+S
+#20222
+The Throne Room~
+This is the throne room of the castle of the Blue Demesnes.  There is a
+large blue jewelled throne here, and a long narrow blue carpet runs from the
+throne to the south of the room.  A huge circular blue crystal window lets
+in slivers of bluish light.  Multicolored tapertries hang from the walls and
+various white marble statues stand against the west and east sides of the
+walls.  
+~
+0 0 2
+D2
+the blue corridor
+~
+~
+0 -1 20221
+S
+#20223
+The Blue Corridor~
+This corridor goes west and east.  There are rooms that line this
+corridor to the north and south along the way.  
+~
+0 0 2
+D3
+the blue corridor
+~
+~
+0 -1 20224
+D5
+the blue hall
+~
+~
+0 -1 20218
+S
+#20224
+The Blue Corridor~
+This corridor goes west and east.  There are rooms that line this
+corridor to the north and south along the way.  
+~
+0 0 2
+D0
+the bedroom
+~
+~
+0 -1 20227
+D1
+the blue corridor
+~
+~
+0 -1 20223
+D2
+the bedroom
+~
+~
+0 -1 20228
+D3
+the blue corridor
+~
+~
+0 -1 20225
+S
+#20225
+The Blue Corridor~
+This corridor goes west to east.  There are rooms that line this corridor
+to the north and south along the way.  
+~
+0 0 2
+D0
+the bedroom
+~
+~
+0 -1 20229
+D1
+the blue corridor
+~
+~
+0 -1 20224
+D2
+the bedroom
+~
+~
+0 -1 20230
+D3
+the blue corridor
+~
+~
+0 -1 20226
+S
+#20226
+The Blue Corridor~
+This corridor goes west and east.  There are rooms that line this
+corridor to the north and south along the way.  
+~
+0 0 2
+D0
+the bedroom
+~
+~
+0 -1 20231
+D1
+the blue corridor
+~
+~
+0 -1 20225
+D2
+the bedroom
+~
+~
+0 -1 20232
+D3
+the blue corridor
+~
+~
+0 -1 20233
+S
+#20227
+Stile's Bedroom~
+This is the Blue Adept's bedroom.  There is a small bed here decked out
+in blue sheets.  A closet, a footchest, and a few drawers.  There is nothing
+of interest here, since Stile is usually naked in the serf world of Proton
+in which he spends half his time.  
+~
+0 0 2
+D2
+the blue corridor
+~
+~
+0 -1 20224
+S
+#20228
+The Lady Blue's Room~
+This is the room of the Lady Blue.  There is an elegant blue bed here,
+canopied by blue silk curtains.  There is a closet on the south wall,
+completely full of blue garments.  
+~
+0 0 2
+D0
+the blue corridor
+~
+~
+0 -1 20229
+S
+#20229
+The Blue Adept's Study~
+There is a blue marble desk here and various manuscripts shelved upon the
+walls.  There is also a lovely portrait of the Lady Blue, astride here
+horse, Hinblue.  A large map of Phaze and one of Proton hang on the wall.  
+~
+0 0 2
+E
+map~
+You see the map of Phaze and Proton, about to juxtapose.
+~
+D2
+the blue corridor
+~
+~
+0 -1 20225
+S
+#20230
+The Guest Bedroom~
+This is the guest bedroom in the Blue castle.  There is nothing much here
+besides a blue bed, a closet, and empty drawers.  
+~
+0 0 2
+D0
+the blue corridor
+~
+~
+0 -1 20225
+S
+#20231
+The Guest Bedroom~
+This is the guest bedroom in the Blue castle.  There is nothing much here
+besides a blue bed, a closet, and empty drawers.  
+~
+0 0 2
+D2
+the blue corridor
+~
+~
+0 -1 20226
+S
+#20232
+The Guest Bedroom~
+This is the guest bedroom in the Blue castle.  There is nothing much here
+besides a blue bed, a closet, and empty drawers.  
+~
+0 0 2
+D0
+the blue corridor
+~
+~
+0 -1 20226
+S
+#20233
+Floating in a Blue Light~
+A wall slides shut as a magical stasis field is formed.  There are no
+exits.  
+~
+0 4 2
+S
+#20234
+The Blue Pasture~
+This is a serene blue pasture.  Lush blue grass grows high here along the
+bluish tinted trees.  There are chirping sounds.  
+~
+0 0 2
+D1
+the pasture
+~
+~
+0 -1 20235
+D2
+the pasture
+~
+~
+0 -1 20238
+S
+#20235
+The Blue Pasture~
+This is a serene blue pasture.  Lush blue grass grows high here along the
+bluish tinted trees.  There are chirping sounds.  
+~
+0 0 2
+D1
+the pasture
+~
+~
+0 -1 20236
+D2
+the pasture
+~
+~
+0 -1 20239
+D3
+the pasture
+~
+~
+0 -1 20234
+S
+#20236
+The Blue Pasture~
+This is a serene blue pasture.  Lush blue grass grows high here along the
+bluish tinted trees.  There are chirping sounds.  
+~
+0 0 2
+D1
+the pasture
+~
+~
+0 -1 20237
+D2
+the pasture
+~
+~
+0 -1 20240
+D3
+the pasture
+~
+~
+0 -1 20235
+S
+#20237
+The Blue Pasture~
+This is a serene blue pasture.  Lush blue grass grows high here along the
+bluish tinted trees.  There are chirping sounds.  
+~
+0 0 2
+D2
+the pasture
+~
+~
+0 -1 20241
+D3
+the pasture
+~
+~
+0 -1 20236
+S
+#20238
+The Blue Pasture~
+This is a serene blue pasture.  Lush blue grass grows high here along the
+bluish tinted trees.  There are chirping sounds.  
+~
+0 0 2
+D0
+the pasture
+~
+~
+0 -1 20234
+D1
+the pasture
+~
+~
+0 -1 20239
+D2
+the pasture
+~
+~
+0 -1 20242
+S
+#20239
+The Blue Pasture~
+This is a serene blue pasture.  Lush blue grass grows high here along the
+bluish tinted trees.  There are chirping sounds.  
+~
+0 0 2
+D0
+the pasture
+~
+~
+0 -1 20235
+D1
+the pasture
+~
+~
+0 -1 20240
+D2
+the pasture
+~
+~
+0 -1 20243
+D3
+the pasture
+~
+~
+0 -1 20238
+S
+#20240
+The Blue Pasture~
+This is a serene blue pasture.  Lush blue grass grows high here along the
+bluish tinted trees.  There are chirping sounds.  
+~
+0 0 2
+D0
+the pasture
+~
+~
+0 -1 20236
+D1
+the pasture
+~
+~
+0 -1 20241
+D2
+the pasture
+~
+~
+0 -1 20244
+D3
+the pasture
+~
+~
+0 -1 20239
+S
+#20241
+The Blue Pasture~
+This is a serene blue pasture.  Lush blue grass grows high here along the
+bluish tinted trees.  There are chirping sounds.  
+~
+0 0 2
+D0
+the pasture
+~
+~
+0 -1 20237
+D2
+the pasture
+~
+~
+0 -1 20245
+D3
+the pasture
+~
+~
+0 -1 20240
+S
+#20242
+The Blue Pasture~
+This is a serene blue pasture.  Lush blue grass grows high here along the
+bluish tinted trees.  There are chirping sounds.  
+~
+0 0 2
+D0
+the pasture
+~
+~
+0 -1 20238
+D1
+the pasture
+~
+~
+0 -1 20243
+D2
+the pasture
+~
+~
+0 -1 20246
+S
+#20243
+The Blue Pasture~
+This is a serene blue pasture.  Lush blue grass grows high here along the
+bluish tinted trees.  There are chirping sounds.  
+~
+0 0 2
+D0
+the pasture
+~
+~
+0 -1 20239
+D1
+the pasture
+~
+~
+0 -1 20244
+D2
+the pasture
+~
+~
+0 -1 20247
+D3
+the pasture
+~
+~
+0 -1 20242
+S
+#20244
+The Blue Pasture~
+This is a serene blue pasture.  Lush blue grass grows high here along the
+bluish tinted trees.  There are chirping sounds.  
+~
+0 0 2
+D0
+the pasture
+~
+~
+0 -1 20240
+D1
+the pasture
+~
+~
+0 -1 20245
+D2
+the pasture
+~
+~
+0 -1 20248
+D3
+the pasture
+~
+~
+0 -1 20244
+S
+#20245
+The Blue Pasture~
+This is a serene blue pasture.  Lush blue grass grows high here along the
+bluish tinted trees.  There are chirping sounds.  
+~
+0 0 2
+D0
+the pasture
+~
+~
+0 -1 20241
+D1
+the blue hall
+~
+~
+0 -1 20211
+D2
+the pasture
+~
+~
+0 -1 20249
+D3
+the pasture
+~
+~
+0 -1 20244
+S
+#20246
+The Blue Pasture~
+This is a serene blue pasture.  Lush blue grass grows high here along the
+bluish tinted trees.  There are chirping sounds.  
+~
+0 0 2
+D0
+the pasture
+~
+~
+0 -1 20242
+D1
+the pasture
+~
+~
+0 -1 20247
+D2
+the pasture
+~
+~
+0 -1 20250
+S
+#20247
+The Blue Pasture~
+This is a serene blue pasture.  Lush blue grass grows high here along the
+bluish tinted trees.  There are chirping sounds.  
+~
+0 0 2
+D0
+the pasture
+~
+~
+0 -1 20243
+D1
+the pasture
+~
+~
+0 -1 20248
+D2
+the pasture
+~
+~
+0 -1 20251
+D3
+the pasture
+~
+~
+0 -1 20246
+S
+#20248
+The Blue Pasture~
+This is a serene blue pasture.  Lush blue grass grows high here along the
+bluish tinted trees.  There are chirping sounds.  
+~
+0 0 2
+D0
+the pasture
+~
+~
+0 -1 20244
+D1
+the pasture
+~
+~
+0 -1 20249
+D2
+the pasture
+~
+~
+0 -1 20252
+D3
+the pasture
+~
+~
+0 -1 20247
+S
+#20249
+The Blue Pasture~
+This is a serene blue pasture.  Lush blue grass grows high here along the
+bluish tinted trees.  There are chirping sounds.  
+~
+0 0 2
+D0
+the pasture
+~
+~
+0 -1 20245
+D2
+the pasture
+~
+~
+0 -1 20253
+D3
+the pasture
+~
+~
+0 -1 20248
+S
+#20250
+The Blue Pasture~
+This is a serene blue pasture.  Lush blue grass grows high here along the
+bluish tinted trees.  There are chirping sounds.  
+~
+0 0 2
+D0
+the pasture
+~
+~
+0 -1 20246
+D1
+the pasture
+~
+~
+0 -1 20251
+S
+#20251
+The Blue Pasture~
+This is a serene blue pasture.  Lush blue grass grows high here along the
+bluish tinted trees.  There are chirping sounds.  
+~
+0 0 2
+D0
+the pasture
+~
+~
+0 -1 20247
+D1
+the pasture
+~
+~
+0 -1 20252
+D3
+the pasture
+~
+~
+0 -1 20250
+S
+#20252
+The Blue Pasture~
+This is a serene blue pasture.  Lush blue grass grows high here along the
+bluish tinted trees.  There are chirping sounds.  
+~
+0 0 2
+D0
+the pasture
+~
+~
+0 -1 20248
+D1
+the pasture
+~
+~
+0 -1 20253
+D3
+the pasture
+~
+~
+0 -1 20251
+S
+#20253
+The Blue Pasture~
+This is a serene blue pasture.  Lush blue grass grows high here along the
+bluish tinted trees.  There are chirping sounds.  
+~
+0 0 2
+D0
+the pasture
+~
+~
+0 -1 20249
+D3
+the pasture
+~
+~
+0 -1 20252
+S
+#0
+
+
+
+#SPECIALS
+M 20001 spec_thief
+M 20004 spec_thief
+M 20005 spec_cast_mage
+M 20006 spec_poison
+M 20007 spec_cast_mage
+M 20011 spec_cast_mage
+M 20013 spec_cast_mage
+M 20014 spec_cast_mage
+M 20015 spec_cast_mage
+M 20016 spec_cast_mage
+M 20020 spec_cast_mage
+M 20023 spec_cast_mage
+M 20024 spec_cast_mage
+S
+
+
+
+#RESETS
+M 0 20001 20 20003 20
+M 0 20001 20 20005 20
+M 0 20001 20 20005 20
+M 0 20001 20 20006 20
+M 0 20001 20 20007 20
+M 0 20001 20 20009 20
+M 0 20001 20 20010 20
+M 0 20001 20 20012 20
+M 0 20001 20 20013 20
+M 0 20001 20 20014 20
+M 0 20001 20 20016 20
+M 0 20001 20 20017 20
+M 0 20001 20 20018 20
+M 0 20001 20 20019 20
+M 0 20001 20 20020 20
+M 0 20001 20 20021 20
+M 0 20001 20 20022 20
+M 0 20001 20 20023 20
+M 0 20001 20 20027 20
+M 0 20001 20 20028 20
+M 0 20002 10 20029 10
+M 0 20002 10 20030 10
+M 0 20006 5 20031 5
+M 0 20004 10 20031 10
+M 0 20004 10 20033 10
+M 0 20002 10 20034 10
+M 0 20004 10 20035 10
+M 0 20006 5 20036 5
+M 0 20002 10 20036 10
+M 0 20004 10 20038 10
+M 0 20006 5 20040 5
+M 0 20002 10 20040 10
+M 0 20004 10 20044 10
+M 0 20006 5 20045 5
+M 0 20004 10 20045 10
+M 0 20002 10 20045 10
+M 0 20004 10 20047 10
+M 0 20002 10 20048 10
+M 0 20004 10 20050 10
+M 0 20006 5 20053 5
+M 0 20004 10 20053 10
+M 0 20002 10 20055 10
+M 0 20002 10 20056 10
+M 0 20003 6 20059 6
+M 0 20003 6 20060 6
+M 0 20003 6 20063 6
+M 0 20003 6 20064 6
+M 0 20003 6 20065 6
+M 0 20003 6 20066 6
+M 0 20002 10 20067 10
+M 0 20007 1 20071 1
+M 0 20004 10 20071 10
+M 0 20005 1 20072 1
+M 0 20014 10 20077 10
+M 0 20014 10 20089 10
+M 0 20014 10 20096 10
+M 0 20013 1 20101 1
+M 0 20011 1 20105 1
+M 0 20014 10 20107 10
+M 0 20012 1 20114 1
+M 0 20014 10 20119 10
+M 0 20014 10 20123 10
+M 0 20014 10 20125 10
+M 0 20014 10 20128 10
+M 0 20015 10 20135 10
+M 0 20015 10 20136 10
+M 0 20015 10 20136 10
+M 0 20015 10 20136 10
+M 0 20015 10 20136 10
+M 0 20015 10 20136 10
+M 0 20015 10 20137 10
+M 0 20015 10 20137 10
+M 0 20015 10 20137 10
+M 0 20015 10 20137 10
+M 0 20014 10 20141 10
+M 0 20014 10 20147 10
+M 0 20016 1 20149 1
+M 0 20017 10 20158 10
+M 0 20009 10 20159 10
+M 0 20010 10 20161 10
+M 0 20009 10 20163 10
+M 0 20019 15 20164 15
+M 0 20019 15 20164 15
+M 0 20010 10 20167 10
+M 0 20019 15 20168 15
+M 0 20009 10 20169 10
+M 0 20019 15 20170 15
+M 0 20019 15 20170 15
+M 0 20009 10 20172 10
+M 0 20010 10 20173 10
+M 0 20010 10 20173 10
+M 0 20017 10 20173 10
+M 0 20009 10 20174 10
+M 0 20010 10 20175 10
+M 0 20008 10 20175 10
+M 0 20018 10 20175 10
+M 0 20018 10 20175 10
+M 0 20009 10 20175 10
+M 0 20010 10 20176 10
+M 0 20008 10 20176 10
+M 0 20018 10 20176 10
+M 0 20017 10 20176 10
+M 0 20010 10 20177 10
+M 0 20008 10 20177 10
+M 0 20018 10 20177 10
+M 0 20018 10 20177 10
+M 0 20009 10 20177 10
+M 0 20008 10 20178 10
+M 0 20018 10 20178 10
+M 0 20009 10 20178 10
+M 0 20010 10 20179 10
+M 0 20019 15 20179 15
+M 0 20008 10 20179 10
+M 0 20008 10 20179 10
+M 0 20018 10 20179 10
+M 0 20017 10 20179 10
+M 0 20008 10 20180 10
+M 0 20018 10 20180 10
+M 0 20009 10 20180 10
+M 0 20010 10 20181 10
+M 0 20008 10 20181 10
+M 0 20018 10 20181 10
+M 0 20017 10 20181 10
+M 0 20019 15 20182 15
+M 0 20008 10 20182 10
+M 0 20009 10 20182 10
+M 0 20017 10 20182 10
+M 0 20021 1 20182 1
+M 0 20010 10 20183 10
+M 0 20008 10 20183 10
+M 0 20018 10 20183 10
+M 0 20017 10 20183 10
+M 0 20017 10 20183 10
+M 0 20017 10 20184 10
+M 0 20022 1 20184 1
+M 0 20020 1 20185 1
+M 0 20019 15 20186 15
+M 0 20019 15 20186 15
+M 0 20019 15 20187 15
+M 0 20019 15 20187 15
+M 0 20019 15 20188 15
+M 0 20019 15 20188 15
+M 0 20019 15 20189 15
+M 0 20019 15 20189 15
+M 0 20017 10 20190 10
+M 0 20023 1 20222 1
+M 0 20024 1 20228 1
+M 0 20031 1 20230 1
+M 0 20030 20 20234 20
+M 0 20030 20 20234 20
+M 0 20030 20 20235 20
+M 0 20030 20 20235 20
+M 0 20030 20 20236 20
+M 0 20029 1 20236 1
+M 0 20030 20 20237 20
+M 0 20028 10 20237 10
+M 0 20030 20 20238 20
+M 0 20030 20 20239 20
+M 0 20030 20 20240 20
+M 0 20028 10 20240 10
+M 0 20030 20 20241 20
+M 0 20030 20 20242 20
+M 0 20025 1 20242 1
+M 0 20030 20 20243 20
+M 0 20030 20 20244 20
+M 0 20026 1 20244 1
+M 0 20030 20 20245 20
+M 0 20030 20 20245 20
+M 0 20030 20 20246 20
+M 0 20028 10 20246 10
+M 0 20030 20 20247 20
+M 0 20028 10 20247 10
+M 0 20030 20 20248 20
+M 0 20028 10 20248 10
+M 0 20027 1 20248 1
+M 0 20028 10 20249 10
+M 0 20030 20 20250 20
+M 0 20028 10 20250 10
+M 0 20030 20 20251 20
+M 0 20028 10 20251 10
+M 0 20028 10 20252 10
+M 0 20028 10 20253 10
+S
+
+
+
+#SHOPS
+20003 0 0 0 0 0 100 50 0 23
+0
+
+
+
+#$

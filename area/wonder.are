@@ -1,0 +1,2249 @@
+#AREADATA
+Name Wonderland~
+Builders None~
+VNUMs 10900 10999
+Credits {50   90} Glory       Wonderland~
+Security 4
+End
+
+
+
+#MOBILES
+#10900
+giant bat~
+a giant bat~
+A giant bat swoops down upon you.
+~
+Out of the darkness, a giant bat flies at you gnashing its teeth
+viciously.  It tries to beat you to a pulp with its wings.  
+~
+unique~
+ABFGT TZ -500 0
+50 5 150d7+1700 1d1+499 10d5+5 bite
+-21 -21 -21 -5
+FHKU B 0 FS
+stand stand none 5000
+AGHMV ABCDEFGHIJKP large unknown
+#10901
+blinking lamp~
+a blinking lamp~
+A mysterious lamp blinks at you.
+~
+There is a small lamp resting on the floor in front of you.  It's shade
+is a bright pink in color, and the lightbulb seems to be blinking in
+patterns.  Could it be trying to tell you something?  
+~
+unique~
+ABGT 0 -100 0
+58 6 145d7+2175 1d1+499 15d3+5 shock
+-26 -26 -26 -8
+FKN BJOS 0 K
+stand stand none 5800
+AHMV ABCDEFGHIJK small unknown
+#10902
+glass table~
+a glass table~
+A polished glass table is here.
+~
+The table is made of slippery glass and you see a key suspended in its
+surface.  
+~
+unique~
+ABGT a 200 0
+55 6 155d7+1940 1d1+499 13d5+5 crush
+-24 -24 -24 -7
+CFIKN BIPRX F 0
+stand stand none 5500
+AHMV ABCDEFGHIJK medium unknown
+#10903
+soggy rat~
+a soggy rat~
+A soggy rat is swimming beside you.
+~
+A rat swims up beside you, barely able to keep his head above water.  He
+is paddling furiously, yet seems to make no progress.  
+~
+unique~
+ABGT VXb 465 0
+51 5 155d7+1720 1d1+499 15d3+5 bite
+-22 -22 -22 -5
+FKM BQ 0 J
+stand stand male 5100
+AGHMV ABCDEFGHIJK medium unknown
+#10904
+swarm gnats~
+a swarm of gnats~
+A swarm of gnats buzz noisily around your head.
+~
+You hear an incessant buzzing in your ear and try to swat away the
+annoyance.  The swarm breaks its formation to let your hand cut through,
+then reforms into a group again.  
+~
+unique~
+AT JTVa 100 0
+53 5 165d7+1760 1d1+499 13d5+5 scratch
+-22 -22 -22 -6
+FHK BFR 0 H
+stand stand none 5300
+AHMOV ABCDEFGHIJKP small unknown
+#10905
+dodo~
+a dodo bird~
+The Dodo bird is here overseeing the....race?
+~
+The Dodo bird is here rambling his rhetoric to all who will listen.  This
+portly bird is dressed in a silk vest and a top hat, and appears to be very
+snooty.  
+~
+unique~
+ABGT HLTb 785 0
+60 6 150d7+2250 1d1+499 13d5+5 bite
+-27 -27 -27 -9
+FIK AB R F
+stand stand male 6000
+AGW ACDEFHKP large unknown
+#10906
+maryanne~
+MaryAnne~
+MaryAnne is here rifling through the White Rabbit's drawers.
+~
+You see a young girl with long brown hair.  She is wearing a tasteful
+black maid's outfit and on top of her head is a little white cap.  She is so
+concerned with what she is doing, she doesn't notice you enter.  
+~
+unique~
+ABGT 0 300 0
+72 7 150d5+6450 1d1+499 15d5+5 none
+-35 -35 -35 -13
+EFIKN AB 0 0
+stand stand female 7200
+AHMV ABCDEFGHIJK medium unknown
+#10907
+dive-bombing bird~
+a dive-bombing bird~
+An annoying bird is here, dive-bombing your head.
+~
+Those beaks feel as if they've been sharpened on a whet stone.  This bird
+is in an absolute frenzy.  
+~
+unique~
+AFGT LTVZa -785 0
+50 5 150d7+1700 1d1+499 15d3+5 bite
+-21 -21 -21 -5
+EFHK AB 0 0
+stand stand male 5000
+AHMVW ABCDEFGHIJKPQ medium unknown
+#10908
+duchess~
+the Duchess~
+The Duchess is here cradling a squealing pig wrapped in a baby blanket.
+~
+The Duchess is an ugly sight indeed!  Her lips and nose take up half her
+face, and her hands look large enough to circle your head.  You consider
+telling her that's not a baby in the blanket, but think it better to remain
+silent.  
+~
+unique~
+ABGR HO 535 0
+76 8 320d5+5400 1d1+499 17d5+5 slash
+-38 -38 -38 -16
+EFIK AB LQ NT
+stand stand female 7600
+AHMV ABCDEFGHIJK large unknown
+#10909
+cook~
+the Cook~
+The Cook is angrily stomping about, muttering to herself.
+~
+The Cook holds a large pepper shaker in her hand and is shaking it all
+about.  She throws another plate into the next room before she notices you. 
+She screams at you and attacks!  
+~
+unique~
+ABFGT OVac -1000 0
+76 8 560d5+4800 1d1+499 17d5+5 punch
+-38 -38 -38 -16
+CDFIKN AB 0 ENR
+stand stand female 7600
+AHMV ABCDEFGHIJK large unknown
+#10910
+bread butterfly~
+a bread & butterfly~
+A bread & butterfly flits lazily from buttercup to buttercup.
+~
+You have never seen such a creature.  Each wing is a slice of bread with
+an inner coating of butter.  It almost looks good enough to eat, but it's so
+pretty you can't bring yourself to do it.  
+~
+unique~
+ABGQ HNT 850 0
+65 7 255d5+3275 1d1+499 15d5+5 none
+-30 -30 -30 -10
+FHK ABNQ G 0
+stand stand female 6500
+AHMOV ABCDEFGHIJKP medium unknown
+#10911
+caterpillar~
+the Caterpillar~
+The Caterpillar is resting upon a mushroom while blowing smoke rings.
+~
+You see a very large caterpillar with what must be at least 20 legs.  His
+body is curled up comfortably on a huge comfy pillow and he obviously is
+enjoying his hookah.  
+~
+unique~
+ABGR Lc 250 0
+80 8 400d5+6000 1d1+499 16d5+5 slash
+-40 -40 -40 -15
+EFIK AB LQ 0
+stand stand male 8000
+AHMORV ABCDEFGHIJK large unknown
+#10912
+cheshire cat~
+the Cheshire Cat~
+The Cheshire Cat is grinning at you from the tree bough.
+~
+This striped cat entertains himself by gradually fading in and out of
+sight, one body part at a time.  The only thing that never fades is his
+smile.  
+~
+unique~
+ABGR BLNZ 639 0
+80 8 500d5+5500 1d1+499 16d5+5 scratch
+-40 -40 -40 -15
+CEFHKM ABLNQ 0 0
+stand stand male 8000
+AGV ACDEFHJKQUV large unknown
+#10913
+rockinghorse fly~
+a rockinghorse fly~
+A rockinghorse fly sways on the breeze.
+~
+You hear a soft neighing sound against your ear as the rockinghorse fly
+buzzes by.  
+~
+unique~
+ABGT DT 100 0
+52 5 160d5+1540 1d1+499 10d5+5 scratch
+-22 -22 -22 -8
+FHKU ABE 0 0
+stand stand none 5200
+AHMOV ABCDEFGHIJKP small unknown
+#10914
+mad hatter~
+the Mad Hatter~
+The Mad Hatter is seated at the head of the table.
+~
+The Mad Hatter's hat is two sizes too big for him and is constantly
+sliding down and bumping against his nose.  He is wearing green and white
+checkered pants, a long purple coat with tails, and a bright red oversized
+bowtie.  
+~
+unique~
+ABGT DFV 500 0
+85 9 450d5+6250 1d1+499 19d5+5 slash
+-47 -47 -47 -18
+CDFIK ABL E 0
+sit stand male 8500
+AHMV ABCDEFGHIJK large unknown
+#10915
+raven~
+a raven~
+A raven is perched upon a writing desk.
+~
+This raven has an impressive wingspan and is so black his feathers shine.  
+~
+unique~
+ABGT Tc -750 0
+69 70 283d5+3415 1d1+499 15d10+5 none
+-32 -32 -32 -11
+CFHK AB 0 H
+stand stand male 6900
+AGW ACDEFHKP medium unknown
+#10916
+march hare~
+the March Hare~
+The March Hare is here tormenting the dormouse.
+~
+The March Hare wears a wide-brimmed straw hat and an array of clothing
+colored in an array of pastels.  His eyes carry a look of lunacy in them.  
+~
+unique~
+ABGT V -300 0
+79 8 490d5+5450 1d1+499 17d5+5 scratch
+-38 -38 -38 -13
+FHIJKN AB 0 0
+sit stand male 7900
+AGV ACDEFHJK large unknown
+#10917
+hedgehog~
+a hedgehog~
+A hedgehog rolls along the ground.
+~
+This adorable little furball squeaks noisily as it curls up and rolls
+along the ground.  You feel the urge to hit it with a mallet.  
+~
+unique~
+ACGT V 750 0
+52 5 260d7+1040 1d1+499 11d5+5 bite
+-22 -22 -22 -6
+FHKU B 0 E
+stand stand none 5200
+AGV ACDEFHJK small unknown
+#10918
+flamingo~
+a pink flamingo~
+A pink flamingo eyes you nervously.
+~
+This elegant creature has a very long neck and long stick-like legs. 
+Seems if you could find a way to straighten its neck it would make a
+marvelous croquet mallet.  
+~
+unique~
+AGT TVb 250 0
+56 6 180d7+1820 1d1+499 13d5+5 pierce
+-24 -24 -24 -24
+FHIKU B R J
+stand stand none 5600
+AGW ACDEFHKP medium unknown
+#10919
+jack spades~
+the Jack of Spades~
+The Jack of Spades is pondering his next move.
+~
+The Jack of Spades has a thin black moustache that curls up at the tips,
+and blonde wavy hair.  He is quite handsome in appearance and gives the
+impression of being a romeo.  He is dressed in fine clothing.  
+~
+unique~
+ABGT 0 -350 0
+73 7 400d5+5300 1d1+499 15d5+5 none
+-35 -35 -35 -13
+EFIJK ABE 0 0
+sit sit male 7300
+AHMV ABCDEFGHIJK large unknown
+#10920
+jack diamonds~
+the Jack of Diamonds~
+The Jack of Diamonds is concentrating on the game.
+~
+The Jack of Diamonds has a thin black moustache that curls up on the end
+and straight blonde hair that rests just below his shoulders.  He is dressed
+in velvet finery and carries a pensive look on his face.  
+~
+unique~
+ABGT 0 350 0
+73 7 350d5+5550 1d1+499 15d5+5 punch
+-35 -35 -35 -13
+EFIJK ABE 0 0
+sit sit male 7300
+AHMV ABCDEFGHIJK large unknown
+#10921
+white rabbit~
+the White Rabbit~
+The White Rabbit is pacing nervously.
+~
+The White Rabbit keeps pulling his pocketwatch from his waistcoat and
+checking the time while muttering something to himself.  He doesn't sit
+still for a moment.  
+~
+unique~
+ABGT DFLV 750 0
+83 8 430d5+6150 1d1+499 18d5+5 scratch
+-43 -43 -43 -17
+EFHIKN ABN LQ 0
+stand stand male 8300
+AGV ACDEFHJK large unknown
+#10922
+ten hearts~
+the Ten of Hearts~
+The Ten of Hearts is sleeping here.
+~
+The Ten of Hearts must have had a long day for he is sleeping peacefully
+with his head down on the table.  
+~
+unique~
+ABGT 0 250 0
+70 7 290d5+3450 1d1+499 15d5+5 none
+-34 -34 -34 -12
+EFIKN AB 0 0
+sleep sleep male 7000
+AHMV ABCDEFGHIJK medium unknown
+#10923
+king hearts~
+the King of Hearts~
+The King of Hearts looks surprised.
+~
+Though small in stature, the King of Hearts carries a sense of regality
+about him and is somewhat handsome in his own special way.  He rarely has
+problems occupying his time while the Queen of Hearts is busy ruling
+Wonderland.  
+~
+unique~
+ABGR DFNVc 450 0
+88 9 480d5+6400 1d1+499 19d5+5 none
+-40 -40 -40 -15
+CEFIJK ABN LQ R
+stand stand male 8800
+AHMV ABCDEFGHIJK large unknown
+#10924
+bill lizard~
+Bill~
+The White Rabbit's gardener, Bill, is raising a ruckus.
+~
+You assume that this lizard's name is Bill since the rest of the jurors
+keep reprimanding him by name.  He has the look of a simpleton and his green
+hands obviously have seen years of hard work.  
+~
+unique~
+ABGT NV 750 0
+63 6 221d5+1345 1d1+499 13d5+5 pierce
+-28 -28 -28 -10
+EFIK AB L I
+stand stand male 6300
+AGXc ACDEFHKQV medium unknown
+#10925
+knave hearts~
+the Knave of Hearts~
+The Knave of Hearts is chained to the wall.
+~
+A dashing young man is before you, trying desperately to break free from
+the chains.  He eyes the plate of tarts and drools.  
+~
+unique~
+ABGT DFO -350 0
+78 8 380d5+5900 1d1+499 17d5+5 punch
+-38 -38 -38 -13
+0 ABM ELQ 0
+stand stand male 7800
+AHMV ABCDEFGHIJK large none
+#10926
+queen hearts~
+the Queen of Hearts~
+The Queen of Hearts lunges for your head!
+~
+The Queen of Hearts is a massive figure hellbent on removing your head as
+a trophy.  She is dressed in magnificent robes adorned with heart-shaped
+rubies, and a crown of solid gold.  Her heart-topped sceptre bashes down
+upon your head.  
+~
+unique~
+ABFGR DFHLOVc -1000 0
+90 9 450d5+6750 1d1+499 19d5+5 none
+-45 -45 -45 -20
+CDEFIKN ABELMQ 0 0
+stand stand female 9000
+AHMV ABCDEFGHIJK huge unknown
+#10927
+mock turtle~
+the Mock Turtle~
+The Mock Turtle is here sobbing.
+~
+It depresses you to be in the same room as this creature.  His little
+ears droop, and the turtle heaves a long sigh before resuming his sobbing.  
+~
+unique~
+ABGQ HL 750 0
+82 8 420d5+6100 1d1+499 17d5+5 none
+-42 -42 -42 -16
+0 ABN LQ I
+stand stand male 8200
+AGXc ABCDEFGHKQV medium unknown
+#0
+
+
+
+#MOBPROGS
+#0
+
+
+
+#OBJECTS
+#10900
+bat wing~
+a bat wing~
+A torn off bat wing is on the ground.~
+flesh~
+food 0 A
+1 50 0 0 0
+20 5 500 24 P
+E
+wing~
+This large bat wing looks mighty tasty.  
+~
+#10901
+extension cord~
+an extension cord~
+A thick black cord sparks on the ground.~
+cord~
+weapon B AN
+whip 10 5 shock G
+55 10 2000 0 P
+E
+cord~
+This thick cord is ridged and stiff.  It feels electrified.  
+~
+#10902
+glass key~
+a glass key~
+A tiny key made of glass.~
+glass~
+key 0 AO
+0 0 0 0 0
+1 1 500 0 P
+#10903
+drink-me bottle~
+a "Drink-Me" bottle~
+A bottle with a tag tied to it.~
+liquid~
+potion 0 AO
+50 'giant strength' 'fly' '' ''
+30 10 3000 0 P
+E
+tag~
+The tag reads, "Drink-Me".  
+~
+#10904
+pile leaves~
+leaves~
+A large pile of leaves.~
+leaves~
+trash 0 P
+0 0 0 0 0
+1 0 0 0 P
+E
+pile~
+These leaves must have blown in from above.  
+~
+E
+leaves~
+These leaves must have blown in from above.  
+~
+#10905
+soggy skin~
+a soggy rat skin~
+Some soggy skin drips on the floor.~
+flesh~
+armor A AK
+17 17 17 6 0
+50 15 2500 0 P
+A
+2 2
+A
+14 50
+E
+skin~
+This length of skin reeks of stagnant water.  
+~
+#10906
+vest~
+a feathered vest~
+A feathered vest is on the ground.~
+cloth~
+armor 0 AD
+20 20 20 8 0
+60 5 1500 0 P
+A
+19 3
+A
+18 3
+E
+vest~
+This vest is made of a high-quality cloth and is decorated with purple
+feathers.  
+~
+#10907
+whistle~
+an ivory whistle~
+A whistle has been discarded here.~
+ivory~
+wand B AO
+50 5 5 'charm person' 0
+60 5 4000 0 P
+E
+whistle~
+You see a small ivory whistle.  
+~
+#10908
+welcome mat~
+a welcome mat~
+A welcome mat is on the porch.~
+straw~
+container 0 P
+50 AC 0 1000 150
+1 0 0 0 P
+#10909
+key~
+a metal key~
+A metal key.~
+metal~
+key 0 A
+0 0 0 0 0
+1 1 500 0 P
+#10910
+key~
+a wooden key~
+A carved wooden key is here.~
+wood~
+key 0 A
+0 0 0 0 0
+1 1 500 0 P
+#10911
+wooden chest~
+a small wooden chest~
+A small wooden chest is here.~
+wood~
+container 0 P
+100 ACD 10910 100 150
+30 10 500 0 P
+E
+chest~
+This small chest has intricate designs carved into it.  
+~
+#10912
+pocketwatch~
+a gold pocketwatch~
+A gold pocketwatch on a long chain~
+gold~
+jewelry 0 AO
+0 0 0 0 0
+70 12 4500 0 P
+A
+13 50
+A
+9 -20
+E
+pocketwatch~
+This is made of the finest gold and shines with a luster of midday.  It
+is obviously treasured by its owner.  
+~
+#10913
+pile gold~
+a pile of gold~
+A pile of gold.~
+gold~
+money 0 A
+2000 0 0 0 0
+1 1 2000 0 P
+#10914
+vanity~
+the vanity table~
+A mohagony vanity table.~
+wood~
+container 0 P
+50 AC 0 500 0
+1 50 500 0 P
+E
+vanity~
+The vanity is made of sturdy mohagony and has not a speck of dust upon
+it.  It must be dusted quite often.  
+~
+#10915
+key~
+a metal key~
+A metal key.~
+metal~
+key 0 A
+0 0 0 0 0
+1 1 500 0 P
+#10916
+lace cap~
+a lace cap~
+A lace cap is on the ground.~
+lace~
+armor 0 AE
+23 23 23 9 0
+70 3 2000 0 P
+A
+4 3
+E
+cap~
+This dainty cap is stronger than it appears.  
+~
+#10917
+maid outfit~
+a maid outfit~
+A maid outfit is crumpled on the floor.~
+cloth~
+armor 0 AD
+24 24 24 9 0
+72 5 3000 0 P
+A
+1 1
+A
+13 40
+E
+outfit~
+You see a tasteful little black dress with a white apron sewn to the
+waist.  
+~
+#10918
+white gloves~
+a pair of white gloves~
+A pair of white gloves are on the ground.~
+cloth~
+armor 0 AH
+23 23 23 9 0
+70 3 3000 0 P
+A
+12 30
+E
+gloves~
+These gloves seem to be made for small hands.  Perhaps if you squeeze
+really hard you can slide them on.  
+~
+#10919
+feather duster~
+a feather duster~
+A feather duster is in the corner.~
+feathers~
+wand B AO
+50 5 5 'detect invis' 0
+60 5 5000 0 P
+E
+duster~
+The feathers tickle your nose and cause you to sneeze.  
+~
+#10920
+velvet robes~
+velvet robes~
+Velvet robes lie in a heap.~
+velvet~
+armor B AD
+25 25 25 10 0
+76 15 4000 0 P
+A
+12 30
+A
+17 -10
+E
+velvet~
+These robes are fit for royalty.  They are made of soft crimson velvet
+and shelter you warmly.  
+~
+#10921
+pig blanket~
+a pig in a blanket~
+A pig in a blanket oinks at you.~
+flesh~
+food 0 AO
+3 60 0 0 0
+30 10 2400 20 P
+#10922
+ladle~
+a heavy ladle~
+A heavy ladle is on the ground.~
+metal~
+weapon B AN
+mace 13 5 smash 0
+75 3 4000 0 P
+A
+19 2
+A
+18 2
+A
+1 2
+A
+2 2
+E
+ladle~
+This ladle is tarnished and has a few dents in it.  Seems it has bashed a
+head or two.  
+~
+#10923
+pepper shaker~
+a pepper shaker~
+A pepper shaker is on its side.~
+pepper~
+potion B AO
+30 'frenzy' 'fly' 'reserved' 'reserved'
+60 1 3500 0 P
+E
+shaker~
+Pepper flies everywhere as you examine the shaker.  
+~
+#10924
+butter knife~
+a butter knife~
+A butter knife is on the ground.~
+silver~
+weapon B AN
+dagger 11 5 slice D
+65 3 4000 0 P
+A
+19 2
+A
+18 2
+E
+butter~
+The teeth on this knife are razor sharp and seems to have been used for
+more than spreading butter.  
+~
+#10925
+pollen~
+a dusting of pollen~
+A dusting of pollen lies on the ground.~
+pollen~
+pill A AO
+60 'change sex' 'reserved' 'reserved' 'reserved'
+60 1 2000 0 P
+#10926
+chrysalis~
+a chrysalis~
+A chrysalis is on the ground.~
+membrane~
+armor B AK
+20 20 20 8 0
+80 3 4500 0 P
+A
+14 20
+A
+12 60
+E
+chrysalis~
+This membrane looks as if it would provide a strong reinforcement from
+attacks.  
+~
+#10927
+hookah~
+a hookah~
+Smoke drifts from a hookah.~
+synthetic~
+weapon 0 AN
+exotic 11 7 smash 0
+80 10 6000 0 P
+A
+19 5
+A
+18 5
+E
+hookah~
+The hookah is lit and smoke is lazily flowing from the mouthpiece as the
+water gurgles softly within.  
+~
+#10928
+smoke ring~
+a smoke ring~
+A Smoke Ring drifts in the air.~
+smoke~
+armor A AE
+20 20 20 8 0
+80 2 4000 0 P
+A
+1 2
+A
+18 2
+A
+4 2
+E
+smoke~
+This ring of smoke would fit perfectly around your head.  
+~
+#10929
+toadstool~
+a spotted toadstool~
+A spotted toadstool stands out from the rest.~
+fungi~
+wand A AO
+60 4 4 'cure poison' 0
+60 2 4500 0 P
+E
+toadstool~
+This large toadstool is red with big white spots.  You sense an energy
+eminating from it.  
+~
+#10930
+grin~
+a Grin~
+A Grin wobbles on the ground.~
+teeth~
+wand B AO
+60 5 5 'invisibility' 0
+60 1 4000 0 P
+E
+grin~
+Seems though the Cheshire Cat's body was mortal, his grin is eternal.  
+~
+#10931
+cat paw~
+a Cat's Paw~
+A severed Cat's Paw is on the ground.~
+fur~
+weapon 0 AN
+exotic 13 6 scratch H
+80 2 4000 0 P
+A
+19 2
+A
+18 2
+E
+paw~
+This paw was once attached to a curious cat.  
+~
+#10932
+bridle~
+a tiny bridle~
+A tiny bridle is on the ground.~
+leather~
+pill 0 AO
+40 'armor' 'reserved' 'reserved' 'reserved'
+50 1 3000 0 P
+#10933
+bowtie~
+an Oversized Bowtie~
+An oversized bowtie is on the ground.~
+cloth~
+armor 0 AC
+28 28 28 11 0
+85 1 3000 0 P
+E
+bowtie~
+This big red bowtie covers your entire neckline.  
+~
+#10934
+checkered pants~
+checkered pants~
+A pair of green and white checkered pants.~
+cloth~
+armor 0 AF
+28 28 28 11 0
+85 2 3000 0 P
+E
+pants~
+These green and white checkered pants make an interesting addition to
+your attire.  
+~
+#10935
+hatter's hat~
+the Mad Hatter's Hat~
+The Mad Hatter's Hat is on the ground.~
+felt~
+armor B AE
+21 21 21 9 0
+85 5 5000 0 P
+A
+1 2
+A
+13 30
+E
+hat~
+You see a very tall, very large hat with a tag that reads "3/2" pasted to
+the brim.  
+~
+#10936
+dormouse~
+a Dormouse~
+A Dormouse is dozing on the ground.~
+flesh~
+weapon 0 AN
+exotic 10 7 bite H
+79 3 3500 0 P
+E
+dormouse~
+This dormouse has a vicious bite.  Better watch your fingers.  
+~
+#10937
+coat pastels~
+a Coat of Pastels~
+A multi-colored coat is crumpled on the ground.~
+cloth~
+armor 0 AK
+26 26 26 10 0
+79 3 3000 0 P
+E
+coat~
+This coat has several patches of pastel fabrics quilted together.  
+~
+#10938
+writing desk~
+a writing desk~
+A writing desk is built into the ground.~
+wood~
+container 0 P
+50 AC 0 50 50
+1 10 500 0 P
+#10939
+eraser~
+an Eraser~
+An eraser is here.~
+rubber~
+wand B AO
+50 3 3 'invisibility' 0
+60 2 4000 0 P
+#10940
+silver pentagram~
+a Silver Pentagram~
+A silver pentagram glows here.~
+silver~
+armor A AC
+17 17 17 7 0
+69 2 4000 0 P
+A
+12 40
+E
+pentagram~
+A silver pentagram dangles on a long silver chain.  It glows with a
+magical aura.  
+~
+#10941
+table~
+the table~
+A long table set for tea.~
+wood~
+furniture 0 P
+5 1000 ABE 10 10
+1 0 500 0 P
+#10942
+key~
+a key made of bark~
+A key carved from a tree is here.~
+bark~
+key 0 AO
+0 0 0 0 0
+1 1 500 0 P
+#10943
+black sabre~
+a Black Sabre~
+A black-bladed sabre lies here.~
+metal~
+weapon B AN
+sword 12 5 slash 0
+70 5 4500 0 P
+A
+18 3
+A
+19 3
+E
+sabre~
+The blade has a black hue to it, and the dark hilt is painted with spades.  
+~
+#10944
+diamond blade~
+the Diamond Blade~
+A diamond-bladed sword lies on the ground.~
+diamond~
+weapon B AN
+sword 12 5 slash 0
+70 4 4000 0 P
+A
+19 4
+E
+sword~
+The blade and hilt of this sword are formed from crushed diamonds.  
+~
+#10945
+rabbit ears~
+a set of Rabbit Ears~
+A set of rabbit ears are on the ground.~
+unknown~
+wand B AO
+60 5 5 'detect invis' 0
+75 2 5000 0 P
+#10946
+embroidered sleeves~
+embroidered sleeves~
+A set of embroidered sleeves are here.~
+thread~
+armor 0 AI
+28 28 28 10 0
+83 2 4000 0 P
+A
+13 40
+A
+3 2
+A
+2 2
+A
+5 2
+E
+sleeves~
+Dark purple, black, and burgundy threads are embroidered into beautiful
+patterns, lending a look of finery to these sleeves.  
+~
+#10947
+battered pocketwatch~
+a battered pocketwatch~
+A battered pocketwatch ticks slowly.~
+pyrite~
+jewelry 0 AO
+0 0 0 0 0
+20 1 2000 0 P
+A
+14 -20
+E
+pocketwatch~
+This pocketwatch is made of iron pyrite, giving it a false look of value.
+It obviously has seen better days.  
+~
+#10948
+javelin~
+a Heart-tipped Javelin~
+A heart-tipped javelin has been discarded here.~
+metal~
+weapon B AN
+staff 12 5 pierce D
+70 5 3000 0 P
+A
+19 2
+A
+18 2
+E
+javelin~
+You see a solid metal javelin, its tip in the shape of an upside-down
+heart.  The tip of the heart is quite sharp 
+~
+#10949
+rose apple~
+a rose apple~
+A sweet smelling apple.~
+fruit~
+potion 0 AO
+40 'sleep' '' '' ''
+40 1 2500 0 P
+E
+apple~
+You see a green apple with an extremely soft skin.  The scent of roses
+tickle your nose.  
+~
+#10950
+crown~
+the King of Hearts' Crown~
+A polished crown lies here.~
+gold~
+armor B AE
+21 21 21 9 0
+85 5 5000 0 P
+A
+18 2
+A
+19 2
+A
+5 2
+A
+17 -10
+A
+20 -5
+E
+crown~
+This crown is made of gold, and the tips are formed into ruby hearts.  
+~
+#10951
+heart brief~
+a pair of Heart Briefs~
+A pair of briefs are on the ground.~
+fabric~
+armor B AL
+22 22 22 9 0
+88 1 5000 0 P
+A
+12 30
+A
+13 20
+E
+briefs~
+Upon first glance, these briefs seem to provide no protection, but it
+seems the King of Hearts has had these custom made all the way down to the
+big red heart sewn to the front.  
+~
+#10952
+plate tarts~
+a plate of tarts~
+A plate of delicious looking tarts.~
+food~
+trash 0 P
+0 0 0 0 0
+1 1 500 0 P
+E
+plate~
+No wonder the Knave risked persecution to steal these tarts.  You drool
+uncontrollably.  
+~
+#10953
+hoe~
+a Garden Hoe~
+A garden hoe has been discarded here.~
+metal~
+weapon 0 AN
+exotic 11 5 crush 0
+63 3 2000 0 P
+E
+hoe~
+This hoe has gotten a workout it seems.  It is encrusted with dried soil
+and tinged with red---what could that be?  
+~
+#10954
+royal sceptre~
+the Royal Sceptre~
+A jeweled sceptre is on the ground.~
+metal~
+armor B AO
+23 23 23 9 0
+90 5 6000 0 P
+A
+17 -10
+A
+13 50
+E
+sceptre~
+You have the urge to shout "Off with your head"!  
+~
+#10955
+heart insignia~
+a Heart Insignia~
+A heart insignia is on the ground.~
+metal~
+armor A AC
+23 23 23 9 0
+90 1 5000 0 P
+A
+19 5
+A
+17 -30
+E
+insignia~
+Dangling from a chain is a beautiful heart insignia, glowing with power.  
+~
+#10956
+royal robes~
+the Royal Robes~
+A pile of fine robes are on the ground.~
+cloth~
+armor B AK
+23 23 23 9 0
+90 8 6000 0 P
+A
+4 2
+A
+14 50
+A
+17 -10
+A
+20 -15
+E
+robes~
+These robes provide some of the finest protection available in these
+lands.  
+~
+#10957
+turtle shell~
+a Turtle Shell~
+A turtle shell wobbles on the ground~
+shell~
+armor B AK
+27 27 27 8 0
+80 8 1 0 P
+A
+1 -1
+A
+2 -2
+A
+17 -10
+A
+22 -5
+A
+23 -5
+E
+turtle~
+This shell must have slipped off the Mock Turtle while he was sleeping.  
+~
+#10958
+bat ear sonar~
+a bat's ear~
+A bat's ear is sending off sonar waves.~
+ear~
+wand a AO
+50 6 6 'dispel magic' 0
+50 5 850 0 P
+#10959
+large sign wooden~
+a large wooden sign~
+A very LARGE wooden sign catches your attention.~
+wooden~
+trash 0 P
+0 0 0 0 0
+1 50 500 0 P
+E
+sign~
+*WARNING* Proceed downward only at your own risk. HIGH LEVEL AREA.
+signed,
+Guardians of the Realm
+~
+#0
+
+
+
+#ROOMS
+#10900
+1~
+~
+0 4 2
+D1
+~
+~
+0 0 319
+D5
+~
+~
+0 0 10901
+S
+#10901
+Falling~
+You find yourself in a freefall, speeding quickly through the seemingly
+endless space.  Your life flashes before your eyes and you fervently pray to
+your Gods.  
+~
+0 1 0
+D4
+~
+~
+0 0 10900
+D5
+~
+~
+0 0 10902
+S
+#10902
+Pile of Leaves~
+Just as you are feverishly deciding who to leave your worn Newbie Bag to,
+you land roughly in a deep pile of leaves.  You blink your eyes and check to
+make sure you've suffered no lasting injuries.  Alive and well, you stand
+and shake the leaves from your armor.  Looking up, it becomes apparent that
+leaving the way you came is impossible.  Now what?  Wait, is that a light
+you see to the east?  
+~
+0 0 0
+D1
+~
+~
+0 0 10903
+S
+#10903
+Hallway~
+A brightly lit hallway extends before you.  Lamps of all shapes and sizes
+line the walls.  One lamp in particular catches your attention.  It seems to
+be blinking its light at you.  
+~
+0 8 0
+D1
+~
+~
+0 0 10904
+D3
+~
+~
+0 0 10902
+S
+#10904
+Glass Table~
+The hallway ends here.  There is a partially open curtain on the north
+wall that appears to be hiding a door.  A three-legged table rests in the
+center of the room.  It is made entirely of glass, and resting atop the
+table is a bottle filled with a dark liquid.  Attached to the bottle is a
+tag with the words, "DRINK ME", written on it.  
+~
+0 12 0
+D0
+~
+door~
+3 10902 10905
+D3
+~
+~
+0 0 10903
+S
+#10905
+Pool of Tears~
+You lose your footing and splash clumsily into a giant pool of water. 
+During the process of quickly remembering how to doggie-paddle, you suck
+down a mouthful of water.  It tastes strikingly similar to tears (not that
+you've ever cried any of course).  But what manner of creature could have
+created such a pool of water?  
+~
+0 0 0
+D1
+~
+~
+0 0 10907
+D2
+~
+door~
+3 10902 10904
+D3
+~
+~
+0 0 10906
+S
+#10906
+Caucus Race~
+You emerge soaking wet from the Pool of Tears and climb onto dry ground. 
+There are all manners of creatures running round a small circular racetrack.
+No one seems to start at the same place, or end in the same place.  
+~
+0 0 3
+D1
+~
+~
+0 0 10905
+S
+#10907
+Forest~
+You emerge from the Pool of Tears into a deeply wooded forest.  Squeaks
+and chitterings bombard your ears from every direction.  Suddenly, you feel
+sharp beaks diving down upon your head, causing you to cry out in pain. 
+There are worn paths to the north and south, and the forest continues to the
+east.  
+~
+0 1 3
+D0
+~
+~
+0 0 10912
+D1
+~
+~
+0 0 10916
+D2
+~
+~
+0 0 10908
+D3
+~
+~
+0 0 10905
+S
+#10908
+Quaint Cottage~
+You wander a little ways down the dirt path that ends in a small clearing
+surrounded by the deeper forest.  Before you is a quaint little cottage with
+a brown thatch roof.  The roof is formed into two peaks that look incredibly
+like two rabbit ears.  The door to the cottage is south of where you are
+standing.  
+~
+0 0 3
+D0
+~
+~
+0 0 10907
+D2
+~
+door~
+3 10909 10909
+S
+#10909
+Inside the White Rabbit's House~
+Upon entering this small dwelling, you notice that things don't look
+quite right.  Everything seems to have been scaled down in size.  There is a
+grandfather clock ticking serenely in the corner, as its hands drift lazily
+around in circles.  The room is quite tidy with little wooden furniture
+placed evenly about.  A set of winding wooden stairs lead up.  
+~
+0 8 0
+D0
+~
+door~
+3 10909 10908
+D2
+~
+closet~
+3 10915 10911
+D4
+~
+~
+0 0 10910
+S
+#10910
+The White Rabbit's Bedroom~
+At the top of the stairs you see the entrance to a large bedroom.  You
+wander inside, disregarding the White Rabbit's privacy for the sake of your
+own curiosity.  A little bed rests in the corner of the room overlaid with a
+cushioned white coverlet.  A vanity table is positioned under a window on
+the north wall, and various grooming items are arranged neatly atop a lace
+doily.  The White Rabbit's maid is here snooping through his belongings.  
+~
+0 8 0
+D5
+~
+~
+0 0 10909
+S
+#10911
+Closet~
+This is where the White Rabbit keeps all of his treasures.  As you rustle
+through the jumble of belongings you find a picture of a young girl in a
+blue pinafore.  You toss that aside and find a small wooden chest with
+beautiful patterns carved into it.  
+~
+0 9 0
+D0
+~
+~
+3 10915 10909
+S
+#10912
+The Duchess's House~
+After a few twists and turns of the dirt path, you come across a modest
+house with a manicured lawn.  A loud ruckus eminates from the direction of
+the house.  The door to the house is north.  
+~
+0 0 3
+D0
+~
+door~
+1 0 10913
+D2
+~
+~
+0 0 10907
+S
+#10913
+Inside the Duchess's House~
+You narrowly avoid being pelted in the head with a flying plate as you
+enter the abode.  The room is in shambles, broken dishes piled across the
+floor.  You hear someone stomping around in the next room, and every few
+seconds another plate comes whizzing through the air from that direction.  
+~
+0 8 0
+D0
+~
+screen~
+1 0 10915
+D2
+~
+door~
+1 0 10912
+D3
+~
+~
+0 0 10914
+S
+#10914
+The Kitchen~
+You sneeze several times the instant you enter this kitchen as the air is
+clouded with pepper.  There is a couldron of unidentifiable muck boiling
+over on the stove.  The Cook is in such a frenzy that she doesn't notice you
+right away.  But, your luck quickly turns, and you become her next target
+(much to the relief of the dishes).  
+~
+0 8 0
+D1
+~
+~
+0 0 10913
+S
+#10915
+Bread & Butterfly~
+You exit through the back door of the house and find a gurgling stream
+passing through the various wildflowers growing here.  On a patch of
+buttercups, you notice what at first appears to be a typical butterfly. 
+However, upon closer inspection you see that its wings are made of two
+slices of bread with an inner coating of butter.  
+~
+0 0 2
+D2
+~
+~
+1 0 10913
+S
+#10916
+The Dark Forest~
+Those nasty birds are at it again!  Maybe you should have worn a thicker
+head covering.  The forest continues east and south.  
+~
+0 1 3
+D1
+~
+~
+0 0 10919
+D2
+~
+~
+0 0 10917
+D3
+~
+~
+0 0 10907
+S
+#10917
+The Caterpillar~
+Through an opening in the trees you see a slight haze of smoke.  As you
+walk through the opening you see a mushroom larger than you ever have
+imagined.  Its cap is perfectly round, and stretching your arms wide around
+it would barely begin to cover its circumference.  An immense blue
+caterpillar is perched on top, smoking a huge hookah.  
+~
+0 0 3
+D0
+~
+~
+0 0 10916
+D2
+~
+branch~
+1 0 10918
+S
+#10918
+Mushroom Patch~
+A variety of mushrooms and toadstools grow thickly upon the forest floor.
+You wonder it it's safe to be breathing in the mass of spores streaming from
+the fungi.  
+~
+0 1 3
+D0
+~
+~
+1 0 10917
+S
+#10919
+Cheshire Cat~
+You come to an intersection in the woods.  An extremely tall birch tree
+grows in the middle of the intersection with a sign nailed to its trunk.  A
+thick branch extends out from the tree about 3 feet above your head. 
+Resting upon the branch is a very fat calico cat slowly twitching his tail. 
+He leans his head on his paws and grins at you.  
+~
+0 0 3
+E
+sign~
+The sign reads:
+         The March Hare's House-----> north
+         The Mad Hatter------------> south
+~
+D0
+~
+~
+0 0 10920
+D1
+~
+~
+0 0 10927
+D2
+~
+~
+0 0 10922
+D3
+~
+~
+0 0 10916
+S
+#10920
+March Hare House~
+A large patch of carrot tops stick out of the ground to the east.  In
+front of you is a large house painted in pastel colors with the shades drawn
+tightly over the windows.  A hastily scribbled note is posted on the front
+door.  
+~
+0 0 3
+E
+note~
+Out to Tea!  
+~
+D0
+~
+~
+4 0 10934
+D1
+~
+~
+0 0 10921
+D2
+~
+~
+0 0 10919
+S
+#10921
+Carrot Patch~
+Several rows of carrots push up from the garden soil.  A wheelbarrow
+overflowing with gardening equipment sits in the middle of the garden as if
+someone left in a hurry.  
+~
+0 0 2
+D3
+~
+~
+0 0 10920
+S
+#10922
+Rockinghorse Flies~
+Floating lights blink in and out of view in the surrounding trees.  You
+hear a buzzing near your ears and swat at the annoyance.  Suddenly the
+buzzing grows louder and you find yourself surrounded by a swarm of flies. 
+One lands on your shoulder and you see these are flies you have never
+encountered before.  Their bodies are in the shape of small horses and their
+legs are rockers.  The sound of voices is coming from the south.  
+~
+0 1 3
+D0
+~
+~
+0 0 10919
+D2
+~
+~
+0 0 10923
+S
+#10923
+Tea Party~
+The table stretched before you must be at LEAST 20 feet long.  It is
+covered with teapots of various shapes and sizes including one large enough
+to step into.  There are several plates filled with shortbread cookies,
+scones, and various finger sandwiches.  Seems you're just in time for tea. 
+An odd-looking man with an oversized hat sits at the head of the table.  A
+large rabbit dressed in a colorful suit sits across from him, trying to
+stuff a dormouse into a teapot.  
+~
+0 0 3
+D0
+~
+~
+0 0 10922
+D1
+~
+~
+0 0 10924
+D2
+~
+~
+0 0 10925
+S
+#10924
+Raven and the Writing Desk~
+A raven is here perched upon a writing desk.  This is where the Mad
+Hatter comes to contemplate the age old question: Why is a raven like a
+writing desk?  The raven spreads its wings wide, daring you to come closer. 
+~
+0 1 3
+D3
+~
+~
+0 0 10923
+S
+#10925
+Treacle Well~
+You escape the insanity of the tea party and find yourself in a small
+glen with a stone well off to the side.  The sides of the well are dripping
+with a dark sticky substance.  There is a rope leading down into the well.  
+~
+0 1 3
+D0
+~
+~
+0 0 10923
+D5
+~
+~
+0 0 10926
+S
+#10926
+Molasses~
+Your hands slip off the rope and you land in a hip-high pile of molasses.
+If nothing else, you'll eat well for awhile until you rot away in this
+forgotten well.  
+~
+0 13 0
+S
+#10927
+Dogwood Tree~
+The air is peaceful here, and the fresh scent of the forest soothes your
+mind.  A short nap sounds incredibly enticing at the moment.  In fact,
+there's a nice big tree made of dogwood that would perfect to lean up
+against.  The bark looks a bit strange now that you're looking directly at
+it.  It almost looks like there's a doorknob on it.  
+~
+0 0 3
+D0
+~
+tree~
+3 10942 10928
+D3
+~
+~
+0 0 10919
+S
+#10928
+Beautiful Garden~
+You stand in awe as you take in the beauty surrounding you.  A neatly
+clipped lawn extends as far as the eye can see, and small stone paths draw
+geometric designs around patches of flora.  An immense fountain sprays
+crystalline water high into the air.  The main path leads north and east.  
+~
+0 0 2
+D0
+~
+~
+0 0 10931
+D1
+~
+~
+0 0 10929
+D2
+~
+~
+3 10942 10927
+S
+#10929
+Hedgehog Haven~
+*SQUEAK* You look down to see a little brown furball scurrying away from
+under your foot.  In fact, there are a large number of little furballs here,
+some curling into balls and rolling about, others taking a breather.  
+~
+0 0 2
+D0
+~
+~
+0 0 10930
+D3
+~
+~
+0 0 10928
+S
+#10930
+Flamingo Pond~
+A shallow pond is here, surrounded by several elegant pink flamingos
+preening their feathers.  They look at you and back away nervously.  
+~
+0 0 2
+D2
+~
+~
+0 0 10929
+D3
+~
+~
+0 0 10931
+S
+#10931
+Rose Bushes~
+A grove of rose bushes line the stone paths, filling the air with their
+lovely aroma.  All but two of the bushes are adorned with white roses, and
+the two that aren't seem to have--paint?  --dripping from them.  
+~
+0 0 2
+D0
+~
+~
+0 0 10935
+D1
+~
+~
+0 0 10930
+D2
+~
+~
+0 0 10928
+D3
+~
+~
+0 0 10932
+S
+#10932
+House of Cards~
+Various playing cards the size of humans are stacked together, some on
+top of eachother, some with their heads leaning together, all forming a tall
+structure big enough to house many beings.  The Jack of Spades and the Jack
+of Diamonds are sitting at a picnic table playing backgammon.  
+~
+0 0 2
+D0
+~
+~
+0 0 10933
+D1
+~
+~
+0 0 10931
+S
+#10933
+Croquet Field~
+The playing cards that were supposed to be wickets seem to have taken it
+upon themselves to have a rest.  Hedgehogs roll about to and fro,
+ricocheting off eachother in a game of tag.  That stray flamingo over there
+is just asking to be your mallet.  The door to a beautiful castle is to the
+north.  
+~
+0 0 2
+D0
+~
+door~
+1 0 10938
+D1
+~
+~
+0 0 10935
+D2
+~
+~
+0 0 10932
+D3
+~
+~
+0 0 10937
+S
+#10934
+~
+
+~
+0 0 0
+D2
+~
+~
+4 0 10920
+S
+#10935
+Croquet Field~
+The playing field is scattered with playing cards doubled over as croquet
+wickets, and various creatures club at hedgehogs with their flamingos.  A
+rabbit dressed in a waistcoat and gloves nervously paces the croquet field,
+constantly looking about as if expecting someone.  Before you can approach
+him, a flamingo flies toward you in a frenzy, squawking loudly.  
+~
+0 0 2
+D1
+~
+~
+0 0 10936
+D2
+~
+~
+0 0 10931
+D3
+~
+~
+0 0 10933
+S
+#10936
+The Mock Turtle~
+Resting upon a large stone is a sad looking fellow with big watery eyes
+and a large green shell covering his body.  He flashes you a pathetic look
+and sighs loudly.  
+~
+0 0 3
+D3
+~
+~
+0 0 10935
+S
+#10937
+Croquet Field~
+You are in the far western end of the croquet field.  You can hear the
+chaos of the game from the east, but here it is peaceful.  There is a small
+pond near the border of trees surrounding the field, and periodically small
+fish jump up from the pond and dive back in.  
+~
+0 0 2
+D1
+~
+~
+0 0 10933
+S
+#10938
+Castle Hall~
+As you gaze about you notice the walls of this entry hall seem to be
+glazed and slippery, and they are a brilliant white in color.  A wide carpet
+stretches to the north.  It is decorated with hearts, spades, diamonds, and
+clubs all woven together in beautiful patterns.  Doors lead to the east and
+west.  
+~
+0 8 0
+D0
+~
+~
+0 0 10941
+D1
+~
+~
+1 0 10940
+D2
+~
+door~
+1 0 10933
+D3
+~
+~
+1 0 10939
+S
+#10939
+Guard Room~
+This small room has a wooden table with two chairs whose backs are carved
+into hearts.  The Ten of Hearts has fallen asleep here.  
+~
+0 8 0
+D1
+~
+~
+1 0 10938
+S
+#10940
+Guard Room~
+The guard here must have abandonded his post, as the room is empty. 
+There is a large portrait mounted on the wall, and there are cookie crumbs
+scattered over the floor.  
+~
+0 8 0
+E
+crumbs~
+The crumbs are pinkish in color and give you the impression they were
+dropped from something mighty tasty.  
+~
+E
+portrait~
+The portrait is a depiction of a tall, overbearing looking woman dressed
+in the garb of card-like royalty.  She carries a sceptre topped with a large
+red heart.  
+~
+D3
+~
+~
+1 0 10938
+S
+#10941
+Castle Foyer~
+You feel as if you've walked into a Valentine's Day card.  Everywhere you
+look you see red hearts of every shape and size.  Heart-shaped candles
+mounted on the heart-shaped fireplace, a heart-shaped grandfather clock
+nestled in the corner.  You half expect little heart-shaped children and
+heart-shaped mice to scurry into the room.  There are stairs leading up, and
+an exit to the west.  
+~
+0 8 0
+D2
+~
+~
+0 0 10938
+D3
+~
+~
+0 0 10943
+D4
+~
+~
+0 0 10942
+S
+#10942
+The King's Study~
+OOPS---you get the feeling you aren't supposed to be here.  A scrawny
+little man is here with nothing on but a crown and a pair of briefs with a
+big red heart pasted on them.  He jumps up from the recliner he was in and
+quickly throws a blanket over the shapely form that is there with him.  You
+try to sneak a peek but she seems to be cowering under the blanket.  You do,
+however, notice a pile of servants clothes in the corner of the room.  
+~
+0 8 0
+D5
+~
+~
+0 0 10941
+S
+#10943
+Trial Room~
+You seem to have entered a courtroom complete with wooden spectator
+benches, a polished wooden floor with a red carpet leading to a magnificent
+throne adorned with ruby hearts, and a jury-box containing a hodgepodge of
+curious creatures.  Above the throne is a life-size painting of the Queen of
+Hearts.  A wiry green lizard is raising a commotion in the jury-box.  You
+see a plain wooden door to the west .  You seem to have entered a courtroom
+complete with wooden spectator benches, a polished wooden floor with a
+scarlet carpet leading to a magnificent throne adorned with ruby hearts, and
+a jury-box containing a hodgepodge of curious creatures.  Above the throne
+is a life-size painting of the Queen of Hearts.  A wiry green lizard is
+raising a commotion in the jury-box.  You see a plain wooden door to the
+west, and a heavily jeweled door to the north.  
+~
+0 8 0
+D0
+~
+door~
+1 0 10945
+D1
+~
+~
+0 0 10941
+D3
+~
+door~
+3 0 10944
+S
+#10944
+Knave of Hearts~
+A feeling of claustrophobia washes over you in this tiny cell.  The Knave
+of Hearts is here, chained to the wall with a plate of tarts just out of his
+reach.  
+~
+0 8 0
+D1
+~
+door~
+3 0 10943
+S
+#10945
+The Queen's Chambers~
+The Queen of Hearts whirls around, infuriated at the intrusion!  Her head
+is giant compared to the rest of her looming body, and the brightly colored
+designs of her apparel makes you dizzy as you look at her.  Her face begins
+to turn a bright red, her fists clench, and her body begins to shake as her
+anger gets ready to erupt.  
+~
+0 8 0
+D2
+~
+door~
+1 0 10943
+S
+#0
+
+
+
+#SPECIALS
+M 10901 spec_breath_lightning
+M 10903 spec_poison
+M 10908 spec_cast_mage
+M 10911 spec_breath_gas
+M 10912 spec_cast_mage
+M 10923 spec_cast_mage
+M 10926 spec_cast_mage
+S
+
+
+
+#RESETS
+D 0 10904 0 2
+D 0 10905 2 2
+D 0 10908 2 2
+D 0 10909 0 2
+D 0 10909 2 2
+D 0 10911 0 2
+D 0 10912 0 1
+D 0 10913 0 1
+D 0 10913 2 1
+D 0 10915 2 1
+D 0 10917 2 1
+D 0 10918 0 1
+D 0 10920 0 2
+D 0 10927 0 2
+D 0 10928 2 2
+D 0 10933 0 1
+D 0 10934 2 2
+D 0 10938 1 1
+D 0 10938 2 1
+D 0 10938 3 1
+D 0 10939 1 1
+D 0 10940 3 1
+D 0 10943 0 1
+D 0 10943 3 2
+D 0 10944 1 2
+D 0 10945 2 1
+M 0 10900 2 10901 2
+G 0 10900 0
+M 0 10900 2 10901 2
+G 0 10900 0
+G 0 10958 0
+O 0 10904 0 10902
+M 0 10901 1 10903 1
+E 0 10901 0 16
+M 0 10902 1 10904 1
+G 0 10903 0
+G 0 10902 0
+M 0 10904 2 10905 1
+M 0 10903 1 10905 1
+E 0 10905 0 5
+M 0 10904 2 10906 1
+M 0 10905 1 10906 1
+E 0 10906 0 5
+E 0 10907 0 17
+M 0 10907 4 10907 2
+M 0 10907 4 10907 2
+O 0 10908 0 10908
+P 0 10909 1 10908 1
+M 0 10906 1 10910 1
+G 0 10915 0
+E 0 10916 0 6
+E 0 10917 0 5
+E 0 10918 0 9
+E 0 10919 0 17
+O 0 10914 0 10910
+P 0 10910 1 10914 1
+O 0 10911 0 10911
+P 0 10912 1 10911 1
+P 0 10913 1 10911 1
+M 0 10908 1 10913 1
+E 0 10920 0 5
+E 0 10921 0 17
+M 0 10909 1 10914 1
+E 0 10922 0 16
+E 0 10923 0 17
+M 0 10910 1 10915 1
+E 0 10924 0 16
+E 0 10925 0 17
+M 0 10907 4 10916 2
+M 0 10907 4 10916 2
+M 0 10911 1 10917 1
+E 0 10926 0 12
+E 0 10927 0 16
+E 0 10928 0 6
+O 0 10929 0 10918
+M 0 10912 1 10919 1
+G 0 10930 0
+E 0 10931 0 16
+M 0 10913 3 10922 3
+G 0 10932 0
+M 0 10913 3 10922 3
+G 0 10932 0
+M 0 10913 3 10922 3
+G 0 10932 0
+M 0 10916 1 10923 1
+E 0 10936 0 16
+E 0 10937 0 12
+M 0 10914 1 10923 1
+E 0 10933 0 3
+E 0 10934 0 7
+E 0 10935 0 6
+O 0 10941 0 10923
+M 0 10915 1 10924 1
+E 0 10940 0 3
+O 0 10938 0 10924
+P 0 10939 1 10938 1
+P 0 10942 1 10938 1
+M 0 10917 7 10929 2
+M 0 10917 7 10929 2
+M 0 10918 4 10930 2
+M 0 10918 4 10930 2
+M 0 10917 7 10931 1
+M 0 10917 7 10931 1
+M 0 10920 1 10932 1
+E 0 10944 0 16
+M 0 10919 1 10932 1
+E 0 10943 0 16
+M 0 10917 7 10932 1
+M 0 10918 4 10933 2
+M 0 10917 7 10933 2
+M 0 10918 4 10935 1
+M 0 10921 1 10935 1
+G 0 10945 0
+E 0 10946 0 10
+E 0 10947 0 17
+M 0 10917 7 10935 1
+M 0 10927 1 10936 1
+E 0 10957 0 12
+M 0 10922 1 10939 1
+E 0 10948 0 16
+G 0 10949 0
+M 0 10923 1 10942 1
+E 0 10950 0 6
+E 0 10951 0 13
+M 0 10924 1 10943 1
+E 0 10953 0 16
+M 0 10925 1 10944 1
+O 0 10952 0 10944
+M 0 10926 1 10945 1
+E 0 10954 0 17
+E 0 10955 0 3
+E 0 10956 0 12
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

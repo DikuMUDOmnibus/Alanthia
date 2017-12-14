@@ -1,0 +1,106 @@
+#AREADATA
+Name Gnome Balloons~
+Builders Fluffy Halodar~
+VNUMs 20300 20499
+Credits {??? ???} Ali/Madi    Gnome Balloons~
+Security 9
+Version 1
+End
+
+
+
+#MOBILES
+#20300
+gribs~
+Gribs~
+{wA ruddy cheeked gnome, called {cGribs{w, looks up from his patch work.
+~
+For a bit of gold, he can take you almost anywhere, so long as its on the
+sign.  
+~
+unique~
+AB H 1000 0
+309 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 AB LQ F
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+M speech 20300 midgaard~
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#20300
+{mGribs' Traveling Balloons{X~
+A small but well kept launching pad, in a clearing of trees, that the
+local gnomes use for their massive and colorful balloons.  Looking at the
+small {Csign{X tacked up on a nearby tree would let one know where this
+particular ballooning station can take a paying customer to.  
+~
+0 1029 0
+E
+sign~
+{X
+{X
+{C / ------------------------------------------------------- \
+|   / - \   {D*{C                                {D*{C      / - \   |
+|\  \    |                                         |    /  /|
+|  \    /|                                         |\    /  |
+|    --  |                                         |  --    |
+|        |                                         |        |
+|        |                                         |        |
+|        |                                         |        |
+|        |  {D*{C                                {D*{C     |        |
+|        |                                         |        |
+ \       |-----------------------------------------|       /
+   \    /                                           \    /
+     --                                               --{X
+{X
+{X
+~
+S
+#20301
+~
+
+~
+0 4 0
+S
+#20302
+~
+
+~
+0 4 0
+S
+#20303
+~
+
+~
+0 4 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 20300 1 20300 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

@@ -1,0 +1,878 @@
+#AREADATA
+Name The Abyss~
+Builders None~
+VNUMs 700 799
+Credits {  ALL  } Jared       Abyss~
+Security 9
+End
+
+
+
+#MOBILES
+#700
+war horseman apocalypse~
+War~
+The incarnation of War brings chaos and conflict to the land!
+~
+Before you stands the incarnation of War. It wears the bloodiest armor you have ever seen. Gauntlets stained crimson, his might knows no bounds!
+~
+unique~
+AFGT HV 0 0
+300 0 1000d1000+50000 0d0+0 0d0+0 wrath
+0 0 0 0
+ACEFHIJKNORVX ABEFG D CNS
+stand stand none 0
+AHMVZ ABCDEFGHIJKLOPQUVWXY medium unknown
+#701
+red horse apocalypse~
+The red horse of War~
+A red horse wades through a river of blood.
+~
+~
+unique~
+AB 0 0 0
+305 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+CDFHIJKLMNORVX AB EG CFNS
+sleep stand none 0
+AHMVZ ABCDEFGHIJKLOPQUVWXY small unknown
+#702
+famine horseman apocalypse~
+Famine~
+(no long description)
+~
+~
+unique~
+AFGQ 0 0 0
+300 0 0d0+0 0d0+0 0d0+0 digestion
+0 0 0 0
+0 0 HLQ IKNS
+stand stand none 0
+AHMVZ ABCDEFGHIJKLOPQUVWXY medium unknown
+#703
+black horse apocalypse~
+The black horse of Famine~
+(no long description)
+~
+~
+unique~
+AB 0 0 0
+285 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 HLQ IKNS
+stand stand none 0
+AHMVZ ABCDEFGHIJKLOPQUVWXY medium unknown
+#704
+pestilence horseman apocalypse~
+Pestilence~
+(no long description)
+~
+~
+unique~
+AFGQ 0 0 0
+300 0 0d0+0 0d0+0 0d0+0 wrath
+0 0 0 0
+0 0 HLQ IKNS
+stand stand none 0
+AHMVZ ABCDEFGHIJKLOPQUVWXY medium unknown
+#705
+white horse apocalypse~
+The white horse of Pestilence~
+(no long description)
+~
+~
+unique~
+AB 0 0 0
+285 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 HLQ IKNS
+stand stand none 0
+AHMVZ ABCDEFGHIJKLOPQUVWXY medium unknown
+#706
+death horseman apocalypse~
+Death~
+(no long description)
+~
+~
+unique~
+AFGR 0 0 0
+300 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 HLQ IKNS
+stand stand none 0
+AHMVZ ABCDEFGHIJKLOPQUVWXY medium unknown
+#707
+pale horse apocalypse~
+The pale horse of Death~
+(no long description)
+~
+~
+unique~
+AB 0 0 0
+285 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 HLQ IKNS
+stand stand none 0
+AHMVZ ABCDEFGHIJKLOPQUVWXY medium unknown
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#700
+A Solid, Gray Fog~
+You stand before an enormous expanse of rolling, thick fog.  Glancing
+left and right, the gray extends as far as you can see in either direction. 
+But instead of rolling outward to swallow the rest of the realm, it remains
+suspended in the air like a shroud.  You are about to turn and walk swiftly
+when the darkness parts ominously.  A gate rises before you waiting to be
+opened.  Meanwhile, imaginary voices whisper, "Turn back now."  
+~
+0 32769 2
+E
+fog~
+You plunge your hand bravely, or perhaps foolishly, into the fog and
+nearly collapse as a deep chill settles into your bones.  As the cold seeps
+into your soul, you recoil and fall to the ground staring intently at your
+hand.  Surprisingly, it is still attached to your body.  
+~
+D0
+~
+gate~
+1 0 701
+S
+#701
+Path through Nothing~
+Stepping through the gate leaves you on a solitary, dim path.  The bleak
+fog on either side of you is impenetrable.  No life sits anywhere and the
+only movement is that of the fog surrounding you.  There is no visible
+landscape or vegetation.  There is only the path leading south away from
+this insanity or north to the unknown.  
+~
+0 32773 2
+D0
+~
+~
+0 0 702
+D2
+~
+gate~
+1 0 700
+S
+#702
+Path through Nothing~
+The darkness assails your senses filling you with claustrophobic
+delusions.  Tendrils of fog seek your flesh but recoil from the path that
+radiates a faint nimbus of holiness.  You can still flee from this forsaken
+land or continue north.  
+~
+0 32773 2
+E
+path~
+The path beneath your feet radiates a slight aura of purity.  You kneel
+and touch the earth sensing potent, but struggling magic.  Hopefully, it is
+sufficient to keep the darkness at bay.  
+~
+D0
+~
+~
+0 0 703
+D2
+~
+~
+0 0 701
+S
+#703
+Path through Nothing~
+You pause momentarily sensing something different in the air.  You notice
+that the darkness seems to collapse inward then roll outward with greater
+force.  Yet, it does not spill onto the path that holds it at bay with
+magic.  You feel another force working against the blight but cannot place
+where its restorative powers come from.  Suddenly, you notice movement
+ahead.  
+~
+0 32773 2
+D0
+~
+~
+0 0 704
+D2
+~
+~
+0 0 702
+S
+#704
+Hanging Garden~
+You stand on the path between two stark patches of darkness.  Nothing
+seems different until you notice flowers littering the edges of the road. 
+Death lilies and black roses lie there in various states of decay.  You peer
+into the waning darkness and make out the faint outline of trees.  What
+could grow in this bleak land?  You squint to discern the trees from the
+endless night and are surprised that they thrive.  Undulating branches grasp
+dead men and women of various races by their necks.  Flesh occasionally
+falls onto the ground as fertilizer.  You see a tree leaning nearer to the
+path then the rest.  It grasps a corpse close enough to touch.  
+~
+0 32769 3
+D0
+~
+~
+0 0 710
+D1
+~
+~
+0 0 705
+D2
+~
+~
+0 0 703
+S
+#705
+A Worn Path~
+The darkness recedes several feet from the path's light that has grown in
+intensity.  Hints of renewed life are apparent as you step cautiously to
+avoid trampling it underfoot.  A calming breeze blows from the east where
+the light grows steadily.  
+~
+0 32768 3
+D1
+~
+~
+0 0 706
+D3
+~
+~
+0 0 704
+S
+#706
+A Patch of Light~
+Bright light surrounds you as you step from the retreating darkness. 
+Feelings of peace and contentment flow through you easing past sorrows and
+weariness from your bones.  A desire to stay and rest beneath the shade of a
+tree enters your mind.  A bed of grass and flowers radiate an aura of
+tranquility.  The patch of compressed flora seems to indicate that many
+travellers have heeded the summons to rest.  An innocent cottage stands
+nearby.  Perhaps you should explore it after a nap.  
+~
+0 33792 3
+E
+tree~
+A giant tree looms above you and birds seek shelter in its branches.  You
+sigh in contentment and wonder how anything could grow so freely in this
+blight.  *pLoP* A bird has an accident on your head.  Muttering with slight
+annoyance, you decide that it is time for that yearly bath when you find a
+spring.  
+~
+D1
+~
+~
+0 0 707
+D3
+~
+~
+0 0 705
+M 125 H 125
+S
+#707
+Before the Cottage~
+Giant trees rise before you to an impossible and dizzying height.  These
+sentinels somehow block out the darkness and gray fog.  Soon, the path ends
+at a picket fence, gate swinging open at the hinges.  Though no one is
+around, the cottage appears to be in perfect maintenance.  Flowers in the
+garden bloom and continue to flourish.  You approach a door.  Maybe you
+should knock although no one seems at home.  After a minute, you turn to
+leave but light glints from a shadowed windowpane attracting your attention.
+~
+0 32768 3
+D1
+~
+window~
+1 0 708
+D3
+~
+~
+0 0 706
+S
+#708
+Inside a Quiet Home~
+Silence.  Overwhelming silence fills your senses.  You nearly collapse
+from the vertigo and nausea that sudden removal of sensation induces. 
+Slowly recovering your bearings, you lean on the window for support and look
+about the room.  There is an air of antiquity hovering around you.  Yet,
+everything appears clean and orderly.  No dust covers any space.  A stove is
+hidden in an alcove near the rear of the cottage and a small table is
+situated near it.  A polished skull lies on the table.  To your left,
+numerous books line the shelves and you begin to see runes of power
+inscribed on the walls.  Looking carefully, you see the runes flare briefly
+and faintly with a green light.  Darkness swallows the cottage momentarily
+then retreats.  You turn to the door but it will not budge.  Neither will
+the window.  You are trapped!  
+~
+0 40968 0
+E
+skull~
+A skull rests on the table staring emptily into space.  While you try to
+puzzle out what creature's skull this is, empty sockets animate with life
+briefly.  You step away.  
+~
+E
+runes~
+When the runes lay dormant, you edge closer to the inscriptions and
+realize that they act as wards against evil.  You feel a sensation similar
+to that of the path radiating from these runes.  
+~
+E
+stove~
+The stove appears to be in perfect working order.  Opening it, you
+discover that you can crawl inside.  Where does it lead?  
+~
+D1
+~
+stove~
+1 0 700
+D4
+~
+trapdoor~
+3 0 709
+S
+#709
+The Attic~
+You lift open the trapdoor and heave yourself onto the hardwood of the
+attic floor.  Standing upright, you sense something different in the air. 
+Tiny shafts of light poke through minute holes in the ceiling revealing
+specks of dust.  Sturdy chests are scattered throughout the attic and you
+see archaic relics on the floor.  Everything seems disturbed for some
+reason.  Before you can scavenge through the objects further, waves of
+darkness send you sprawling.  Cautiously, you rise and choke off a scream. 
+Something is here in the room with you.  
+~
+0 40968 0
+E
+chest~
+Filled with greed, you approach a chest.  What treasures could await you
+inside its confines?  As you step closer, you begin to feel sicker and
+sicker.  Eventually, you double over in painful convulsions.  Your suffering
+does not cease until you crawl a safe distance away.  
+~
+D5
+~
+trapdoor~
+3 0 708
+S
+#710
+Path through Nothing~
+
+~
+0 32773 2
+D0
+~
+~
+0 0 711
+D2
+~
+~
+0 0 704
+S
+#711
+Path through Nothing~
+
+~
+0 32769 2
+D0
+~
+~
+0 0 712
+D2
+~
+~
+0 0 710
+S
+#712
+Illusory Space~
+
+~
+0 32769 2
+D0
+~
+~
+0 0 722
+D1
+~
+~
+0 0 717
+D2
+~
+~
+0 0 711
+D3
+~
+~
+0 0 713
+S
+#713
+~
+
+~
+0 40960 0
+D1
+~
+~
+0 0 712
+S
+#717
+~
+
+~
+0 40960 0
+D3
+~
+~
+0 0 712
+S
+#722
+Path through Nothing~
+
+~
+0 40960 0
+D2
+~
+~
+0 0 712
+S
+#771
+The Cold Embrace of Death~
+
+~
+0 1 0
+D0
+~
+~
+0 0 772
+S
+#772
+The Forgotten Cemetary~
+
+~
+0 8192 0
+D0
+~
+~
+0 0 773
+D2
+~
+~
+0 0 771
+S
+#773
+The Forgotten Cemetary~
+
+~
+0 8192 0
+D1
+~
+~
+0 0 774
+D2
+~
+~
+0 0 772
+D3
+~
+~
+0 0 775
+S
+#774
+The Forgotten Cemetary~
+
+~
+0 8192 0
+D0
+~
+~
+0 0 776
+D3
+~
+~
+0 0 773
+S
+#775
+The Forgotten Cemetary~
+
+~
+0 8192 0
+D0
+~
+~
+0 0 777
+D1
+~
+~
+0 0 773
+S
+#776
+The Forgotten Cemetary~
+
+~
+0 8192 0
+D2
+~
+~
+0 0 774
+D3
+~
+~
+0 0 778
+S
+#777
+The Forgotten Cemetary~
+
+~
+0 8192 0
+D1
+~
+~
+0 0 778
+D2
+~
+~
+0 0 775
+S
+#778
+The Forgotten Cemetary~
+
+~
+0 8192 0
+D0
+~
+~
+0 0 779
+D1
+~
+~
+0 0 776
+D3
+~
+~
+0 0 777
+S
+#779
+The Forgotten Cemetary~
+
+~
+0 8192 0
+D2
+~
+~
+0 0 778
+S
+#780
+A Pile of Dung~
+
+~
+0 1 2
+D0
+~
+~
+0 0 782
+D1
+~
+~
+0 0 781
+S
+#781
+The Midden Heap~
+
+~
+0 8192 2
+D0
+~
+~
+0 0 783
+D3
+~
+~
+0 0 780
+S
+#782
+The Midden Heap~
+
+~
+0 8192 2
+D0
+~
+~
+0 0 784
+D2
+~
+~
+0 0 780
+S
+#783
+The Midden Heap~
+
+~
+0 8192 2
+D0
+~
+~
+0 0 785
+D2
+~
+~
+0 0 781
+S
+#784
+The Midden Heap~
+
+~
+0 8192 2
+D1
+~
+~
+0 0 785
+D2
+~
+~
+0 0 782
+S
+#785
+The Midden Heap~
+
+~
+0 8192 2
+D2
+~
+~
+0 0 783
+D3
+~
+~
+0 0 784
+S
+#786
+Hunger Pains~
+
+~
+0 1 1
+D2
+~
+~
+0 0 788
+S
+#787
+A Starving Village~
+
+~
+0 8192 1
+D0
+~
+~
+0 0 788
+S
+#788
+A Starving Village~
+
+~
+0 8192 1
+D0
+~
+~
+0 0 786
+D2
+~
+~
+0 0 787
+D3
+~
+~
+0 0 789
+S
+#789
+A Starving Village~
+
+~
+0 8192 1
+D1
+~
+~
+0 0 788
+D3
+~
+~
+0 0 790
+S
+#790
+A Starving Village~
+
+~
+0 8192 1
+D1
+~
+~
+0 0 789
+S
+#791
+Field of Battle~
+
+~
+0 8192 2
+D2
+~
+~
+0 0 794
+D3
+~
+~
+0 0 792
+S
+#792
+Field of Battle~
+
+~
+0 8192 2
+D1
+~
+~
+0 0 791
+D3
+~
+~
+0 0 793
+S
+#793
+Field of Battle~
+
+~
+0 8192 2
+D1
+~
+~
+0 0 792
+D2
+~
+~
+0 0 796
+S
+#794
+Field of Battle~
+
+~
+0 8192 2
+D0
+~
+~
+0 0 791
+D2
+~
+~
+0 0 797
+D3
+~
+~
+0 0 795
+S
+#795
+Casualties of War~
+
+~
+0 1 2
+D1
+~
+~
+0 0 794
+D3
+~
+~
+0 0 796
+S
+#796
+Field of Battle~
+
+~
+0 8192 2
+D0
+~
+~
+0 0 793
+D1
+~
+~
+0 0 795
+D2
+~
+~
+0 0 798
+S
+#797
+Field of Battle~
+
+~
+0 8192 2
+D0
+~
+~
+0 0 794
+D3
+~
+~
+0 0 799
+S
+#798
+Field of Battle~
+
+~
+0 8192 2
+D0
+~
+~
+0 0 796
+D1
+~
+~
+0 0 799
+S
+#799
+Field of Battle~
+
+~
+0 8192 2
+D1
+~
+~
+0 0 797
+D3
+~
+~
+0 0 798
+S
+#0
+
+
+
+#SPECIALS
+M 700 spec_breath_any
+S
+
+
+
+#RESETS
+D 0 707 1 1
+D 0 708 1 1
+D 0 708 4 1
+D 0 709 5 1
+M 0 701 1 712 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

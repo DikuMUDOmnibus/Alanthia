@@ -1,0 +1,299 @@
+#PLAYER
+Name Grbrthrxs~
+Id   1040611548
+LogO 1041042805
+Vers 5
+Prom {c<%hhp %mm %vmv %bbp>{x ~
+Race unique~
+Sex  1
+Cla  7
+Levl 209
+Sec  9
+Plyd 156525
+Not  0 0 0 0 0 0 0
+Scro 22
+Room 3005
+HMV  20 20 100 100 100 100
+Rem 0
+Blood 98
+Gold 3
+Exp  8000
+Wait 0
+Act  CDEFHJNQT
+AfBy ABCDEFGJc
+Comm NOQe
+Pos  8
+Prac 5
+Trai 3
+Alig  0
+Hit   1
+ACs 94 100 94 100
+Attr 11 10 12 12 12
+AMod 0 0 0 0 0
+Pass GrxsDR8X3blNU~
+Deaths  0
+Kills  0
+Bounty 0
+Qwest 0
+Titl  Grubbythrixus~
+Pnts 100
+TSex 1
+LLev 18
+Slo 5
+HMVP 20 100 100
+BloodP 229
+Cnd  0 48 48 48
+Attack  0 0
+Attack  1 -1
+Chan {W~
+Chan {R~
+Chan {M~
+Chan {C~
+Chan {Y~
+Chan {y~
+Chan {B~
+Chan {G~
+Chan {x~
+Chan {W~
+Chan {C~
+Chan {c~
+Chan {W~
+Chan {R~
+Chan {Y~
+Sk 100 'reserved'
+Sk 100 'acid blast'
+Sk 100 'animate dead'
+Sk 100 'armor'
+Sk 100 'bless'
+Sk 100 'blindness'
+Sk 100 'boulder'
+Sk 100 'bullshit'
+Sk 100 'burning hands'
+Sk 100 'call lightning'
+Sk 100 'calm'
+Sk 100 'cancellation'
+Sk 100 'cause critical'
+Sk 100 'cause light'
+Sk 100 'cause serious'
+Sk 100 'chain lightning'
+Sk 100 'change sex'
+Sk 100 'charm person'
+Sk 100 'chill touch'
+Sk 100 'colour spray'
+Sk 100 'continual light'
+Sk 100 'control weather'
+Sk 100 'create food'
+Sk 100 'create rose'
+Sk 100 'sober'
+Sk 100 'create spring'
+Sk 100 'create water'
+Sk 100 'cure blindness'
+Sk 100 'cure critical'
+Sk 100 'cure disease'
+Sk 100 'cure light'
+Sk 100 'cure poison'
+Sk 100 'cure serious'
+Sk 100 'curse'
+Sk 100 'death ray'
+Sk 100 'demonfire'
+Sk 100 'detect evil'
+Sk 100 'detect good'
+Sk 100 'detect hidden'
+Sk 100 'detect invis'
+Sk 100 'detect magic'
+Sk 100 'detect poison'
+Sk 100 'diamond skin'
+Sk 100 'dispel evil'
+Sk 100 'dispel good'
+Sk 100 'dispel magic'
+Sk 100 'displace'
+Sk 100 'earthquake'
+Sk 100 'enchant armor'
+Sk 100 'enchant weapon'
+Sk 100 'energy drain'
+Sk 100 'faerie fire'
+Sk 100 'faerie fog'
+Sk 100 'farsight'
+Sk 100 'fireball'
+Sk 100 'fireproof'
+Sk 100 'firestream'
+Sk 100 'flamestrike'
+Sk 100 'fly'
+Sk 100 'floating disc'
+Sk 100 'force shield'
+Sk 100 'frenzy'
+Sk 100 'gate'
+Sk 100 'giant strength'
+Sk 100 'might of heros'
+Sk 100 'mind of sages'
+Sk 100 'hands of wind'
+Sk 100 'sight of ages'
+Sk 100 'heart of the dragon'
+Sk 100 'guardian'
+Sk 100 'harm'
+Sk 100 'haste'
+Sk 100 'heal'
+Sk 100 'heat metal'
+Sk 100 'heavenly sanctuary'
+Sk 100 'holy armor'
+Sk 100 'holy word'
+Sk 100 'ice shard'
+Sk 100 'identify'
+Sk 100 'infravision'
+Sk 100 'invisibility'
+Sk 100 'know alignment'
+Sk 100 'lethargy'
+Sk 100 'bolt'
+Sk 100 'locate object'
+Sk 100 'magic missile'
+Sk 100 'mass healing'
+Sk 100 'mass invis'
+Sk 100 'nexus'
+Sk 100 'nova'
+Sk 100 'paralysis'
+Sk 100 'pass door'
+Sk 100 'plague'
+Sk 100 'poison'
+Sk 100 'portal'
+Sk 100 'protection evil'
+Sk 100 'protection good'
+Sk 100 'psychic crush'
+Sk 100 'ray of truth'
+Sk 100 'recharge'
+Sk 100 'refresh'
+Sk 100 'regeneration'
+Sk 100 'remove curse'
+Sk 100 'remove invis'
+Sk 100 'sanctuary'
+Sk 100 'shield'
+Sk 100 'shocking grasp'
+Sk 100 'sleep'
+Sk 100 'sonic boom'
+Sk 100 'stone skin'
+Sk 100 'summon'
+Sk 100 'sunray'
+Sk 100 'talon'
+Sk 100 'teleport'
+Sk 100 'teleport object'
+Sk 100 'thorn armor'
+Sk 100 'ventriloquate'
+Sk 100 'weaken'
+Sk 100 'word of recall'
+Sk 100 'corrosive breath'
+Sk 100 'fire breath'
+Sk 100 'frost breath'
+Sk 100 'venom breath'
+Sk 100 'stormsfury breath'
+Sk 100 'ray breath'
+Sk 100 'prismatic breath'
+Sk 100 'general purpose'
+Sk 100 'high explosive'
+Sk 100 'axe'
+Sk 100 'dagger'
+Sk 100 'flail'
+Sk 100 'mace'
+Sk 100 'polearm'
+Sk 100 'shield block'
+Sk 100 'spear'
+Sk 100 'sword'
+Sk 100 'whip'
+Sk 100 'invade'
+Sk 100 'assassinate'
+Sk 100 'backstab'
+Sk 100 'bash'
+Sk 100 'berserk'
+Sk 100 'circle'
+Sk 100 'dirt kicking'
+Sk 100 'disarm'
+Sk 100 'dodge'
+Sk 100 'duck'
+Sk 100 'enhanced damage'
+Sk 100 'envenom'
+Sk 100 'hand to hand'
+Sk 100 'kick'
+Sk 100 'arial'
+Sk 100 'parry'
+Sk 100 'rescue'
+Sk 100 'trip'
+Sk 100 'second attack'
+Sk 100 'third attack'
+Sk 100 'fourth attack'
+Sk 100 'fifth attack'
+Sk 100 'sixth attack'
+Sk 100 'ultra damage'
+Sk 100 'whirl'
+Sk 100 'quick poison'
+Sk 100 'fast healing'
+Sk 100 'haggle'
+Sk 100 'hide'
+Sk 100 'lore'
+Sk 100 'meditation'
+Sk 100 'peek'
+Sk 100 'pick lock'
+Sk 100 'sneak'
+Sk 100 'steal'
+Sk 100 'scrolls'
+Sk 100 'staves'
+Sk 100 'wands'
+Sk 100 'recall'
+Sk 100 'beer'
+Gr 'rom basics'
+Gr 'monk basics'
+Gr 'monk default'
+End
+
+#O
+Vnum 3716
+Nest 0
+Cond 0
+Owner ~
+Wear 0
+Cost 0
+End
+
+#O
+Vnum 3703
+Nest 0
+Cond 0
+Owner ~
+Wear 5
+Cost 0
+End
+
+#O
+Vnum 3722
+Nest 0
+Cond 0
+Owner ~
+Wear 16
+Cost 0
+End
+
+#O
+Vnum 3162
+Nest 0
+Cond 0
+Owner ~
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 27
+Nest 0
+Cond 0
+Owner ~
+Wear -1
+Cost 10000
+End
+
+#O
+Vnum 3700
+Nest 0
+Cond 0
+Owner ~
+Wear -1
+Cost 2300
+End
+
+#END

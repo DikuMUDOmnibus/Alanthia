@@ -1,0 +1,746 @@
+#AREADATA
+Name Eternal Battle~
+Builders Fluffy Halodar~
+VNUMs 25300 25399
+Credits {  ALL  } Havok       Eternal Battle~
+Security 9
+Version 1
+End
+
+
+
+#MOBILES
+#25300
+trout~
+A trout~
+A trout is swimming happily in filth.
+~
+A rainbow trout is here looking for something to eat.  Such a happy
+fish!  He is oblivious to the world around him.
+~
+unique~
+ACFT V 1000 0
+60 0 0d0+0 0d0+0 0d0+0 suction
+0 0 0 0
+0 0 0 0
+stand stand either 2000
+0 0 medium unknown
+#25301
+mud shark~
+A mud shark~
+A mud shark thrashes about, actively hunting smaller fish.
+~
+A mud shark is here searching for its next meal.  With its rows of
+razor sharp teeth, it looks like a formidable predator.  It lurks
+in the muck ready to strike in an instant.  Better stay clear of 
+this beast.
+~
+unique~
+AF DFHPQab -1000 0
+100 0 0d0+0 0d0+0 0d0+0 bite
+0 0 0 0
+M 0 0 0
+stand stand none 0
+0 0 medium unknown
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#25300
+A Bloody Field~
+These fields used to produce crops for the wealthy family that lives in
+the castle to the north.  Now they are the scene of utter chaos.  Body parts
+and blood stains litter this fertile soil.  An intense battle is going on
+for reasons unknown.  - - desc - desc - 
+~
+0 0 2
+D0
+~
+~
+0 0 25301
+D1
+~
+~
+0 0 25302
+D3
+~
+~
+0 0 25303
+S
+#25301
+A Bloody Field~
+These fields used to produce crops for the wealthy family that lives in
+the castle to the north.  Now they are the scene of utter chaos.  Body parts
+and blood stains litter this fertile soil.  An intense battle is going on
+for reasons unknown.  
+~
+0 0 2
+D0
+~
+~
+0 0 25306
+D1
+~
+~
+0 0 25305
+D2
+~
+~
+0 0 25300
+D3
+~
+~
+0 0 25304
+S
+#25302
+A Bloody Field~
+These fields used to produce crops for the wealthy family that lives in
+the castle to the north.  Now they are the scene of utter chaos.  Body parts
+and blood stains litter this fertile soil.  An intense battle is going on
+for reasons unknown.  
+~
+0 0 2
+D0
+~
+~
+0 0 25305
+D3
+~
+~
+0 0 25300
+S
+#25303
+A Bloody Field~
+These fields used to produce crops for the wealthy family that lives in
+the castle to the north.  Now they are the scene of utter chaos.  Body parts
+and blood stains litter this fertile soil.  An intense battle is going on
+for reasons unknown.  
+~
+0 0 2
+D0
+~
+~
+0 0 25304
+D1
+~
+~
+0 0 25300
+S
+#25304
+A Bloody Field~
+These fields used to produce crops for the wealthy family that lives in
+the castle to the north.  Now they are the scene of utter chaos.  Body parts
+and blood stains litter this fertile soil.  An intense battle is going on
+for reasons unknown.  
+~
+0 0 2
+D1
+~
+~
+0 0 25301
+D2
+~
+~
+0 0 25303
+S
+#25305
+A Bloody Field~
+These fields used to produce crops for the wealthy family that lives in
+the castle to the north.  Now they are the scene of utter chaos.  Body parts
+and blood stains litter this fertile soil.  An intense battle is going on
+for reasons unknown.  
+~
+0 0 2
+D2
+~
+~
+0 0 25302
+D3
+~
+~
+0 0 25301
+S
+#25306
+Drawbridge~
+A drawbridge stands here keeping invaders at bay.  The battle reaches its
+thickest here, there are soldiers falling in combat everywhere.  To the east
+and west there is a moat covered with a thick green slime.  Ew!!  
+~
+0 0 1
+D0
+~
+~
+1 0 25307
+D2
+~
+~
+0 0 25301
+D5
+~
+~
+0 0 25327
+S
+#25307
+Inside The Gates~
+This is the entrance to a large stone castle.  There are splatters of
+blood along the walls from different creatures.  To the north, the corridor
+opens into the main courtyard of the castle.  To the south, is the
+drawbridge, where a fierce battle reaches its thickest.  
+~
+0 0 1
+D0
+~
+~
+0 0 25328
+D2
+~
+~
+1 0 25306
+S
+#25308
+Slime Filled Moat~
+A long moat surrounds the castle protecting it from invaders.  It is
+filled with sewage, muck, and slime.  A rippling in the water gives the
+feeling that these waters are inhabited.  
+~
+0 0 7
+D1
+~
+~
+0 0 25325
+D3
+~
+~
+0 0 25327
+S
+#25309
+Slime Filled Moat~
+A long moat surrounds the castle protecting it from invaders.  It is
+filled with sewage, muck, and slime.  A rippling in the water gives the
+feeling that these waters are inhabited.  
+~
+0 0 7
+D1
+~
+~
+0 0 25326
+D3
+~
+~
+0 0 25310
+S
+#25310
+South-West Corner Of The Moat~
+A long moat surrounds the castle protecting it from invaders.  It is
+filled with sewage, muck, and slime.  A rippling in the water gives the
+feeling that these waters are inhabited.  
+~
+0 0 7
+D0
+~
+~
+0 0 25311
+D1
+~
+~
+0 0 25309
+S
+#25311
+Slime Filled Moat~
+A long moat surrounds the castle protecting it from invaders.  It is
+filled with sewage, muck, and slime.  A rippling in the water gives the
+feeling that these waters are inhabited.  
+~
+0 0 7
+D0
+~
+~
+0 0 25312
+D2
+~
+~
+0 0 25310
+S
+#25312
+Slime Filled Moat~
+A long moat surrounds the castle protecting it from invaders.  It is
+filled with sewage, muck, and slime.  A rippling in the water gives the
+feeling that these waters are inhabited.  
+~
+0 0 7
+D0
+~
+~
+0 0 25313
+D2
+~
+~
+0 0 25311
+S
+#25313
+Slime Filled Moat~
+A long moat surrounds the castle protecting it from invaders.  It is
+filled with sewage, muck, and slime.  A rippling in the water gives the
+feeling that these waters are inhabited.  
+~
+0 0 7
+D0
+~
+~
+0 0 25314
+D2
+~
+~
+0 0 25312
+S
+#25314
+North-West Corner Of The Moat~
+A long moat surrounds the castle protecting it from invaders.  It is
+filled with sewage, muck, and slime.  A rippling in the water gives the
+feeling that these waters are inhabited.  
+~
+0 0 7
+D1
+~
+~
+0 0 25315
+D2
+~
+~
+0 0 25313
+S
+#25315
+Slime Filled Moat~
+A long moat surrounds the castle protecting it from invaders.  It is
+filled with sewage, muck, and slime.  A rippling in the water gives the
+feeling that these waters are inhabited.  
+~
+0 0 7
+D1
+~
+~
+0 0 25316
+D3
+~
+~
+0 0 25314
+S
+#25316
+Slime Filled Moat~
+A long moat surrounds the castle protecting it from invaders.  It is
+filled with sewage, muck, and slime.  A rippling in the water gives the
+feeling that these waters are inhabited.  
+~
+0 0 7
+D1
+~
+~
+0 0 25317
+D3
+~
+~
+0 0 25315
+S
+#25317
+Back Entrance~
+A long moat surrounds the castle protecting it from invaders.  It is
+filled with sewage, muck, and slime.  A rippling in the water gives the
+feeling that these waters are inhabited.  
+~
+0 0 7
+D1
+~
+~
+0 0 25318
+D3
+~
+~
+0 0 25316
+S
+#25318
+Slime Filled Moat~
+A long moat surrounds the castle protecting it from invaders.  It is
+filled with sewage, muck, and slime.  A rippling in the water gives the
+feeling that these waters are inhabited.  
+~
+0 0 7
+D1
+~
+~
+0 0 25319
+D3
+~
+~
+0 0 25317
+S
+#25319
+Slime Filled Moat~
+A long moat surrounds the castle protecting it from invaders.  It is
+filled with sewage, muck, and slime.  A rippling in the water gives the
+feeling that these waters are inhabited.  
+~
+0 0 7
+D1
+~
+~
+0 0 25320
+D3
+~
+~
+0 0 25318
+S
+#25320
+North-East Corner Of The Moat~
+A long moat surrounds the castle protecting it from invaders.  It is
+filled with sewage, muck, and slime.  A rippling in the water gives the
+feeling that these waters are inhabited.  
+~
+0 0 7
+D2
+~
+~
+0 0 25321
+D3
+~
+~
+0 0 25319
+S
+#25321
+Slime Filled Moat~
+A long moat surrounds the castle protecting it from invaders.  It is
+filled with sewage, muck, and slime.  A rippling in the water gives the
+feeling that these waters are inhabited.  
+~
+0 0 7
+D0
+~
+~
+0 0 25320
+D2
+~
+~
+0 0 25322
+S
+#25322
+Slime Filled Moat~
+A long moat surrounds the castle protecting it from invaders.  It is
+filled with sewage, muck, and slime.  A rippling in the water gives the
+feeling that these waters are inhabited.  
+~
+0 0 7
+D0
+~
+~
+0 0 25321
+D2
+~
+~
+0 0 25323
+S
+#25323
+Slime Filled Moat~
+A long moat surrounds the castle protecting it from invaders.  It is
+filled with sewage, muck, and slime.  A rippling in the water gives the
+feeling that these waters are inhabited.  
+~
+0 0 7
+D0
+~
+~
+0 0 25322
+D2
+~
+~
+0 0 25324
+S
+#25324
+South-East Corner Of The Moat~
+A long moat surrounds the castle protecting it from invaders.  It is
+filled with sewage, muck, and slime.  A rippling in the water gives the
+feeling that these waters are inhabited.  
+~
+0 0 7
+D0
+~
+~
+0 0 25323
+D3
+~
+~
+0 0 25325
+S
+#25325
+Slime Filled Moat~
+A long moat surrounds the castle protecting it from invaders.  It is
+filled with sewage, muck, and slime.  A rippling in the water gives the
+feeling that these waters are inhabited.  
+~
+0 0 7
+D1
+~
+~
+0 0 25324
+D3
+~
+~
+0 0 25308
+S
+#25326
+Slime Filled Moat~
+A long moat surrounds the castle protecting it from invaders.  It is
+filled with sewage, muck, and slime.  A rippling in the water gives the
+feeling that these waters are inhabited.  
+~
+0 0 7
+D1
+~
+~
+0 0 25327
+D3
+~
+~
+0 0 25309
+S
+#25327
+Slime Filled Moat~
+A long moat surrounds the castle protecting it from invaders.  It is
+filled with sewage, muck, and slime.  A rippling in the water gives the
+feeling that these waters are inhabited.  
+~
+0 0 7
+D1
+~
+~
+0 0 25308
+D3
+~
+~
+0 0 25326
+D4
+~
+~
+0 0 25306
+S
+#25328
+The Courtyard~
+Here is a lush courtyard filled with colorful gardens.  This must have
+been a place of great joy for the owners of the castle.  There is a path 
+~
+0 8 1
+D0
+~
+~
+0 0 25333
+D1
+~
+~
+0 0 25329
+D2
+~
+~
+0 0 25307
+D3
+~
+~
+0 0 25331
+S
+#25329
+Courtyard~
+
+~
+0 0 1
+D0
+~
+~
+0 0 25338
+D1
+~
+~
+0 0 25330
+D2
+~
+~
+0 0 25341
+D3
+~
+~
+0 0 25328
+S
+#25330
+Courtyard~
+
+~
+0 0 1
+D0
+~
+~
+0 0 25337
+D2
+~
+~
+0 0 25336
+D3
+~
+~
+0 0 25329
+S
+#25331
+Courtyard~
+
+~
+0 0 1
+D0
+~
+~
+0 0 25339
+D1
+~
+~
+0 0 25328
+D2
+~
+~
+0 0 25340
+D3
+~
+~
+0 0 25332
+S
+#25332
+Courtyard~
+
+~
+0 0 1
+D0
+~
+~
+0 0 25334
+D1
+~
+~
+0 0 25331
+D2
+~
+~
+0 0 25335
+S
+#25333
+Bottom Of The Staircase~
+A grand stone staircase leads up here.  The blocks are stained with blood
+from the battle that rages all around.  Up is the main entrance to the
+castle, south is the lush gardens of the courtyard.  
+~
+0 0 1
+D2
+~
+~
+0 0 25328
+S
+#25334
+Base Of The Tower~
+
+~
+0 0 1
+D2
+~
+~
+0 0 25332
+S
+#25335
+Base Of The Tower~
+
+~
+0 0 1
+D0
+~
+~
+0 0 25332
+S
+#25336
+Base Of The Tower~
+
+~
+0 0 1
+D0
+~
+~
+0 0 25330
+S
+#25337
+Base Of The Tower~
+
+~
+0 0 1
+D2
+~
+~
+0 0 25330
+S
+#25338
+Armoury~
+
+~
+0 0 1
+D2
+~
+~
+0 0 25329
+S
+#25339
+Stables~
+
+~
+0 0 1
+D2
+~
+~
+0 0 25331
+S
+#25340
+Weapon Shop~
+
+~
+0 0 1
+D0
+~
+~
+0 0 25331
+S
+#25341
+Store Room~
+
+~
+0 0 1
+D0
+~
+~
+0 0 25329
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 25306 0 1
+D 0 25307 2 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

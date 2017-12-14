@@ -1,0 +1,305 @@
+#AREADATA
+Name clanalliance~
+Builders Fluffy Halodar~
+VNUMs 20600 20699
+Credits Alanthia~
+Security 9
+Version 1
+End
+
+
+
+#MOBILES
+#20600
+piety alliance~
+Piety of the {YA{ylliance{x~
+A fierce looking man is wielding armor here.
+~
+Piety, a younger man, stands before you in clothing so poor it's not fit
+for a person.  You notice him creating the Mighty Alliance eq and wonder why
+he can't make himself a better wardrobe.  
+~
+unique~
+ABM 0 0 0
+300 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 100000
+0 0 medium unknown
+#20601
+Alliance Devun~
+Devun~
+A young healer in training, concentrating on a {CH{ceal{G spell.  A bright ball of light illuminates from his hands then slowly fades...
+~
+A young healer is playing with spells.
+~
+unique~
+ABa 0 0 0
+150 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+#20602
+Alliance Leonay~
+Leonay~
+A old, wise man stands here staff in hand.  Ready to heal the smallest of cuts to worst of wounds for the {GH{goly {YA{ylliance{X.
+~
+An old wise Cleric is here.
+~
+unique~
+ABZ 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+#20603
+alliance kyeder~
+Kyeder~
+Kyeder is busy at work.
+~
+{DK{Wy{De{Wd{De{Wr{X, A strong working {DBlacksmith {Xof {GH{goly {YA{ylliance{X, is making his finest weapons.
+~
+unique~
+AB 0 0 0
+300 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 100000
+0 0 medium unknown
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#20600
+Entrance to the Shrine~
+As you step into this clearing you notice a large stone shrine almost
+entirely enclosed within the protective barrier of massive trees.  You feel
+an aura of radiance and divinity beyond the trees.  On the facing wall of
+the shrine, a small stone plaque has been embedded on the surface.  
+~
+0 532480 0
+E
+plaque~
+The rectangular stone plaque reads:
+                    The Members of Alliance
+        The Chosen One      -      Torres Ironcross
+        Dominions           -      Mournrier, Severhand
+        Archangels          -
+        Members             -      Dorf, Ethan
+                                   Kierlana, Malex
+                                   Malisus
+~
+D0
+~
+~
+0 0 20601
+D2
+~
+~
+4 20604 5276
+S
+#20601
+Courtyard~
+Peace settles into your mind as you step into this vast courtyard.  Your
+ears hear pleasant hymns of angels praising their deity.  The birds chirp
+merrily in the lush green trees and grass as a gardener tends a bed of
+flowers.  You feel as though you can sleep here forever and just let life go
+along its own way.  To the east some distance away is a door that leads to a
+whitewashed building.  An alms pit is here, waiting for you to donate your
+items to the clan's members of the Alliance.  
+~
+0 9216 2
+D0
+~
+~
+0 0 20605
+D1
+~
+~
+1 0 20602
+D2
+~
+~
+0 0 20600
+D3
+~
+~
+1 0 20606
+S
+#20602
+House of Merchants~
+You enter a quiet house and hear a deep voice muttering to the north
+while a pleasant humming noise emanates to the east.  Balros has set up a
+bank here along with his friend, Eichtoven, who is the local repairman.  
+~
+0 9224 0
+D0
+~
+~
+4 20604 20604
+D1
+~
+~
+4 0 20603
+D3
+~
+~
+1 0 20601
+S
+#20603
+Alchemy~
+Everything here is swirling around in a hyponotic daze and finally you
+find the focus of it all - an enormous brain.  It seems to be controlling
+everything telepathically while floating a few inches off the ground.  
+~
+0 9224 0
+D3
+~
+~
+4 0 20602
+S
+#20604
+Armory~
+As you step into the unusually clean shop of the clan blacksmith you hear
+a deep voice echoing a death threat.  Frantically looking up you see old
+Griswold, eyes filled with bloodlust and hatred.  He madly straps on the
+magnificient armor he was just recently forging and prepares to gut you.  
+~
+0 268435464 0
+D2
+~
+~
+4 0 20602
+S
+#20605
+Temple of Tamara~
+You are awestricken by the sheer brilliance of beauty from this shrine. 
+Bright rays of light eminate from glowing orbs dangling from the high
+ceiling, reflecting off the crystal interior, almost making you blind. 
+Beautiful angels fly about, performing their daily chores to maintain this
+holy place, or kneel in reverence to the altar of Tamara, dominated by
+engravings of her and her scriptures.  You feel inferior in the presence of
+these holy beings, but as you approach the altar they give you a warm
+greeting and smile.  
+~
+0 1032 0
+D2
+~
+~
+0 0 20601
+S
+#20606
+Mansion o' Pleasure~
+Ah, what a change from the peaceful sanctuary which was offered not a
+minute ago!  Bright, hip-hop music fills your ears, and attractive waiters
+and waitresses flood your eyesight as soon as you open the door.  Sofas,
+chairs, tables, and even beds are placed everywhere to suit the needs of
+every person.  You decide to stay here for a little while and hang out at
+the crowded bar.  
+~
+0 1032 0
+D0
+~
+~
+1 0 20607
+D1
+~
+~
+1 0 20601
+D3
+~
+~
+1 0 20608
+D5
+~
+~
+1 0 20609
+S
+#20607
+The Sparring Room~
+This room houses the experts and swordmasters of the Alliance.  All
+around men are training and practicing in order to serve the order more
+efficiently.  
+~
+0 268436488 0
+D2
+~
+~
+1 20604 20606
+S
+#20608
+Council Room~
+The music from the mansion's main room disappears as you step into this
+room.  A large, rectangular U-shaped table is at the center of the room,
+flanked by oaken chairs.  Sentries stand guard at the doors and bow low to
+you as you walk past them.  Multitudes of books fill the shelves along the
+walls, with information ranging from combat strategies to the history of
+Alanthia.  
+~
+0 1032 0
+D1
+~
+~
+1 0 20606
+S
+#20609
+Locker Room~
+Upon entering the massive cellar you notice rows and rows of lockers and
+storage equipment everywhere.  You feel this would be a great place to leave
+your valuables.  
+~
+0 1032 0
+D4
+~
+~
+1 0 20606
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 20600 2 2
+D 0 20601 1 1
+D 0 20601 3 1
+D 0 20602 0 2
+D 0 20602 1 1
+D 0 20602 3 1
+D 0 20603 3 1
+D 0 20604 2 2
+D 0 20606 0 1
+D 0 20606 1 1
+D 0 20606 3 1
+D 0 20606 5 1
+D 0 20607 2 1
+D 0 20608 1 1
+D 0 20609 4 1
+M 0 20600 1 20604 1
+M 0 20602 1 20605 1
+M 0 20603 1 20607 1
+M 0 20601 1 20609 1
+S
+
+
+
+#SHOPS
+20600 9 0 0 0 0 100 50 0 23
+20603 5 0 0 0 0 100 50 0 23
+0
+
+
+
+#$

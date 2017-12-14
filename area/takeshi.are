@@ -1,0 +1,1780 @@
+#AREADATA
+Name Takeshi's Area~
+Builders Fluffy Halodar~
+VNUMs 6400 6499
+Credits (null)~
+Security 9
+Version 1
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#6400
+A Vast, Barren Field~
+
+~
+0 0 9
+D0
+~
+~
+0 0 6402
+D1
+~
+~
+0 0 6401
+D2
+~
+~
+0 0 6411
+D3
+~
+~
+0 0 6403
+S
+#6401
+A Barren Land~
+Cooled rock has strangled the life out of every living thing here,
+leaving only lifeless stone to show for it.  The remains of dead and
+decaying plants and animals peek through the ground, seeming to reach for
+their vain last breaths through the suffocating rock.  A craggy,
+mountain-like figure appears to the north, seeming to emulate a soul with
+its erie aura of glowing magma.  
+~
+0 0 0
+D0
+~
+~
+0 0 6409
+D2
+~
+~
+0 0 6412
+D3
+~
+~
+0 0 6400
+S
+#6402
+A Vast, Barren Field~
+Ash and rock cover the ground like a blanket of beige and brown snow. 
+Dead and dying plants protrude from the ground, slowly being eroded away. 
+The remains of animals that lived here are scattered about the ground.  The
+air still has the remaining scent of smoke and sulphur, which lofts through
+the air ever so faintly.  A mountainous structure is eminent to the north,
+shadowed with the erie glow of lava.  
+~
+0 0 9
+D0
+~
+~
+0 0 6404
+D1
+~
+~
+0 0 6409
+D2
+~
+~
+0 0 6400
+D3
+~
+~
+0 0 6414
+S
+#6403
+A Dead, Barren Land~
+Cooled rock has strangled the life out of every living thing here,
+leaving only lifeless stone to show for it.  The remains of dead and
+decaying plants and animals peek through the ground, seeming to reach for
+their vain last breaths through the suffocating rock.  A craggy,
+mountain-like figure appears to the north, seeming to emulate a soul with
+its erie aura of glowing magma.  
+~
+0 0 0
+D0
+~
+~
+0 0 6414
+D1
+~
+~
+0 0 6400
+D2
+~
+~
+0 0 6410
+S
+#6404
+A Wooden Balcony~
+A metal and wood guardrail has been placed into this balcony along the
+edge, providing small assistance if one were to fall.  The balcony extends
+east, south, and west into a sort of "village in the trees."  Trees on which
+it is built shoot upward and provide a shade for the area with their broad
+leaves.  
+~
+0 0 9
+D1
+~
+~
+0 0 6416
+D2
+~
+~
+0 0 6402
+D3
+~
+~
+0 0 6415
+D5
+~
+~
+0 0 6405
+S
+#6405
+A Hole in the Ground~
+Dirt drifts in through the opening of the hole to the surface.  Neatly
+carved walls reveal layers of life and death, all suspended in the ground. 
+Dead vines hang from the ceiling, some burnt and others shredded.  A tunnel
+extends to the east, erily lit by light in the distance.  
+~
+0 0 0
+D0
+~
+~
+0 0 6437
+D1
+~
+~
+0 0 6406
+D2
+~
+~
+0 0 6432
+D3
+~
+~
+0 0 6426
+D4
+~
+~
+0 0 6404
+S
+#6406
+A Dirt Tunnel~
+A dark canopy of dead, shredded and obliterated plants hang from the
+ceiling of this neatly carved tunnel.  Colorful stones are embedded into the
+walls of the tunnel, randomly arranged in no apparant pattern.  Grey slabs
+of stone are planted into the floor, lightly dusted with dirt.  A pale light
+eminates from the east, barely lighting the curved hallway.  
+~
+0 0 0
+D0
+~
+~
+0 0 6436
+D1
+~
+~
+0 0 6407
+D2
+~
+~
+0 0 6433
+D3
+~
+~
+0 0 6405
+S
+#6407
+~
+
+~
+0 0 0
+D0
+~
+~
+0 0 6435
+D1
+~
+~
+0 0 6408
+D2
+~
+~
+0 0 6434
+D3
+~
+~
+0 0 6406
+S
+#6408
+~
+
+~
+0 0 0
+D0
+~
+~
+0 0 6471
+D2
+~
+~
+0 0 6470
+D3
+~
+~
+0 0 6407
+S
+#6409
+~
+
+~
+0 0 0
+D0
+~
+~
+0 0 6416
+D2
+~
+~
+0 0 6401
+D3
+~
+~
+0 0 6402
+S
+#6410
+~
+
+~
+0 0 0
+D0
+~
+~
+0 0 6403
+S
+#6411
+~
+
+~
+0 0 0
+D0
+~
+~
+0 0 6400
+D2
+~
+~
+0 0 6413
+S
+#6412
+~
+
+~
+0 0 0
+D0
+~
+~
+0 0 6401
+S
+#6413
+A Musky Room~
+Shattered glass from a broken window speckles the floor, gently
+glistening as light refracts through them.  Dusty wooden shelves line the
+walls, some with items on the shelves, others with dust as their only
+content.  The planks of the floor are also covered with dust and are rotting
+away in some areas.  
+~
+0 0 0
+D0
+~
+~
+0 0 6411
+S
+#6414
+~
+
+~
+0 0 0
+D0
+~
+~
+0 0 6415
+D1
+~
+~
+0 0 6402
+D2
+~
+~
+0 0 6403
+D3
+~
+~
+0 0 6418
+S
+#6415
+~
+
+~
+0 0 0
+D0
+~
+~
+0 0 6420
+D1
+~
+~
+0 0 6404
+D2
+~
+~
+0 0 6414
+D3
+~
+~
+0 0 6417
+S
+#6416
+~
+
+~
+0 0 0
+D2
+~
+~
+0 0 6409
+D3
+~
+~
+0 0 6404
+S
+#6417
+~
+
+~
+0 0 0
+D0
+~
+~
+0 0 6419
+D1
+~
+~
+0 0 6415
+D2
+~
+~
+0 0 6418
+S
+#6418
+~
+
+~
+0 0 0
+D0
+~
+~
+0 0 6417
+D1
+~
+~
+0 0 6414
+S
+#6419
+~
+
+~
+0 0 0
+D1
+~
+~
+0 0 6420
+D2
+~
+~
+0 0 6417
+S
+#6420
+A Wooden Balcony~
+Metal bars attached to planks of wood are set into the floor of the
+balcony, making a sturdy guard rail.  To the west are doors leading into a
+brown wooden house.  A ladder made of metal poles and bars is to the north,
+leading upward to another balcony.  Trees and plants are clearly visible
+over the edge of the balcony.  
+~
+0 0 10
+D2
+~
+~
+0 0 6415
+D3
+~
+~
+0 0 6419
+D4
+~
+~
+0 0 6421
+S
+#6421
+~
+
+~
+0 0 0
+D1
+~
+~
+0 0 6422
+D5
+~
+~
+0 0 6420
+S
+#6422
+~
+
+~
+0 0 0
+D0
+~
+~
+0 0 6423
+D1
+~
+~
+0 0 6425
+D3
+~
+~
+0 0 6421
+S
+#6423
+~
+
+~
+0 0 0
+D2
+~
+~
+0 0 6422
+S
+#6424
+~
+
+~
+0 0 0
+D2
+~
+~
+0 0 6425
+S
+#6425
+~
+
+~
+0 0 0
+D0
+~
+~
+0 0 6424
+D3
+~
+~
+0 0 6422
+S
+#6426
+~
+
+~
+0 0 0
+D0
+~
+~
+0 0 6438
+D1
+~
+~
+0 0 6405
+D2
+~
+~
+0 0 6431
+D3
+~
+~
+0 0 6427
+S
+#6427
+~
+
+~
+0 0 0
+D0
+~
+~
+0 0 6439
+D1
+~
+~
+0 0 6426
+D2
+~
+~
+0 0 6430
+D3
+~
+~
+0 0 6428
+S
+#6428
+~
+
+~
+0 0 0
+D0
+~
+~
+0 0 6440
+D1
+~
+~
+0 0 6427
+D2
+~
+~
+0 0 6429
+D3
+~
+~
+0 0 6485
+S
+#6429
+~
+
+~
+0 0 0
+D0
+~
+~
+0 0 6428
+D1
+~
+~
+0 0 6430
+D2
+~
+~
+0 0 6461
+D3
+~
+~
+0 0 6486
+S
+#6430
+~
+
+~
+0 0 0
+D0
+~
+~
+0 0 6427
+D1
+~
+~
+0 0 6431
+D2
+~
+~
+0 0 6441
+D3
+~
+~
+0 0 6429
+S
+#6431
+~
+
+~
+0 0 0
+D0
+~
+~
+0 0 6426
+D1
+~
+~
+0 0 6432
+D2
+~
+~
+0 0 6442
+D3
+~
+~
+0 0 6430
+S
+#6432
+~
+
+~
+0 0 0
+D0
+~
+~
+0 0 6405
+D1
+~
+~
+0 0 6433
+D2
+~
+~
+0 0 6443
+D3
+~
+~
+0 0 6431
+S
+#6433
+~
+
+~
+0 0 0
+D0
+~
+~
+0 0 6406
+D1
+~
+~
+0 0 6434
+D2
+~
+~
+0 0 6444
+D3
+~
+~
+0 0 6432
+S
+#6434
+~
+
+~
+0 0 0
+D0
+~
+~
+0 0 6407
+D1
+~
+~
+0 0 6470
+D2
+~
+~
+0 0 6468
+D3
+~
+~
+0 0 6433
+S
+#6435
+~
+
+~
+0 0 0
+D0
+~
+~
+0 0 6473
+D1
+~
+~
+0 0 6471
+D2
+~
+~
+0 0 6407
+D3
+~
+~
+0 0 6436
+S
+#6436
+~
+
+~
+0 0 0
+D0
+~
+~
+0 0 6459
+D1
+~
+~
+0 0 6435
+D2
+~
+~
+0 0 6406
+D3
+~
+~
+0 0 6437
+S
+#6437
+~
+
+~
+0 0 0
+D1
+~
+~
+0 0 6436
+D2
+~
+~
+0 0 6405
+D3
+~
+~
+0 0 6438
+S
+#6438
+~
+
+~
+0 0 0
+D1
+~
+~
+0 0 6437
+D2
+~
+~
+0 0 6426
+D3
+~
+~
+0 0 6439
+S
+#6439
+~
+
+~
+0 0 0
+D1
+~
+~
+0 0 6438
+D2
+~
+~
+0 0 6427
+D3
+~
+~
+0 0 6440
+S
+#6440
+~
+
+~
+0 0 0
+D0
+~
+~
+0 0 6451
+D1
+~
+~
+0 0 6439
+D2
+~
+~
+0 0 6428
+D3
+~
+~
+0 0 6484
+S
+#6441
+~
+
+~
+0 0 0
+D0
+~
+~
+0 0 6430
+D1
+~
+~
+0 0 6442
+D2
+~
+~
+0 0 6445
+D3
+~
+~
+0 0 6461
+S
+#6442
+~
+
+~
+0 0 0
+D0
+~
+~
+0 0 6431
+D1
+~
+~
+0 0 6443
+D2
+~
+~
+0 0 6446
+D3
+~
+~
+0 0 6441
+S
+#6443
+~
+
+~
+0 0 0
+D0
+~
+~
+0 0 6432
+D1
+~
+~
+0 0 6444
+D2
+~
+~
+0 0 6447
+D3
+~
+~
+0 0 6442
+S
+#6444
+~
+
+~
+0 0 0
+D0
+~
+~
+0 0 6433
+D1
+~
+~
+0 0 6468
+D2
+~
+~
+0 0 6448
+D3
+~
+~
+0 0 6443
+S
+#6445
+~
+
+~
+0 4 0
+D0
+~
+~
+0 0 6441
+D1
+~
+~
+0 0 6446
+D2
+~
+~
+0 0 6464
+D3
+~
+~
+0 0 6462
+S
+#6446
+~
+
+~
+0 4 0
+D0
+~
+~
+0 0 6442
+D1
+~
+~
+0 0 6447
+D2
+~
+~
+0 0 6449
+D3
+~
+~
+0 0 6445
+S
+#6447
+~
+
+~
+0 4 0
+D0
+~
+~
+0 0 6443
+D1
+~
+~
+0 0 6448
+D2
+~
+~
+0 0 6450
+D3
+~
+~
+0 0 6446
+S
+#6448
+~
+
+~
+0 4 0
+D0
+~
+~
+0 0 6444
+D1
+~
+~
+0 0 6467
+D2
+~
+~
+0 0 6465
+D3
+~
+~
+0 0 6447
+S
+#6449
+~
+
+~
+0 4 0
+D0
+~
+~
+0 0 6446
+D1
+~
+~
+0 0 6450
+D2
+~
+~
+0 0 6489
+D3
+~
+~
+0 0 6464
+S
+#6450
+~
+
+~
+0 4 0
+D0
+~
+~
+0 0 6447
+D1
+~
+~
+0 0 6465
+D2
+~
+~
+0 0 6490
+D3
+~
+~
+0 0 6449
+S
+#6451
+~
+
+~
+0 4 0
+D0
+~
+~
+0 0 6452
+D2
+~
+~
+0 0 6440
+D3
+~
+~
+0 0 6483
+S
+#6452
+~
+
+~
+0 4 0
+D0
+~
+~
+0 0 6460
+D1
+~
+~
+0 0 6453
+D2
+~
+~
+0 0 6451
+D3
+~
+~
+0 0 6482
+S
+#6453
+~
+
+~
+0 4 0
+D0
+~
+~
+0 0 6454
+D3
+~
+~
+0 0 6452
+S
+#6454
+~
+
+~
+0 4 0
+D0
+~
+~
+0 0 6480
+D1
+~
+~
+0 0 6455
+D2
+~
+~
+0 0 6453
+D3
+~
+~
+0 0 6460
+S
+#6455
+~
+
+~
+0 4 0
+D0
+~
+~
+0 0 6479
+D1
+~
+~
+0 0 6456
+D3
+~
+~
+0 0 6454
+S
+#6456
+~
+
+~
+0 4 0
+D0
+~
+~
+0 0 6478
+D1
+~
+~
+0 0 6457
+D3
+~
+~
+0 0 6455
+S
+#6457
+~
+
+~
+0 4 0
+D0
+~
+~
+0 0 6477
+D1
+~
+~
+0 0 6475
+D2
+~
+~
+0 0 6458
+D3
+~
+~
+0 0 6456
+S
+#6458
+~
+
+~
+0 4 0
+D0
+~
+~
+0 0 6457
+D1
+~
+~
+0 0 6474
+D2
+~
+~
+0 0 6459
+S
+#6459
+~
+
+~
+0 0 0
+D0
+~
+~
+0 0 6458
+D1
+~
+~
+0 0 6473
+D2
+~
+~
+0 0 6436
+S
+#6460
+~
+
+~
+0 4 0
+D0
+~
+~
+0 0 6481
+D1
+~
+~
+0 0 6454
+D2
+~
+~
+0 0 6452
+S
+#6461
+~
+
+~
+0 0 0
+D0
+~
+~
+0 0 6429
+D1
+~
+~
+0 0 6441
+D2
+~
+~
+0 0 6462
+D3
+~
+~
+0 0 6487
+S
+#6462
+~
+
+~
+0 4 0
+D0
+~
+~
+0 0 6461
+D1
+~
+~
+0 0 6445
+D2
+~
+~
+0 0 6463
+S
+#6463
+~
+
+~
+0 4 0
+D0
+~
+~
+0 0 6462
+D1
+~
+~
+0 0 6464
+S
+#6464
+~
+
+~
+0 4 0
+D0
+~
+~
+0 0 6445
+D1
+~
+~
+0 0 6449
+D2
+~
+~
+0 0 6488
+D3
+~
+~
+0 0 6463
+S
+#6465
+~
+
+~
+0 4 0
+D0
+~
+~
+0 0 6448
+D1
+~
+~
+0 0 6466
+D2
+~
+~
+0 0 6491
+D3
+~
+~
+0 0 6450
+S
+#6466
+~
+
+~
+0 4 0
+D0
+~
+~
+0 0 6467
+D3
+~
+~
+0 0 6465
+S
+#6467
+~
+
+~
+0 4 0
+D0
+~
+~
+0 0 6468
+D2
+~
+~
+0 0 6466
+D3
+~
+~
+0 0 6448
+S
+#6468
+~
+
+~
+0 0 0
+D0
+~
+~
+0 0 6434
+D1
+~
+~
+0 0 6469
+D2
+~
+~
+0 0 6467
+D3
+~
+~
+0 0 6444
+S
+#6469
+~
+
+~
+0 4 0
+D0
+~
+~
+0 0 6470
+D3
+~
+~
+0 0 6468
+S
+#6470
+~
+
+~
+0 0 0
+D0
+~
+~
+0 0 6408
+D2
+~
+~
+0 0 6469
+D3
+~
+~
+0 0 6434
+S
+#6471
+~
+
+~
+0 0 0
+D0
+~
+~
+0 0 6472
+D2
+~
+~
+0 0 6408
+D3
+~
+~
+0 0 6435
+S
+#6472
+~
+
+~
+0 4 0
+D2
+~
+~
+0 0 6471
+D3
+~
+~
+0 0 6473
+S
+#6473
+~
+
+~
+0 0 0
+D0
+~
+~
+0 0 6474
+D1
+~
+~
+0 0 6472
+D2
+~
+~
+0 0 6435
+D3
+~
+~
+0 0 6459
+S
+#6474
+~
+
+~
+0 4 0
+D0
+~
+~
+0 0 6475
+D2
+~
+~
+0 0 6473
+D3
+~
+~
+0 0 6458
+S
+#6475
+~
+
+~
+0 4 0
+D0
+~
+~
+0 0 6476
+D2
+~
+~
+0 0 6474
+D3
+~
+~
+0 0 6457
+S
+#6476
+~
+
+~
+0 4 0
+D2
+~
+~
+0 0 6475
+D3
+~
+~
+0 0 6477
+S
+#6477
+~
+
+~
+0 4 0
+D1
+~
+~
+0 0 6476
+D2
+~
+~
+0 0 6457
+D3
+~
+~
+0 0 6478
+S
+#6478
+~
+
+~
+0 4 0
+D1
+~
+~
+0 0 6477
+D2
+~
+~
+0 0 6456
+D3
+~
+~
+0 0 6479
+S
+#6479
+~
+
+~
+0 4 0
+D1
+~
+~
+0 0 6478
+D2
+~
+~
+0 0 6455
+D3
+~
+~
+0 0 6480
+S
+#6480
+~
+
+~
+0 4 0
+D1
+~
+~
+0 0 6479
+D2
+~
+~
+0 0 6454
+D3
+~
+~
+0 0 6481
+S
+#6481
+~
+
+~
+0 4 0
+D1
+~
+~
+0 0 6480
+D2
+~
+~
+0 0 6460
+S
+#6482
+~
+
+~
+0 4 0
+D1
+~
+~
+0 0 6452
+D2
+~
+~
+0 0 6483
+S
+#6483
+~
+
+~
+0 4 0
+D0
+~
+~
+0 0 6482
+D1
+~
+~
+0 0 6451
+D2
+~
+~
+0 0 6484
+S
+#6484
+~
+
+~
+0 4 0
+D0
+~
+~
+0 0 6483
+D1
+~
+~
+0 0 6440
+D2
+~
+~
+0 0 6485
+S
+#6485
+~
+
+~
+0 0 0
+D0
+~
+~
+0 0 6484
+D1
+~
+~
+0 0 6428
+D2
+~
+~
+0 0 6486
+S
+#6486
+~
+
+~
+0 0 0
+D0
+~
+~
+0 0 6485
+D1
+~
+~
+0 0 6429
+D2
+~
+~
+0 0 6487
+S
+#6487
+~
+
+~
+0 4 0
+D0
+~
+~
+0 0 6486
+D1
+~
+~
+0 0 6461
+S
+#6488
+~
+
+~
+0 4 0
+D0
+~
+~
+0 0 6464
+D1
+~
+~
+0 0 6489
+S
+#6489
+~
+
+~
+0 4 0
+D0
+~
+~
+0 0 6449
+D1
+~
+~
+0 0 6490
+D3
+~
+~
+0 0 6488
+S
+#6490
+~
+
+~
+0 4 0
+D0
+~
+~
+0 0 6450
+D1
+~
+~
+0 0 6491
+D3
+~
+~
+0 0 6489
+S
+#6491
+~
+
+~
+0 4 0
+D0
+~
+~
+0 0 6465
+D3
+~
+~
+0 0 6490
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

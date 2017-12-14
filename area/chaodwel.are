@@ -1,0 +1,513 @@
+#AREADATA
+Name Chaotic Dwellings~
+Builders Fluffy Halodar~
+VNUMs 4800 4825
+Credits {280 300} Goku        Chaos Dwelling~
+Security 9
+Version 1
+End
+
+
+
+#MOBILES
+#4800
+wraith tall figure thief~
+{DA thieving Wraith{X~
+{DA tall dark figure stands in the shadows.{X
+~
+Before you lies a tall wraith, larger than most, with its eyes glowing a deep red.
+~
+unique~
+ABGT BDFLQTZ -1000 0
+283 0 20000d1+1 0d0+0 20000d1+1 slash
+40 40 40 15
+EFHKX ABILMNPQS EJQ FHJN
+stand stand none 2000
+ACHMV ABCDEFGHIJK medium brass
+#4801
+dragon~
+{WThe Huge Dragon{X~
+{WAn enormous {DDragon {Wsurrounded in {Rf{rl{Ra{rm{Re{rs{D.{X
+~
+Black scales decorate its hide while fires dances in its eyes and about its body.
+~
+unique~
+AB DFHLTVZc -1000 0
+290 0 0d0+0 0d0+0 0d0+0 claw
+0 0 0 0
+EHW AB EK J
+stand stand none 4000
+AHZ ACDEFHJKLOPQUVWXY large unknown
+#4802
+fierce vampire~
+{DA {Rf{ri{Re{rr{Rc{re {DVampire{X~
+{DA vampire cloaks his presence as he watches your movements.{X
+~
+A vampire studies your movements, its fangs over its lower lip.  Its eyes are trained on every movement of yours.
+~
+unique~
+ABT BP -1000 0
+285 0 0d0+0 0d0+0 0d0+0 drain
+0 0 0 0
+EHIKX ABL Q HNS
+stand stand none 2500
+AHMV ABCDEFGHIJK medium unknown
+#4803
+ice dragon~
+{CI{cc{Ce {DD{Wr{Da{Wg{Do{Wn{X~
+{DA D{Wr{Da{Wg{Do{Wn {Dsurrounded {Win {CI{cc{Ce{D.{X
+~
+This immense dragon towers above most of everything in this area.  Its
+mere presence in the room seems to have turned everything into ice.
+~
+unique~
+AB HTd -1000 0
+320 50 0d0+0 0d0+0 0d0+0 frbite
+-300 -300 -300 -300
+FMX ABI L H
+stand stand none 50000
+AHZ ACDEFHJKLOPQUVWXY huge unknown
+#4810
+small creature ancient baby~
+{DThe Ancient Dragon's Baby{X~
+{DA small creature curled into a ball.{X
+~
+{WA small dragon is curled up into a ball.
+~
+unique~
+AB RTVc -1000 0
+290 0 0d0+0 0d0+0 0d0+0 claw
+0 0 0 0
+H AB EK J
+sleep stand none 4000
+AHZ ACDEFHJKLOPQUVWXY medium unknown
+#4812
+old wizard~
+{WAn Old Wizard{X~
+{WA crippled old wizard is here{X
+~
+An old wizard stands before you, crippled from his historic battles
+against the unstoppable force at the end of the caves.  He has dedicated
+his life to helping those in the hunt to slay the beast, and has devised a
+powerful tool to aid in the hunt.
+~
+unique~
+AB BQ 0 0
+280 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 AB CD 0
+stand stand none 0
+0 0 medium unknown
+#4823
+ancient dragon~
+{WThe {DA{Wn{Dc{Wi{De{Wn{Dt {WDragon{X~
+{WA dragon as old as the realm stands before you.{X
+~
+This ancient dragon is massive, almost occupying the whole room.  It looks
+down upon you, flames shooting from its nostrils.
+~
+unique~
+ABFR BDFHJLQTVacd -1000 0
+305 0 0d0+0 0d0+0 0d0+0 claw
+0 0 0 0
+BCDEFHIKNVWX AB EK 0
+stand stand none 100000
+AHZ ACDEFHJKLOPQUVWXY medium unknown
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#4800
+{WThe Gates to the Chaotic Dwellings~
+{DTo the north lies a deserted path.  The land along the way is scorched
+and barren.  Fear seeps from every stone and dead tree.  Only the brave or
+foolhardy would dare pass these gates.  A note is held in place on the wall
+by a bloodied dagger.  
+~
+0 1 1
+E
+Sign~
+The sign says:
+{YAbandon all hope, ye who enter here! (unless you're level 80 or above)
+~
+E
+note~
+{RWarning -- Beware the Ancient Dragon that resides within this cave!{x
+~
+D0
+~
+~
+0 0 4801
+S
+#4801
+{WA Dark Hallway Within The Cave{X~
+{DA long, dank hallway streches into inky blackness both ways.  Crushed
+and shredded armor lies on moldy bones at the side of the passage.  The reek
+of decaying flesh is apparent.  
+~
+0 0 0
+D0
+~
+~
+0 0 4805
+D2
+~
+~
+0 0 4800
+S
+#4803
+~
+
+~
+0 4 0
+D3
+~
+~
+0 0 4800
+S
+#4804
+~
+
+~
+0 4 0
+S
+#4805
+{WA Large Cavern~
+{DThe soil in this area is a darker color than the rest, feathering at
+the edges which creates a blending effect into the rest of the soil
+elsewhere through this place.  {D A faint, underlying smell of blood
+torments the senses.  A creature of unfathomable power must be about to
+create the death and destruction in the area.  
+~
+0 0 0
+D0
+~
+~
+0 0 4806
+D2
+~
+~
+0 0 4801
+S
+#4806
+{WA Bend in the Cave{x~
+{DA path leads east, continuing the journey undertaken.  The passage back
+is to the south.  Icy cold eminates from every crack and crevice in the
+room, making frosty designs on metal armor.  Any fire in the room almost
+goes out with the icy gusts in the area.  
+~
+0 0 0
+D1
+~
+~
+0 0 4808
+D2
+~
+~
+0 0 4805
+S
+#4808
+{WFurther into the Lair~
+{DThe smell becomes repulsive as an old, stale mist lingers about this
+cave.  The further you travel east, the more pungent the aroma gets.  You
+watch your step as you manuever about the decayed bones that lay about,
+almost decorating the dark hallway.  {x 
+~
+0 0 0
+D1
+~
+~
+0 0 4809
+D3
+~
+~
+0 0 4806
+S
+#4809
+{WA {rBlood {WStream{X~
+{DA stream of blood flows into this room, making a pool of life force for
+those to feed upon.  It must be the blood from all the creatures that have
+tried to slay the ancient dragon.  {X 
+~
+0 0 0
+D1
+~
+~
+0 0 4810
+D3
+~
+~
+0 0 4808
+S
+#4810
+{WSleeping Chamber{x~
+{DThere seems to be some kind of subtle movement about this room.  Soft
+hisses can be heard coming from the east.  {x 
+~
+0 1024 0
+D1
+~
+~
+0 0 4811
+D3
+~
+~
+0 0 4809
+S
+#4811
+{WFurther into the Lair{X~
+{DA small hut is in the middle of this room.  The trail continues east
+and west.  {x 
+~
+0 0 0
+D1
+~
+~
+0 0 4813
+D3
+~
+~
+0 0 4810
+S
+#4812
+A Small Hut~
+{DYou stand in a small hut.  It is very small and is not furnished.  A
+small fire burning in the middle of the floor.  
+~
+0 4 0
+D3
+~
+~
+5 4824 4824
+S
+#4813
+{WFurther into the Lair{X~
+{DYou continue your journey in the dark corridors of this cave.  The
+corridor extends to the east and west.  
+~
+0 0 0
+D1
+~
+~
+0 0 4814
+D3
+~
+~
+0 0 4811
+S
+#4814
+{WFurther into the Lair{X~
+{DYou continue your way in the dark corridors of the cave.  To the east
+you see a very dim light.  The place is a bit chilly compared to the other
+parts of the cave.  
+~
+0 0 0
+D1
+~
+~
+0 0 4815
+D3
+~
+~
+0 0 4813
+S
+#4815
+{WFurther into the Lair{X~
+{DThe stench becomes stronger and more repulsive as you continue along
+this long hallway.  The light to the east seems to grow and dim every so
+often.  
+~
+0 0 0
+D1
+~
+~
+0 0 4816
+D3
+~
+~
+0 0 4814
+S
+#4816
+{WAn Intersection{X~
+{DYou walk into an intersection in the cave.  Each direction looks
+different from the rest.  You hear faint breathing to the north.  
+~
+0 0 0
+D0
+~
+~
+0 0 4817
+D1
+~
+~
+0 0 4818
+D2
+~
+~
+0 0 4819
+D3
+~
+~
+0 0 4815
+S
+#4817
+{WTraveling North{X~
+{DYou see a small pool of blood on the stone floor.  The paths continue
+north and south.  
+~
+0 0 0
+D0
+~
+~
+0 0 4821
+D2
+~
+~
+0 0 4816
+S
+#4818
+{WFurthur East..{X~
+{D You come across a decayed corpse laying upon the ground.  It seems as
+if it was a highly decorated officer by the magnificant armor that surrounds
+these unfortunate remains of an old warrior.  {X 
+~
+0 0 0
+D1
+~
+~
+0 0 4820
+D3
+~
+~
+0 0 4816
+S
+#4819
+{WA Dead End{X~
+{DYour path takes you to a dead end.  There is a small fountain in the
+room, making the place a nice resting area.  {x 
+~
+0 0 0
+D0
+~
+~
+0 0 4816
+S
+#4820
+{WDead End{X~
+{DIt seems your travels come to a hault as you find yourself with no
+where to go, but back from which you came.  
+~
+0 0 0
+D3
+~
+~
+0 0 4818
+S
+#4821
+{WQuietness{X~
+{DThe noises seem to dull as you continue on your way.  The path
+continues north and south.  
+~
+0 0 0
+D0
+~
+~
+0 0 4822
+D2
+~
+~
+0 0 4817
+S
+#4822
+{WA Dead Calm..{X~
+{DThis room is deathly silent compared to the rest of the caves.  The
+only sounds are the ones you make as you pass through this room.  You can go
+north or south.  
+~
+0 0 0
+D0
+~
+~
+0 0 4823
+D2
+~
+~
+0 0 4821
+S
+#4823
+{WThe {DA{Wn{Dc{Wi{De{Wn{Dt {WDragon~
+{DThis is the lair of what must be the biggest dragon ever to reside in
+Alanthia.  From the claw marks upon the thick granite walls, this dragon
+must be extremely powerful.  The cave is littered with emaciated corpses and
+half-crunched bones of victims not worthy to face such power and strength.  
+~
+0 0 0
+D2
+~
+~
+0 0 4822
+S
+#4824
+{WSecret Room{X~
+{DYou have stumbled into a secret room that the old wizard uses as a sort
+of storage place.  
+~
+0 0 0
+D1
+~
+~
+5 0 4812
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 4812 3 2
+D 0 4824 1 2
+M 0 4802 4 4801 4
+M 0 4800 8 4801 8
+M 0 4800 8 4801 8
+M 0 4801 1 4805 1
+M 0 4803 6 4806 6
+M 0 4803 6 4806 6
+M 0 4803 6 4806 6
+M 0 4803 6 4806 6
+M 0 4802 4 4808 4
+M 0 4800 8 4808 8
+M 0 4803 6 4808 6
+M 0 4803 6 4808 6
+M 0 4810 4 4810 4
+M 0 4810 4 4810 4
+M 0 4810 4 4810 4
+M 0 4810 4 4810 4
+M 0 4812 1 4812 1
+M 0 4802 4 4813 4
+M 0 4800 8 4813 8
+M 0 4800 8 4813 8
+M 0 4800 8 4815 8
+M 0 4800 8 4815 8
+M 0 4800 8 4815 8
+M 0 4802 4 4816 4
+M 0 4823 1 4823 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

@@ -1,0 +1,466 @@
+#AREADATA
+Name Temple of Shrines~
+Builders Fluffy Halodar~
+VNUMs 4826 4850
+Credits {  ALL  } Goku        Temple of Shrines~
+Security 9
+Version 1
+End
+
+
+
+#MOBILES
+#4836
+kieri~
+Kieri the gardener~
+Kieri is here selling fruits fresh from the gardens.
+~
+~
+unique~
+ABM 0 0 0
+300 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 AB 0 0
+stand stand none 100000
+0 0 medium unknown
+#4849
+blacksmith deities~
+a blacksmith for the Deities~
+A blacksmith for the Deities is here, pounding away at a sword.
+~
+A blacksmith older than any other is here, crafting powerful instruments
+for battle.  
+~
+unique~
+ABM 0 0 0
+300 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 AB 0 0
+stand stand none 100000
+0 0 medium unknown
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#4826
+{BShrine of Qalethiel{x~
+THe path of non-interference and observation, mortals worshipping
+Qalethiel tend to neither seek nor avoid conflict.  A popular god amongst
+artificers, teachers, and ascetics.  Dwarves, Minotaurs, Gargoyles, and
+Dragons tend to prefer his teachings.  
+~
+0 8 0
+D1
+~
+~
+0 0 4848
+S
+#4827
+{WShrine of Y'golan{x~
+The path of entropy.  Y'golan's most ardent supporters are said to obtain
+their greatest pleasure from destruction in all its forms.  Those that are
+self-centered and power-seeking embrace him.  Vampires, Wraiths, Demons, and
+Drow tend to follow him.  
+~
+0 8 0
+D3
+~
+~
+0 0 4848
+S
+#4828
+Hall of the Forgotten~
+This area of the temple has been built in dedication and memory to the
+either forgotten or abandoned deities of Alanthia's past.  To the north you
+see the former deities of the Blue Moon.  To the east you see the former
+deities of the Silver Moon.  To the west you see the former deities of the
+Red Moon.  
+~
+0 8 0
+D0
+~
+~
+0 0 4838
+D1
+~
+~
+0 0 4840
+D3
+~
+~
+0 0 4843
+D4
+~
+~
+0 0 4848
+S
+#4829
+Shrine of Cecilya~
+Those that pursue the path of order and creation follow Cecilya.  Mortals
+that worship her place law and serenity above all else.  Cecilya is the
+patron goddess of the healing arts, farmers, and craftspeople.  Elves,
+Sprites, and Wolves are inclined to worship her.  
+~
+0 8 0
+D2
+~
+~
+0 0 4848
+S
+#4832
+{WShrine of Aiden{X~
+{XThe Devout, Deliverer of Magic Aiden, like Didimus, was not an original
+Alanthian deity.  Instead, he was raptured under the direction of Sahma. 
+After the Great Wars, when Sadiq banned magic from Alanthia for all the
+chaos it had created, Aiden feverently continued his belief in, and devotion
+to all the gods even though they too were absent from Alanthia.  As a
+reward, Sahma and the Moons deemed him the Deliverer of Magic.  He returned
+magic to the mortals.  
+~
+0 8 0
+D0
+~
+~
+0 0 4840
+S
+#4833
+{WShrine of Sadiq{X~
+{XJudge and Mediator, Sadiq is the Judge of Alanthia and it's gods. 
+Mostly, he watches with a careful eye over the working of the lands and
+heavens.  As a result, he is often depicted as having a hundred eyes.  Upon
+death, it is Sadiq to whom mortals must answer.  Sadiq, also, is a very
+different type of god.  He is much more in touch with the stars, and
+possibly once was one, or will eventually become one.  None of the Moons
+know the answer, but Sadiq has traveled on Sahma's surface since the
+beginning of her life.  Often considered cold-hearted, she knows more than
+she reveals and is the Keeper of Wisdom.  
+~
+0 8 0
+D2
+~
+~
+0 0 4840
+S
+#4834
+Near the Shrines~
+Up ahead, there seems to be statues of some sort.  They appear to be
+statues of each moon of Alanthia.  The statues seems to have something
+flowing from them into a fountain.  There also seems to be a beutiful bench
+next to the fountain for those weary from travel to rest upon.  
+~
+0 8 0
+D0
+~
+~
+0 0 4850
+D2
+~
+~
+0 0 4846
+S
+#4836
+Fruit Stand~
+{XMany wonderous fruits of Alanthia are gathered onto a table for
+travelers to purchase and cherish.  The smell is simply exquisite.  
+~
+0 8 0
+D0
+~
+~
+0 0 4846
+D2
+~
+~
+0 0 4845
+S
+#4837
+{BShrine of Ming-Dao{X~
+God of Martial Arts and Heavenly Teacher.  Ming-Dao serves under CeleDi,
+though not far.  Creating the consciousness of mortals was quite the task,
+so Ming-Dao picks up the slack and helps mortals learn how to wield such
+massive power.  
+~
+0 8 0
+D1
+~
+~
+0 0 4838
+S
+#4838
+{BShrine of CeleDi{X~
+{XThe Blue Moon and Goddess of Purity and the Soul.  CeleDi ruled the
+Mental Circle.  She created the mortal mind and gave him reason.  Without
+her, mortals could not exist as higher intelligence.  She doesn't direct
+mortal thought, but rather guides it with a loving hand.  A very peaceful
+deity, in search of harmony amongst mortals.  
+~
+0 8 0
+D1
+~
+~
+0 0 4841
+D2
+~
+~
+0 0 4828
+D3
+~
+~
+0 0 4837
+S
+#4839
+Shrine of Byziana~
+Goddess of Change and the Tides.  Byziana, goddess of change and the
+tides, serves under Nikos, at least to Nikos's beliefs.  At times, Byziana
+despises the destruction Nikos causes.  But, she realizes that destruction
+is part of the eternal cycle of change.  She pushes for change, and this is
+reflected in the tides, the seasons, and Alanthia.  One of the two gods
+fused in the creation of Alanthia, she is part of the planet.  
+~
+0 8 0
+D1
+~
+~
+0 0 4843
+S
+#4840
+{WShrine of Sahma{X~
+The Silver Moon, Goddess of Mystics.  Sahma is the Creator of Dreams, and
+Distributor of Wishes.  Dreams in Alanthia are not mental, but are mystical
+and, as a result, are controlled by her.  Probably the strongest of all the
+Moons, she is closely watched and tempered by the thoughtful hand of Sadiq. 
+Although Sadiq took magic from the mortals as a result of the Great Wars,
+Sahma has succeeded in returning magic to Alanthia by the hands of Aiden.  
+~
+0 8 0
+D0
+~
+~
+0 0 4833
+D2
+~
+~
+0 0 4832
+D3
+~
+~
+0 0 4828
+S
+#4841
+{BShrine of Rudah{X~
+{XLord of Temptation.  Rudah was not a local god of Alanthia.  Being the
+playful chap he is, he stopped by Alanthia to cause trouble while traveling
+the universe.  He found it so much fun to upset Ming-Dao by tempting the
+mortals into booze, wine, merriment, and other atrocities, that he decided
+to take residence in Alanthia.  
+~
+0 8 0
+D3
+~
+~
+0 0 4838
+S
+#4842
+Shrine of Didimus~
+The Father of Technology, Smithy to the Gods.  Didimus was not a deity
+when Alanthia was created.  Instead, he was raptured into the heavens by
+proving his worth to Nikos.  A craftsman, he gave mortals weapons.  The
+Father of Technology, he proves vital in Nikos's continuing struggle to pull
+mortals from the cursed "enlightenment" that CeleDi blessed them with. 
+Basically a slave, but a deity none the less, he is adored by all the gods
+for such devotion and hard work.  
+~
+0 8 0
+D2
+~
+~
+0 0 4843
+S
+#4843
+{RShrine of Nikos{x~
+The Red Moon, God of War and Destruction.  Nikos, god of war, destruction
+and flesh, rules the physical circle.  He created the mortal body as mere
+toys to amuse himself.  Of course, CeleDi saw this as a great opportunity,
+and hence, angered Nikos extremely so by giving them free-will.  Though,
+this isn't to say Nikos doesn't hold any control.  On the contrary -- he
+just can't FORCE a mortal to do anything, he must persuade them to do it in
+free will.  A fun game for Nikos, but it often tries his patience.  Nikos of
+the Flesh, is a man capable of great evils - far more than any other god in
+Alanthia.  
+~
+0 8 0
+D0
+~
+~
+0 0 4842
+D1
+~
+~
+0 0 4828
+D2
+~
+~
+0 0 4844
+D3
+~
+~
+0 0 4839
+S
+#4844
+Shrine of Kazimain~
+Holy Mother of Alanthia.  Kazimain, mother to mortals, helped create
+Alanthia for the mortal form to exist.  She is now, in fact, synthesized
+into the land.  A truly benevolent deity, she balances out the evil of
+Nikos.  The land will never be harmed when she is closely watching.  Being
+so kind, she blessed the mortals with medicine by creating certain herbs and
+extracts upon the surface of Alanthia.  
+~
+0 8 0
+D0
+~
+~
+0 0 4843
+S
+#4845
+A Long Hallway~
+The floor is constructed of the most beutiful marble found within the
+lands of Alanthia.  Torches are lined down each wall along this hallway. 
+The bright flames of the torches give off a blueish glow which fills the
+entire temple.  
+~
+0 8 0
+D0
+~
+~
+0 0 4836
+D2
+~
+~
+0 0 4847
+S
+#4846
+A Long Hallway~
+Furthur down the long hallway, a feeling of peace settles through the
+air.  The flames from the torches turn from blue to red the furthur you
+travel through the temple.  
+~
+0 8 0
+D0
+~
+~
+0 0 4834
+D2
+~
+~
+0 0 4836
+S
+#4847
+Entrance to the Temple~
+{XHere is a room filled with glowing torches all about.  Proceeding North
+will take you furthur into the Temple where you may pay your wishes and
+prayers to the Deities of Alanthia, at their Shrines.  
+~
+0 12 0
+D0
+~
+~
+0 0 4845
+D2
+~
+~
+0 0 8128
+S
+#4848
+Before the Deities~
+Peering into each direction, you notice shrines constructed of mysterious
+stone, dedicated to the current deities and to the forgotten ones.  To the
+north is the Red Moon, Cecilya.  To the west is the Blue Moon, Qalethiel. 
+To the east is the Silver Moon, Y'golan.  A staircase going down leads to
+the Hall of the Forgotten.  The staircase going up leads to a man with a
+heated piece of metal and a hammer.  
+~
+0 8 0
+D0
+~
+~
+0 0 4829
+D1
+~
+~
+0 0 4827
+D2
+~
+~
+0 0 4850
+D3
+~
+~
+0 0 4826
+D4
+~
+~
+0 0 4849
+D5
+~
+~
+0 0 4828
+S
+#4849
+Weapons Shop of the Three Moons~
+{XTools of Destruction, Protection, and Balance are sold here.  Those of
+all beliefs may attain a power created by the very Deities that created
+Alanthia, from this shop.  
+~
+0 1024 0
+D5
+~
+~
+0 0 4848
+S
+#4850
+Peaceful Fountain~
+As travelers enter this room they feel an imense sense of relaxation. 
+Allowing them to rest peacefully, and drink from the fountain.  The Shrines
+are not far ahead.  Perhaps one should pay a visit to the very creators of
+Alanthia.  
+~
+0 1032 0
+D0
+~
+~
+0 0 4848
+D2
+~
+~
+0 0 4834
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 4836 1 4836 1
+M 0 4849 1 4849 1
+S
+
+
+
+#SHOPS
+4836 19 19 19 0 0 100 50 0 23
+4849 5 0 0 0 0 100 50 0 23
+0
+
+
+
+#$

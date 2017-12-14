@@ -1,0 +1,316 @@
+#AREADATA
+Name limbo~
+Builders Fluffy Halodar~
+VNUMs 1 99
+Credits {--- ---} Diku        Limbo~
+Security 9
+Version 1
+End
+
+
+
+#MOBILES
+#1
+beautiful angel guardian~
+a beautiful angel~
+A beautiful angel hovers gracefully above the ground here.
+~
+Beautiful and benevolent, the noble angel is held here on the mortal
+plane by powerful magic.  Surrounded by a golden aura, the angel is a symbol
+of wisdom and kindess.  
+~
+unique~
+ABCDEFGIQ ABCDEFGNTc 1000 0
+0 0 1d1+10 1d1+100 0d0+0 none
+0 0 0 0
+ABCDEFGHIK ABC ABCNSY ABC
+stand stand none 0
+ABCHMV ABCDEFGHIJK medium unknown
+#2
+evil demon guardian~
+an evil demon~
+An evil demon stands here, growling viciously at you.
+~
+Held here by a powerful magical force, the demon usually guards the gates
+of hell.  Surrounded by a black aura, the demon is a symbol of chaos and
+destruction.  
+~
+unique~
+ABCDEFG ABCDEFG -1000 0
+5 0 1d1+10 1d1+100 0d0+0 none
+0 0 0 0
+ABCDEFG ABC ABC ABC
+stand stand none 0
+ABCHMV ABCDEFGHIJK medium unknown
+#3
+zombie~
+a zombie of %s~
+A zombie of %s is here, slaving away for its master.
+~
+This zombie has a blank look on its face. Rest assured, it wouldn't stir if you held a knife to its throat.
+~
+unique~
+ABCDEFG ABCDEFG 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+ABCDEFG ABC ABC ABC
+stand stand none 0
+ABCHMV ABCDEFGHIJK medium unknown
+#4
+neutral elemental guardian~
+an ether elemental~
+An elemental formed of ether broods silently.
+~
+Silent and enigmatic, the elemental is forged from the very substance of
+the universe.  Intense cold flames wrap around its nebulous form, bound as
+it is by powerful magic.  
+~
+unique~
+ABCDEFGI ABCDEFG 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+ABCDEFG ABC ABC ABC
+stand stand none 0
+ABCHMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#1
+blood pool~
+a pool of %s's {Rblood{x~
+A pool of %s's {Rblood{y coagulates here.{x~
+blood~
+blood_pool 0 0
+0 0 0 0 0
+1 0 0 0 P
+#2
+coin gold gcash~
+a gold coin~
+One valuable gold coin.~
+gold~
+money 0 A
+0 1 0 0 0
+1 0 0 0 P
+#3
+coins gold gcash~
+%d gold coins~
+A pile of gold coins.~
+gold~
+money 0 A
+0 0 0 0 0
+1 10 0 0 P
+#5
+coins silver gold gcash~
+%d silver coins and %d gold coins~
+A pile of coins.~
+gold~
+money 0 A
+0 0 0 0 0
+1 10 0 0 P
+#10
+corpse~
+the corpse of %s~
+The corpse of %s is lying here.~
+meat~
+npc_corpse 0 A
+0 0 0 A 0
+1 1000 0 0 D
+#11
+corpse~
+the corpse of %s~
+The corpse of %s is lying here.~
+meat~
+pc_corpse O A
+0 0 0 A 0
+1 1000 0 0 D
+#12
+head~
+the {Rhead {yof %s{x~
+{yThe {Rsevered{Y head{y of %s is lying here.{x~
+meat~
+trash U A
+0 0 0 0 0
+1 50 0 0 D
+#13
+heart~
+the {Rheart{y of %s{x~
+The torn-out {Rheart{y of %s is lying here.{x~
+meat~
+pill 0 A
+10 'heart of the dragon' 'reserved' 'reserved' 'reserved'
+1 20 0 0 D
+#14
+arm~
+the {Rarm {yof %s{x~
+The sliced-off {Rarm{y of %s{x is here.~
+meat~
+pill 0 A
+10 'hands of wind' 'reserved' 'reserved' 'reserved'
+1 50 0 0 D
+#15
+leg~
+the {Rleg {yof %s{x~
+The sliced-off {Rleg{y of %s{x is laying here.~
+meat~
+pill 0 A
+10 'might of heros' 'reserved' 'reserved' 'reserved'
+1 50 0 0 D
+#16
+guts entrails~
+the {Gguts{y of %s{x~
+A steaming pile of %s's {Gentrails{y is lying here.{x~
+meat~
+food 0 A
+6 5 0 A 0
+1 20 0 0 D
+#17
+brains brain~
+the {Dbrains{y of %s{x~
+The {Rsplattered {Dbrains{y of %s are lying here.{x~
+meat~
+pill 0 A
+10 'mind of sages' 'reserved' 'reserved' 'reserved'
+1 20 0 0 D
+#18
+ear~
+the {Dear{y of %s{x~
+The {Rlacerated {Dear{y of %s is lying here.{x~
+meat~
+food 0 A
+3 10 0 0 0
+1 20 0 0 D
+#19
+eye~
+the {Deye{y of %s{x~
+The {Rdislodged {Deye{y of %s is lying here.{x~
+meat~
+pill 0 A
+10 'sight of ages' 'reserved' 'reserved' 'reserved'
+1 20 0 0 D
+#20
+mushroom~
+a Magic Mushroom~
+A delicious magic mushroom is here.~
+food~
+food 0 A
+5 8 0 0 0
+1 10 0 0 P
+#21
+ball light~
+a bright ball of light~
+A bright ball of light shimmers in the air.~
+energy~
+light A A
+0 0 999 0 0
+1 0 0 0 P
+#22
+spring~
+a magical spring~
+A magical spring flows from the ground.~
+water~
+fountain G 0
+100000 100000 'water' 0 0
+1 0 0 0 P
+#23
+disc disk floating black~
+a floating disc~
+A floating black disc hangs in the air.~
+energy~
+container GMPUYZ AQ
+50 E 0 0 0
+1 0 0 0 P
+#25
+gate portal~
+a shimmering gate~
+A shimmering black gate rises from the ground, leading to parts unknown.~
+shadow~
+portal GOT 0
+0 0 0 0 0
+1 0 0 0 P
+#26
+hair of the dog stein~
+a small, misty stein~
+Mist pours onto the ground from a small stein.~
+unknown~
+drink U AO
+5 5 'hair of the dog' 0 0
+1 0 0 0 P
+E
+hair mist dog stein~
+A small brass stein spills over with mist, wispy tendrils weaving down
+the side of the container and curling underneath.  Intricate magical
+characters have been carved in the side of the stein, bringing strength to
+whomever might partake of the contents.  
+~
+#27
+vortex~
+a tiny vortex~
+A tiny swirl of black and red marks a recall vortex.~
+aether~
+treasure 0 AO
+0 0 0 0 0
+1 0 10000 0 P
+#0
+
+
+
+#ROOMS
+#1
+The Stupid Void~
+It's just a room to abused by everyone!  
+~
+0 12 1
+S
+#2
+Limbo~
+You are floating in a formless void, detached from all sensation of
+physical matter, surrounded by swirling glowing light, which fades into the
+relative darkness around you without any trace of edges or shadow.  There is
+a "No Tipping" notice pinned to the darkness.  
+~
+0 271368 1
+D4
+~
+~
+0 -1 3001
+S
+#8
+The Room That Is Not~
+This room does not exist.  
+~
+0 4 0
+S
+#50
+{DZod's Thinking Room{x~
+Upon entering this room, one sees walls filled with volumes of ancient
+literature.  A solid oak desk sits in the west corner, standing majestic as
+it is companioned with a large leather chair.  Some scattered papers and
+what looks to be maps line the top of the desk.  Small orbs of floating
+light give off a golden hue, causing mysterious shadows to dance about the
+room.  
+~
+0 4 0
+S
+#0
+
+
+
+#SPECIALS
+M 1 spec_cast_cleric
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

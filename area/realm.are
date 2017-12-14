@@ -1,0 +1,204 @@
+#AREADATA
+Name Realms of Chaos~
+Builders Hastur~
+VNUMs 2600 2699
+Credits {80 120} Hastur    Realms of Chaos~
+Security 1
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#MOBPROGS
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#2600
+The Ebon Gate~
+In front of you is an enormous dark archway made out of the blackest obsidian.
+The ancient, evil runes that cover its surface glows with a red, menacing light.
+This is the gateway to the  realms of chaos,
+your last chance to turn back brave mortal. Last chance...
+~
+0 4 0
+D1
+~
+gate~
+1 0 2601
+S
+#2601
+Wasteland~
+You are standing at the edge of barren plain.
+In the far distance to the north you can see a spike ridge of mounthains
+that rise into the air like jagged teeth.
+The ground here is black and charred, as if purged by a giant bonfire.
+Chill, dry winds sweep across it and sends a shivering sensation up your spine. 
+There are no plants, no animals, no kind of life here at all.
+The place itself seems to have banned life from this domain.
+You suddenly realize where you are... You are standing at the
+threshold to the domains of chaos.
+~
+0 4 0
+D1
+~
+~
+0 0 2602
+D3
+~
+gate~
+1 0 2600
+S
+#2602
+Wasteland~
+~
+0 0 0
+D1
+~
+~
+0 0 2603
+D3
+~
+~
+0 0 2601
+S
+#2603
+Wasteland~
+~
+0 0 0
+D1
+~
+~
+0 0 2604
+D3
+~
+~
+0 0 2602
+S
+#2604
+Wasteland~
+~
+0 0 0
+D1
+~
+~
+0 0 2605
+D3
+~
+~
+0 0 2603
+S
+#2605
+Wasteland~
+~
+0 0 0
+D1
+~
+~
+0 0 2606
+D3
+~
+~
+0 0 2604
+S
+#2606
+Wasteland~
+~
+0 0 0
+D3
+~
+~
+0 0 2605
+S
+#2607
+Wasteland~
+~
+0 4 0
+S
+#2608
+~
+~
+0 4 0
+S
+#2609
+~
+~
+0 4 0
+S
+#2610
+~
+~
+0 4 0
+S
+#2611
+~
+~
+0 4 0
+S
+#2612
+~
+~
+0 4 0
+S
+#2613
+~
+~
+0 4 0
+S
+#2614
+~
+~
+0 4 0
+S
+#2615
+~
+~
+0 4 0
+S
+#2616
+~
+~
+0 4 0
+S
+#2617
+~
+~
+0 4 0
+S
+#2618
+~
+~
+0 4 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 2600 1 1
+D 0 2601 3 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

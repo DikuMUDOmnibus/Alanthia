@@ -1,0 +1,2409 @@
+#AREADATA
+Name Galaxy~
+Builders Fluffy Halodar~
+VNUMs 9300 9399
+Credits {250 300} Doctor      Galaxy~
+Security 9
+Version 1
+End
+
+
+
+#MOBILES
+#9301
+thousands micrometeorites~
+thousands of micrometeorites~
+Thousands of micrometeorites drift in space.
+~
+You see thousands and thousands of micrometeorites.  Each individual one is
+not harmful alone, but the sheer number of them can cause serious injury.
+~
+unique~
+ACGT DFT 0 0
+250 0 2d6+35 2d9+100 1d6+0 smash
+70 70 70 70
+CEFJU AB F M
+stand stand none 5
+AHMV ABCDEFGHIJK tiny 0
+#9302
+oldstyle star~
+a beautiful star~
+A beautiful white star smiles at you.
+~
+You can't tell what the star looks like, she is too bright!
+~
+unique~
+ABG T 500 0
+246 0 2d7+96 4d9+100 1d7+2 none
+70 70 70 70
+CEFNU AB CDI 0
+stand stand female 25
+AHMV ABCDEFGHIJK medium 0
+#9303
+oldstyle nebula young~
+a young nebula~
+A young nebula, waiting to become a star.
+~
+It hasn't got a definite shape, it is just a cloud of mist.
+~
+unique~
+AG T 200 0
+260 0 2d7+121 5d9+100 2d4+2 none
+70 70 70 70
+EFNU AB H I
+stand stand female 50000
+AHMV ABCDEFGHIJK medium 0
+#9304
+oldstyle comet speedy~
+a speedy comet~
+A speedy comet is waiting to crush your head in.
+~
+You see the offspring of Halley's comet, here just to wipe everything out.
+~
+unique~
+ACFG T -500 0
+255 0 2d7+121 5d9+100 2d4+2 none
+70 70 70 70
+EFNU AB S I
+stand stand male 75
+AHMV ABCDEFGHIJK medium 0
+#9305
+oldstyle red supergiant~
+a red supergiant~
+An enormous, red supergiant is forced to protect the galaxy.
+~
+You notice the giant is not as tough as his name sounds ...
+Still he can be very powerful.
+~
+unique~
+ABGH T 0 0
+270 0 3d9+208 7d9+100 2d6+3 none
+70 70 70 70
+CEFNU AB HS I
+sleep sleep male 100
+AHMV ABCDEFGHIJK medium 0
+#9306
+oldstyle white dwarf~
+a white dwarf~
+A tiny white dwarf is trying to sneak away from duty. 
+~
+Like the red giant, he is also appointed to stand guard for the galaxy.
+But somehow he manages to escape.  Though tiny, it can take a lot of hits!
+~
+unique~
+ACG T 0 0
+267 0 3d9+208 7d9+100 2d6+3 none
+70 70 70 70
+EFNU AB MS IL
+stand stand male 100
+AHMV ABCDEFGHIJK medium 0
+#9307
+oldstyle horsehead nebula~
+a horsehead nebula~
+A huge nebula is here, resembling a horsehead.
+~
+You can only make out its shape from the darkness.  He was cursed to stay in
+here and his face may never be seen by anyone again.
+~
+unique~
+ABG PQT -1000 0
+275 0 3d9+283 9d9+100 2d7+4 none
+70 70 70 70
+EFNU AB FS IJ
+sit sit male 300
+AHMV ABCDEFGHIJK medium 0
+#9308
+dangling prisoner~
+a dangling prisoner~
+A prisoner dangles dangerously above a pit.
+~
+The prisoner has no expression on its face.  It seems either to have accepted
+its fate or is totally ambivalent to its plight.  The prisoner dangles from
+chains clamping to its wrists.
+~
+unique~
+ABEG Te 1000 0
+273 0 3d9+283 9d9+100 2d7+4 none
+70 70 70 70
+CEFNV AB HI M
+stand stand none 375
+AHMV ABCDEFGHIJK huge 0
+#9309
+temple guardian~
+a temple guardian~
+A massive temple guardian patrols the temple.
+~
+This behemoth is dressed in strange clothes and armor not found in any of
+the realms.  He patrols the temple grounds, his walking seemingly shaking
+the foundations of the temple itself.
+~
+unique~
+AGT HV 1000 0
+278 0 3d9+308 9d9+100 2d7+5 none
+70 70 70 70
+CFKNOUVW AB IM F
+stand stand male 375
+AHMV ABCDEFGHIJK giant 0
+#9310
+wild pegasus~
+the wild Pegasus~
+The wild pegasus is grazing peacefully.
+~
+It is the legendary horse with wings on its back.
+~
+unique~
+ABGH T 300 0
+276 0 3d9+258 8d9+100 3d4+4 none
+70 70 70 70
+EFNU AB IM HK
+stand stand none 250
+AHMV ABCDEFGHIJK medium 0
+#9311
+massive temple keeper~
+a massive temple keeper~
+A massive temple keeper makes sure prisoners don't escape.
+~
+Just as massive as the temple guardian, his size and height don't even
+compare with the largest of the dragons found in the lands.  He keeps
+a watchful lookout, constantly checking to see if the prisoners attempt
+to escape their awaited sacrifice.
+~
+unique~
+AGT H 300 0
+279 0 3d9+308 9d9+100 2d7+5 none
+70 70 70 70
+ADEFNU AB I H
+stand stand male 375
+AHMV ABCDEFGHIJK giant 0
+#9312
+chained prisoner~
+a chained prisoner~
+A chained prisoner awaits its sacrifice.
+~
+It's impossible to tell what race this is, or even its sex or how long it
+has been here.  It's not as big as the temple guardians, but is large
+enough to be bound by the massive clamps.
+~
+unique~
+ABG TV 300 0
+255 0 2d8+134 5d9+100 1d10+2 punch
+70 70 70 70
+EFN ABFHJS FHJS IJM
+sleep sleep none 150
+AHMV ABCDEFGHIJK huge 0
+#9313
+blackhole~
+a blackhole~
+A blackhole is here, destroying the universe.
+~
+Probably the most destructive force known in the universe.  It is pure black, and its gravity it generates is so strong that everything is pulled to it and ripped apart.
+~
+unique~
+ABFG DFHOTVd -1000 0
+295 0 5d10+550 12d9+100 2d10+7 none
+120 120 120 70
+EFHNUX AB HIJLS MX
+stand stand none 750
+AHMV ABCDEFGHIJK giant 0
+#9314
+huge sun dragon~
+a huge sun dragon~
+A huge sun dragon flies around.
+~
+Probably the most massive dragon to ever exist, these gargantuans seem
+to stretch forever, their flaming bodies generating intense heat.
+~
+unique~
+AFGT DFT 0 0
+280 0 2d6+110 4d9+100 1d8+2 blast
+70 70 70 70
+CFMNU ABH EHJLS IM
+stand stand female 200
+AHMVZ ABCDEFGHIJKLOPQUVWXY giant 0
+#9315
+intense light~
+{!Intense light{x~
+{!Intense light{x.
+~
+You shield and squint your eyes as you examine this intense light
+source.  It constantly shifts from color to color, and projects
+mental images to you of mortally wounded opponents.
+~
+unique~
+AGQRST HT 0 0
+285 0 5d10+400 22d9+100 2d8+6 none
+70 70 70 70
+CDFKUVW ABS 0 0
+stand stand none 500
+DH 0 medium light
+#9316
+celestial servant~
+a celestial servant~
+A celestial servant is here.
+~
+Although its appearance is similar to that of condensed mists, an image forms
+in your head that fits that of a servant to a lord.  It doesn't seem dangerous.
+~
+unique~
+AGT DHT 0 0
+285 0 5d10+400 22d9+100 2d8+6 none
+70 70 70 70
+EFIK AB H 0
+stand stand none 500
+H 0 huge 0
+#9317
+essence~
+Essence~
+Essence of existence.
+~
+You feel an essence all about you.  You cannot sense it with your senses, but you get psychic imagery of danger and death. 
+~
+unique~
+ABGQRT DFHNOTVd 1000 0
+300 0 5d10+400 22d9+100 2d8+6 drain
+70 70 70 70
+DEFIJKVW AB CDMS 0
+stand stand none 500
+AHMV 0 giant 0
+#9318
+star supernova~
+a supernova~
+A star has just exploded, creating a supernova.
+~
+Most of this star has just exploded, resulting in extremely bright light that is emitting vast amounts of energy.
+~
+unique~
+ABCFGQ DT 0 0
+265 3 125d3+375 15d9+100 5d2+10 none
+70 70 70 70
+EIKU AB HIS 0
+stand stand none 2500
+AHMV ABCDEFGHIJK large 0
+#9319
+low humming noise vibrations~
+vibrations~
+A low humming noise vibrates your body.
+~
+You look in the general direction of where the humming noise might originate
+from.  You see nothing, your vision shaky from the vibrations it generates.
+~
+unique~
+AFGT DFHT 0 0
+285 0 5d10+400 22d9+100 2d8+6 blast
+70 70 70 70
+EIKU AB FG 0
+stand stand none 600
+H 0 huge 0
+#9320
+essence guardian~
+Guardian of Essence~
+A guardian protects the Essence.
+~
+You look at it and do not see a finite form, like the rest of the creatures here, but you receive mental sensations of alarm and anger caused by your presence.
+~
+unique~
+ABFGT DFHT 0 0
+290 0 5d10+400 22d9+100 2d8+6 drain
+70 70 70 70
+CEFIKNU AB C 0
+stand stand none 500
+H 0 giant essence
+#9321
+oldstyle virgo~
+Virgo~
+Virgo is sitting here, winking at you suggestively ... you are alarmed!
+~
+From what you have seen, you now realize that legends are legends, and Virgo
+may not be the maid of chastity and purity at all!  But still she looks
+gorgeous and is waiting for your first move, whatever it is ...
+~
+unique~
+ABGQ HT 1000 0
+287 0 5d10+400 22d9+100 2d8+6 none
+70 70 70 70
+CEFIKU AB IM C
+sit sit female 500
+AHMV ABCDEFGHIJK medium 0
+#9322
+intense light~
+{RIntense light{x~
+{RIntense light{x.
+~
+This light is very intense.  It emits a red glow but no heat.  It seems
+to mentally project images to you that are similar to a magic-user.
+~
+unique~
+AGR HTV 0 0
+288 0 5d10+400 22d9+100 2d8+6 none
+70 70 70 70
+AFKU ABS C 0
+stand stand none 500
+DH 0 medium light
+#9323
+celestial guardian~
+a celestial guardian~
+A celestial guardian protects the entrance.
+~
+It doesn't have a finite form, or isn't made of anything solid.  It looks
+like a mixture of white light and gases, and constantly swirls about from
+form to form.
+~
+unique~
+ABGT DHT 0 0
+286 0 5d10+400 22d9+100 2d8+6 none
+70 70 70 70
+CDEFIUX AB FL 0
+stand stand none 500
+H 0 giant celestial
+#9324
+oldstyle sagittarius~
+Sagittarius~
+Sagittarius the centaur is waiting to let go of his well aimed arrow ...
+~
+He is a centaur and a well trained archer. No one can escape his arrows.
+~
+unique~
+ABGQ HT 1000 0
+289 0 5d10+400 22d9+100 2d8+6 none
+70 70 70 70
+CEFIKUW AB JS HK
+stand stand male 500
+AHMV ABCDEFGHIJK medium 0
+#9325
+intense light~
+{MIntense light{x~
+{MIntense light{x.
+~
+A concentrated magenta light is before you, flaring intensely.  It mentally
+projects images to you of a holy man servicing the temple.
+~
+unique~
+AGQ HT 700 0
+285 0 5d10+400 22d9+100 2d8+6 none
+70 70 70 70
+FKU AB JS 0
+stand stand none 500
+DH ABCDEFGHIJK medium light
+#9326
+air ripples~
+ripples of air~
+The air ripples gently in front of you.
+~
+The air ripples gently in front of you, as if someone tossed a stone to
+disturb a smooth surface of water.  The ripples seem to flow in patterns, 
+perhaps indicating a sign of intelligence.
+~
+unique~
+AGQT HT 0 0
+289 0 5d10+400 22d9+100 2d8+6 none
+70 70 70 70
+EIK AB CDE 0
+stand stand none 500
+H 0 large 0
+#9327
+oldstyle pisces mermaid~
+Pisces the mermaid~
+Pisces the mermaid is sitting here, waiting for your help.
+~
+She has been forced to serve her husband, who had been cursed to turn into a
+fish and she deserves your pity.
+~
+unique~
+ABGQ HT 1000 0
+290 0 5d10+400 22d9+100 2d8+6 none
+70 70 70 70
+EIKU AB JS HK
+sit sit female 500
+AHMV ABCDEFGHIJK medium 0
+#9328
+celestial healer~
+a celestial healer~
+A celestial healer forms from the void.
+~
+This celestial being is extremely large.  It is mostly made of light and mists, as the other celestial bodies.  It displays mental imagery to your mind of a healer.
+~
+unique~
+AGQ HT 0 0
+291 0 5d10+400 22d9+100 2d8+6 none
+70 70 70 70
+EIKU AB JS 0
+stand stand none 500
+H 0 giant 0
+#9329
+celestial sentry~
+a celestial sentry~
+A celestial sentry patrols the sphere.
+~
+Its form is unstable, and it seems to phase in and out of focus.  It is very cold, and it sends telepathic images of alarm to you.
+~
+unique~
+AFGT DHT 0 0
+285 0 5d10+650 27d9+100 2d10+7 none
+70 70 70 70
+CDEFIKOR AB EIJS 0
+stand stand none 750
+AGV ABCDEFHJKUV giant 0
+#9330
+oldstyle cassiopeia queen~
+Cassiopeia the Queen~
+Cassiopeia, the queen of the Universe, is sitting on her throne.
+~
+She is the Queen of Dignity; facing her you feel all your dignity has gone.
+~
+unique~
+ABGR DHTVc 700 0
+297 0 5d10+550 26d9+100 3d6+6 none
+70 70 70 70
+CFHINUW ABEa JS 0
+sit sit female 600
+AHMV ABCDEFGHIJK medium 0
+#9331
+celestial wizard~
+a celestial wizard~
+A celestial wizard forms from the void.
+~
+This celestial body is composed of light and mists.  It feels very cold, and it sends you telepathically images that would match an ancient wizard.
+~
+unique~
+AGR HTc 0 0
+292 0 5d10+550 26d9+100 3d6+6 none
+70 70 70 70
+FIKNUX AB JS 0
+stand stand none 600
+HM G giant celestial
+#9332
+oldstyle polaris polar star~
+Polaris, the polar star~
+Polaris, the polar star, who commands the whole Universe, stands before you!
+~
+He is the Master of the Universe, (NOT He-Man!), the most powerful!  
+Even the King and the Queen obey him.  As you look at him you notice he is 
+actually a STAR, with dazzling bright light ... maybe you shouldn't have come
+here at all?
+~
+unique~
+ABG BDHOQTVZa 1000 0
+305 0 6d12+853 15d9+100 4d6+8 none
+70 70 70 70
+FKU AB JS E
+stand stand male 1000
+AHMV ABCDEFGHIJK medium 0
+#9333
+mysterious woman~
+a mysterious woman~
+A mysterious woman is here, gazing into a crystal ball.
+~
+~
+unique~
+ABM 0 0 0
+310 0 0d0+0 0d0+0 0d0+0 none
+70 70 70 70
+0 ABCDEFGHIJKLMNOPQRSTXYZa 0 0
+stand stand female 0
+V 0 medium unknown
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#9300
+North of the Sphere~
+You are north of the sphere.  The sphere seems to pulsate with life, each
+time colors of all sorts swirl in unison.  If the sphere wasn't here, this
+place would truly be devoid of anything.  
+~
+0 9 0
+D0
+~
+~
+0 0 9382
+D1
+~
+~
+0 0 9373
+D2
+You see a shimmering forcefield.
+~
+forcefield shimmering~
+4 9327 9335
+D3
+~
+~
+0 0 9350
+D4
+~
+~
+0 0 9376
+D5
+~
+~
+0 0 9378
+S
+#9301
+Inside a Tavern~
+You are inside a dimly-lit room.  The atmosphere is filled with weird
+scents and is a bit humid.  In front of you stands a mysterious woman, with
+a small crystal ball resting atop a table.  
+~
+0 12 0
+D1
+~
+~
+0 0 1306
+S
+#9302
+Inside the Crystal Ball~
+You are inside the crystal ball.  You can see the room outside of the
+crystal ball, the woman still staring intently into it.  There doesn't seem
+to be an exit out of here.  To the north lies the galaxy.  
+~
+0 0 2
+D0
+~
+~
+0 -1 9303
+S
+#9303
+Inside the Galaxy~
+You stands inside the galaxy.  Around you, you see stars and nebulae,
+with comets and meteors floating near them.  There are exits in all cardinal
+directions.  
+~
+0 0 1
+D0
+~
+~
+0 -1 9304
+D1
+~
+~
+0 -1 9308
+D2
+~
+~
+0 -1 9302
+D3
+~
+~
+0 -1 9321
+S
+#9304
+On an InterGalactic Walkway~
+You are on a well-paved path which seems that it was made deliberately
+for visitors like you.  The walkway continues north and a small exit lies
+west.  
+~
+0 0 1
+D0
+~
+~
+0 -1 9305
+D2
+~
+~
+0 -1 9303
+D3
+~
+~
+0 -1 9322
+S
+#9305
+End of the InterGalactic Walkway~
+The walkway has come to an abrupt end here.  You see that there is still
+a small path which leads north and one to the west.  To the east lies a
+bridge.  
+~
+0 0 1
+D0
+~
+~
+0 -1 9306
+D1
+~
+~
+0 -1 9309
+D2
+~
+~
+0 -1 9304
+D3
+~
+~
+0 -1 9323
+S
+#9306
+At the Undeveloped Part of the Galaxy~
+This place looks deserted, covered with space debris.  Not a sign of life
+is around.  
+~
+0 0 1
+D2
+~
+~
+0 -1 9305
+D3
+~
+~
+0 -1 9324
+S
+#9307
+South of the Sphere~
+You are south of the sphere.  The sphere seems to pulsate with life, each
+time colors of all sorts swirl in unison.  If the sphere wasn't here, this
+place would truly be devoid of anything.  
+~
+0 9 0
+D0
+You see a shimmering forcefield.
+~
+forcefield shimmering~
+4 9327 9335
+D1
+~
+~
+0 0 9374
+D2
+~
+~
+0 0 9381
+D3
+~
+~
+0 0 9362
+D4
+~
+~
+0 0 9375
+D5
+~
+~
+0 0 9379
+S
+#9308
+On the Bridge of Stars~
+This bridge has been made by the stars to honour their ancestors.  The
+bridge itself shines brightly and makes you feel that you are walking on a
+path of light.  An entrance to an ancient building lies north and to the
+east the galaxy continues.  
+~
+0 4 1
+D0
+~
+~
+0 -1 9331
+D1
+~
+~
+0 -1 9312
+D3
+~
+~
+0 -1 9303
+S
+#9309
+On the Bridge of Nebulae~
+This bridge, like the other, was made as a memorial.  The nebulae had to
+make one just to show that they are as capable as the stars.  North lies a
+throne room.  
+~
+0 1 1
+D0
+~
+~
+0 -1 9310
+D1
+~
+~
+0 -1 9314
+D3
+~
+~
+0 -1 9305
+S
+#9310
+The Throne Room of the Nebula King~
+You can only faintly make out that it is a throne room as it is too dark
+in here.  In the middle is an empty throne.  
+~
+0 1 0
+D2
+~
+~
+0 -1 9309
+S
+#9311
+A Narrow Passage~
+You sense the walls are very tight in this room, allowing only two people
+at the most to cross at the same time.  The paths to the east and south
+widen considerably though.  
+~
+0 520 0
+D1
+~
+~
+0 0 9349
+D2
+~
+~
+0 0 9346
+S
+#9312
+The Core of the Galaxy~
+It is here that the galaxy starts flowing.  You are surrounded by streams
+of mist the moment you tread on it.  Your vision is obscured greatly.  
+~
+0 0 4
+D0
+~
+~
+0 -1 9313
+D3
+~
+~
+0 -1 9308
+S
+#9313
+Along the Misty Path~
+You are still travelling inside this path of mist.  You notice a small
+opening to the east.  
+~
+0 0 4
+D0
+~
+~
+0 -1 9314
+D1
+~
+~
+0 -1 9317
+D2
+~
+~
+0 -1 9312
+S
+#9314
+A Misty Path~
+This area is filled with a fine mist.  To the west you see a bridge.  To
+the east you see the edge of the galaxy.  South has more mists.  
+~
+0 0 4
+D1
+~
+~
+0 -1 9318
+D2
+~
+~
+0 -1 9313
+D3
+~
+~
+0 -1 9309
+S
+#9315
+A Narrow Passage~
+You sense the walls are very tight in this room, allowing only two people
+at the most to cross at the same time.  The paths to the east and north
+widen considerably though.  
+~
+0 520 0
+D0
+~
+~
+0 0 9346
+D1
+~
+~
+0 0 9344
+S
+#9316
+A Narrow Passage~
+You sense the walls are very tight in this room, allowing only two people
+at the most to cross at the same time.  The paths to the west and south
+widen considerably though.  
+~
+0 520 0
+D2
+~
+~
+0 0 9352
+D3
+~
+~
+0 0 9347
+S
+#9317
+A Small Clearing~
+You are inside a small clearing.  You can see that there are signs of a
+living creature nearby.  
+~
+0 0 2
+D0
+~
+~
+0 -1 9318
+D3
+~
+~
+0 -1 9313
+S
+#9318
+An Edge of the Galaxy~
+You are on the very edge of the galaxy.  Nothing is here except that
+there is a path which leads down.  
+~
+0 0 1
+D2
+~
+~
+0 -1 9317
+D3
+~
+~
+0 -1 9314
+D5
+~
+~
+0 -1 9319
+S
+#9319
+A Black Hole~
+Darkness swirls around your finger tips and clocks melt all around. 
+Existance here is no more.  The paranormal exits disperse your molecules
+throughout time and space.  
+~
+0 4 1
+D0
+~
+~
+0 0 10487
+D1
+~
+~
+0 0 6203
+D2
+~
+~
+0 0 18735
+D3
+~
+~
+0 0 8306
+D4
+~
+~
+0 0 5210
+D5
+~
+~
+0 0 24100
+S
+#9320
+A Narrow Passage~
+You sense the walls are very tight in this room, allowing only two people
+at the most to cross at the same time.  The paths to the west and north
+widen considerably though.  
+~
+0 520 0
+D0
+~
+~
+0 0 9352
+D3
+~
+~
+0 0 9353
+S
+#9321
+The Star Cluster~
+You are inside the home of the stars.  All you can see around you are
+stars and nothing else.  You eyes become pretty hurt as you look at them.  
+~
+0 0 1
+D0
+~
+~
+0 -1 9322
+D1
+~
+~
+0 -1 9303
+S
+#9322
+Another Edge of the Galaxy~
+This is another uninhabited place.  Exits lie north, east and south.  
+~
+0 0 2
+D0
+~
+~
+0 -1 9323
+D1
+~
+~
+0 -1 9304
+D2
+~
+~
+0 -1 9321
+S
+#9323
+Corner of the Galaxy~
+You are at the corner of the galaxy.  The space north looks very empty. 
+To the south is another corner of the galaxy.  To the east is an
+intergalatic walkway.  
+~
+0 0 1
+D0
+~
+~
+0 -1 9324
+D1
+~
+~
+0 -1 9305
+D2
+~
+~
+0 -1 9322
+S
+#9324
+Lost in Space~
+This area of space offers nothing to gauge your location.  Darkness seems
+to slowing envelope you.  
+~
+0 1 2
+D0
+~
+~
+0 0 14172
+D1
+~
+~
+0 -1 9306
+D2
+~
+~
+0 -1 9323
+S
+#9325
+East of the Sphere~
+You are east of the sphere.  The sphere seems to pulsate with life, each
+time colors of all sorts swirl in unison.  If the sphere wasn't here, this
+place would truly be devoid of anything.  
+~
+0 9 0
+D0
+~
+~
+0 0 9373
+D1
+~
+~
+0 0 9341
+D2
+~
+~
+0 0 9374
+D3
+A shimmering forcefield.
+~
+forcefield shimmering~
+4 9327 9335
+D4
+~
+~
+0 0 9343
+D5
+~
+~
+0 0 9372
+S
+#9326
+Northwestern Corner of the Temple~
+All about lay huge chains that clamp onto limbs of a person of similar
+stature.  Depictions on the walls here indicate that these people could be
+offered to a deity for sacrifice.  
+~
+0 0 1
+D1
+~
+~
+0 -1 9329
+D2
+~
+~
+0 -1 9327
+S
+#9327
+Western Side of the Temple~
+You are still wandering around this temple.  You notice exits lie in all
+directions except west.  
+~
+0 0 1
+D0
+~
+~
+0 -1 9326
+D1
+~
+~
+0 -1 9330
+D2
+~
+~
+0 -1 9328
+S
+#9328
+Southwestern Corner of the Temple~
+This room seems to be designated for the temple guardian, to rest and
+recuperate.  Large indentations of his form can be seen on the floor and the
+wall.  
+~
+0 0 1
+D0
+~
+~
+0 -1 9327
+D1
+~
+~
+0 -1 9331
+S
+#9329
+Northern Side of the Temple~
+This room contains the strange chips and cuts into the wall, but with
+depictions of strange beings that resemble somewhat like dragons.  
+~
+0 0 1
+D1
+~
+~
+0 -1 9332
+D2
+~
+~
+0 -1 9330
+D3
+~
+~
+0 -1 9326
+S
+#9330
+The Offering Chamber~
+This is the sacred offering chamber in which sacrifices are made.  You
+see the strange symbols engraved into the ceiling and floor, but they flare
+up seemingly with a life of its own.  You look up and notice chains dangling
+from the ceiling, and a pit directly below them leading to the temple of
+Thalos.  
+~
+0 4 1
+D0
+~
+~
+0 -1 9329
+D1
+~
+~
+0 -1 9333
+D2
+~
+~
+0 -1 9331
+D3
+~
+~
+0 -1 9327
+D4
+~
+~
+0 -1 9339
+D5
+~
+~
+0 -1 5250
+S
+#9331
+The Entrance of the Ancient Temple~
+You have entered into this old temple, probably built at the start of
+time itself.  Strange cuts into what looks like rock look intelligible,
+almost resembling a language, but what exactly it says is undecipherable.  
+~
+0 0 1
+D0
+~
+~
+0 -1 9330
+D1
+~
+~
+0 -1 9334
+D2
+~
+~
+0 -1 9308
+D3
+~
+~
+0 -1 9328
+S
+#9332
+Northeastern Side of the Temple~
+This corner of the temple seems desolate.  The usual chips in the wall
+are here, but otherwise nothing of interest is in this area.  
+~
+0 0 1
+D2
+~
+~
+0 -1 9333
+D3
+~
+~
+0 -1 9329
+S
+#9333
+Eastern Side of the Temple~
+You are still wandering around this temple.  You notice exits lie in all
+directions except east.  
+~
+0 0 1
+D0
+~
+~
+0 -1 9332
+D2
+~
+~
+0 -1 9334
+D3
+~
+~
+0 -1 9330
+S
+#9334
+Southeastern Corner of the Temple~
+All over the walls you see chips into the rocks in peculiar shapes and
+designs.  The floor has huge pieces of rock-like material shaped into
+containers for storage.  
+~
+0 0 1
+D0
+~
+~
+0 -1 9333
+D3
+~
+~
+0 -1 9331
+S
+#9335
+The sphere~
+This room pulses with life.  It is filled with liquids, gasses, and
+solids, yet none of them seem to affect you, nor can you affect it.  The
+walls shimmer with magnificent colors, changing in unison, as a heart beats
+rhythmically.  
+~
+0 9 0
+D0
+A shimmering forcefield.
+~
+forcefield shimmering~
+4 9327 9300
+D1
+A shimmering forcefield.
+~
+forcefield shimmering~
+4 9327 9325
+D2
+A shimmering forcefield.
+~
+forcefield shimmering~
+4 9327 9307
+D3
+A shimmering forcefield.
+~
+forcefield shimmering~
+4 9327 9361
+D4
+A shimmering forcefield.
+~
+forcefield shimmering~
+4 9327 9338
+D5
+A shimmering forcefield.
+~
+forcefield shimmering~
+4 9327 9340
+S
+#9336
+The Void~
+This area is completely devoid of anything.  You feel nothing, hear
+nothing, smell nothing, or see nothing.  Even though you are deprived of all
+sensory information, you can somehow sense the barriers and exits.  
+~
+0 9 0
+D0
+~
+~
+0 0 9388
+D1
+~
+~
+0 0 9340
+D2
+~
+~
+0 0 9390
+D4
+~
+~
+0 0 9361
+S
+#9337
+The Void~
+This area is completely devoid of anything.  You feel nothing, hear
+nothing, smell nothing, or see nothing.  Even though you are deprived of all
+sensory information, you can somehow sense the barriers and exits.  
+~
+0 9 0
+D0
+~
+~
+0 0 9384
+D1
+~
+~
+0 0 9338
+D2
+~
+~
+0 0 9385
+D5
+~
+~
+0 0 9361
+S
+#9338
+Above the Sphere~
+You are above the sphere.  The sphere seems to pulsate with life, each
+time colors of all sorts swirl in unison.  If the sphere wasn't here, this
+place would truly be devoid of anything.  
+~
+0 9 0
+D0
+~
+~
+0 0 9376
+D1
+~
+~
+0 0 9343
+D2
+~
+~
+0 0 9375
+D3
+~
+~
+0 0 9337
+D4
+~
+~
+0 0 9377
+D5
+You see a shimmering forcefield.
+~
+forcefield shimmering~
+4 9327 9335
+S
+#9339
+On the Massive Chains~
+You cling onto the chains and notice exits lie in all directions, to the
+second level of the temple.  Up above you see the chains continue, but a
+forcefield prevents you from going further upwards.  
+~
+0 0 0
+D0
+~
+~
+0 -1 9348
+D1
+~
+~
+0 -1 9351
+D2
+~
+~
+0 -1 9342
+D3
+~
+~
+0 -1 9345
+D4
+You see the {!forcefield.{x
+~
+forcefield~
+4 9324 9354
+D5
+~
+~
+0 -1 9330
+S
+#9340
+Below the Sphere~
+You are below the sphere.  The sphere seems to pulsate with life, each
+time colors of all sorts swirl in unison.  If the sphere wasn't here, this
+place would truly be devoid of anything.  
+~
+0 9 0
+D0
+~
+~
+0 0 9378
+D1
+~
+~
+0 0 9372
+D2
+~
+~
+0 0 9379
+D3
+~
+~
+0 0 9336
+D4
+You see a shimmering forcefield.
+~
+forcefield shimmering~
+4 9327 9335
+D5
+~
+~
+0 0 9380
+S
+#9341
+The Void~
+This area is completely devoid of anything.  You feel nothing, hear
+nothing, smell nothing, or see nothing.  Even though you are deprived of all
+sensory information, you can somehow sense the barriers and exits.  
+~
+0 9 0
+D3
+~
+~
+0 0 9325
+S
+#9342
+A Surrealistic Walkway~
+Your eyes tell you no walls, ceiling, or floor exists, but your other
+senses tell you otherwise as you stand on nothing.  Below you is the
+universe, while above you is devoid of anything.  You see bright forms of
+light moving around on this level.  
+~
+0 8 0
+D0
+~
+~
+0 -1 9339
+D1
+~
+~
+0 -1 9353
+D3
+~
+~
+0 0 9344
+S
+#9343
+The Void~
+This area is completely devoid of anything.  You feel nothing, hear
+nothing, smell nothing, or see nothing.  Even though you are deprived of all
+sensory information, you can somehow sense the barriers and exits.  
+~
+0 9 0
+D0
+~
+~
+0 0 9383
+D2
+~
+~
+0 0 9386
+D3
+~
+~
+0 0 9338
+D5
+~
+~
+0 0 9325
+S
+#9344
+A Sensitive Room~
+The room seems to quiver as you move along this path.  Even your
+breathing seems to cause it to shake.  To the west the path gets narrow.  To
+the east you the room does not shake from your actions.  
+~
+0 8 0
+D1
+~
+~
+0 0 9342
+D3
+~
+~
+0 0 9315
+S
+#9345
+A Surrealistic Walkway~
+All of the universe is visible from your vantage point, directly below
+you, and where there is no universe, directly above you.  This level of
+temple has no ceiling, floor, or walls, but you are able to walk along the
+level and sense walls and a ceiling.  
+~
+0 8 0
+D1
+~
+~
+0 -1 9339
+D3
+~
+~
+0 -1 9346
+S
+#9346
+A T-Intersection~
+As you trend long this path, the ground seems to disappear, but somehow
+you are still supported.  The paths north and south seem to get narrow,
+while to the east you see the massive chains.  
+~
+0 8 0
+D0
+~
+~
+0 0 9311
+D1
+~
+~
+0 -1 9345
+D2
+~
+~
+0 0 9315
+S
+#9347
+Deprivation~
+The view of the universe beneath you disappears as you walk into this
+room devoid of everything.  Your breathing and movement sounds are all
+muffled as you pass through.  To the east is a narrow passage, and to the
+west is a T-intersection.  
+~
+0 8 0
+D1
+~
+~
+0 0 9316
+D3
+~
+~
+0 -1 9348
+S
+#9348
+A Surrealistic Walkway~
+You stand on top of something solid, but has no substance.  You can see
+through this solid, down at the galaxy below you, and above at the blackest
+of black skies.  Looking about, you see bright sources of light, which seem
+to move around.  
+~
+0 8 0
+D1
+~
+~
+0 -1 9347
+D2
+~
+~
+0 -1 9339
+D3
+~
+~
+0 -1 9349
+S
+#9349
+Warmth and Chills~
+You notice as you move along this path that the walls are generating lots
+of heat, while the floor and ceiling generate very cold air.  To the east is
+a T-intersection, and to the west is a narrow passage.  
+~
+0 8 0
+D1
+~
+~
+0 -1 9348
+D3
+~
+~
+0 0 9311
+S
+#9350
+The Void~
+This area is completely devoid of anything.  You feel nothing, hear
+nothing, smell nothing, or see nothing.  Even though you are deprived of all
+sensory information, you can somehow sense the barriers and exits.  
+~
+0 9 0
+D1
+~
+~
+0 0 9300
+D2
+~
+~
+0 0 9361
+D4
+~
+~
+0 0 9384
+D5
+~
+~
+0 0 9388
+S
+#9351
+A Surrealistic Walkway~
+You stand on something solid, but all around you there are no detectable
+floors, ceilings, or walls.  Below you lies the universe, with all of the
+stars, comets, and other heavenly bodies.  Above you is absolutely nothing,
+darker than even the black holes, totally devoid of anything.  
+~
+0 8 0
+D1
+~
+~
+0 -1 9352
+D3
+~
+~
+0 -1 9339
+S
+#9352
+A T-Intersection~
+The solid feeling underneath you gives way, but you stay in place as
+though it were still beneath you.  You can still sense the walls and ceiling
+though.  To the north and south the path seems to get narrow.  
+~
+0 8 0
+D0
+~
+~
+0 0 9316
+D2
+~
+~
+0 0 9320
+D3
+~
+~
+0 -1 9351
+S
+#9353
+Soft Glows of Color~
+Faint glows of different colors of light seem to appear on the walls,
+ceiling, and floor as you pass by and walk on them.  They gently illuminate
+the passages east and west.  
+~
+0 8 0
+D1
+~
+~
+0 0 9320
+D3
+~
+~
+0 -1 9342
+S
+#9354
+End of the Massive Chains~
+You have reached the end of the massive chains.  Looking up, you notice a
+small landing on which you can climb.  However, there seems to be another
+forcefield blocking your way.  
+~
+0 0 5
+D4
+You see a {Mforcefield.{x
+~
+forcefield~
+4 9325 9355
+D5
+You see a {!forcefield.{x
+~
+~
+4 9324 9339
+S
+#9355
+On the Landing~
+Vast emptiness in all directions.  Even the ground beneath you seems to
+have vanished, but you can still sense it.  Off in far distances you see
+bright red dragons flying, and also misty figures.  
+~
+0 1 4
+D0
+~
+~
+0 -1 9356
+D5
+You see a {Mforcefield.{x
+~
+~
+4 9325 9354
+S
+#9356
+Walking in Emptyness~
+You continue your trek in complete darkness.  The ground, although
+transparent and colorless, is slightly a shade lighter than the emptyness. 
+The path continues north and south.  
+~
+0 1 4
+D0
+~
+~
+0 -1 9357
+D2
+~
+~
+0 -1 9355
+S
+#9357
+Walking in Emptyness~
+You feel a slight breeze, probably originating from the buffeting of the
+dragons in the area.  The breeze, mists, and dragons seem to be the only
+things to exist up here.  
+~
+0 1 4
+D0
+~
+~
+0 -1 9358
+D2
+~
+~
+0 -1 9356
+S
+#9358
+Walking in Emptyness~
+To the north you see a shimmering wall, only slightly less darker than
+the emptyness.  To the south continues the path of emptyness.  
+~
+0 1 4
+D0
+~
+~
+0 -1 9359
+D2
+~
+~
+0 -1 9357
+S
+#9359
+Before the Forcefield~
+Before you is a large forcefield that seems to lead nowhere, although all
+of the parts here seem to be nothing.  To the south is the emptyness and a
+path leading away from the forcefield.  
+~
+0 1 4
+D1
+You see a {Rforcefield.{x
+~
+forcefield~
+4 9326 9360
+D2
+~
+~
+0 -1 9358
+S
+#9360
+Into the Void~
+The area beyond the forcefield is completely devoid of everything.  You
+can not hear, touch, or see anything, yet you receive psychic images of a
+huge sphere.  To the distant east you see a glowing sphere.  To the west you
+see a forcefield.  
+~
+0 13 0
+D1
+~
+~
+0 -1 9361
+D3
+You see a {Rforcefield.{x
+~
+forcefield~
+4 9326 9359
+S
+#9361
+West of the Sphere~
+You are west of the sphere.  The sphere seems to pulsate with life, each
+time colors of all sorts swirl in unison.  If the sphere wasn't here, this
+place would truly be devoid of anything.  
+~
+0 9 0
+D0
+~
+~
+0 0 9350
+D1
+You see a shimmering forcefield.
+~
+forcefield shimmering~
+4 9327 9335
+D2
+~
+~
+0 0 9362
+D3
+~
+~
+0 -1 9360
+D4
+~
+~
+0 0 9337
+D5
+~
+~
+0 0 9336
+S
+#9362
+The Void~
+This area is completely devoid of anything.  You feel nothing, hear
+nothing, smell nothing, or see nothing.  Even though you are deprived of all
+sensory information, you can somehow sense the barriers and exits.  
+~
+0 8 0
+D0
+~
+~
+0 0 9361
+D1
+~
+~
+0 0 9307
+D4
+~
+~
+0 0 9385
+D5
+~
+~
+0 0 9390
+S
+#9363
+_~
+
+~
+0 1 4
+D2
+~
+forcefield~
+1 9327 9364
+S
+#9364
+_~
+
+~
+0 0 1
+D0
+You see the forcefield of Winter.~
+forcefield~
+1 9327 9363
+D3
+~
+~
+0 -1 9366
+S
+#9365
+Essence of Existence~
+You feel incredible power in this room.  Your senses are assaulted by
+smells, imagery, sounds, feelings, and tastes of everything that exists.  It
+is here that the gods exert their will on life and existence itself.  
+~
+0 4 0
+S
+#9366
+_~
+
+~
+0 0 1
+D1
+~
+~
+0 -1 9364
+D2
+~
+~
+0 -1 9367
+S
+#9367
+_~
+
+~
+0 0 1
+D0
+~
+~
+0 -1 9366
+D2
+~
+~
+0 -1 9368
+S
+#9368
+_~
+
+~
+0 0 1
+D0
+~
+~
+0 -1 9367
+D3
+~
+~
+0 -1 9369
+S
+#9369
+_~
+
+~
+0 0 1
+D1
+~
+~
+0 -1 9368
+D2
+~
+~
+0 -1 9370
+S
+#9370
+_~
+
+~
+0 0 1
+D0
+~
+~
+0 -1 9369
+D2
+~
+~
+0 -1 9371
+S
+#9371
+_~
+
+~
+0 0 1
+D0
+~
+~
+0 0 9370
+S
+#9372
+The Void~
+This area is completely devoid of anything.  You feel nothing, hear
+nothing, smell nothing, or see nothing.  Even though you are deprived of all
+sensory information, you can somehow sense the barriers and exits.  
+~
+0 9 0
+D0
+~
+~
+0 0 9387
+D2
+~
+~
+0 0 9389
+D3
+~
+~
+0 0 9340
+D4
+~
+~
+0 0 9325
+S
+#9373
+The Void~
+This area is completely devoid of anything.  You feel nothing, hear
+nothing, smell nothing, or see nothing.  Even though you are deprived of all
+sensory information, you can somehow sense the barriers and exits.  
+~
+0 9 0
+D2
+~
+~
+0 0 9325
+D3
+~
+~
+0 0 9300
+D4
+~
+~
+0 0 9383
+D5
+~
+~
+0 0 9387
+S
+#9374
+The Void~
+This area is completely devoid of anything.  You feel nothing, hear
+nothing, smell nothing, or see nothing.  Even though you are deprived of all
+sensory information, you can somehow sense the barriers and exits.  
+~
+0 9 0
+D0
+~
+~
+0 0 9325
+D3
+~
+~
+0 0 9307
+D4
+~
+~
+0 0 9386
+D5
+~
+~
+0 0 9389
+S
+#9375
+The Void~
+This area is completely devoid of anything.  You feel nothing, hear
+nothing, smell nothing, or see nothing.  Even though you are deprived of all
+sensory information, you can somehow sense the barriers and exits.  
+~
+0 9 0
+D0
+~
+~
+0 0 9338
+D1
+~
+~
+0 0 9386
+D3
+~
+~
+0 0 9385
+D5
+~
+~
+0 0 9307
+S
+#9376
+The Void~
+This area is completely devoid of anything.  You feel nothing, hear
+nothing, smell nothing, or see nothing.  Even though you are deprived of all
+sensory information, you can somehow sense the barriers and exits.  
+~
+0 9 0
+D1
+~
+~
+0 0 9383
+D2
+~
+~
+0 0 9338
+D3
+~
+~
+0 0 9384
+D5
+~
+~
+0 0 9300
+S
+#9377
+The Void~
+This area is completely devoid of anything.  You feel nothing, hear
+nothing, smell nothing, or see nothing.  Even though you are deprived of all
+sensory information, you can somehow sense the barriers and exits.  
+~
+0 9 0
+D5
+~
+~
+0 0 9338
+S
+#9378
+The Void~
+This area is completely devoid of anything.  You feel nothing, hear
+nothing, smell nothing, or see nothing.  Even though you are deprived of all
+sensory information, you can somehow sense the barriers and exits.  
+~
+0 9 0
+D1
+~
+~
+0 0 9387
+D2
+~
+~
+0 0 9340
+D3
+~
+~
+0 0 9388
+D4
+~
+~
+0 0 9300
+S
+#9379
+The Void~
+This area is completely devoid of anything.  You feel nothing, hear
+nothing, smell nothing, or see nothing.  Even though you are deprived of all
+sensory information, you can somehow sense the barriers and exits.  
+~
+0 9 0
+D0
+~
+~
+0 0 9340
+D1
+~
+~
+0 0 9389
+D3
+~
+~
+0 0 9390
+D4
+~
+~
+0 0 9307
+S
+#9380
+The Void~
+This area is completely devoid of anything.  You feel nothing, hear
+nothing, smell nothing, or see nothing.  Even though you are deprived of all
+sensory information, you can somehow sense the barriers and exits.  
+~
+0 9 0
+D4
+~
+~
+0 0 9340
+S
+#9381
+The Void~
+This area is completely devoid of anything.  You feel nothing, hear
+nothing, smell nothing, or see nothing.  Even though you are deprived of all
+sensory information, you can somehow sense the barriers and exits.  
+~
+0 9 0
+D0
+~
+~
+0 0 9307
+S
+#9382
+The Void~
+This area is completely devoid of anything.  You feel nothing, hear
+nothing, smell nothing, or see nothing.  Even though you are deprived of all
+sensory information, you can somehow sense the barriers and exits.  
+~
+0 9 0
+D2
+~
+~
+0 0 9300
+S
+#9383
+The Void~
+This area is completely devoid of anything.  You feel nothing, hear
+nothing, smell nothing, or see nothing.  Even though you are deprived of all
+sensory information, you can somehow sense the barriers and exits.  
+~
+0 9 0
+D2
+~
+~
+0 0 9343
+D3
+~
+~
+0 0 9376
+D5
+~
+~
+0 0 9373
+S
+#9384
+The Void~
+This area is completely devoid of anything.  You feel nothing, hear
+nothing, smell nothing, or see nothing.  Even though you are deprived of all
+sensory information, you can somehow sense the barriers and exits.  
+~
+0 9 0
+D1
+~
+~
+0 0 9376
+D2
+~
+~
+0 0 9337
+D5
+~
+~
+0 0 9350
+S
+#9385
+The Void~
+This area is completely devoid of anything.  You feel nothing, hear
+nothing, smell nothing, or see nothing.  Even though you are deprived of all
+sensory information, you can somehow sense the barriers and exits.  
+~
+0 9 0
+D0
+~
+~
+0 0 9337
+D1
+~
+~
+0 0 9375
+D5
+~
+~
+0 0 9362
+S
+#9386
+The Void~
+This area is completely devoid of anything.  You feel nothing, hear
+nothing, smell nothing, or see nothing.  Even though you are deprived of all
+sensory information, you can somehow sense the barriers and exits.  
+~
+0 9 0
+D0
+~
+~
+0 0 9343
+D3
+~
+~
+0 0 9375
+D5
+~
+~
+0 0 9374
+S
+#9387
+The Void~
+This area is completely devoid of anything.  You feel nothing, hear
+nothing, smell nothing, or see nothing.  Even though you are deprived of all
+sensory information, you can somehow sense the barriers and exits.  
+~
+0 9 0
+D2
+~
+~
+0 0 9372
+D3
+~
+~
+0 0 9378
+D4
+~
+~
+0 0 9373
+S
+#9388
+The Void~
+This area is completely devoid of anything.  You feel nothing, hear
+nothing, smell nothing, or see nothing.  Even though you are deprived of all
+sensory information, you can somehow sense the barriers and exits.  
+~
+0 9 0
+D1
+~
+~
+0 0 9378
+D2
+~
+~
+0 0 9336
+D4
+~
+~
+0 0 9350
+S
+#9389
+The Void~
+This area is completely devoid of anything.  You feel nothing, hear
+nothing, smell nothing, or see nothing.  Even though you are deprived of all
+sensory information, you can somehow sense the barriers and exits.  
+~
+0 9 0
+D0
+~
+~
+0 0 9372
+D3
+~
+~
+0 0 9379
+D4
+~
+~
+0 0 9374
+S
+#9390
+The Void~
+This area is completely devoid of anything.  You feel nothing, hear
+nothing, smell nothing, or see nothing.  Even though you are deprived of all
+sensory information, you can somehow sense the barriers and exits.  
+~
+0 9 0
+D0
+~
+~
+0 0 9336
+D1
+~
+~
+0 0 9379
+D4
+~
+~
+0 0 9362
+S
+#0
+
+
+
+#SPECIALS
+M 9301 spec_thief
+M 9314 spec_breath_fire
+M 9315 spec_breath_any
+M 9316 spec_breath_any
+M 9317 spec_cast_cleric
+M 9318 spec_cast_cleric
+M 9319 spec_nasty
+M 9321 spec_cast_cleric
+M 9322 spec_cast_mage
+M 9323 spec_breath_any
+M 9324 spec_cast_cleric
+M 9325 spec_cast_cleric
+M 9326 spec_cast_cleric
+M 9327 spec_cast_cleric
+M 9328 spec_cast_cleric
+M 9330 spec_cast_mage
+M 9331 spec_cast_mage
+M 9332 spec_breath_acid
+S
+
+
+
+#RESETS
+D 0 9300 2 2
+D 0 9307 0 2
+D 0 9325 3 2
+D 0 9335 0 2
+D 0 9335 1 2
+D 0 9335 2 2
+D 0 9335 3 2
+D 0 9335 4 2
+D 0 9335 5 2
+D 0 9338 5 2
+D 0 9339 4 2
+D 0 9340 4 2
+D 0 9354 4 2
+D 0 9354 5 2
+D 0 9355 5 2
+D 0 9359 1 2
+D 0 9360 3 2
+D 0 9361 1 2
+M 0 9333 200 9301 1
+M 0 9302 9 9304 1
+M 0 9305 4 9304 1
+M 0 9318 1 9306 1
+M 0 9306 3 9306 1
+M 0 9302 9 9308 1
+M 0 9305 4 9308 1
+M 0 9305 4 9309 1
+M 0 9303 5 9310 3
+M 0 9303 5 9310 3
+M 0 9303 5 9310 3
+M 0 9307 1 9310 1
+M 0 9302 9 9312 1
+M 0 9301 3 9313 1
+M 0 9305 4 9313 1
+M 0 9306 3 9314 1
+M 0 9304 4 9317 2
+M 0 9304 4 9317 2
+M 0 9310 1 9317 1
+M 0 9303 5 9318 1
+M 0 9313 1 9319 1
+M 0 9302 9 9321 4
+M 0 9302 9 9321 4
+M 0 9301 3 9322 1
+M 0 9303 5 9322 1
+M 0 9304 4 9322 2
+M 0 9304 4 9322 2
+M 0 9306 3 9322 1
+M 0 9301 3 9323 1
+M 0 9312 3 9326 2
+M 0 9312 3 9326 2
+M 0 9311 1 9328 1
+M 0 9308 1 9330 1
+M 0 9309 2 9331 1
+M 0 9309 2 9332 1
+M 0 9302 9 9333 1
+M 0 9320 2 9335 2
+M 0 9320 2 9335 2
+M 0 9315 1 9342 1
+M 0 9328 2 9343 1
+M 0 9319 3 9345 1
+M 0 9326 4 9345 1
+M 0 9319 3 9346 1
+M 0 9326 4 9347 1
+M 0 9322 1 9348 1
+M 0 9326 4 9349 1
+M 0 9325 1 9351 1
+M 0 9319 3 9352 1
+M 0 9326 4 9353 1
+M 0 9316 2 9356 1
+M 0 9314 2 9358 1
+M 0 9323 2 9359 1
+M 0 9314 2 9360 1
+M 0 9328 2 9361 1
+M 0 9329 3 9362 1
+M 0 9317 1 9365 1
+M 0 9329 3 9376 1
+M 0 9331 2 9379 1
+M 0 9329 3 9380 1
+M 0 9331 2 9386 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

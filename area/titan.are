@@ -1,0 +1,1166 @@
+#AREADATA
+Name Titan Heaven~
+Builders Whisperwolf~
+VNUMs 25800 25999
+Credits {??? ???} Whisperwolf Titan Heaven~
+Security 9
+Version 1
+End
+
+
+
+#MOBILES
+#25800
+Kruasher~
+Kruasher, the barkeep~
+Kruasher wanders around cleaning the bar and the tables
+~
+The renown barkeep of the renown tavern, The Cloudy Ale.  He is a kind
+and pleasant looking man with a clean crisp smile on his face at all times. 
+His guests enjoy his company as much as they do their own friends.  He keeps
+a tidey bar and employs the sweetest of barmaids.  
+~
+unique~
+AG 0 400 0
+165 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 B Z
+stand stand male 22050
+AHMV ABCDEFGHIJK huge unknown
+M delay 25804 99~
+M grall 25802 99~
+#25801
+Resting Traveler~
+A resting traveler~
+A resting traveler is here relaxing from his long journey.
+~
+A younger man with a windblown face.  This person has apparently traveled
+a great deal since he looks weary.  
+~
+unique~
+ABGQY LVc 0 0
+155 0 0d0+0 0d0+0 0d0+0 slash
+0 0 0 0
+I 0 0 0
+stand stand male 7140
+AHMV ABCDEFGHIJK medium unknown
+M delay 25801 99~
+M grall 25803 99~
+#25802
+Jynger Innkeeper~
+Jynger, the innkeeper~
+Jynger wanders about checking on the rooms and the guests.
+~
+Jynger, the barkeeps wife and the innkeeper, stands tall before you.  She
+has a firm attitude, but the wrinkles on her face show signs of smiling.  
+~
+unique~
+ABG 0 0 0
+165 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 B Z
+stand stand female 2540
+AHMV ABCDEFGHIJK huge unknown
+M grall 25805 99~
+#25803
+Wench Barmaid~
+a cloudy ale barmaid~
+A barmaid is trying to fill an order.
+~
+A beautiful female titan, wearing a loose blouse revealing her ample
+cleavage, stands before you.  
+~
+unique~
+ABG 0 0 0
+160 0 0d0+0 0d0+0 0d0+0 slap
+0 0 0 0
+I 0 B Z
+stand stand female 0
+AHMV ABCDEFGHIJK huge unknown
+#25804
+Skilne~
+Skilne~
+Skilne, the black slithering creature.
+~
+You actually want to look at him?  An oozing mass of black goo, is
+amassed into a passable excuse for a creature.  His jaw moves fluidly as he
+contemplates an attack.  
+~
+unique~
+AB DFHJV -1000 0
+115 0 0d0+0 0d0+0 0d0+0 slime
+0 0 0 0
+DFKMNW ILR 0 EHIZ
+stand stand male 1304
+AGHXYac ABDEFJKLNQVX giant unknown
+M grall 25800 99~
+#25805
+Puppeteer~
+The Puppeteer~
+The puppeteer is here cleaning a knife.
+~
+A strange hermit of a man stands before you holding a blood stained knife.
+~
+unique~
+ABGR 0 -800 0
+170 0 0d0+0 0d0+0 0d0+0 stab
+0 0 0 0
+0 0 0 0
+stand stand male 3400
+AHMV ABCDEFGHIJK medium unknown
+#25806
+Tavern Master~
+Tavern Master~
+The tavern master is busily running the tavern.
+~
+A heavy set man bustles about cleaning tables.
+~
+unique~
+ABG 0 100 0
+160 0 0d0+0 0d0+0 0d0+0 slash
+0 0 0 0
+0 0 B Z
+stand stand male 300
+AHMV ABCDEFGHIJK huge unknown
+#25807
+Tavern Masters Daughter~
+A tavern master's daughter~
+One of the tavern masters daughter is here helping her father.
+~
+An attractive young daughter to the tavern master busily helps her father.
+~
+unique~
+ABG 0 100 0
+155 0 0d0+0 0d0+0 0d0+0 slap
+0 0 0 0
+0 0 B Z
+stand stand female 300
+AHMV ABCDEFGHIJK large unknown
+#25808
+Jez~
+Jez the magician~
+Jez is here adjusting and polishing his wares.
+~
+A short man with a crooked nose stands before you.  He emits a strange
+aura, and you know he is not one to be triffled with.  
+~
+unique~
+ABGMR 0 100 0
+300 0 0d0+0 0d0+0 0d0+0 blast
+0 0 0 0
+0 0 0 0
+stand stand male 100000
+AHMV ABCDEFGHIJK medium unknown
+#25820
+Baker Madam Talarn~
+Nadam Talarn, the titan baker~
+Madam Talarn is here covered in flour.
+~
+Approaching quickly, a rosey cheeked titan female wearing an apron
+covered in flour smiles sweetly.  Madam Talarn is a well known face to the
+bazaar for her fairness and kindness to strangers.  
+~
+unique~
+ABGM DEF 900 0
+300 212 0d0+0 0d0+0 0d0+0 slash
+-108 -111 -109 -108
+0 A 0 0
+stand stand female 100000
+AHMV ABCDEFGHIJK medium unknown
+#25825
+Derlyn Butcher~
+Derlyn, the titan buther~
+Derlyn steps away from his block covered in blood.
+~
+A large titan male covered in blood approaches.  His muscles are gigantic
+from many years of doing his teadious job.  He gestures to his selection and
+awaits your choice.  
+~
+unique~
+ABGM DEF 900 0
+300 212 0d0+0 0d0+0 0d0+0 slash
+0 0 0 0
+0 A 0 0
+stand stand male 100000
+AHMV ABCDEFGHIJK giant unknown
+#25832
+Calista Jeweler Woman~
+Calista the jeweler~
+Calista sets aside her work to aid her customers.
+~
+Standing tall, even though her size makes her the smallest resident in
+the kingdom, Calista gives forth a smiling face to all.  Her work is
+beautifully crafted and made with utmost precision.  
+~
+unique~
+ABGM DEF 900 0
+300 212 0d0+0 0d0+0 0d0+0 slash
+0 0 0 0
+0 A 0 0
+stand stand female 100000
+AHMV ABCDEFGHIJK medium unknown
+#25833
+Jingorn Man Grocer~
+Jingorn, the titan grocer~
+Jingorn shifts his massive bulk and speaks his greetings.
+~
+An extremely rotund man, with lines on his face from years of smiling,
+trudges about straightening items.  Always greeting every customer, he is
+well liked in these parts for his fairness and generosity.  
+~
+unique~
+ABGM DEF 0 0
+300 212 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 A 0 0
+stand stand male 100000
+AHMV ABCDEFGHIJK medium unknown
+#25834
+Jerdar Man Weapon Smith~
+Jerdar, the titan weaponsmith~
+Jerdar thrusts aside his newest creation to oversee purchases.
+~
+An extremely solidly, and well built man wearing a cured leather apron
+works hard here.  Seeing customers he tosses his newest weapon into the vat
+of water to cool.  He nods a greating and begins to reposition his finer
+weapons.  
+~
+unique~
+ABGM DEF 900 0
+300 212 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 A 0 0
+stand stand male 100000
+AHMV ABCDEFGHIJK huge unknown
+#25835
+Milgirn Man Armorer~
+Milgirn, the titan armorer~
+Milgirn sets aside his work and dusts himself off.
+~
+Working on a new piece of armor, Milgirn removes his goggles and places
+the armor on an old training dummy.  He is known for utmost care with his
+items and his fair dealings with travelers.  
+~
+unique~
+ABGM DEF 0 0
+300 212 0d0+0 0d0+0 0d0+0 slash
+0 0 0 0
+0 A 0 0
+stand stand male 100000
+AHMV ABCDEFGHIJK medium unknown
+#25836
+Shintin Man Leather Worker~
+Shintin, the titan leatherworker~
+Shintin places fine leather crafts about for sale.
+~
+A smaller titan man, with hands scared from curing and stitching leather,
+arranges items about in an orderly fashion.  His leather attire seems well
+worn and made.  
+~
+unique~
+ABGM DEF 900 0
+300 212 0d0+0 0d0+0 0d0+0 slash
+0 0 0 0
+0 A 0 0
+stand stand male 100000
+AHMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#25801
+Clouded Pathway~
+A breach in the foliage is seen ahead amidst the fog flowing from above. 
+The surrounding plantlife is reclaiming the path from bygone travelers after
+years of neglect.  Swirls of cloud rise up from where you disturb the ground
+with your footfalls.  To trudge on, clearing your way to the clouds above
+seems the only way.  
+~
+0 0 11
+D0
+~
+~
+0 0 25802
+S
+#25802
+Ascending the Clouded Path~
+Passing through the resisting foliage, the fog grows thicker, the air
+grows thinner, and the temperature drops slightly.  The mists, attempting to
+block the path, become alive and coagulate hastily.  
+~
+0 0 11
+D0
+~
+~
+0 0 25803
+D2
+~
+~
+0 0 25801
+S
+#25803
+Into the Clouds~
+Thickening haze, and condesation asail all that tresspass.  An enormous
+rotting tree blocks the path, destroyed by years upon years of moisture. 
+The sounds of slithering can be heard coming from its hollow core.  
+~
+0 0 11
+D2
+~
+~
+0 0 25802
+D4
+~
+~
+0 0 25806
+S
+#25806
+Moisture~
+All around is swirling droplets of water, saturating anything it touches.
+A bright pinpoint of light can be seen reflecting from the droplets ahead in
+the distance.  The path seems to head that way.  
+~
+0 0 11
+D0
+~
+~
+0 0 25807
+D5
+~
+~
+0 0 25803
+S
+#25807
+Towering Gates~
+Rising high into the air stands an enormous golden archway.  The oaken
+doors swing on silent hinges inwardly swirling cloud matter about in
+intricate patterns.  Ahead in the distance, a vast network of buildings and
+spires make out the Kingdom of the Titans.  The path emerges from the clouds
+toward the gate, instantly surrounded by flowers growing in the mystical
+clouds.  
+~
+0 0 1
+D0
+~
+~
+0 0 25808
+D2
+~
+~
+0 0 25806
+S
+#25808
+Grand Pavilion~
+Beyond the gates lies an intricate pavilion of gold and porcelain.  Fine
+designs are seen in the tiles surrounding the main pathways.  Signs of gold
+with silvery letters guide travellers and residents along thier ways.  In
+the center of the pavilion springs forth an immaculate fountain of
+porcelain.  Trickling from its beautiful designs, sparkles crystal clear
+water.  
+~
+0 0 1
+D0
+~
+~
+0 0 25831
+D1
+~
+~
+0 0 25809
+D2
+~
+~
+0 0 25807
+D3
+~
+~
+0 0 25818
+S
+#25809
+Common Bazaar~
+Several stalls are positioned around here with colorful banners to
+attract even the weariest of eyes.  The wonderful smell of fresh baked goods
+wafts gently toward you from the north.  While the unmistakable scent of the
+slaughter presents itself from the east.  South of here can be seen the many
+common shops this city has to offer 
+~
+0 0 1
+D0
+~
+~
+0 0 25812
+D1
+~
+~
+0 0 25813
+D2
+~
+~
+0 0 25814
+D3
+~
+~
+0 0 25808
+S
+#25812
+Madam Talarn's Bakery ~
+A wood burning oven steams noisily behind the counter.  The smell of
+honey and cinnamon linger heavily in this stall.  Large shelves hold many
+different types of breads and pastries.  A titan woman, with her arms
+covered in flour, kneeds happily the dough lying before her.  She smiles at
+your approach.  
+~
+0 0 0
+D2
+~
+~
+0 0 25809
+S
+#25813
+Slaughterhouse~
+Large piles of ice are packed into boxes strewn about this stall.  Choice
+cuts of meat are lined out for your purchasing.  A heavy set titan man with
+a bloody apron and wielding a cleaver grunts a greeting as you survey his
+selection.  
+~
+0 0 0
+D3
+~
+~
+0 0 25809
+S
+#25814
+Southern Bazaar~
+Benches and shrubberies are placed carefully to seat the weary and add a
+pleasant air to the bazaar To the east can be seen the shining wares of the
+jeweler of these parts.  To the south lies a large wooden building with a
+sign reading "Dry Goods" 
+~
+0 0 1
+D0
+~
+~
+0 0 25809
+D1
+~
+~
+0 0 25816
+D2
+~
+~
+1 0 25817
+S
+#25816
+Jewel of the Titans~
+Many fine pieces of jewelry hang from ropes tied between posts.  Large
+rings and trinkets shimmer under a protective case designed to thwart the
+common thief.  A beautiful human woman with cascade blue eyes catches your
+attention.  Laying the piece she was working on aside, she stands and
+approaches you to aid in your choosing.  
+~
+0 0 0
+D3
+~
+~
+0 0 25814
+S
+#25817
+Jingorn's Fine Dry Goods~
+Entering the wooden building, you she many shelves lined with items
+required for travel.  The smell of leather first asails you, followed
+promply by the enthusiastic shop keeper.  The rotund titan male hastily
+approaches spouting greetings in many languages, speaking finally one you
+understand.  
+~
+0 8 0
+D0
+~
+~
+1 0 25814
+S
+#25818
+Metalurgy Bazaar~
+The ringing of smiths hammers on anvils cries out through the bazaar. 
+The tempurature is indeed greater with the furnaces in use.  To the north
+shine weapons of many designs, while to the south clanks the armorers stall.
+Further west is a stall surrounded by a leather drapery.  
+~
+0 0 1
+D0
+~
+~
+0 0 25819
+D1
+~
+~
+0 0 25808
+D2
+~
+~
+0 0 25830
+D3
+~
+~
+0 0 25829
+S
+#25819
+Jerdar's Weaponsmithy~
+Many different designs of fine crafted weapons lie strategically about to
+display the wonderful craftsmanship.  Polished to a high shine many blades
+catch the light and blind you momentarily.  An enourmous furnace spews black
+smoke and flame towards the weaponsmith pounding ferociously on a new piece.
+Seeing a potential customer he thrusts his most recent creation and trudges
+toward you with a gap toothed smile.  
+~
+0 0 1
+D2
+~
+~
+0 0 25818
+S
+#25829
+Shintin's Finest Leather~
+Entering the covered stall, the smell of leather grows stronger than
+before.  Belts and pouches and various items are strewn about the floor. 
+Waterskins and some minor armor are set higher to make a more promenant
+impression upon the shopper.  
+~
+0 0 0
+D1
+~
+~
+0 0 25818
+S
+#25830
+Milgirn's Metalurgy~
+Fine suits and various styles of armor rest upon training dummies in an
+orderly fashion.  Every piece taken care of by the most dedicated of souls. 
+Tiny clanks can be heard coming from near the furnace in the rear of the
+stall.  The shopkeeper lifts his protective goggles and rises to greet his
+potential customer.  
+~
+0 0 0
+D0
+~
+~
+0 0 25818
+S
+#25831
+Greater Pavilion~
+Entering the smaller pavilion, it is apparent this leads to the more
+residential areas of the kingdom.  Small groups of people bustle about on
+either thier way to the bazaar, or hurrying toward home.  Houses stretch off
+into the distance both to the west and to the east.  The huge gates to the
+castle rise up above the rooftops further to the north.  
+~
+0 0 1
+D1
+~
+~
+0 0 25837
+D2
+~
+~
+0 0 25808
+S
+#25837
+Taverns Row~
+Houses and pubs, seemingly wedged beside one another, clutter the street
+on both sides.  Signs swing on rusty hinges attempting to draw attention to
+their attatched establishment.  Music and merryment can be heard behind many
+a door.  To the north is the most respected tavern of the entire kingdom,
+The Cloudy Ale.  
+~
+0 0 1
+D0
+~
+~
+1 0 25838
+D1
+~
+~
+0 0 25845
+D3
+~
+~
+0 0 25831
+S
+#25838
+The Cloudy Ale~
+Entering the main area, you can determine that the polished wooden tables
+and cushy padded chairs are arranged to occupy the largest amount of
+clientele.  Deepending on the time of day, judging from the state of the
+furnishings, this tavern is quite popular and most likely always lively. 
+Enormous stairways, carved for a single piece of wood by the looks of them,
+circle the bar leading to the upper rooms.  The barkeep and his wenches can
+be seen using a somewhat hidden door leading to the larder.  
+~
+0 8 0
+D0
+~
+~
+5 0 25844
+D2
+~
+~
+1 0 25837
+D4
+~
+~
+0 0 25839
+S
+#25839
+Upper Floor~
+Several doors line this pathway that overlooks the bar and its current
+inhabitants.  Many a weary traveler has spoken nothing but praise to the
+wonderful accommodations The Cloudy Ale has to offer.  
+~
+0 8 0
+D0
+~
+~
+0 0 25840
+D1
+~
+~
+1 0 25843
+D5
+~
+~
+0 0 25838
+S
+#25840
+Upper Floor~
+Several doors line this pathway that overlooks the bar and its current
+inhabitants.  Many a weary traveler has spoken nothing but praise to the
+wonderful accommodations The Cloudy Ale has to offer.  A single door lies
+directly ahead with a small plaque reading: "Barkeep" placed in the center. 
+~
+0 8 0
+D0
+~
+~
+1 0 25841
+D1
+~
+~
+1 0 25842
+D2
+~
+~
+0 0 25839
+S
+#25841
+Barkeep's Quarters~
+You enter the private quarters of The Cloudy Ale's barkeep and notice
+just how prosperous the tavern must be.  A plush feather bed, large enough
+to comfortably hold 3 titans, is set in the corner of the room.  On the
+opposite wall stands a tall wardrobe next to a porcelain washtable.  There
+is also a writing desk cluttered with ink blots, feathers, and wrinkled
+papers set at the foot of the bed.  However the woven rug in the center of
+the wooden floor, draws your attention away from everything else in the
+room.  
+~
+0 8 0
+D2
+~
+~
+1 0 25840
+S
+#25842
+A Pleasant Room~
+You enter one of the several rooms available to travelers that The Cloudy
+Ale has to offer.  It is well furnished and looks quite comfortable.  A
+window looks out onto an alley that runs between some of the adjacent
+buildings.  
+~
+0 8 0
+D3
+~
+~
+1 0 25840
+S
+#25843
+A Pleasant Room~
+You enter one of the several rooms available to travelers that The Cloudy
+Ale has to offer.  It is well furnished and looks quite comfortable.  A
+window looks out onto the street providing a good view above the rooftops.  
+~
+0 8 0
+D3
+~
+~
+1 0 25839
+S
+#25844
+The Larder~
+Slipping into the hidden room, you see many barrels that are stacked
+neatly along one all.  Wheels of cheese and assorted freshly cut meats are
+also stored in this room.  
+~
+0 8 0
+D2
+~
+~
+5 0 25838
+S
+#25845
+Taverns Row~
+Houses and pubs, seemingly wedged beside one another, clutter the street
+on both sides.  Signs swing on rusty hinges attempting to draw attention to
+their attatched establishment.  An alley breaks between two of the buildings
+to the north, and turns behind the buildings.  
+~
+0 0 1
+D0
+~
+~
+0 0 25846
+D1
+~
+~
+0 0 25850
+D3
+~
+~
+0 0 25837
+S
+#25846
+Cluttered Alley~
+Broken barrels and filth litter the alleyway.  Stagnant water gathers at
+lowpoints in the cobblestone, eminating a foul stench.  No matter the time
+of day, the buildings surrounding the alley cloak it in darkness.  Who knows
+what can be found here.  
+~
+0 0 1
+D0
+~
+~
+0 0 25847
+D2
+~
+~
+0 0 25845
+S
+#25847
+Cluttered Alley~
+Crates and discarded clothing are strewn about in abandonment.  Gigantic
+teeth marks can be seen on the crates.  Judging from their size, their maker
+is quite large.  
+~
+0 0 1
+D1
+~
+~
+0 0 25848
+D2
+~
+~
+0 0 25846
+S
+#25848
+Cluttered Alley~
+Discarded items, rotting food, and gnawed bones lie upon the ground near
+the buildings.  A small blood stain marks the rear wall to The Fox and The
+Fairy.  A grate can be seen leading into the depths of the city.  
+~
+0 0 1
+D2
+~
+~
+5 0 25862
+D3
+~
+~
+0 0 25847
+D5
+~
+~
+0 0 25849
+S
+#25849
+The Undergound Passage~
+
+~
+0 8 0
+D4
+~
+~
+0 0 25848
+S
+#25850
+Taverns Row~
+Houses and pubs, seemingly wedged beside one another, clutter the street
+on both sides.  Signs swing on rusty hinges attempting to draw attention to
+their attatched establishment.  A colorful sign sticks out amoungst the
+others, advertising The Fox and The Fairy.  An equally colorful door leads
+north from the street.  
+~
+0 0 1
+D0
+~
+~
+1 0 25851
+D1
+~
+~
+0 0 25863
+D3
+~
+~
+0 0 25845
+S
+#25851
+The Fox and The Fairy~
+Entering the always lively tavern, you notice a puppet stage in the rear
+of the common room.  Several tables are scattered about the room providing
+seating for the guests.  A straight staircase runs along the back wall
+leading to the upstairs rooms.  The outline of a door can be seen below the
+stairs most likely leading backstage.  
+~
+0 8 0
+D0
+~
+~
+5 0 25862
+D2
+~
+~
+1 0 25850
+D4
+~
+~
+0 0 25852
+S
+#25852
+Upstairs~
+A thin pathway leads to the rear of the establisment.  Severl doors are
+visible lining the walkway.  Ahead the hall bends to the right leading to
+other rooms.  
+~
+0 8 0
+D0
+~
+~
+0 0 25853
+D5
+~
+~
+0 0 25851
+S
+#25853
+Thin Pathway~
+Doors line the hallway on both sides, leading to rooms for the other
+guests.  The creaking of boards can be heard as other occupants walk about. 
+Several torches line the wall supplying a faint light to the hall.  
+~
+0 8 0
+D0
+~
+~
+0 0 25856
+D1
+~
+~
+1 0 25855
+D2
+~
+~
+0 0 25852
+D3
+~
+~
+1 0 25854
+S
+#25854
+A Quiet Room~
+Plain furniture is set around the room providing the basics for anyone
+just passing through.  Curtains are drawn over the only window in the room,
+thrusting the room into darkness.  A candle burns on the bedside table
+providing what little light it can.  
+~
+0 8 0
+D1
+~
+~
+1 0 25853
+S
+#25855
+A Cozy Room~
+Two beds occupy this room, as well as a washtable and a desk.  The
+flowers and the pictures provide a quaint little decorum.  Several candles
+are set alight to supply visibility on account that there is no window in
+this room.  
+~
+0 8 0
+D3
+~
+~
+1 0 25853
+S
+#25856
+Thin Pathway~
+The hall turns to the right and continues on down to the east.  The soft
+flicker of the flames from the torches lights the pathway, and adds an eerie
+affect.  Rugs have been set in the hall to attempt to stiffle the creaking
+of the boards.  
+~
+0 8 0
+D0
+~
+~
+1 0 25858
+D1
+~
+~
+0 0 25859
+D2
+~
+~
+0 0 25853
+D3
+~
+~
+1 0 25857
+S
+#25857
+A Comfortable Room~
+Plain furniture is set around the room providing the basics for anyone
+just passing through.  Curtains are drawn over the only window in the room,
+thrusting the room into darkness.  A candle burns on the bedside table
+providing what little light it can.  
+~
+0 8 0
+D1
+~
+~
+1 0 25856
+S
+#25858
+A Cozy Room~
+Two beds occupy this room, as well as a washtable and a desk.  The
+flowers and the pictures provide a quaint little decorum.  Several candles
+are set alight to supply visibility on account that there is no window in
+this room.  
+~
+0 8 0
+D2
+~
+~
+1 0 25856
+S
+#25859
+Thin Pathway~
+The hallway leads to the last doors to the upstairs rooms.  A window is
+set in the far wall looking out onto the alley below.  The torches have
+burned out here and the hallway is lit only from the light coming in through
+the window.  
+~
+0 8 0
+D0
+~
+~
+1 0 25860
+D2
+~
+~
+1 0 25861
+D3
+~
+~
+0 0 25856
+S
+#25860
+A Quiet Room~
+Plain furniture is set around the room providing the basics for anyone
+just passing through.  Curtains are drawn over the only window in the room,
+thrusting the room into darkness.  A candle burns on the bedside table
+providing what little light it can.  
+~
+0 8 0
+D2
+~
+~
+1 0 25859
+S
+#25861
+A Cozy Room~
+Two beds occupy this room, as well as a washtable and a desk.  The
+flowers and the pictures provide a quaint little decorum.  Several candles
+are set alight to supply visibility on account that there is no window in
+this room.  
+~
+0 8 0
+D0
+~
+~
+1 0 25859
+S
+#25862
+Backstage~
+You step into the partially hidden room that is the backstage for the
+puppet shows.  The curtains are drawn closed, causing little light to break
+through.  A single candle burns on the table providing a little light.  A
+strange knob is set in the rear wall.  
+~
+0 8 0
+D0
+~
+~
+5 0 25848
+D2
+~
+~
+5 0 25851
+S
+#25863
+Taverns Row~
+Houses and pubs, seemingly wedged beside one another, clutter the street
+on both sides.  Signs swing on rusty hinges attempting to draw attention to
+their attatched establishment.  A sign with the painting of an eye seemingly
+follows your every move.  From the looks of the sign you can assume it leads
+to the magic shop.  To the south one of the houses has its door wide open to
+let in fresh air.  To the east is a wonderfully decorated two storey home.  
+~
+0 0 1
+D0
+~
+~
+1 0 25864
+D1
+~
+~
+1 0 25866
+D2
+~
+~
+1 0 25865
+D3
+~
+~
+0 0 25850
+S
+#25864
+Magic Shop~
+Potions bubble on and powders coat the many shelves lining the walls of
+the shop.  A statue of a gargoyle stands tall next to the counter as if
+guarding the propriator.  A strange fragrant incense stings your eyes as you
+enter the darkened chamber.  
+~
+0 8 0
+D2
+~
+~
+1 0 25863
+S
+#25865
+Residence~
+You enter a fine house, with plush carpeting and fine furnishings.  An
+iron kettle brings the smell of tea to your nose and whistles quietly from
+the stove.  Several windows in the back of the house are opened to allow air
+to flow through wafting the wonderful smells out to the street.  
+~
+0 8 0
+D0
+~
+~
+1 0 25863
+S
+#25866
+Mistress Trela's Brothel~
+You enter into a small alcove before the main hall of the establishment. 
+The walls are lined with a crimson crushed velvet, and are gilded at the
+edges.  The carpet is a thick and plush silky material, designed for bare
+feet.  A large stair case leads to the upper rooms.  Only patrons are
+allowed to ascend them.  
+~
+0 8 0
+D3
+~
+~
+1 0 25863
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 25814 2 1
+D 0 25817 0 1
+D 0 25837 0 1
+D 0 25838 0 1
+D 0 25838 2 1
+D 0 25839 1 1
+D 0 25840 0 1
+D 0 25840 1 1
+D 0 25841 2 1
+D 0 25842 3 1
+D 0 25843 3 1
+D 0 25844 2 1
+D 0 25848 2 1
+D 0 25850 0 1
+D 0 25851 0 1
+D 0 25851 2 1
+D 0 25853 1 1
+D 0 25853 3 1
+D 0 25854 1 1
+D 0 25855 3 1
+D 0 25856 0 1
+D 0 25856 3 1
+D 0 25857 1 1
+D 0 25858 2 1
+D 0 25859 0 1
+D 0 25859 2 1
+D 0 25860 2 1
+D 0 25861 0 1
+D 0 25862 0 1
+D 0 25862 2 1
+D 0 25863 0 1
+D 0 25863 1 1
+D 0 25864 2 1
+D 0 25866 3 1
+M 0 25804 1 25803 1
+M 0 25820 1 25812 1
+M 0 25825 1 25813 1
+M 0 25832 1 25816 1
+M 0 25833 1 25817 1
+M 0 25834 1 25819 1
+M 0 25836 1 25829 1
+M 0 25835 1 25830 1
+M 0 25800 1 25838 1
+M 0 25802 1 25839 1
+M 0 25801 1 25843 1
+M 0 25803 4 25844 2
+M 0 25806 1 25851 1
+M 0 25807 1 25851 1
+M 0 25805 1 25862 1
+M 0 25808 1 25864 1
+S
+
+
+
+#SHOPS
+25808 3 4 10 2 26 100 50 0 23
+25820 0 19 0 0 0 100 50 0 23
+25825 0 19 0 0 0 100 50 0 23
+25832 33 32 30 8 0 100 50 0 23
+25833 12 1 15 0 0 100 50 0 23
+25834 0 5 0 0 0 100 50 0 23
+25835 0 9 0 0 0 100 50 0 23
+25836 0 9 15 0 0 100 50 0 23
+0
+
+
+
+#$

@@ -1,0 +1,2946 @@
+#AREADATA
+Name Daggermoon Keep~
+Builders Fluffy Halodar~
+VNUMs 4400 4599
+Credits {230 300} Fash        Daggermoon Keep~
+Security 9
+Version 1
+End
+
+
+
+#MOBILES
+#4400
+Simaru Lerogo elf elven warrior~
+Simaru Lerogo~
+An elven warrior meditates on the ground.
+~
+Clad in silver bright as the noon sun and standing proudly above all is
+Simaru Lerogo.  Flaxen hair and bronzed skin of the far desert is the Chosen
+One, who will lead her people to the land's end and the world beyond the
+sea.  
+~
+unique~
+ABT HJLVcd 1000 0
+275 0 0d0+0 0d0+0 0d0+0 punch
+0 0 0 0
+CEFIKX AB CDLQ Z
+sit stand female 7000
+AHMV ABCDEFGHIJK medium flesh
+#4401
+Coriander Silvermane elf elven assassin~
+Coriander Silvermane~
+An elven assassin sneaks through the shadows.
+~
+A shock of grey hair runs down Coriander's back, earning him the title
+Silvermane.  Known only to a few, he is the mastermind of Daggermoon's
+smuggling operations.  A native of the World Forest, his family has served
+the Ironhands lineage since its inception.  
+~
+unique~
+AFGHSY PV -750 0
+260 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+BFKNVXY A B Z
+stand stand male 1
+AHMV ABCDEFGHIJK medium unknown
+#4402
+jade butterfly~
+a jade butterfly~
+A beautiful green butterfly flits amongst the flowers.
+~
+Like a fiery gem, the jade butterfly flashes its brightly colored wings
+in flight.  It lights upon each flower for but a second before moving on to
+the next delectable feast.  
+~
+unique~
+ABGU Td 0 0
+295 0 0d0+0 0d0+0 0d0+0 slash
+0 0 0 0
+FHPW AEN B 0
+stand stand either 0
+AGO ACDEHKP tiny flesh
+#4403
+Halations Phosphe elf elven gardener~
+Halations Phosphe~
+A kindly old elf is here, caring for his plants.
+~
+The rugged elderly elf slowly shuffles through the flower benches,
+occasionally pausing to spray something.  He wears a chrysanthenum in his
+snow white hair, brown leather boots, and silk short opened at the collar.  
+~
+unique~
+ABQ Hd 1000 0
+300 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+AFKNV AB HJQ Z
+stand stand male 3000
+AHMV ABCDEFGHIJK medium unknown
+#4404
+elf elven maid~
+an elven maid~
+A maid is dusting the silverware.
+~
+This elf knows she doesn't have the best job in the world, but at least
+it pays well and the benefits are generous.  That and it's better than being
+a worshipper for those not quite sane World Forest cultists.  
+~
+unique~
+AC 0 500 0
+248 0 0d0+0 0d0+0 0d0+0 punch
+0 0 0 0
+CEFK A BD CZ
+stand stand female 1
+AHMV ABCDEFGHIJK medium flesh
+#4405
+Kirrera Ironhands elf elven~
+Kirrera Ironhands~
+An emerald-haired elf paces around the room.
+~
+With an ink-dipped feather behind her ear, Kirrera quietly mutters arcane
+formulas to herself while inscribing notes on a vellum scroll.  Her verdant
+hair flows down soft shoulders and to lithe arms that could kick your ass in
+less time than it takes to say "Sahma is a potty-mouth."  Her grey eyes
+shine with a frightening intensity, as if she was more than alive.  
+~
+unique~
+ABGRT DFHLV 1000 0
+300 0 0d0+0 0d0+0 0d0+0 slap
+0 0 0 0
+ACDEFIJKNVW ABH CD Z
+stand stand female 1
+AHMV ABCDEFGHIJK medium flesh
+#4406
+Disivus Ironhands elf elven monk~
+Disivus Ironhands~
+An elven monk is meditating.
+~
+The youngest son of Tanil Ironhands was sent to an elven monastery to be
+raised in the path of true enlightenment.  He has spent the last seventeen
+years of his life in New Thalos, learning to be a true, penitent follower of
+the goddess Cele-Di.  His heart is pure and inflamed with the purpose of the
+righteous and pure, sworn to eradicate evil whereever it may lay.  
+~
+unique~
+ABGQT DJLcd 1000 0
+300 100 0d0+0 0d0+0 0d0+0 punch
+0 0 0 0
+ACDEFIJKLNOVWX ABLMQ BCD Z
+sit sit male 1
+AHMV ABCDEFGHIJK medium flesh
+#4407
+tanil ironhands elf elven elder~
+Tanil Ironhands~
+An elven elder basks in the sun and memories.
+~
+Even though the blood of Ironhands has long thinned into the mists of
+time, his children still continue his legacy of power.  Traces of Ironhands'
+strength can be seen in the lines of this elder's face, his lean frame, but
+as the seventh son of the seventh son, they are all but nonexistent. 
+Shortly cut white hair rims a wizened face of elven cast, and two sharp ears
+that move with every sound.  
+~
+unique~
+AGQT JNVc 1000 0
+300 0 0d0+0 0d0+0 0d0+0 punch
+0 0 0 0
+ACDEFIJKNOVWX ABD B Z
+sit stand male 1
+AHMV ABCDEFGHIJK medium flesh
+#4408
+monkey Clurc~
+Clurc the monkey~
+A strange little monkey is ambling around.
+~
+Around her neck, Clurc the monkey wears an especially shiney Daggermoon
+emblem.  Nobody knows where she came from, but everybody seems to like her,
+so she has free roam of the keep.  Her fur has been polished to a fine sheen
+by years of petting, and her edges are starting to wear down.  
+~
+unique~
+AGHU V 0 0
+279 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+FIJMPVWX Z AB 0
+stand stand female 0
+AHMV ABCDEFGHIJKQ small unknown
+#4409
+elf elven warrior~
+an elven warrior~
+A elven warrior is mingling around the fireplace.
+~
+Tired from a long day's work, this elven guardian of Daggermoon keep is
+unwinding with friends.  Silver-haired and beautiful in their ephemeral way,
+lithe in appearance yet strong , they are unassuming warriors.  
+~
+unique~
+ABT 0 1000 0
+285 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+CEFKLNUX AB EN Z
+stand stand either 1
+AHMV ABCDEFGHIJK medium flesh
+#4410
+elf elven blacksmith smith quinrir~
+Quinrir~
+An elven blacksmith is tempering a sword.
+~
+Dirty and covered in ashes, Quinrir would like nothing more than to spend
+her entire life in a smithy.  She is one of the few elves who find joy in
+the fiery heat of a furnace and the heavy weight of a hammer.  
+~
+unique~
+ABL 0 1000 0
+300 0 0d0+0 0d0+0 0d0+0 punch
+0 0 0 0
+0 AB 0 Z
+stand stand female 100000
+AHMV ABCDEFGHIJK medium flesh
+#4411
+pan~
+a pan~
+You whack your head on a low-lying pan!
+~
+Pain!!!
+~
+unique~
+ABFGc DFTV 0 0
+235 50 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+DHP ABLPQa E 0
+stand stand none 1
+J 0 small unknown
+#4412
+elf elven cook~
+an elven cook~
+An elven cook whips up some batter.
+~
+Too busy to talk to you, the elven cook rushes around seeing to all the
+different projects underway.  Flour and spices fly every which way before
+the cook's might soles and hefty arms as a culinary delight is whipped into
+shape.  
+~
+unique~
+ABG c 250 0
+254 0 0d0+0 0d0+0 0d0+0 punch
+0 0 0 0
+CKNQV A B Z
+stand stand either 1
+AHMV ABCDEFGHIJK medium flesh
+#4413
+elf~
+an elf~
+An elf is relaxing at home.
+~
+This elf does not seem too pleased that you have disturbed its sanctuary.  
+~
+unique~
+AFG 0 750 0
+265 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+FKPV A B Z
+stand stand either 1
+AHMV ABCDEFGHIJK medium flesh
+#4414
+elf elven stablehand~
+an elven stablehand~
+An elven stablehand is searching for something.
+~
+This stablehand is frantically searching for something she lost,
+something very important.  She frantically tears through the scattered hay,
+the assorted saddles and the dropped buckets that lie slip shod all around
+the stable.  
+~
+unique~
+ABG 0 400 0
+230 0 0d0+0 0d0+0 0d0+0 punch
+0 0 0 0
+FHKV A BCD Z
+stand stand female 1
+AHMV ABCDEFGHIJK medium flesh
+#4415
+unicorn lat chen tan~
+Lat Chen Tan~
+A winged unicorn is resting here, surrounded by containers of all shapes and sizes.
+~
+A pitch black unicorn rests amidst the hay of the stall, star-pocked
+wings folded peacefully by her sides.  All around her are boxes and chests
+of various sizes, some floating in the air by magical means, some crawling
+across the ground, and some just lying there.  
+She turns to face you at your approach.
+~
+unique~
+AB DFH 1000 0
+300 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 ABCDLQ 0 0
+sit sit female 100000
+AGV ACDEHJKPQW medium flesh
+#4416
+shadow huntsman hunter~
+the shadow huntsman~
+A dark and faceless hunter moves through the shadows.
+~
+Forged in hellfire, from the eternal oblivion of the damned, and cursed
+forever to wander the plain of the living to hunt.  This is the agent of
+Sadiq to the mortal realms, a wraith damned to destroy it brethren, armed
+with a weapon drawn from the essence of the universe.  
+~
+unique~
+AGT BOPTUZ -1000 0
+282 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+EFHKNQV ABL JQ FHN
+stand stand none 1
+AHMV ABCDEFGHIJK medium unknown
+#4417
+sub slug~
+a sub slug~
+A dog-sized slug slowly leaves a trail of slime across the walls.
+~
+Sea-green spots run down the rippled back of this four-foot long as it
+slowly slithers a white trail around the walls of this room.  Lethargic
+eyestalks twine with each other in a slow mesmerizing dance.  
+~
+unique~
+AGU e 0 0
+265 0 0d0+0 0d0+0 0d0+0 slime
+0 0 0 0
+DFV PTa L CDI
+stand stand none 0
+ABGR ADEFKM medium slime
+#4418
+Grega elf assassin~
+Grega~
+A female elf eyes her surroundings.
+~
+Hardened eyes the color of dulled rust stare unemotionally into space. 
+On her face, a hundred battles and a thousand deaths grimly dance a macabre
+waltz on every movement.  She is the perfect killing machine, imbued with
+the strength of ages and the heart of the true killer.  
+~
+unique~
+AFGT 0 -780 0
+260 0 0d0+0 0d0+0 0d0+0 punch
+0 0 0 0
+BCEFKNWY AB DL Z
+stand stand female 1
+AHMV ABCDEFGHIJK medium flesh
+#4419
+elf elven guard~
+an elven guard~
+A bored guard awaits the end of her shift.
+~
+Silver haired and inhumanly graceful, the guard leans against the walls
+to take a break from her vigil.  Her soft tunic provides enough protection,
+as she relies on her speed to keep her out of the way of harm.  
+~
+unique~
+ABGY DLVc -300 0
+250 0 0d0+0 0d0+0 0d0+0 punch
+0 0 0 0
+CEFHVX A BD Z
+stand stand female 1
+AHMV ABCDEFGHIJK medium unknown
+#4420
+blob sludge monster~
+a sludge monster~
+A shapeless blobs begins to emerge from the surrounding trash.
+~
+The amorphous blob of a beast sifts through the refuse in its
+surroundings, somehow living off other people's garbage.  It is entirely
+featureless, only vaguely humanoid.  The beast shifts its face, sensing the
+air for intruders with its mud-tennaes.  
+~
+unique~
+ABFGUY c -750 0
+230 90 20d250+1500 90d10+100 10d20+50 slash
+0 0 0 0
+D ABD E HKN
+stand stand either 0
+ABHS ABCDEGHIKUV large mud
+#4421
+subterranean salamander albino creature~
+a subterranean salamander~
+A tiny albino creature slithers away.
+~
+This small subterranean creature is an albino, the blood vessels of its body can be seen through its transparent skin. Slowly crawling through the cave, it lives in otherwise complete darkness.
+~
+unique~
+ABGHUY 0 0 0
+230 0 0d0+0 0d0+0 0d0+0 bite
+0 0 0 0
+M R IL ES
+stand stand either 0
+ABXac ACDEFQ tiny flesh
+#4422
+torisidi elf~
+Torisidi~
+A small elf passes by, whistling some strange melody.
+~
+A shock of white hair streaks by you, heading every which way.  Torisidi
+is on her way home, the day's spoils jingly merrily in her pouch.  She moves
+with the grace of a wish, like a beam of moonlight.  
+~
+unique~
+AGHSW 0 500 0
+250 0 0d0+0 0d0+0 0d0+0 pierce
+0 0 0 0
+BFJ A B Z
+stand stand female 4500
+AHMV ABCDEFGHIJK medium flesh
+#4423
+kerne arlue master mechanist~
+Kerne Arlue~
+Kerne Arlue, master mechanist, stands here admiring his work.
+~
+A somber elf in his prime, Kerne Arlue is the greatest artificer in the
+land.  His black shoulder length hair seems to have a life of its own as it
+moves in some unseen wind.  A magnifier covers his right eye, the better to
+see the intricate details of his work with.  There are legends of his
+ingenuity and craftsmanship throughout Alanthia and here he is in person.  
+~
+unique~
+ACGY 0 0 0
+245 0 0d0+0 0d0+0 0d0+0 punch
+0 0 0 0
+CFKN AB P Z
+stand stand male 1250
+AHMV ABCDEFGHIJK medium flesh
+#4424
+locus emerald warrior~
+Locus~
+An emerald warrior stands at guard.
+~
+Locus is the last of the emerald warriors, elite fighters created by the
+god Didiums before the fall of Thalos.  Massive, ominous, silent, he is
+completely crafted of emerald, right down to his boots.  No one knows what
+happened to the emerald warriors - perhaps they fell in the defense of
+Thalos, or were captured by enterprising collectors - but it matters not. 
+Locus knows that he was the first, now he believes he is the last.  Now he
+stands guard at the entrance of Daggermoon, as immovable as the rock from
+which he was born.  
+~
+unique~
+ABGT HV 500 0
+250 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+CEFKLOTUX ABLQ D KT
+stand stand male 1250
+CHJM ABCGHIJK large emerald
+#4425
+elf elven worker~
+an elven worker~
+An elven worker is busy pulling slabs of marble out of the floor.
+~
+Wearing leather overalls, that elf is busy doing whatever is
+supposed to be done.  In this case, it is pulling the floor out to be
+redone.  
+~
+unique~
+ABGY 0 350 0
+242 0 0d0+0 0d0+0 0d0+0 punch
+0 0 0 0
+FKLR AB M Z
+stand stand either 0
+AHMV ABCDEFGHIJK medium flesh
+#4426
+elf elven archer~
+an elven archer~
+An elven archer stands at guard.
+~
+Chosen for their outstanding eyesight and prowess at bows, the archers of
+Daggermoon are the surest shots in all the land.  And some of the best
+warriors too.  
+~
+unique~
+ABGTY DFV 0 0
+225 0 0d0+0 0d0+0 0d0+0 punch
+0 0 0 0
+EFLRW A B Z
+stand stand either 0
+AHMV ABCDEFGHIJK medium flesh
+#4427
+arold sacran shopkeeper keeper elf elven~
+Arold Sacran~
+An elven collector is hunched over an inventory book, entering figures.
+~
+Arold Sacran was once a great treasure hunter in his youth.  He made his
+fortune in the trade of fine and rare items, and became a world-weary
+traveller as the years passed.  His shop here houses his prized collection. 
+~
+unique~
+ABGMY 0 0 0
+300 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 A B Z
+stand stand male 100000
+AHMV ABCDEFGHIJK medium unknown
+#4428
+tellan kaern elf elven bard~
+Tellan Kaern~
+An elf lounges here, stringing a harp.
+~
+With a feather in his cap and harp in hand, Tellan Kaern will gladly
+travel anywhere, with anyone.  On his shirt lie countless souvenirs of his
+travels, emblems of kindgoms, scales of dragons, pieces of this and that.  
+~
+unique~
+AGQTY 0 750 0
+246 0 0d0+0 0d0+0 0d0+0 punch
+0 0 0 0
+FLNS AB 0 Z
+stand stand male 1
+AHMV ABCDEFGHIJK medium unknown
+#4429
+guardian spider~
+the guardian spider~
+A giant spider rears in defense of its territory.
+~
+A seemingly endless sea of legs and eyes quickly scuttles about the room.
+The enormous spider has been here for countless centuries, since the
+construction of the millenia old keep itself.  It has grown to enjoy its
+privacy, something which has now been disturbed.  
+~
+unique~
+ABFGU JV 750 0
+270 0 0d0+0 0d0+0 0d0+0 bite
+0 0 0 0
+OV AL FI E
+stand stand female 0
+ABGOP ACEFKU large flesh
+#4430
+daggermoon elf elven sailor~
+an elven sailor~
+An elven sailor hoists ropes.
+~
+A lifetime of travel on the waters of the world have roughened this elf
+into a proper sailor.  Scars and tattooes run up and down this elf's arms,
+blending in with the equally rough and colorful clothes worn.  
+~
+unique~
+ABGT L 250 0
+230 0 0d0+0 0d0+0 0d0+0 punch
+0 0 0 0
+EFUV AB RY Z
+stand stand either 1
+AHMV ABCDEFGHIJK medium flesh
+#4431
+haunting ghost~
+a ghost~
+The ghost of a long dead prisoner floats around.
+~
+Its body long since disentegrated, the spirit of the long-dead prisoner
+is trapped in its place of death, forever doomed to repeat the past.  There
+is no justice, no final peace for this lost soul, and the knowledge has
+driven it insane.  
+~
+unique~
+ABCFGO 0 -1000 0
+235 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+FHX ALQ J FHN
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#4432
+coal dragon statue~
+a coal dragon~
+{yThe coal statue of a dragon rises on its haunches{X
+~
+A long, sinuous sea dragon engraved in coal stands crouched on the
+ground.  Its serpentine form curls in and around itself like a mobius strip,
+fish-like scales covering every inch of its body.  A row of sharp fins runs
+along its back and tapers into a flared tail.  Rows of sharp teeth line its
+crocodile mouth, intelligent eyes framed by a fierce lion's mane.  
+~
+unique~
+ABGNTY TV 0 0
+290 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+CDEKMO A EK J
+stand stand none 0
+AHZ ACDEFHJKLOPQUVWXY large coal
+#4433
+elf elven herbalist~
+an elven herbalist~
+A quiet robed elf is bent over gathering something.
+~
+The light around the elf seems to glow from inner beauty as the
+emerald-haired elf silently goes about her duties.  Tiny sparkles of fairy
+dust erupt whereever her toes touch the ground and leaves blossom at her
+touch.  Her earthen robes, while homely, only serve to accentuate her
+graceful elven frame.  
+~
+unique~
+AGRW 0 1000 0
+240 0 0d0+0 0d0+0 0d0+0 claw
+0 0 0 0
+FHIKNV AB 0 Z
+rest stand female 3400
+AHMV ABCDEFGHIJK medium flesh
+#4434
+elf elven scout~
+an elven scout~
+An elven scout patrols silently in the forest.
+~
+A small, lithe figure walks silently among the trees, almost
+undetectable.  His body armor blends in perfectly with the green and brown
+environment.  His eyes glow red, carefully scanning the area for any
+threatening intruders.  
+~
+unique~
+AFGT DFJP 1000 0
+240 0 0d0+0 0d0+0 0d0+0 punch
+0 0 0 0
+EFKLRW A B Z
+sit stand male 0
+AHMV ABCDEFGHIJK medium flesh
+#4435
+worm lurker lich~
+a lurker lich~
+A dark wormlike thing lurks in the shadows.
+~
+Slimey flesh gives way to hardened scales and just as quickly returns to
+flesh.  The lurker lich's body is segmented into sections, poisonous skin
+and impenetrable armor.  At the tip of its neck, a thick crown of armor that
+takes years to grow flares out like a lion's mane.  Deep set eyes peek out
+from a protruding ridge, pupiless orbs that glow green in the dark.  
+~
+unique~
+ABFGU DFJOPZ 0 0
+295 0 0d0+0 0d0+0 0d0+0 bite
+0 0 0 0
+DFHMOX AB DL CI
+stand stand none 0
+AGXYc ADEFKLQVX large flesh
+#4436
+willow cricket~
+a willow cricket~
+A willow cricket cleans its long antennae.
+~
+Long sharp antennae swing free in the air, like the laden branches of a
+willow tree.  The cricket takes tiny hops across the ground, chirping
+metallically with each landing.  Its shell is patterned after the willow
+leaves, long streaks of green and running up and down its back.  
+~
+unique~
+AGTU NVa 0 0
+290 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+CEFHNWX AB FI E
+stand stand female 0
+ABCGO ACKP small flesh
+#4437
+betrayal bitter memories~
+betrayal~
+Bitter memories hang in the air.
+~
+For every story, every myth, every legend told, there are a hundred that
+die without ever passing mortal lips.  And with all great dynasties, there
+are stories in the shadows and closets.  
+~
+unique~
+AFGOT DFHLV -1000 0
+300 0 0d0+0 0d0+0 0d0+0 slash
+0 0 0 0
+AEFHKNOV ABLQ DJ CFHN
+stand stand none 3660
+ACHMV ABCGHIJK medium unknown
+#4438
+elf elven assistant~
+a cook's assistant~
+A cook's assistant nervously watches the bread rise.
+~
+Hair frazzled from the hot air and nervousness, the cook's assistant
+nervously watches all the many projects, trying to juggle many tasks at
+once.  Her apron is covered with puffs of flour, blobs of sauce, and
+sprinkles of herbs.  In fact, she'd make a tasty treat if you stuck her in
+the oven.  
+~
+unique~
+ABGH V 550 0
+245 0 0d0+0 0d0+0 0d0+0 punch
+0 0 0 0
+CEKNV AB H Z
+stand stand female 5000
+AHMV ABCDEFGHIJK medium flesh
+#4439
+elf master arms shay rune~
+Shay Rune~
+An elven master-at-arms paces the rounds.
+~
+Bitter eyes glare from underneath a mob of unruly grey hair.  A cruel
+smirk lights the thin lips, a slight tick marring the stone face.  She
+struts with the confidence of experience and the weariness of age.  
+~
+unique~
+AGTY DFHNVc 1000 0
+275 0 0d0+0 0d0+0 0d0+0 punch
+0 0 0 0
+CDEFIJKNOQVX AB ELQ Z
+stand stand female 3000
+AHMV ABCDEFGHIJK medium flesh
+#4440
+elf worker~
+an elven worker~
+An elven worker is scrubbing the relief.
+~
+An elven worker is using some serious elbow grease to keep the monument
+to history clean.  
+~
+unique~
+ABG c 500 0
+255 0 0d0+0 0d0+0 0d0+0 punch
+0 0 0 0
+CEFKN AB 0 Z
+stand stand either 5000
+AHMV ABCDEFGHIJK medium unknown
+#4441
+tiger southpaw~
+Southpaw~
+A tiger watches its reflection in the waters.
+~
+The majestic tiger yawns, massive teeth glinting.  It fastidiously cleans
+itself, licking its golden-orange fur clean.  Great spikelike tufts of fur
+shoot outward from its limbs, and a tail like a halberd graces this feline
+beast.  The hairs on its left paw seem alive, like a mass of worms trying to
+crawl over each other.  
+~
+unique~
+AUW NVc 0 0
+280 0 0d0+0 0d0+0 0d0+0 slash
+0 0 0 0
+DFHOW AB EP Q
+rest stand male 0
+AGV ACDEFHJKQUV large flesh
+#4442
+elf elven sentry~
+an elven sentry~
+An elven sentry patrols the halls.
+~
+A rather grim elf stands here, intent on protecting the keep.  Perhaps it
+is wiser to move along and not disturb this deeply, deeply disturbingly
+fanatical fellow.  
+~
+unique~
+AGTY NV 500 0
+236 0 0d0+0 0d0+0 0d0+0 punch
+0 0 0 0
+CDFIKNX AB 0 Z
+stand stand either 2000
+AHMV ABCDEFGHIJK medium unknown
+#4443
+gargoyle scout~
+a gargoyle scout~
+A well-dressed gargoyle takes note of her surroundings.
+~
+~
+unique~
+ACM T 0 0
+300 0 0d0+0 0d0+0 0d0+0 charge
+0 0 0 0
+CEFKN 0 D C
+stand stand female 0
+AHZ ACDEFHJKLOPQUVWXY large unknown
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#4400
+A Dark and Depressing Room~
+A small cramped room, more dungeon cell than anything else, houses some
+tattered remnants of a dream.  Scattered around the room are broken shards
+of unrecognizable items, left to decay since time unknown.  A small window,
+sill chipped and frames rotting, lets in only a gasp of fresh air before the
+stench from the hole in the floor overpowers everything.  The door out has
+long been caved under years of rock, and foilage has started to sprout in
+the cracks.  
+~
+0 9 0
+E
+canary~
+A small yellow canary hops around, its wings broken.  It stops every once
+in a while to peck at some morsel of bread.  
+~
+E
+window~
+The tiny barred window looks out onto the sea.  The waves far below send
+up sprays of salty mist.  
+~
+E
+hole~
+It's a round, smelly hole in the floor. Bits of dirty paper lie around it.
+~
+D5
+It's a round, smelly hole in the floor. Bits of dirty paper lie around it.
+~
+~
+0 0 4401
+S
+#4401
+Knee Deep~
+The waste tank is huge, its ceiling and walls hidden in the darkness. 
+Sludge, manure, and every type of trash imaginable have come together here
+to form a sort of rich slurry.  The stench seems to cause the air to shimmer
+as the brown soup moves slowly to the west.  Perhaps there is a leak down
+here.  
+~
+0 9 0
+D3
+The brown sludge is slowly moving through the giant hole.
+~
+hole~
+1 0 4405
+D4
+A round hole, carved out of stone. Small footholds lead up to it.
+~
+~
+0 0 4400
+M 75 H 75
+S
+#4402
+Dank Tunnels~
+A large landslide of stone and tile litter one side of the tunnel.  The
+walls of the cave are riddled with countless tunnels leading off into the
+darkness.  A stale wind howls through the tunnels, growing and dying like
+some creature's breathing.  
+~
+0 9 0
+D4
+~
+~
+0 0 4492
+S
+#4403
+End of the Pier~
+The great mouth of the cliff cavern opens to the wide blue sea.  An
+endless plain of undulating waves hypnotically travel into the distance, and
+the rythmic crash of water on the rocks echoes sweetly in the air.  Gentle
+waves lap against the barnacle covered piers that stretch down into the
+depths, and jellyfish float aimlessly in the tide.  
+~
+0 12 0
+D1
+The cavern stretches into darkness.
+~
+~
+0 0 4418
+S
+#4404
+A Still Lake~
+Birch and pine trees surround a large tranquil lake.  Overhead, cottony
+clouds slowly crawl across the sky.  Reeds and downed pines clog the eastern
+end of the lake, marring an otherwise clear beach.  The lake is fed by a
+river to the west, a large volcano dominating the horizon that way.  
+~
+0 0 6
+D1
+~
+~
+0 0 4408
+S
+#4405
+A Damp Cave~
+Thick sludge pours slowly out of the hole, emptying into the underground
+river that springs forth here.  Stalactites slowly drip water, undisturbed
+for eons.  
+~
+0 1 0
+D1
+Brown sludge slowly pours out of a hole in the straight wall.
+~
+~
+1 0 4401
+D3
+The cave continues.
+~
+~
+0 0 4406
+S
+#4406
+A Softly Tilted Floor~
+The stream continues to bubble and babble forth here, disappearing
+further into the cave depths to the west.  In the other direction, the
+slippery cave floor slowly rises to the north.  The echo of the stream is
+thunderous here, drowning out all other sounds.  
+~
+0 9 0
+D0
+The floor starts to rise up.
+~
+~
+0 0 4407
+D1
+The river flows onward.
+~
+~
+0 0 4405
+S
+#4407
+Cave Entrance~
+Stalactites and stalagmites abound here to create an impenetrable
+grillework of rock.  The cavern extends northwards, while deeper south the
+cave becomes less crowded.  A rushing sound, that of water, echos from
+inside the cavern.  A thin stream, crystalline pure, winds it way from
+deeper southern depths.  
+~
+0 12 0
+D0
+The cave entrance.
+~
+~
+0 0 4408
+D2
+Deeper into the cave.
+~
+~
+0 0 4406
+S
+#4408
+Edge of the Forest~
+The sea of birches abruptly ends, giving way to the grasslands.  As if
+contained by a wall, the forest stretches perfectly straight off into the
+east and west.  A sweet breeze floats through the plains, rustling hundreds
+of leaves in a symphony of whispers.  
+~
+0 0 2
+D0
+The World Forest lies this way.
+~
+~
+0 0 4409
+D2
+Lenier's Cave can been seen.
+~
+~
+0 0 4407
+D3
+A still lake surrounded by thick trees.  
+~
+~
+0 0 4404
+S
+#4409
+The Light Forest~
+A thick canopy of trees blocks the sky from view.  Trees hundreds of feet
+tall line both sides of this small rutted path, grown so close together that
+there is hardly any space between them.  Aside from the occasional snap of a
+twig or crackle of leaves the forest is completely silent.  
+~
+0 0 3
+D0
+~
+~
+0 0 4482
+D1
+~
+~
+0 0 4479
+D2
+The end of the forest can be seen.
+~
+~
+0 0 4408
+D3
+~
+~
+0 0 4479
+S
+#4410
+Before the Guarded Door~
+A simple wooden door stands to the north, deeply embedded in thick yellow
+sandrock.  Ubiquitous golden candles light the room, simple and comforting,
+and the walls seem to glow from within.  
+~
+0 262144 0
+D0
+A solid oak door engraved with the mark of Daggermoon.
+~
+door~
+1 0 4411
+D2
+A cozy intersection.
+~
+~
+0 0 4456
+S
+#4411
+Covered Walkway~
+A small stream runs under the covered walkway between the sections of the
+keep.  Stout oak beams run overhead, small pots of incense hanging from
+every other log.  Carved wooden serpents snake their way around the railings
+and above them tiny wooden birds flutter in frozen time.  To either side,
+the stream curves off into the misty, moss covered walls.  
+~
+0 262144 0
+E
+incense~
+Small trails of pink smoke curl downward from the curled lip of the
+ceramic bowl, suspended by three delicate silver chains.  The mark of
+Daggermoon is embossed at the bottom.  
+~
+D0
+~
+~
+0 0 4419
+D2
+A solid oak door engraved with the mark of Daggermoon.
+~
+~
+1 0 4410
+S
+#4412
+A Cramped Little Store~
+Past the open door is a small and cramped room.  The ceiling is barely 6
+feet high, and the shelves crammed with ancient relics take up every inch of
+that height.  The only light in the room comes from a covered candle
+standing on a little counter at the far end of the room.  The closely packed
+shelves on both sides of the room make moving hard.  
+~
+0 525320 0
+E
+shelf shelves~
+Odds and ends occupy the space on the shelves, including some very interesting jars containing pickled body parts.
+~
+D1
+~
+~
+0 0 4456
+S
+#4413
+An Unused Passage~
+Blue light fills every atom of the room, emanating from the giant blue
+diamond standing in the center of the room.  All around it lies webbing,
+thick and gooey, forming a deadly cocoon in the cold still air.  A trapdoor
+can be made out from the surround from the surrounding floor, stone instead
+of marble.  
+~
+0 8 0
+D2
+~
+~
+0 0 4414
+D5
+~
+trapdoor~
+1 0 4456
+S
+#4414
+An Unused, Dusty Passage~
+The cobwebs are so thick here that they could be mistaken for the walls. 
+Lumps and bumps of something are stuck throughout the cavern of webs, some
+even moving.  Clouds of dust fly with every step in unearthly cavern, long
+undisturbed, long alone.  The scritch scratch of whatever creature created
+these webbings echos against the walls from the north.  
+~
+0 9 0
+D0
+~
+~
+0 0 4413
+D2
+~
+~
+0 0 4442
+S
+#4415
+Overlooking the Central Promenade~
+High above the main promenade, a small walkway rims the great rotunda. 
+Hundreds of candles surround the rim, providing the warm golden light that
+can be seen below.  A grisly reminder of the past, each panel of the rotunda
+rim contains the skull of a human defender frozen in a death scream.  Small
+doors can be seen at the north and south end of the rotunda.  
+~
+0 12 0
+D0
+~
+~
+0 0 4441
+D2
+~
+~
+0 0 4447
+D5
+~
+~
+0 0 4451
+S
+#4416
+South End of Corridor~
+A small hallway stretches from north to south, completely devoid of
+light.  There are no windows here, and the stale air reveals that this hall
+has not been used for a long time.  The stone walls are cold, and a thin
+layer of fungi has started to creep up from the floor.  To the south is a
+cobwebbed door, dust thick around it.  
+~
+0 9 0
+D0
+~
+~
+0 0 4446
+D2
+A hardwood door.  Feels very solid.  There are some shredded wards still
+hanging onto the door.  
+~
+~
+4 4436 4417
+S
+#4417
+A Derelict Attic~
+Cobwebs cover every inch of this long forgotten room.  The marble floor
+has started to crack from age, and the stone columns are buckling in their
+foundations.  Wooden chests, glass bottles, and containers of all shapes and
+sizes lie strewn throughout the room.  Somewhere, insects and creatures
+slither and clack in the shadows, out of sight, and hopefully, out of mind. 
+Oops...  Looks like the exit to the room also got lost.  
+~
+0 8205 0
+M -1000 H -1000
+S
+#4418
+Cavernous Harbor~
+Peaceful waves lap at the wooden pier that stretches from the cave door
+far into deep water.  The wax and wane of the tides has long ago turned the
+pier green with mussels and barnacles.  Glowing lanterns set on poles
+provide illumination for this dim corner of the harbor, untouched by natural
+light.  Massive elven ships, sleek in their unearthliness, silently bob in
+the waves awaiting use.  
+~
+0 262144 0
+E
+ship Saucy Mare~
+The Saucy Mare rests at port after a hard journey. Despite her long years of travel she is still as beautiful as the day of her maiden voyage.
+~
+E
+west~
+The cave entrance, from which sea breezes blow.
+~
+D1
+~
+~
+0 0 4437
+D3
+~
+~
+0 0 4403
+S
+#4419
+Sanctum Foyer~
+Two staircases rise from both end of the large foyer, over the large
+arched doorway in the north, to the landing.  Sunlight pours from the upper
+door onto the exact center of the room, illuminating the circular piece of
+marble embedded in the wooden floorboards.  A crystal chandelier tinkles in
+the unseen breeze, hanging before the northern door from which sounds of
+conversation can be heard.  
+~
+0 8 0
+D0
+The stone archway stands open.
+~
+~
+1 0 4422
+D2
+A sanctum hallway.
+~
+~
+0 0 4411
+D4
+A banister staircase leads up to a semi-landing.
+~
+~
+0 0 4420
+S
+#4420
+A Peaceful Atrium~
+The glass ceiling rises away from its claustrophobic start at the
+southern end of the room into a grand atrium at the center.  Plants of every
+color and species absolutely clog the room to its pores.  There is not an
+inch of room to move here save for the thin paths carved between the
+greenery.  A fine mist descends from the ceiling.  
+~
+0 0 0
+D0
+The jungle of vines continues.
+~
+~
+0 0 4421
+D5
+The foyer is quite a long drop down. Good thing there are two staircases.
+~
+~
+0 0 4419
+S
+#4421
+Before a Small Greenhouse~
+In the midst of such an explosion of greenery stands a greenhouse.  A
+wide swath of open land surrounds the glass structure, the plant life held
+back as if by magic.  
+~
+0 0 0
+D2
+The wall of plants continues south.
+~
+~
+0 0 4420
+S
+#4422
+A Banquet Hall~
+A large table covered in silverware runs the length of the hall.  Tens
+upons tens of seats remain empty, awaiting their occupants.  At the north
+end of the room is a roaring fireplace above which sits a portrait of
+several elves.  A comfortable red carpet covers the floor around the table. 
+~
+0 8 0
+E
+fireplace~
+A big ole fire burns like there's no tomorrow.
+~
+D1
+A paneled door.
+~
+~
+1 0 4423
+D2
+A stone archway, like so many others in the keep. It is flanked by two sets of human armor.
+~
+~
+1 0 4419
+D3
+A paneled door.
+~
+~
+1 0 4424
+S
+#4423
+A Small Closet~
+A tiny space has been carved out of the stone wall to create a makeshift
+closet.  Clotheshooks on long pieces of wood are nailed between the mortar
+and rock.  The floor is made from five slabs of thick granite, one in the
+center and the rest arranged around.  
+~
+0 9 0
+D3
+The door to the closet.
+~
+~
+1 0 4422
+D5
+~
+trapdoor~
+1 0 4486
+S
+#4424
+A Private Corridor~
+There is a noticeable hush about this passage, something almost sacred
+about it.  The heavy stonework of the rest of the keep has been replaced
+with deep red mahogany paneling.  Tiny candles flicker playfully in their
+holders, lighting a rough stone floor and ceiling.  
+~
+0 262144 0
+D0
+~
+~
+0 0 4425
+D1
+~
+~
+1 0 4422
+S
+#4425
+Windowed Nook~
+Sounds of waves crashing against the rocks and a beam of light filter in
+through the tiny slit of a window.  The air is quite fresh here, and the
+light allows a fuller view of the surroundings.  Deep mahogany paneling
+surround a stone floor and ceiling.  Tiny candles flicker in the wind.  
+~
+0 0 0
+D1
+~
+~
+0 0 4426
+D2
+~
+~
+0 0 4424
+S
+#4426
+Corridor End~
+The corridor ends here at a giant paneled double door.  A simple stone
+arch is set into the wooden walls, somehow setting it apart from the rest of
+the keep too.  Something about this door just screams "Privacy, Do Not
+Disturb."  Maybe it has something to do with the human skull with the
+jawbone used elegantly as the knocker.  
+~
+0 0 0
+D0
+A double door.
+~
+~
+1 0 4427
+D3
+~
+~
+0 0 4425
+S
+#4427
+Under a Skylight~
+If one word were to be used for the room, it would be 'clean' .  Squeaky
+clean.  The ivory pillars seem to drip from the ceiling in a forest of
+white, melding with the extremely reflective marble floor.  A giant round
+window is mounted directly in the center of the room, offering a brilliant
+view of the skies above, while illuminating the floor below.  
+~
+0 8 0
+D0
+Ocean sounds.
+~
+~
+0 0 4428
+D1
+A library.
+~
+~
+0 0 4461
+D2
+A double door.
+~
+~
+1 0 4426
+D3
+A cluttered study.
+~
+~
+0 0 4462
+S
+#4428
+Resting Place~
+Fine pillows and comfortable throw rugs have been tossed into the
+circular depression in the center of this room.  Small holders of incense
+hang from the nine ivory pillars that mark the boundaries of this area.  A
+salty breeze blows in from the open veranda to the north, tinkling the
+strands of pearls that dangle from the ceiling.  
+~
+0 8 0
+E
+strands pearls~
+Strands of multicolored pearls hang from the ceiling in a circular pattern.
+~
+D0
+A pair of delicately fancy doors stands open to the sea.
+~
+~
+1 0 4429
+D1
+A thin curtain of beads stands in the way.
+~
+~
+0 0 4448
+D2
+A bright shaft of light shines down on the floor.
+~
+~
+0 0 4427
+D3
+Sunfilled room.
+~
+~
+0 0 4449
+M 110 H 110
+S
+#4429
+Balcony Over the Cliffs~
+Day upon day, year after year, the waves have crashed eternally on the
+rocky cliffs of Daggermoon.  The solid balcony juts out several hundred
+yards, a mini-ballroom itself.  Every so often a particularly large wave
+will rise above the balcony, then dash itself back onto the rocks,
+shattering into a faerie mist.  Behind, the spires of Daggermoon reach ever
+upwards into the sky.  
+~
+0 0 2
+E
+north~
+The endless sea stretches far beyond the limits of mortal imagination. There is no end to its vastness, it dwarfs everything in comparison.
+~
+D1
+The east balcony, close to the cliffs.
+~
+~
+0 0 4464
+D2
+Stained glass doors stand open to the elements.
+~
+~
+1 0 4428
+D3
+A stone bench stands in that corner.
+~
+~
+0 0 4463
+S
+#4430
+Deep into the World Forest~
+Trees, trees, everywhere.  Plants, animals, and insects growl, creep, and
+chirp in a cacophony of nature.  But the trees are the main attraction. 
+Oaks, birches, maples, and pines take up almost every available piece of
+pace.  The path ends in a wall of trunks, hidden under a deep layer of
+leaves.  
+~
+0 1 3
+E
+north~
+There is no way through the thick bush.
+~
+D2
+~
+~
+0 0 4481
+S
+#4431
+Edge of the Forest~
+The mist clears and gives way to the seaside.  The roar of the ocean
+waves on the shore below drowns out the sounds of the forest behind. 
+Forests await behind, and the keep of Daggermoon broods ahead.  It wraps
+around the jutting cliff like a serpent, dotted by irregular pits of light. 
+A small camp can be made out on the beach far below.  There is no way back
+into the forest since an uninviting wall of greens block the path.  
+~
+0 0 2
+D0
+A might rock-hewn keep lies ahead.  
+~
+~
+0 0 4432
+S
+#4432
+At the Gates of Daggermoon~
+Gossamer spires reach for the sky, nearly disappearing into the clouds. 
+Though fragile in appearance, they have weathered hundreds of invasions,
+thousands of years, and countless storms.  The giant double gates of the
+keep, over 40 feet tall, stand open.  They have been painted a dark blue,
+and three columns of nine giant golden studs run down each gate.  The keep
+looks like it was carved out of a mountain, a pile of rubble resting at the
+end of a high cliff jutting into the sea.  A wide stone bridge crosses over
+the gap between the mainland and the island of the keep.  
+~
+0 262144 2
+D0
+A pair of gigantic red doors, three columns of nine giant gold studs running down each.
+~
+main gates~
+3 0 4433
+D2
+~
+~
+0 0 4431
+S
+#4433
+The Main Antechamber~
+Another pair of massive red wooden gates stand guard right inside the
+main gates.  Six massive red wooden pillars to either side of the open
+doorway support the ceiling.  Candles have been placed at regular intervals
+along the walls, casting their golden glow about.  The ceiling above is
+covered in complex patterns of clouds and mountains.  The outer gates lie to
+the south, while the hall continues to the east and west.  
+~
+0 262156 0
+D0
+A beautiful sight awaits.  
+~
+wooden gates~
+3 4421 4436
+D1
+~
+~
+0 0 4434
+D2
+~
+main gates~
+3 4421 4432
+D3
+~
+~
+0 0 4435
+S
+#4434
+The Outer Hall~
+The massive hall continues to the east and west, flickering candles
+lighting the way.  There are no windows here, where massive stone walls
+protect the inhabitants, where the shadows seem to be alive.  
+~
+0 8 0
+D1
+~
+~
+0 0 4457
+D3
+~
+~
+0 0 4433
+S
+#4435
+The Outer Hall~
+The massive hall continues to the east and west, flickering candles
+lighting the way.  There are no windows here, where massive stone walls
+protect the inhabitants, where the shadows seem to be alive.  
+~
+0 8 0
+D1
+~
+~
+0 0 4433
+D3
+~
+~
+0 0 4458
+S
+#4436
+Southern Rotunda~
+Golden candles placed on silver holders burn softly in the great hall. 
+An aura of quiet contemplation pervades the southern end of the rotunda, as
+two rows of marble pillars lead north to the center of the room.  Footsteps
+echo hauntingly in the complete silence, interrupted briefly by fervent
+whispers and stealthy movements.  
+~
+0 262152 0
+D0
+~
+~
+0 0 4450
+D1
+~
+~
+0 0 4438
+D2
+~
+wooden gates~
+3 0 4433
+D3
+~
+~
+0 0 4439
+S
+#4437
+Damp Staircase~
+A spiral staircase encircles one of the marble pillars supporting the
+ceiling.  The stone surfaces are slick with the saltwater from below,
+reflecting the light of many candles.  The heavy rythmn of waves against
+rock vibrates the air, lulling the unsuspecting to a false sense of
+security.  A deathly silence consumes everything to the east, an overgrown
+forest of vines and thorns choking the air.  
+~
+0 262144 0
+D1
+A mass of foilage chokes the way east.  
+~
+vines~
+1 0 4489
+D3
+~
+~
+0 0 4418
+D4
+~
+~
+0 0 4456
+S
+#4438
+South-Eastern Rotunda~
+Nine golden candles mounted on silver candelbras surround a bronze
+statue.  The shadows that play across its surface seem to bring the statue
+to life as each candle flickers from some unseen wind.  For some reason,
+this corner of the hall is deserted even though it feels like a good place
+for a rest.  A single painting of an elven woman stands behind the statue.  
+~
+0 262156 0
+E
+painting~
+Obviously a painting of some elven nobility, the painting has a curiously somber aura, as if the subject of the painting was less than pleased at having her image recorded.
+A small silver nameplate at the bottom of the painting reveals only one word, "Isica."
+~
+D0
+~
+~
+0 0 4451
+D3
+~
+~
+0 0 4436
+M 150 H 150
+S
+#4439
+South-Western Rotunda~
+A bas relief of a great battle dominates the wall in this corner of the
+hall.  On it, elves and humans battle each other while in the background a
+great forest is shone burning.  On the relief, two figures stand out.  One
+is an elf, short and well-muscled, wearing a pair of metal gloves.  The
+other is a gaunt human whos clothes are formed out of pure obsidian.  
+~
+0 262152 0
+D0
+~
+~
+0 0 4452
+D1
+~
+~
+0 0 4436
+S
+#4440
+Inside the Greenhouse~
+So much pollen fills the air that breathing is becoming difficult. 
+Flowers in all the colors of the rainbow sit carefully mounted on endless
+row upon row of wooden benches while mist descends from overhead pipes.  
+~
+0 262152 0
+D2
+A glass door.
+~
+~
+3 0 4421
+M 50 H 50
+S
+#4441
+North-Eastern Rim~
+Just another section of the rim.  There are skulls here too.  
+~
+0 9 0
+D2
+~
+~
+0 0 4415
+D3
+~
+~
+0 0 4442
+S
+#4442
+Northern Rim~
+A wooden door lies open, the rim curves west and east.  There are skulls
+here too.  
+~
+0 9 0
+D0
+~
+~
+0 0 4414
+D1
+~
+~
+0 0 4441
+D3
+~
+~
+0 0 4443
+S
+#4443
+North-Western Rim~
+Just another section of the rim.  There are skulls here too.  
+~
+0 9 0
+D1
+~
+~
+0 0 4442
+D2
+~
+~
+0 0 4444
+S
+#4444
+Western Rim~
+Another dark section of the rim.  
+~
+0 9 0
+D0
+~
+~
+0 0 4443
+D2
+~
+~
+0 0 4445
+S
+#4445
+South-Western Rim~
+Just another section of the rim.  There are skulls here too.  
+~
+0 9 0
+D0
+~
+~
+0 0 4444
+D1
+~
+~
+0 0 4446
+S
+#4446
+Southern Rim~
+A badly singed skull has fallen off its nook and now it lies screaming on
+the ground.  Down below the entire hall can be seen, the moonstone
+chandelier floating in the middle.  There is a door to the south.  
+~
+0 9 0
+D1
+~
+~
+0 0 4447
+D2
+~
+~
+0 0 4416
+D3
+~
+~
+0 0 4445
+S
+#4447
+South-Eastern Rim~
+Just another section of the rim.  There are skulls here too.  
+~
+0 9 0
+D0
+~
+~
+0 0 4415
+D3
+~
+~
+0 0 4446
+S
+#4448
+A Lavish Bedroom~
+Golden rays of sunlight slant through the high cathedral windows, falling
+on a large four poster bed.  A jigsaw puzzle of ornate rugs covers the
+floor, and golden carvings are etched into the white marble walls.  A
+curtain of beads separates the western end of the room while a small archway
+is on the south.  
+~
+0 8 0
+D2
+~
+~
+0 0 4461
+D3
+~
+~
+0 0 4428
+S
+#4449
+Sea View~
+In this room, the three cathedral windows along the northern wall provide
+more than adequate light.  Various couches, chairs, and low-tables have been
+arranged around the room so that a small group of people could discuss
+topics in a comfortable environment.  Various elven tapestries hang on the
+walls, adding their color to the room.  
+~
+0 262152 0
+E
+tapestries tapestry~
+These tapestries show the history of the house of Daggermoon, from the
+disappearance of the nine sages, to the exodus of the elves, and finally to
+the birth of Ironhands.  
+~
+D1
+A breezy patio.
+~
+~
+0 0 4428
+D2
+A musty old study.
+~
+~
+0 0 4462
+S
+#4450
+The Center of the Rotunda~
+Much love and attention has been put into this, the centerpiece of the
+great hall.  A giant rotunda is straight above, lit by evenly spaced candles
+all around its rim.  The warm yellow light below is a strong contrast to the
+harsh white light of the chandelier.  The floor is satin smooth with rich
+grey grains of marble set into the four points of the compass.  
+~
+0 262152 0
+D0
+~
+~
+0 0 4453
+D1
+~
+~
+0 0 4451
+D2
+~
+~
+0 0 4436
+D3
+~
+~
+0 0 4452
+S
+#4451
+Eastern Rotunda~
+Recent renovations have been added to this part of the hall.  Dust from
+the materials used still covers much of the floors, and dust motes float
+about the golden candles.  A white canvas clothe covers whatever lies on the
+wall behind, not yet ready for public exhibition.  A wooden ladder leading
+up to the rotunda rim leans against the clothe.  
+~
+0 262152 0
+D0
+~
+~
+0 0 4454
+D2
+~
+~
+0 0 4438
+D3
+~
+~
+0 0 4450
+D4
+~
+~
+0 0 4415
+S
+#4452
+Western Rotunda~
+The huge wall-height relief starts from the south and continues to the
+north.  On this section, the elves are shown raiding a keep, specifically,
+Daggermoon.  The glove-bearing elf from the first relief can be seen leading
+the elven army, while the same human stands at head in defense of the keep. 
+Hushed whispers float in from the east, where a great chandelier hangs.  
+~
+0 262152 0
+D0
+~
+~
+0 0 4455
+D1
+~
+~
+0 0 4450
+D2
+~
+~
+0 0 4439
+S
+#4453
+Northern Rotunda~
+Two rows of red pillars lead from the archway into the grand hall.  The
+marble floor is so reflective that the top of the rotunda can be seen on the
+floor.  Quiet whispers can be heard coming from the west, from the
+collection of statues in that corner.  
+~
+0 262152 0
+D0
+~
+~
+0 0 4456
+D1
+~
+~
+0 0 4454
+D2
+~
+~
+0 0 4450
+D3
+~
+~
+0 0 4455
+S
+#4454
+North-Eastern Rotunda~
+A thick red rope separates the construction area from the rest of the
+room.  Thick slabs of marble have been uprooted from the floor and strewn
+about messily.  A thin layer of dust disturbed in the excavations covers
+everything, obscuring the room in talcum-tasting flecks.  
+~
+0 262152 0
+D2
+~
+~
+0 0 4451
+D3
+~
+~
+0 0 4453
+S
+#4455
+North-Western Rotunda~
+The bas relief ends here with a particularly grisly depiction.  Elves
+have conquered the keep, and the remains of the human defenders are
+displayed on pikes across the outer wall.  At the bottom, the gloved elf has
+split the obsidian-cloaked human from clavicle to groin.  
+~
+0 262152 0
+D1
+~
+~
+0 0 4453
+D2
+~
+~
+0 0 4452
+S
+#4456
+Into the Keep~
+Bright torches bathe the corridor in warm soothing light.  The walls are
+smoothed stone, with just a hint of roughness, while the floor is an echoing
+marble.  The columns that support the thin passageway arch together at the
+ceiling, and to the west is a small open wooden door.  Visions of grandness
+peek from the south, while sounds of the sea can be heard from down below.  
+~
+0 262156 0
+D0
+~
+~
+0 0 4410
+D1
+Studded wooden double doors.
+~
+~
+1 0 4465
+D2
+~
+~
+0 0 4453
+D3
+A small wooden door stands open.
+~
+~
+0 0 4412
+D5
+A stone stairwell off to one side leads down into the darkness.  
+~
+~
+0 0 4437
+S
+#4457
+Winding Staircase~
+A small slit of a window, perfect for the elven archers, allows in just
+enough light so that the candles are not light in this corner of the keep. 
+The sounds of ocean waves crashing on the cliffs far below echo into the
+small room.  The sticky feeling of drying salt is everywhere.  
+~
+0 8 0
+D3
+~
+~
+0 0 4434
+D4
+~
+~
+0 0 4459
+S
+#4458
+A Winding Staircase~
+A small slit of a window, perfect for the elven archers, allows in just
+enough light so that the candles are not light in this corner of the keep. 
+The sounds of ocean waves crashing on the cliffs far below echo into the
+small room.  The sticky feeling of drying salt is everywhere.  
+~
+0 8 0
+D1
+~
+~
+0 0 4435
+D4
+~
+~
+0 0 4460
+S
+#4459
+Eastern Turret~
+Light streams in from the open doorway, a doorway that leads out onto the
+guard balcony that surrounds this turret.  Wooden beams support a tough
+conical silver roof overhead, while a commode, actually a hole cut in a
+wooden board, serves the sentries on their long duties.  Racks for torches
+and weapons line the small round room.  
+~
+0 262152 0
+D5
+~
+~
+0 0 4457
+S
+#4460
+Western Turret~
+Light streams in from the open doorway, a doorway that leads out onto the
+guard balcony that surrounds this turret.  Wooden beams support a tough
+conical silver roof overhead, while a commode, actually a hole cut in a
+wooden board, serves the sentries on their long duties.  Racks for torches
+and weapons line the small round room.  
+~
+0 262152 0
+D5
+~
+~
+0 0 4458
+S
+#4461
+An Opulent Library~
+A giant fireplace takes up most of the eastern wall, silent and cold.  To
+either side, ceiling high windows flank the marble chimney column, while
+giant bookshelves travel the width of the room.  Veins of gold and silver
+are set into the tiled floor in the crest of Daggermoon.  
+~
+0 8 0
+E
+veins gold silver~
+If you look carefully, the veins of rich minerals seem to seem to spell
+out a phrase...  
+                       Rich Bastards
+~
+E
+windows~
+Looking out the windows, you can see the rocky cliffs far below.
+~
+D0
+The bedroom.
+~
+~
+0 0 4448
+D3
+The foyer.
+~
+~
+0 0 4427
+S
+#4462
+A Cluttered Study~
+Piles of maps, old books, and ancient relics are littered in the most
+inappropriate places, making a simple trip to the desk at the center of the
+room an exercise in dexterity.  Dust motes float lazily on the beams of
+light that drift down from the skylight, finally resting on yellowed
+parchments and dried inkwells.  The bookshelves along the wall are stuffed
+to the brim with countless books.  
+~
+0 8 0
+E
+bookshelf bookshelves shelf shelves~
+A copy of "Single Life in Alanthia" is wedged tightly between "Unholy
+Magicks" and "The Necronomicron, Revised Edition."  
+~
+D0
+A bright sunlit room.
+~
+~
+0 0 4449
+D1
+The entrance, under a bright skylight.
+~
+~
+0 0 4427
+S
+#4463
+Western Balcony~
+A plain stone slab has served as a bench at this end of the balcony for
+who knows how long.  Erosion has worn away most of its original adornments,
+leaving it a simple flat slab of stone.  The three cathedral windows to the
+south allow a look into the sheltered room there, while the full power of
+the elements are born on this unprotected balcony.  
+~
+0 0 0
+E
+south windows~
+You see three tall cathedral windows.
+~
+D1
+The center of the balcony.
+~
+~
+0 0 4429
+S
+#4464
+Eastern Balcony~
+The cliffs of the mountainous keep rise to the east, barely a dragon's
+span between where the balcony ends and where the cliffs begin.  Windows and
+turrets dot the other rugged peaks, indicating its nature as a habitat of
+civilization.  
+~
+0 0 0
+D3
+The center of the balcony.
+~
+~
+0 0 4429
+S
+#4465
+A Smokey Tunnel~
+Hickory torches line the brick walls of this intermediary tunnel.  The
+flickering flames cast their shadows against the check-boarded brick floor
+and arched ceiling, stretching the apparent distance of this path.  A fine
+mist bellows from the east, steam rising from the hot brick after a rain
+shower.  
+~
+0 262152 0
+D1
+An archway blinded by light.
+~
+~
+0 0 4466
+D3
+~
+~
+1 0 4456
+S
+#4466
+An Open Courtyard~
+An entire village square has been condensed into this respectively sized
+courtyard.  Steam rises from the cobbled stones arranged in rings around the
+central flagstone, wet after a rainstorm.  All around the square, wood and
+thatched establishments of business are open for business, and elves of all
+paths mingle in commerce.  High fortress walls rise beyond the low roofs, a
+reminder of the more dangerous outside world.  
+~
+0 0 1
+E
+walls~
+Eons of weather have left deep dark streaks down all four sides of the
+keep, frozen waterfalls of decay and rust.  
+~
+E
+central flagstone~
+The elven rune for D is etched deep into the flagstone at the center of the square.
+~
+D0
+Smoke is rising from the chimney of the smithy to the north.
+~
+~
+0 0 4469
+D1
+An open cafetaria filled with diners.
+~
+~
+0 0 4468
+D2
+The smell of hay drifts from the south.
+~
+~
+0 0 4467
+D3
+~
+~
+0 0 4465
+S
+#4467
+The Stables~
+Bits of hay and manure drift in the golden beams of sunlight that slant
+through the hayloft, lighting on the messy floor and worn posts from which
+various saddles and horse shoes hang.  To either side of the entrance are
+stalls for the many animals used by the keep's inhabitants.  
+~
+0 8 0
+D0
+The square lies to the north.
+~
+~
+0 0 4466
+D1
+A stall door.
+~
+~
+3 4459 4484
+D3
+A stall door.
+~
+~
+1 4459 4485
+S
+#4468
+A Bustling Cafeteria~
+Armor, weapons, and war trophies line the walls and rafters of this fine
+establishment.  Large battered benches line the length of the hall, each
+filled with rowdy gangs of elves.  Heady scents of roasting meat and
+fermented mead waft over and under, and around the great fireplace at the
+southern end of the hall.  A stairway at the north end of the room leads to
+the next floor.  
+~
+0 8 0
+E
+walls trophy trophies armors weapons war~
+Exotice equipment line the walls, weapons, armor, staves, heads and other
+body parts.  One particularly interesting piece are the two leathery wings
+of a demonspawn set on a golden spiked shield.  
+~
+D1
+A bustling kitchen is attended by a steady flow of customers.  
+~
+~
+0 0 4470
+D3
+The square.
+~
+~
+0 0 4466
+D4
+A flight of stairs leads up to the quarters.
+~
+~
+0 0 4471
+S
+#4469
+The Fuming Smithy~
+Red smoke, thick and metallic, plumes out of the mouth of the furnace
+like dragon's breath.  Sawdust and metal shavings are laid shin-deep next to
+heat-charred worktables and racks of shining tools.  Elven metalworkers
+around with uncommon grace, a strange sight in comparison to their harsh
+surroundings.  A beaten bronze sign hangs over the first beam in the room.  
+~
+0 8 0
+E
+bronze sign~
+Quinrir's Armoury and Weapons Repair
+         Best Prices in town.
+~
+D2
+~
+~
+0 0 4466
+M 75 H 75
+S
+#4470
+Crowded and Steamed Kitchen~
+Cooks and cleaners alike scramble busily around the numerous monstrous
+ovens and grills that dot this confectionary conclave.  Pots and pans are
+hung from racks all around the low-headed area , ready for the untrained
+newbie to run into.  A steady stream of food flows to the cafeteria to the
+west, and in return is a steady flow of empty dishes.  
+~
+0 8 0
+E
+oven ovens~
+Eight enormous ovens occupy the eastern wall, filled to the brim with
+exotic foods and tastes and smells.  Black metal doors the size of a small
+human are clamped firmly shut so that the intense heat does not escape.  
+~
+E
+grills~
+Rows upon rows of open grills are piled with meats and vegetables,
+simmering and barbequing in a bevy of delectable sauces.  
+~
+D3
+An enormous cafetaria.
+~
+~
+0 0 4468
+S
+#4471
+General Quarters~
+Comfortably dim candles cast illumination for the private hall in which
+the many hard working denizens of Daggermoon Keep reside.  Someone has
+recently refilled the incense holders and replaced the candles so that you
+can see the rich veins of deepest red mahogany floorboards and the
+imperceptable watermarks on the walls.  
+~
+0 8 0
+D0
+~
+~
+0 0 4472
+D2
+~
+~
+0 0 4473
+D5
+~
+~
+0 0 4468
+S
+#4472
+Quarters Hall~
+The halls of the residents continues to the north and south.  Closed
+doors line both sides of the otherwise bare hallway.  Scented incense
+holders hang from the rafters, as do the occasional wooden chandelier that
+lends light.  
+~
+0 8 0
+D0
+~
+~
+0 0 4474
+D1
+~
+~
+1 0 4475
+D2
+~
+~
+0 0 4471
+D3
+~
+~
+1 0 4476
+S
+#4473
+Quarters Hall~
+The halls of the residents continues to the north and south.  Closed
+doors line both sides of the otherwise bare hallway.  Scented incense
+holders hang from the rafters, as do the occasional wooden chandelier that
+lends light.  
+~
+0 8 0
+D0
+~
+~
+0 0 4471
+D1
+~
+~
+1 0 4477
+D2
+~
+~
+0 0 4474
+D3
+~
+~
+1 0 4478
+S
+#4474
+Quarters Hall~
+The halls of the residents continues to the north and south.  Closed
+doors line both sides of the otherwise bare hallway.  Scented incense
+holders hang from the rafters, as do the occasional wooden chandelier that
+lends light.  
+~
+0 8 0
+D0
+~
+~
+0 0 4473
+D2
+~
+~
+0 0 4472
+S
+#4475
+Private Room~
+Private memorabilia are scattered around the room, silent representations
+of those who live here.  A light oak drawer stands to the one side next to
+the desk set in front of the thin barred window.  Across from the desk is a
+small bed.  
+~
+0 8 0
+D3
+~
+~
+1 0 4472
+S
+#4476
+Private Room~
+Private memorabilia are scattered around the room, silent representations
+of those who live here.  A light oak drawer stands to the one side next to
+the desk set in front of the thin barred window.  Across from the desk is a
+small bed.  
+~
+0 8 0
+D1
+~
+~
+1 0 4472
+S
+#4477
+Private Room~
+Private memorabilia are scattered around the room, silent representations
+of those who live here.  A light oak drawer stands to the one side next to
+the desk set in front of the thin barred window.  Across from the desk is a
+small bed.  
+~
+0 8 0
+D3
+~
+~
+1 0 4473
+S
+#4478
+Private Room~
+Private memorabilia are scattered around the room, silent representations
+of those who live here.  A light oak drawer stands to the one side next to
+the desk set in front of the thin barred window.  Across from the desk is a
+small bed.  
+~
+0 8 0
+D1
+~
+~
+1 0 4473
+S
+#4479
+The Light Forest~
+The sun cannot be seen under the thick canopy.  Trees hundreds of feet
+tall line both sides of this small rutted path, grown so close together that
+there is hardly any space between them.  Aside from the occasional snap of a
+twig or crackle of leaves the forest is completely silent.  
+~
+0 1 3
+D0
+~
+~
+0 0 4483
+D1
+~
+~
+0 0 4479
+D2
+~
+~
+0 0 4480
+D3
+~
+~
+0 0 4480
+S
+#4480
+The Light Forest~
+The sun cannot be seen under the thick canopy.  Trees hundreds of feet
+tall line both sides of this small rutted path, grown so close together that
+there is hardly any space between them.  Aside from the occasional snap of a
+twig or crackle of leaves the forest is completely silent.  
+~
+0 1 3
+D0
+~
+~
+0 0 4481
+D1
+~
+~
+0 0 4483
+D2
+~
+~
+0 0 4409
+D3
+~
+~
+0 0 4481
+S
+#4481
+The Light Forest~
+The sun cannot be seen under the thick canopy.  Trees hundreds of feet
+tall line both sides of this small rutted path, grown so close together that
+there is hardly any space between them.  Aside from the occasional snap of a
+twig or crackle of leaves the forest is completely silent.  
+~
+0 1 3
+D0
+~
+~
+0 0 4430
+D1
+~
+~
+0 0 4483
+D3
+~
+~
+0 0 4480
+S
+#4482
+The Light Forest~
+The sun cannot be seen under the thick canopy.  Trees hundreds of feet
+tall line both sides of this small rutted path, grown so close together that
+there is hardly any space between them.  Aside from the occasional snap of a
+twig or crackle of leaves the forest is completely silent.  
+~
+0 1 3
+D0
+~
+~
+0 0 4481
+D1
+~
+~
+0 0 4409
+D2
+~
+~
+0 0 4479
+D3
+~
+~
+0 0 4480
+S
+#4483
+The Light Forest~
+The sun cannot be seen under the thick canopy.  Trees hundreds of feet
+tall line both sides of this small rutted path, grown so close together that
+there is hardly any space between them.  Aside from the occasional snap of a
+twig or crackle of leaves the forest is completely silent.  
+~
+0 1 3
+D0
+~
+~
+0 0 4483
+D1
+~
+~
+0 0 4483
+D2
+~
+~
+0 0 4483
+D3
+~
+~
+0 0 4483
+S
+#4484
+A Stall~
+Pieces of hay and sawdust float gently in the gentle stable air.  The hay
+on the floor peters out in the center, but grow into two large hills at the
+opposite corners of the stall.  The dimensions of the stall are larger than
+you would have expected, with giant wooden slats for walls and the rafters
+almost in the clouds.  Laid against a corner is a battered wooden sign.  
+~
+0 1032 0
+E
+sign~
+Please do not feed the Lord's mount.
+~
+E
+container box~
+Containers, some beautiful, some ugly, some new, some old, lie around the
+resting unicorn.  She seems to have been collecting them for some reason.  
+~
+D3
+~
+~
+3 0 4467
+S
+#4485
+A Stall~
+Pieces of hay and sawdust float gently in the gentle stable air.  The hay
+on the floor peters out in the center, but grow into two large hills at the
+opposite corners of the stall.  The dimensions of the stall are larger than
+you would have expected, with giant wooden slats for walls and the rafters
+almost in the clouds.  
+~
+0 8 0
+D1
+~
+~
+1 0 4467
+S
+#4486
+Secret Passage~
+Giant stone steps lead down immediately from the stone slab, surprisingly
+light, overhead.  The torches which congregate in the four corners of this
+room provide illumination in the dank atmosphere of water drops and moss. 
+Dark green moss, or fungus, grows out of control on both sides of the stone
+steps and on the level ceiling, seeping through the cracks in the stonework
+but the floor is quite clean.  
+~
+0 9 0
+D3
+The tunnel continues.
+~
+~
+0 0 4487
+D4
+A stone slab lies overhead.
+~
+~
+1 0 4423
+S
+#4487
+Another Secret Passage~
+Oppressive walls of black stone close on you in a claustrophic tunnel of
+reflective darkness.  Strands of overgrown moss hangs down from the ceiling,
+almost touching the dusty floor.  Tiny spiders skitter out of the light and
+into the few shadows settled in the corners, where the bright golden candles
+do not reach.  
+~
+0 9 0
+D1
+Back to the stairs.
+~
+~
+0 0 4486
+D3
+A barred door stands.
+~
+~
+1 0 4488
+S
+#4488
+Meeting Place~
+Rough stone walls quickly chiseled out of the surrounding granite form an
+claustrophobic coffin deep in the cliffs of the keep.  A small oil lamp sits
+on an old rotting table, guttering in the feeble light.  In the corner,
+broken crates and discarded wrappings are piled into an unseemly mess where
+a thin fuzz of fungi begins to grow.  
+~
+0 8 0
+E
+lamp~
+The weak red flame flickers inside its greasy, soot-burnt glass container.
+~
+E
+crates pile wrapping mess~
+Broken bottles of cheap liquor, grease-soaked rags, torn sheets of brown
+paper lie like a shell over the stinking mound.  Rusted nails and strips of
+wood stick haphazardly like airward spikes, slowly oozing a puddle of slime.
+~
+D1
+A barred door.
+~
+~
+1 0 4487
+S
+#4489
+Crypt Entrance~
+A lowered ceiling is the only physical indication that this part of the
+cellar is different, but there is a feeling of inherent wrongness in the
+air.  The silence is thundering, pounding, constant, and not single scratch
+wanders in from elsewhere.  A strange sight lies to the south.  A lone
+masoleum, stone and mortar, stands amidst an underground cemetary. 
+Countless faceless tombstones rest in the clingly fog that covers the ground
+below, a few bare feet about the vaunted ceiling of the vast under ground
+catacombs.  
+~
+0 9 0
+D3
+~
+~
+1 0 4437
+S
+#4490
+Crypt Foyer~
+A terrible, terrible silence lives here, nourished by ages of fear and
+neglect.  A palpable sense of reverence glows from the dust-covered statues
+and darkened stained windows in here, elder scenes of somber elves carved
+into stone and set into glass.  Behind the coffin at the center of the room,
+a cramped staircase descends rapidly.  
+~
+0 9 0
+E
+stained glass windows~
+Morbid scenes of death and the afterlife are cheerfully depicted in
+vibrant pastel colors.  
+~
+D0
+A pair of greased stone doors are covered with black ivy.
+~
+~
+1 0 4489
+D5
+A small staircase behind the coffin leads down into the darkness.  
+~
+~
+0 0 4494
+S
+#4491
+Crypt Passage~
+A strip of ivory pathway runs down the center of the deserted corridor. 
+Faded stone columns, their red paint peeling and lying chipped on the dusty
+floor, flank the path.  A stone panel containing an elven relief is embedded
+deep into the ground and a fine spiderwork of cracks radiate from the point
+of impact.  To the north, a wide staircase settles from age, creaking and
+puffing clouds of dust.  
+~
+0 9 0
+D2
+~
+~
+0 0 4492
+D3
+Behind the row of pillars, a circular doorway stands framed by entwined
+golden dragons.  
+~
+~
+3 0 4495
+D4
+Steps lead upwards.
+~
+~
+0 0 4494
+S
+#4492
+Crypt Passage~
+Great pieces of ivory lie scattered from the hole in the center of the
+room.  Sounds of insects and creatures of the shadows drift from the cavity
+created in the floor by an explosion of some type.  Puffs of dust erupt from
+the gaping crevasse intermittently as the ground rumbles from below.  
+~
+0 9 0
+E
+east~
+A circular doorway bears the emblem of a phoenix on its two leaves.  
+~
+D0
+~
+~
+0 0 4491
+D1
+A pair of phoenixes frame the studded double-doors.
+~
+~
+3 0 4496
+D2
+~
+~
+0 0 4493
+D5
+There is a large hole in the floor, pieces of the floor lying strewn
+about it.  
+~
+~
+0 0 4402
+S
+#4493
+Crypt End~
+The large round foyer provides exits in all four directions.  A scene of
+clouds and mountains is laid on the ceiling, each diamond mosaic tile
+sparkling of the clearest cut.  Below, the verdant green of the forest
+gleams from the emerald hue in its composition, a majestic redwood portrayed
+by the precious stones.  Robust red pillars run up and down the walls of the
+room with the cardinal directions engraved on each.  
+~
+0 9 0
+D0
+~
+~
+0 0 4492
+D1
+~
+~
+0 0 4497
+D2
+~
+~
+3 4421 4499
+D3
+~
+~
+0 0 4498
+S
+#4494
+Darkened Stairway~
+A fading red carpet lies somewhere beneath the dust and grime of
+centuries of solitude.  A once pristine hallway lies pockmarked, cracked and
+pitted from the underworld creatures that infest the night.  Spiderwebs hang
+like cotton sheets, defying gravity, to festoon themselves across the path. 
+~
+0 13 0
+D4
+Cracked stairs lead upwards.
+~
+~
+0 0 4490
+D5
+Pristine stairs lead downwards.
+~
+~
+0 0 4491
+S
+#4495
+Ajeldre's Grave~
+A circular dias rests in the depression carved in the middle of the room.
+On each of the four walls, the relief of an elven warrior frozen in
+mid-action guards the contents of this tomb.  An alabaster dragon curls its
+way across the tiled ceiling, winding in and out of white clouds.  
+~
+0 9 0
+D1
+~
+~
+3 0 4491
+S
+#4496
+Eson's Tomb~
+Hundreds of empty candle holders line both sides of the narrow path down
+to the tomb.  Carved out of jade, the pillars that support the ceiling are
+in the shape of tree trunks, their tops intricately chiseled to resemble
+leaves.  A smell of fresh earth wafts from the center of the square room.  
+~
+0 9 0
+D3
+~
+~
+3 0 4492
+S
+#4497
+A Shrine of Wood~
+The air is thick with moisture and the fungus grows thick on the unhewn
+rock of the room.  The floor around the shrine has long buckled under the
+stress of the altar, the pieces of granite piled against each other.  A
+faint sound, that of crickets, wafts from the exposed roots above.  
+~
+0 8 0
+D3
+~
+~
+0 0 4493
+S
+#4498
+A Shrine of Silver~
+A comfortable feeling of contentedness fills the room from the row of
+warmly glowing candles surrounding the silver shrine.  The walls and floor
+are made of stone, great rough blocks, spiralling down from the ceiling and
+ending in the central flagstone of the floor.  
+~
+0 8 0
+D1
+The main hall.
+~
+~
+0 0 4493
+M 100 H 120
+S
+#4499
+Ironhands' Shrine~
+A thin stone-tiled pathway leads from the entrance to the raised statue
+on the other end of the tomb.  Tattered banners in faded colors reminescent
+of glory and honor hang from rotting wooden beams.  Cracked marble pillars
+line the side walls, choked by thin strands of upward-bound ivy.  
+~
+0 8 0
+E
+banners~
+Assorted banners once dyed bright red and blue hang in the air.
+~
+D0
+~
+~
+3 0 4493
+S
+#0
+
+
+
+#SPECIALS
+M 4400 spec_guard
+M 4401 spec_nasty
+M 4402 spec_guard
+M 4403 spec_cast_adept
+M 4405 spec_cast_mage
+M 4406 spec_executioner
+M 4422 spec_thief
+M 4424 spec_guard
+M 4428 spec_cast_cleric
+M 4429 spec_poison
+M 4433 spec_cast_cleric
+M 4435 spec_poison
+S
+
+
+
+#RESETS
+D 0 4401 3 1
+D 0 4405 1 1
+D 0 4410 0 1
+D 0 4411 2 1
+D 0 4413 5 1
+D 0 4416 2 2
+D 0 4419 0 1
+D 0 4422 1 1
+D 0 4422 2 1
+D 0 4422 3 1
+D 0 4423 3 1
+D 0 4423 5 1
+D 0 4424 1 1
+D 0 4426 0 1
+D 0 4427 2 1
+D 0 4437 1 1
+D 0 4440 2 1
+D 0 4456 1 1
+D 0 4465 3 1
+D 0 4467 1 1
+D 0 4472 1 1
+D 0 4472 3 1
+D 0 4473 1 1
+D 0 4473 3 1
+D 0 4475 3 1
+D 0 4476 1 1
+D 0 4477 3 1
+D 0 4478 1 1
+D 0 4484 3 1
+D 0 4486 4 1
+D 0 4487 3 1
+D 0 4488 1 1
+D 0 4489 3 1
+D 0 4490 0 1
+D 0 4491 3 1
+D 0 4492 1 1
+D 0 4493 2 2
+D 0 4495 1 1
+D 0 4496 3 1
+D 0 4499 0 2
+M 0 4431 1 4400 1
+M 0 4420 1 4401 1
+M 0 4420 1 4401 1
+M 0 4435 1 4402 1
+M 0 4421 1 4405 1
+M 0 4433 1 4409 1
+M 0 4400 1 4410 1
+M 0 4441 1 4411 1
+M 0 4427 1 4412 1
+M 0 4429 1 4413 1
+M 0 4430 2 4418 2
+M 0 4430 2 4418 2
+M 0 4442 4 4419 1
+M 0 4404 1 4422 1
+M 0 4422 1 4431 1
+M 0 4424 1 4432 1
+M 0 4439 1 4433 1
+M 0 4442 4 4434 1
+M 0 4442 4 4435 1
+M 0 4401 1 4436 1
+M 0 4440 2 4439 1
+M 0 4403 1 4440 1
+M 0 4402 1 4440 1
+M 0 4406 1 4449 1
+M 0 4423 1 4450 1
+M 0 4440 2 4452 2
+M 0 4428 1 4453 1
+M 0 4425 2 4454 2
+M 0 4425 2 4454 2
+M 0 4426 2 4459 1
+M 0 4426 2 4460 1
+M 0 4408 1 4461 1
+M 0 4405 1 4462 1
+M 0 4407 1 4463 1
+M 0 4409 3 4468 3
+M 0 4410 1 4469 1
+M 0 4412 1 4470 1
+M 0 4411 1 4470 1
+M 0 4438 1 4470 1
+M 0 4413 4 4475 1
+M 0 4413 4 4476 1
+M 0 4413 4 4477 1
+M 0 4413 4 4478 1
+M 0 4434 1 4482 1
+M 0 4415 1 4484 1
+M 0 4414 1 4485 1
+M 0 4417 1 4486 1
+M 0 4419 1 4487 1
+M 0 4418 1 4488 1
+M 0 4416 1 4490 1
+M 0 4432 1 4495 1
+M 0 4436 1 4496 1
+M 0 4437 1 4499 1
+S
+
+
+
+#SHOPS
+4410 0 9 5 0 0 100 50 0 23
+4415 0 8 5 33 15 100 50 0 23
+4427 0 3 4 26 28 100 50 0 23
+0
+
+
+
+#$

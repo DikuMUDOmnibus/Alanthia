@@ -1,0 +1,255 @@
+#AREADATA
+Name Art's Area~
+Builders Artanis~
+VNUMs 21600 21699
+Credits (null)~
+Security 0
+Version 1
+End
+
+
+
+#MOBILES
+#21600
+Daerhun~
+Daerhun~
+Daerhun, the highpriest stands here.
+~
+Daerhun, the highpriest of Remoria, was once a great warrior.  He strode
+into battle wielding his mighty crystal blade, shouting orders to his men. 
+Now he is retired from war, but still a firece combatant.  He resides with
+his two other brothers in the Eternum Keep.  
+~
+unique~
+ABT HLac 1000 0
+275 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+CDEFKNV ABLQ DJK CHMN
+stand stand male 5000
+AGHZ ABCDEFGHJKLOPQUVWXY medium stone
+#21601
+Xhatil~
+Xhatil, the archmage~
+Xhatil, the archmage, is here perfecting spells.
+~
+Xhatil, the youngest of the three brothers, chose the art of magic. 
+Although he is a powerful combatant he decided not to fight in the war.  His
+code, one very sacred to him, only allows him to fight to save the ones most
+dear to him, his brothers.  
+~
+unique~
+ABR HVac 1000 0
+265 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+CDEFGKNV ABQX CEHIJKL GMZ
+stand stand male 7500
+AHZ ACDEFHJKLOPQUVWXY large stone
+#21602
+Straem~
+Straem~
+Straem, the gargoyle cleric, is here.
+~
+Straem, the middle of the three brothers, is the least honorable.  He
+strives for control, not order.  Although he is power hungry, he is not
+evil.  Straem will fight to protect good and justice, but with little effort
+compared to his siblings.  
+~
+unique~
+ABQ HLVa 1000 0
+270 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+CDFHJKNX ABF DEGJN CIK
+stand stand male 6500
+AHZ ACDEFHJKLOPQUVWXY large stone
+#21604
+Crystal Golem~
+{xa {ccr{Cyst{cal {xgolem~
+A large crystal golem stands on guard here.
+~
+Standing a massive twenty five feet tall, this giant golem is very
+powerful.  Summoned from the depths of Remoria it strives to guard its
+highpriest and brothers from danger.  
+~
+unique~
+AB HLVc -550 0
+285 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+CDFHKNVW BFJ CIKL EH
+stand stand male 15000
+C ABCHKU medium crystal
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#21600
+Mysterious Crystal Chamber~
+The chamber shines brilliant shades of blue as it is built out of pure
+Remorian crystal..  In the direct center of the chamber there is a tiny hole
+with a magnificent aura of light protruding upwards.  The rest of the room
+is ver dark, even with the myste The chamber shines brilliant shades of blue
+as it is built out of pure Remorian crystal.  In the direct center of the
+chamber there is a tiny hole with a magnificent aura of light protruding
+upwards.  The rest of the room is very dark, even with the mysterious light.
+When examined closely the aura is not a light, but a scroll.  The scroll
+reads a long forgotten language.  There are doors in all direction from the
+scroll.  
+~
+0 0 0
+E
+scroll~
+This scroll is nothing more than a symbol, like a kings crown, it is
+passed from Highpriest to Highpriest.  It is also a mystery, no one knows
+waht the words read.  'xigkcem - vksdjsg - firmytivo' 
+~
+D0
+~
+~
+0 0 21604
+D1
+~
+~
+0 0 21603
+D2
+~
+~
+0 0 21601
+D3
+~
+~
+0 0 21602
+S
+#21601
+Crystal Path~
+This path is legendary, being a place of ceremony o the new highpriest
+that is chosen every twenty years.  A small stream runs through ehre fed by
+a spring, glistening in the suns reflections off of the crystal.  
+~
+0 0 0
+D0
+~
+~
+0 0 21600
+D2
+~
+~
+0 0 21605
+S
+#21602
+Xhital's Private Den~
+
+~
+0 0 0
+D1
+~
+~
+0 0 21600
+S
+#21603
+Straem's Private Den~
+
+~
+0 0 0
+D3
+~
+~
+0 0 21600
+S
+#21604
+Daerhun's Private Den~
+Daerhun, the first of the brothers, is the highpriest of Remoria.  His
+den is very simple, him being gone most of the time.  Near the back corner
+is the same strange scroll as in the chamber, only small and the aura is
+blue.  Next to the scroll is a plain cot and a crystal sculpture so
+beautifully carved it seems alive.  
+~
+0 0 0
+D2
+~
+~
+0 0 21600
+S
+#21605
+Gigantic Cave Entrance~
+Up ahead lies the legendary den of lords, the place where the current
+highpriest and his family rest.  To the left lies a large tree, blooming
+even in the gloomy surroundings, fueled by a strange blue liquid.  A small
+scroll floats near the trees trunk, dripping the same strange liquid.  
+~
+0 0 0
+E
+liquid~
+This strange liquid looks as if it is liquid crystal the way it reflects
+in the sun.  
+~
+E
+tree~
+A strange oak tree grows here, veins pulsing with a blue aura, seeming
+alive.  
+~
+E
+scroll~
+This scroll shines a brilliant blue, radiating a liquid onto the ground.  
+~
+D0
+~
+~
+0 0 21601
+D2
+~
+~
+0 0 21607
+D3
+~
+~
+0 0 21606
+S
+#21606
+~
+
+~
+0 0 0
+D1
+~
+~
+0 0 21605
+S
+#21607
+~
+
+~
+0 0 0
+D0
+~
+~
+0 0 21605
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 21601 1 21602 1
+M 0 21602 1 21603 1
+M 0 21600 1 21604 1
+M 0 21604 1 21605 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

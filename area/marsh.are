@@ -1,0 +1,1478 @@
+#AREADATA
+Name Marsh~
+Builders Halodar Fluffy~
+VNUMs 8300 8399
+Credits {230 250} Gen/Fluff   Old Marsh~
+Security 9
+Version 1
+End
+
+
+
+#MOBILES
+#8300
+swarm mosquitoes~
+a swarm of mosquitoes~
+A swarm of mosquitoes descends upon you.
+~
+This swarm is made of thousands of small mosquitoes, and they seem to
+be intent on pestering you, trying to find any and every small surface
+of your skin not covered by armor so they can feast.
+~
+unique~
+ABCDEFG ABCDEFGT 0 0
+240 0 0d0+0 0d0+0 0d0+0 sting
+0 0 0 0
+ABCDEFG ABC ABCFG ABC
+stand stand none 0
+ABCO ABC large mosquitoes
+#8301
+swamp troll~
+a swamp troll~
+A swamp troll charges towards you.
+~
+This large trolls stands to a height of 15 feet.  The troll is covered
+with bugs and some vegetation, along with boils and probably disease on
+its skin.  It looks ugly, and vicious.
+~
+unique~
+ABCDEFG ABCDEFGJc -600 0
+245 0 3d9+233 8d9+100 2d6+4 none
+-2 -2 -2 7
+ABCDEFGNR ABC ABCE ABCHK
+stand stand male 500
+ABCHMV ABCDEFGHIJKUV large 0
+#8302
+troll~
+a green troll~
+A green troll attempts to get a hold on you.
+~
+This big troll towers to about thirteen feet.  He has a large spear, which
+has been used many times to kill the less fortunate in this marsh.
+~
+unique~
+ABCDEFG ABCDEFGJc -400 0
+240 0 2d10+190 7d9+100 1d12+3 none
+-1 -1 -1 8
+ABCDEFGNR ABC ABCE ABCHK
+stand stand male 400
+ABCHMV ABCDEFGHIJKUV large 0
+#8303
+lizard man~
+a lizard man~
+A lizard man is here, plodding through the swamp.
+~
+This lizard man has scaley green features.  It stands about six feet tall and
+weighs about 250lbs.  It has a large tail, spanning over three feet in length.
+~
+unique~
+ABCDEFGT ABCDEFG -500 0
+245 0 3d9+333 10d9+100 2d8+5 none
+-4 -4 -4 7
+ABCDEFGKNU ABC ABCL ABCI
+stand stand male 500
+ABCGHMVXc ABCDEFGHIJKQV large 0
+#8304
+shambling mound~
+a shambling mound~
+A shambling mound is here.
+~
+This shambling mound appears to be heaps of rotting vegetation.  It has a
+rough humanoid shape, a six-foot girth on its lower life, and tapers off to
+about two feet at its head region.
+~
+unique~
+ABCDEFG ABCDEFG -700 0
+247 0 5d10+500 12d9+100 2d10+6 none
+-6 -6 -6 6
+ABCDEFGN ABC ABC ABC
+stand rest none 1250
+ABCHMV ABCDEFGHIJK large 0
+#8305
+gnoll~
+a gnoll~
+A gnoll is here with a frown on his face.
+~
+The gnoll has a body shaped like a large human, but has the details of a
+hyena.  It stands erect on two legs and has greenish gray skin.  he looks
+very lost.
+~
+unique~
+ABCDEFG ABCDEFG -1000 0
+233 0 6d12+853 15d9+100 4d6+8 none
+-9 -9 -9 6
+ABCDEFGN ABC ABC ABC
+stand stand male 1250
+ABCHMV ABCDEFGHIJK medium 0
+#8306
+beast~
+a huge hairy beast~
+A huge hairy beast shambles towards you with death in his eyes.
+~
+This huge beast stands about 20 feet in height and has huge green clawed
+appendages. 
+~
+unique~
+ABCDEFG ABCDEFG -450 0
+240 0 4d10+360 10d9+100 4d4+5 none
+-5 -5 -5 7
+ABCDEFGNU ABC ABC ABC
+stand stand male 500
+ABCHMV ABCDEFGHIJK medium 0
+#8307
+small beast~
+a rather small beast~
+A rather small beast cringes in terror as it notices you.
+~
+The small beast looks like a small wolf with troll-like features - mottled
+skin, ugly face, biped - but has a wolf's head and patches of fur.  It
+is terrified of you noticing it.  It cowers before you on the ground.
+~
+unique~
+ABCDEFGH ABCDEFG 0 0
+230 0 2d6+35 1d9+100 1d6+0 none
+7 7 7 10
+ABCDEFGN ABC ABC ABC
+stand stand none 25
+ABCHMV ABCDEFGHIJK small 0
+#8308
+will will-o-wisp~
+the Will-O-Wisp~
+A Wlll-O-Wisp darts here and there.
+~
+This strange little creature seems very hard to keep your eyes on.
+You stare as hard as you can at the glowing ball of floating light and
+are just able to notice a small pair of glowing eyes.
+~
+unique~
+ABCDEFGH ABCDEFGP 0 0
+230 0 2d7+121 5d9+100 2d4+2 none
+1 1 1 8
+ABCDEFGN ABC ABC ABC
+stand stand none 150
+ABCHMV ABCDEFGHIJK medium 0
+#8309
+monstrous snake~
+the monstrous snake~
+A monstrous snake slithers towards you.
+~
+This monstrous snake is about thirty feet long.  It slithers on the marsh
+floor silently, looking for easy prey.
+~
+unique~
+ABCDEFGH ABCDEFGP -100 0
+235 0 3d9+233 8d9+100 2d6+4 none
+-2 -2 -2 7
+ABCDEFGNR ABC ABCL ABCI
+stand stand male 500
+ABCGXYc ABCDEFKLQVX large 0
+#8310
+snake python~
+a large snake~
+A rather large python rests in a coil here.
+~
+This is a huge snake, coiled up in a resting position.
+~
+unique~
+ABCDEFGH ABCDEFGPQ -100 0
+243 0 2d8+134 5d9+100 1d10+2 none
+1 1 1 8
+ABCDEFGNRU ABC ABCL ABCI
+stand stand female 0
+ABCGXYc ABCDEFKLQVX medium 0
+#8311
+pack huge mosquitoes~
+a pack of huge mosquitoes~
+A pack of huge mosquitoes fly around.
+~
+These mosquitoes are huge compared to the others.  There are several of them,
+each the size of a human head, and probably just as heavy.  They are just as
+mindless as the other mosquitoes, but these ones are much bigger and can
+probably do serious damage.
+~
+unique~
+ABCDEFGT ABCDEFGTZ 0 0
+245 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+ABCDEFGX ABC ABCE ABC
+stand stand none 0
+ABCO ABC medium mosquito
+#8312
+marsh hag~
+a marsh hag~
+A marsh hag is here.
+~
+She is hunched over, with a crooked nose and warts all over her face.  Her
+hair is a frizzy grey, and she has a wild look in her eye.
+~
+unique~
+ABCDEFGRS ABCDEFG -200 0
+240 0 2d7+96 4d9+100 1d7+2 none
+3 3 3 8
+ABCDEFGJNU ABC ABC ABC
+stand stand female 50
+ABCHMV ABCDEFGHIJK medium 0
+#8313
+mist crimson death~
+the crimson death~
+A crimson mist swirls with life.
+~
+The crimson death is a malevolent, vaporous creature that feeds on the bodily
+fluids of its victims.  Its body is a humanoid-shaped cloud of pale color.
+~
+unique~
+ABCDEFGT ABCDEFG -200 0
+250 0 3d9+333 10d9+100 2d8+5 none
+-4 -4 -4 7
+ABCDEFGKNU ABCL ABCJQ ABC
+stand stand none 700
+ABCHMV ABCDEFGHIJK medium 0
+#8314
+marsh wolf~
+a marsh wolf~
+A marsh wolf sniffs the ground, following your scent.
+~
+This wolf has a greyish coat, and it looks a bit bigger than an ordinary
+domesticated dog in a city.  It looks at you with hungry eyes and awaits
+your move.
+~
+unique~
+ABCDEFG ABCDEFGZ -200 0
+235 0 2d7+96 4d9+100 1d7+2 bite
+3 3 3 9
+ABCDEFGHNR ABC ABC ABC
+stand stand female 0
+ABCGV ABCDEFJKQV medium 0
+#8315
+deformed creature~
+a deformed creature~
+A deformed creature hides in the vegetation.
+~
+The deformed creature blends in with the surrounding vegetation.  It looks
+humanoid, but most of it is covered with vegetation and insects, making it
+hard to get an accurate detail of it.
+~
+unique~
+ABCDEFGT ABCDEFGQ 0 0
+250 0 0d0+0 0d0+0 0d0+0 pound
+0 0 0 0
+ABCDEFG ABC ABC ABC
+stand stand none 0
+ABCHMV ABCDEFGHIJK medium unknown
+#8316
+mosquito larvae~
+larvae~
+Lots of mosquito larvae wiggle in the water.
+~
+These must be from the huge mosquitoes.  They are much larger than the other
+larvae floating around in the water.  They do not have any body parts, just
+a worm-like body.
+~
+unique~
+ABCDEFG ABCDEFGY 0 0
+230 0 0d0+0 0d0+0 0d0+0 bite
+0 0 0 0
+ABCDEFG ABC ABCFG ABC
+stand stand none 0
+ABCO ABC medium unknown
+#8317
+weird looking weird-looking fish~
+a weird-looking fish~
+A weird-looking fish swims by.
+~
+This fish looks very weird.  It is relatively small, about two feet in length,
+but it has a large mouth which it keeps open, probably collecting and eating
+small plant and animal life down here.  It lazily swims around.
+~
+unique~
+ABCDEFG ABCDEFGZb 0 0
+235 0 0d0+0 0d0+0 0d0+0 bite
+0 0 0 0
+ABCDEFGMN ABC ABC ABC
+stand stand none 0
+ABCbc ABCDEFKOQ small flesh
+#8318
+heap garbage~
+a heap of garbage~
+A heap of garbage shambles towards you.
+~
+This grotesque pile of plant matter fills the air with its stench.  It seems to shuffle about aimlessly.
+~
+unique~
+ABCDEFG ABCDEFGQ -100 0
+238 0 2d10+170 6d9+100 2d5+3 none
+-1 -1 -1 8
+ABCDEFGNU ABC ABC ABC
+stand stand none 0
+ABCHMV ABCDEFGHIJK medium 0
+#8319
+shaman orc~
+the orc shaman~
+An orc shaman intently examines the monolith.
+~
+This old orc has an array of bones stuck in his hair and strange symbols
+painted on his face and hands.  He seems to not notice or care about the
+swamp inhabitants.
+~
+unique~
+ABCDEFGQ ABCDEFG -100 0
+250 0 2d10+150 12d9+100 2d4+3 none
+0 0 0 7
+ABCDEFGIKU ABC ABCQ ABCS
+stand stand male 17
+ABCHMV ABCDEFGHIJK medium 0
+#8320
+marsh giant~
+a marsh giant~
+A marsh giant bellows loudly at you.
+~
+This marsh giant has greyish skin, and stands well over twenty feet.  He
+doesn't look quite happy of your presence.
+~
+unique~
+ABCDEFG ABCDEFG -100 0
+245 0 3d9+208 7d9+100 2d6+3 pound
+-2 -2 -2 7
+ABCDEFGNR ABC ABCHI ABCJP
+stand stand male 600
+ABCHMV ABCDEFGHIJK huge 0
+#8321
+large gargoyle~
+a gargoyle~
+A large gargoyle lands on the ground, scanning its surroundings.
+~
+Made of pure stone, this large gargoyle is one powerful creature.  It
+looks back at you, baring its vicious fangs.
+~
+unique~
+ABCDEFG ABCDEFG -100 0
+250 0 2d10+150 6d9+100 1d10+3 slash
+0 0 0 8
+ABCDEFGNU ABC ABCD ABC
+stand stand none 100
+ABCHMVZ ABCDEFGHIJKLOPQUVWXY large 0
+#8322
+vicious eel~
+a vicious eel~
+A vicious eel darts in the water.
+~
+This eel has oversized teeth for its small, snake-like body.  It moves very
+fast, and looks very aggressive.
+~
+unique~
+ABCDEFG ABCDEFGJb 0 0
+240 0 0d0+0 0d0+0 0d0+0 bite
+0 0 0 0
+ABCDEFGMNW ABC ABCJL ABC
+stand stand none 0
+ABCbc ABCDEFKQ medium unknown
+#8323
+grippli frog large~
+a grippli~
+A large frog is here, hiding.
+~
+The grippli resembles an enlarged tree frog.  It is about two feet tall
+and weighs about twenty pounds.  Its hands and feet look human-like.  The
+skin looks wet and shiny, and is gray-green with camouflage stripes and
+swirling patterns.  It doesn't look hostile at all.
+~
+unique~
+ABCDEFGHS ABCDEFGP 0 0
+235 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+ABCDEFGKRV ABC ABCL ABCI
+stand stand none 0
+ABCGac ABCDEFHKQV tiny flesh
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#8300
+An Oozing Bog~
+You continue on the oozing bog and see many large swarms of mosquitoes
+flying about.  Some mosquitoes are as large as a human's head.  They seem to
+be attaching themselves to whatever is moving, draining blood out of them. 
+To the north, the swarm density increases.  
+~
+0 1 12
+D0
+Northward is a thick bog of ooze with lots of mosquitoes.
+~
+~
+0 0 8321
+D2
+Southward is a thick bog of ooze.
+~
+~
+0 0 8306
+S
+#8301
+Muddy Path~
+This section of the path is slowly being drowned by the nearby swamp to
+the south, which is creeping slowly inland.  Several caved-in buildings
+sprawl here, torn apart both by battle and the elements.  You can enter two
+of them to the east and west.  
+~
+0 1 12
+E
+swamp~
+The swamp to the south even reaches as far as this point ... it makes the
+ground and air about you moist and fetid.
+~
+D0
+~
+~
+0 0 4003
+D1
+East leads to a caved-in building.
+~
+~
+0 0 8345
+D2
+A broken road leading southward into the marsh.
+~
+~
+0 -1 8302
+D3
+West leads to a caved-in building.
+~
+~
+0 0 8338
+S
+#8302
+Swamp's Edge~
+Briars and marsh plants stick to your boots and clothes, and clouds cover
+the skies above the murky marsh, leaving the path before you dark and
+sinister.  You see some disturbances in the marsh, but after a few strangled
+screams, the sounds stop.  
+~
+0 1 12
+D0
+North leads to a muddy path that's not quite part of the swamp yet.
+~
+~
+0 -1 8301
+D1
+To the east lies a series of bogs and shallows.
+~
+~
+0 -1 8303
+D2
+You notice a large hill rising out of the marsh to the south.
+~
+~
+0 -1 8304
+S
+#8303
+Marshy Forest~
+This area is by no means a forest, but for those who dwell in these
+sparse trees it is one.  Occasionally you see a whole humanoid form floating
+face down in the water, but mostly you only find pieces.  You hear a loud
+bellow in the distance.  
+~
+0 1 12
+E
+pieces~
+You see severed limbs and spongy intestines.
+~
+E
+humanoid corpse~
+He looks mangled and shredded.  You see one large gash mark that looks
+like it came from the claw of some huge beast.
+~
+D1
+Eastward is a thick bog of ooze.
+~
+~
+0 -1 8305
+D2
+A sparse, marshy forest lies south.
+~
+~
+0 0 8339
+D3
+Westward lies the remanents of a broken and shattered roadway being swallowed
+by the marsh.
+~
+~
+0 -1 8302
+S
+#8304
+On a Hill~
+You stand atop a hill on the northwestern side of the evil swamp.  Cloudy
+mists whip around you and the wind is strong up here.  To the east you can
+see more cloudy mists.  To the south is a gloomy path through the marsh, and
+to the north is the swamp's edge.  
+~
+0 1 4
+D0
+To the north lies a damp broken roadway.
+~
+~
+0 -1 8302
+D1
+Mist condenses to the east.
+~
+~
+0 -1 8309
+D2
+A gloomy path leads down the hill into the swamp.
+~
+~
+0 -1 8310
+S
+#8305
+An Oozing Bog~
+You stand in an oozing quagmire.  A creaking beat fills the air,
+accompanied by groans and soughing of the air.  Several large winged beasts
+flap over you and send glares your way.  
+~
+0 1 12
+E
+beasts~
+You see a large creature, possibly a demon, flapping heavily above you.
+~
+D1
+Eastward is a thick bog of ooze.
+~
+~
+0 -1 8306
+D2
+Southward is a thick bog of ooze.
+~
+~
+0 0 8340
+D3
+Westward lies a marshy area.
+~
+~
+0 -1 8303
+S
+#8306
+An Oozing Bog~
+The ground here is soft and oozy.  Slimy water seems to have drenched
+every inch of this ground, and everything on the ground.  To the north you
+see swarms of mosquitoes.  
+~
+0 1 12
+E
+limb~
+The limb looks like it is attached to a trap door in the ground.
+~
+D0
+Northward is a thick bog of ooze with lots of mosquitoes.
+~
+~
+0 0 8300
+D2
+Southward is a thick bog of ooze.
+~
+~
+0 0 8341
+D3
+Westward is a thick bog of ooze.
+~
+limb~
+1 -1 8305
+S
+#8307
+A Shambling Mound's Lair~
+A horrible swamp creature has made its residence here.  Mutilated corpses
+suffuse the air with the overwhelming stench of putrid flesh.  What little
+trees in this immediate area have been bent and cracked to form a protective
+barrier here.  
+~
+0 1 12
+E
+corpses~
+You notice a note on one of the corpses reading:  'Best ye forget the temple,
+it is not for the likes of you...'
+~
+D1
+Foliage is heavy to the east.
+~
+~
+0 0 8344
+S
+#8308
+Misty Area~
+The ground here becomes less hard and more watery.  The mists clear up to
+the south, leading to a murky bog.  To the west, the mists are very dense.  
+~
+0 1 6
+E
+quicksand~
+It looks deadly to the foolish.
+~
+E
+lights ~
+From the stories you have heard, you recognize them as will-o-wisps.
+~
+D2
+A murky bog.
+~
+~
+0 -1 8314
+D3
+More mists.
+~
+~
+0 -1 8309
+S
+#8309
+Misty Area~
+The mists make the area very hot and humid, and also have a musky smell
+to them.  It is very thick, and it continues to the east.  To the west it
+clears up a bit, and the ground starts to incline in that direction.  
+~
+0 1 6
+E
+pond~
+It looks ALIVE ...
+~
+D1
+Mists cover the east.
+~
+~
+0 -1 8308
+D2
+Lots of mists.
+~
+~
+0 -1 8311
+D3
+A hill rises out of the swamp.
+~
+~
+0 -1 8304
+S
+#8310
+Gloomy Path Through the Marsh.~
+To the north lies a hill, shrouded in dark clouds, and to the south lies
+a huge patch of vegetation.  You notice a beast flying overhead to the
+southeast, towards what looks to be a huge fortress, half-buried in the
+marsh.  
+~
+0 1 12
+E
+vegetation~
+It looks sentient.
+~
+E
+fortress~
+It is surrounded by walls nearly 20 meters high.  In a tall tower on the
+northeast side, a window glows blue with magical energy.
+~
+E
+beast~
+It looks to be a demon of some foul breed.
+~
+E
+clouds~
+The clouds look dark and foreboding.
+~
+D0
+To the north a hill protrudes from the marshes.
+~
+~
+0 -1 8304
+D2
+To the south a huge mass of vegetation seems to quiver with life.
+~
+~
+0 -1 8312
+S
+#8311
+Misty Area~
+The swamp gases accumulate densely in this area, making progress in the
+marsh more difficult than before.  You hear rustling of leaves but cannot
+locate the source due to the mists.  To the south you see a monolith through
+the mists.  North takes you deeper into them.  
+~
+0 1 6
+D0
+A dark pool lies to the north.
+~
+~
+0 -1 8309
+D2
+An obelisk lies to the south.
+~
+~
+0 -1 8313
+S
+#8312
+Dense Foliage~
+You are surrounded by many strange and exotic plant life.  It seems to be
+a mixture of tumescent vegetables, musky-smelling fruit trees, and malignant
+ferns.  The dense foliage continues south and west.  North leads to the
+gloomy path through the marsh, and to the east you see a monolith.  
+~
+0 524289 12
+E
+plant plants~
+They look rather violent, and snap at you when you come near.
+~
+D0
+To the north is a gloomy path through the marsh.
+~
+~
+0 -1 8310
+D1
+Eastward is a large, black stone monolith.
+~
+~
+0 -1 8313
+D2
+Foliage is heavy to the south.
+~
+~
+0 0 8343
+D3
+Foliage is heavy to the west.
+~
+~
+0 0 8342
+S
+#8313
+By the Monolith.~
+A huge monolith dominates this part of the swamp.  The ground here is
+very stiff.  Vegetation has been cleared, and the dark clouds are kept at
+bay by an unseen forcefield.  Dark clouds dominate the north.  West leads to
+dense foliage.  East leads to a misty area.  
+~
+0 1 12
+E
+monolith~
+This huge monolith resembles nothing you have ever seen before.
+You have a strong feeling not to go within.
+~
+D0
+To the north is a cloud of darkest evil.
+~
+~
+0 -1 8311
+D1
+Eastward lies a murky bog.
+~
+~
+0 -1 8314
+D3
+Near Vegetation from Hell.
+~
+~
+0 -1 8312
+S
+#8314
+Murky Bog.~
+A murky bog surrounds you.  To the west a black monolith juts forth from
+the ground.  Snarls of marsh wolves can be heard echoing all around you. 
+The bog continues north.  To the east is a shallow lake.  
+~
+0 1 12
+E
+monolith~
+This is a huge obsidian stone block stuck in the marsh.
+~
+D0
+There are mists to the north.
+~
+~
+0 -1 8308
+D1
+To the east the marsh turns into a small lake.
+~
+~
+0 -1 8315
+D3
+Westward a large monolith awaits adventurers.
+~
+~
+0 -1 8313
+S
+#8315
+Northern Lake Side.~
+The water of the lake is hot to the touch.  Colored steam rises from its
+surface.  The water is very calm, but also hard to maneuver through all of
+the junk at the surface and in the water.  The southern part of the lake
+looks more pleasant.  The west leads to the swamp.  
+~
+0 1 7
+D2
+The southern portion of the lake lies to the south.
+~
+~
+0 -1 8316
+D3
+To the west lies a murky bog.
+~
+~
+0 -1 8314
+S
+#8316
+Southern Lake Side.~
+You travel through a shallow, shady section of the lake.  The bottom is
+sandy and shows depressions where bream are nesting.  To the south, an
+overcast trail leads into the darkness.  The north and west shores are a
+short distance away.  You also notice a small section of the lake is very
+deep.  
+~
+0 1 7
+E
+north~
+The way to the north seems to be impassable, due to the rough water and
+strange wild life.
+~
+D0
+Northern lake side.
+~
+~
+0 -1 8315
+D2
+There is a murky trail leading south.
+~
+~
+0 0 8319
+D3
+To the west the swamp seems to clear up.
+~
+~
+0 -1 8317
+D5
+Down leads to the bottom of the lake.
+~
+~
+0 0 8329
+S
+#8317
+Swamp's Edge~
+This seems to be the edge of the swamp.  The land becomes more solid, and
+vegetation is less dense.  The swamp inhabitants don't seem to migrate much
+to this area either.  Off to the west you see a large stone fortress.  To
+the east is the swamp.  
+~
+0 1 12
+E
+fortress~
+It is hewn of black stone and heavily fortified.
+~
+D1
+To the east lies the southern portion of a small lake.
+~
+~
+0 -1 8316
+D3
+The great gates.
+~
+~
+0 -1 8318
+S
+#8318
+Before the Great Gates.~
+You stand before the gates of a huge fortress.  A moat surrounds the
+fortress, filled with sewage and emitting a horrible smell.  You see orcs
+constantly patrolling the battlements, the archers eyeing you cautiously. 
+The west leads to the drawbridge, while the east leads to the marsh.  
+~
+0 1 12
+D1
+To the east is the swamp.
+~
+~
+0 -1 8317
+D3
+West leads to the Orc Fortress.
+~
+~
+0 0 8
+S
+#8319
+Murky Trail~
+The ground is mucky and wet here.  There is a break in the trees to the
+north, and you can hear water lapping against a shore.  The trail continues
+south into the darkness.  
+~
+0 0 12
+D0
+~
+~
+0 0 8316
+D2
+~
+~
+0 0 8320
+S
+#8320
+Darkened Clearing~
+The thicket of swamp oaks, vines, and tall, heavy leafed magnolias clears
+into a rough circle here.  Overhead, the vegetation is thick enough to block
+out the sky completely.  Tiny phosphorescent insects flit and blink all
+around you, lighting the clearing in an emerald hue.  
+~
+0 4 12
+D0
+~
+~
+0 0 8319
+M 150 H 150
+S
+#8321
+An Oozing Bog~
+This part of the bog is so saturated with water it seems like quicksand. 
+It's still strong enough to support weight, and the thousands of mosquitoes.
+The source of the mosquitoes seems to be coming from a lake to the east.  
+~
+0 1 12
+D1
+To the east is a shallow lake swarming with mosquitoes.
+~
+~
+0 0 8322
+D2
+Southward is a thick bog of ooze with lots of mosquitoes.
+~
+~
+0 0 8300
+S
+#8322
+A Mosquito-Infested Lake~
+Tens of thousands of mosquitoes swarm above the water's surface, making
+it seem like one huge living entity.  Larvae of the mosquitoes squiggle
+around in the water, looking like a miniature, lively worm.  The lake
+continues east and south.  
+~
+0 1 12
+D1
+You see the east part of a shallow lake swarming with mosquitoes.
+~
+~
+0 0 8323
+D2
+You see the south part of a shallow lake swarming with mosquitoes.
+~
+~
+0 0 8324
+D3
+You see a thick bog of ooze swarming with mosquitoes.
+~
+~
+0 0 8321
+S
+#8323
+A Mosquito-Infested Lake~
+Huge mosquitoes seem to be numerous at this lake, as a few accidentally
+bump into you onto their way towards the west.  You see some skimming the
+surface of the water many times, performing their mating rituals.  Beneath
+the surface of the water you can see some marine life, weird-looking and
+dangerous.  
+~
+0 1 12
+D2
+You see the south part of a shallow lake swarming with mosquitoes.
+~
+~
+0 0 8325
+D3
+You see the west part of a shallow lake swarming with mosquitoes.
+~
+~
+0 0 8322
+D5
+You see tons of mosquito larvae and eggs swimming around in the water.
+~
+~
+0 0 8327
+S
+#8324
+A Mosquito-Infested Lake~
+The lake is densely packed with mosquitoes on the surface and eggs and
+larvae in the water.  The mosquitoes seem to be more concerned with the
+water than your presence, but some still pester you.  
+~
+0 1 12
+D0
+You see the north part of a shallow lake swarming with mosquitoes.
+~
+~
+0 0 8322
+D1
+You see the east part of a shallow lake swarming with mosquitoes.
+~
+~
+0 0 8325
+S
+#8325
+A Mosquito-Infested Lake~
+Some blades of grass seem to peak out of the water, being almost covered
+with mosquitoes and other insects.  Green stuff covers most of the lake in
+this region, and where it does not, mosquitoes take its place.  You see some
+wreckage of a boat east of here.  To the west and north the lake continues. 
+~
+0 1 12
+D0
+You see the north part of a shallow lake swarming with mosquitoes.
+~
+~
+0 0 8323
+D1
+You see the remains of a wrecked canoe.
+~
+~
+0 0 8326
+D3
+You see the west part of a shallow lake swarming with mosquitoes.
+~
+~
+0 0 8324
+S
+#8326
+Wreckage of a Canoe~
+You enter the wreckage of the large canoe.  The insides are teeming with
+all sorts of insects and plant life.  All of the wood has rotted, but still
+stands in place.  It is impossible to tell how long its been here, or whose
+it is.  
+~
+0 0 0
+D3
+You see a lake swarming with mosquitoes.
+~
+~
+0 0 8325
+S
+#8327
+In the Mosquito-Infested Lake~
+Many eggs and larvae occupy the water, making it hard to see, along with
+a few plants and the very murky water.  You can swim deeper into the lake or
+surface to the mosquitoes.  
+~
+0 5 6
+D4
+You see the surface of the lake, swarming with mosquitoes.
+~
+~
+0 0 8323
+D5
+You see the bottom of the lake, along with some fish, but no mosquitoes.
+~
+~
+0 0 8328
+S
+#8328
+At the Bottom of the Lake~
+The water down here seems to clear up, since no eggs or larvae have made
+it this deep.  The bottom of the lake is covered by very dark grass-like
+vegetation.  Swimming around are weird-looking fish that do not seem to have
+an interest in you.  
+~
+0 1 6
+D3
+The space narrows westward.
+~
+~
+0 0 8337
+D4
+You see water filled with mosquito larvae and eggs.
+~
+~
+0 0 8327
+S
+#8329
+Deep in the Southern Lake Side~
+You can hear the splashing of the swamp creatures going through the water
+above, and also feel the thuds of the swamp trolls and giants stomping in
+the water, but none of them go down here.  You can surface back to the lake
+or head east, deeper into the lake.  
+~
+0 5 6
+D1
+You see the water become very cloudy and dark.
+~
+~
+0 0 8330
+D4
+Up leads to the surface of the lake.
+~
+~
+0 0 8316
+S
+#8330
+Murky Water~
+The water here is very dark and cloudy, making visibility poor.  The
+local marine life consists of very dark, grass-like plants protruding from
+the bottom of the swamp, to weird-looking fish that seem to kick up the dirt
+as they pass by you.  You see a small entryway at the bottom, while west
+leads directly beneath the southern side of the lake.  
+~
+0 1 6
+D3
+West leads to the bottom of the southern lake of the marsh.
+~
+~
+0 0 8329
+D5
+You see murky water.
+~
+~
+0 0 8331
+S
+#8331
+Murky Water~
+The water here seems to clear up a bit, but still you can only see a few
+feet in front of you.  The plants tickle your underside as you pass by them,
+and the occasional fish swims close by you, oblivious of your presence.  
+~
+0 1 6
+D0
+You see murky water.
+~
+~
+0 0 8332
+D4
+You see murky water.
+~
+~
+0 0 8330
+S
+#8332
+Murky Waters~
+The dark plants seem to be more dense in this area, as well as the
+weird-looking fish swimming between them.  The place looks very bland and
+uninteresting.  To the west is a water-filled tunnel, probably dug by one of
+the water's inhabitants.  
+~
+0 1 6
+D2
+You see murky water.
+~
+~
+0 0 8331
+D3
+West leads to a water-filled tunnel.
+~
+~
+0 0 8333
+S
+#8333
+A Water-Filled Tunnel~
+This tunnel is filled with many nooks and crannies that are too small for
+you to enter, but you see lots of small plants and fish nests inside.  Lots
+of very small fish swim around, unphased by your presence.  
+~
+0 1 6
+D0
+You see a water-filled tunnel.
+~
+~
+0 0 8334
+D1
+The tunnel widens to lead to murky waters.
+~
+~
+0 0 8332
+S
+#8334
+A Water-Filled Tunnel~
+You spot a small fish nest dead in the middle of this tunnel.  It looks a
+bit beaten up.  The tunnel seems to widen a bit to the south, and to the
+north the tunnel continues.  
+~
+0 1 6
+D0
+You see a water-filled tunnel.
+~
+~
+0 0 8335
+D2
+You see a water-filled tunnel.
+~
+~
+0 0 8333
+S
+#8335
+A Water-Filled Tunnel~
+It is a tight squeeze down here.  From the looks of the area, this looks
+like a small tunnel, dug by some marine animal.  There are many branches
+that are too narrow for you to enter, but you see fish nests in them.  The
+tunnel continues south.  To the north the tunnel opens up.  
+~
+0 1 6
+D0
+North leads directly below the bogs.
+~
+~
+0 0 8336
+D2
+You see a water-filled tunnel.
+~
+~
+0 0 8334
+S
+#8336
+Beneath the Swamp~
+You notice only a few marine animals down here - weird-looking fish,
+eels, and more weird-looking fish.  They seem to scatter when eels get too
+close, hinting that the eels might be the predators down here.  There isn't
+much room to maneuver down here.  You can swim east or south.  
+~
+0 1 6
+D1
+You see the bottom of the lake.
+~
+~
+0 0 8337
+D2
+You see a small, water-filled tunnel.
+~
+~
+0 0 8335
+S
+#8337
+At the Bottom of the Lake~
+The space down here is cramped.  It is also very dark now, making
+visibility very poor, as you can only see a few feet in front of you.  The
+grass-like plants guide your way.  
+~
+0 1 6
+D1
+You see more of the bottom of the lake.
+~
+~
+0 0 8328
+D3
+West leads directly below the bogs.
+~
+~
+0 0 8336
+S
+#8338
+A Caved-In Building~
+Not much remains intact inside this building.  All of the valuables have
+been looted.  Furniture has been crushed, and pottery lay in pieces all over
+the floor.  Most of the building is covered with moss.  East leads back to
+the swamp.  
+~
+0 0 0
+D1
+A muddy path is to the east.
+~
+~
+0 0 8301
+S
+#8339
+Marshy Forest~
+This place is sparsely populated by trees, most of which are saplings.  A
+large puddle is between two trees, and you see it shiver as the inhabitants
+of this swamp heavily stomp on the ground.  To the east, the ground becomes
+very soft.  The marshy forest continues north.  
+~
+0 1 12
+D0
+A sparse, marshy forest lies south.
+~
+~
+0 0 8303
+D1
+Eastward is a thick bog of ooze.
+~
+~
+0 0 8340
+S
+#8340
+An Oozing Bog~
+The earth here has suddenly become very soft, almost oozing with water. 
+There are many impressions on the ground, mostly footprints that range from
+very large to tiny feet.  The oozing bog continues east and north.  To the
+west the ground becomes more solid, and you see a few trees.  
+~
+0 1 12
+D0
+Northward is a thick bog of ooze.
+~
+~
+0 0 8305
+D1
+Eastward is a thick bog of ooze.
+~
+~
+0 0 8341
+D3
+To the west you see a sparse marsh forest.
+~
+~
+0 0 8339
+S
+#8341
+An Oozing Bog~
+All around you, you hear squishy, suction sounds made by the swamp's
+inhabitants.  You also hear faint buzzing noises in the distant north.  The
+oozing bog continues north and west.  
+~
+0 1 12
+D0
+~
+~
+0 0 8306
+D3
+~
+~
+0 0 8340
+S
+#8342
+Dense Foliage~
+The foliage becomes too thick to travel west and north.  Some odd plants
+seem to move away when you get near them.  Some other plants seem to ooze a
+bright green liquid on their leaves.  The ground here seems to be more solid
+than the rest of the marsh.  You can continue east and south.  
+~
+0 524289 12
+D1
+Foliage is heavy to the east.
+~
+~
+0 0 8312
+D2
+Foliage is heavy to the south.
+~
+~
+0 0 8344
+S
+#8343
+Dense Foliage~
+There are many plants here, native to the swamp, along with the insects
+and small creatures that make their habitat in or around them.  The leaves
+of some of the plants rustle as you pass.  Shadows casted by the large
+plants and the thickness of some make this a good hiding place.  
+~
+0 524289 12
+D0
+Foliage is heavy to the north.
+~
+~
+0 0 8312
+D3
+Foliage is heavy to the west.
+~
+~
+0 0 8344
+S
+#8344
+Dense Foliage~
+The plants on the ground seem to be somewhat crushed by a heavy weight or
+creature.  The crushed trail leads west.  The dense foliage continues east
+and north.  
+~
+0 524289 12
+D0
+Foliage is heavy to the north.
+~
+~
+0 0 8342
+D1
+Foliage is heavy to the east.
+~
+~
+0 0 8343
+D3
+You see a lair of a marsh creature.
+~
+~
+0 0 8307
+S
+#8345
+A Caved-In Building~
+Most of this building has collapsed.  Green vegetation, mostly moss,
+occupy most of the space.  Anything of value that used to be in this
+building is either missing or buried in the mess.  The only exit is to the
+west.  
+~
+0 0 0
+D3
+A muddy path is to the west.
+~
+~
+0 0 8301
+S
+#0
+
+
+
+#SPECIALS
+M 8309 spec_poison
+M 8310 spec_poison
+M 8312 spec_thief
+M 8313 spec_cast_undead
+M 8319 spec_cast_cleric
+M 8322 spec_poison
+M 8323 spec_poison
+S
+
+
+
+#RESETS
+M 0 8301 2 8303 1
+M 0 8302 6 8303 2
+M 0 8303 3 8303 1
+M 0 8302 6 8304 2
+M 0 8306 2 8304 1
+M 0 8310 2 8304 1
+M 0 8314 6 8304 1
+M 0 8307 2 8305 1
+M 0 8309 2 8305 1
+M 0 8310 2 8305 1
+M 0 8314 6 8305 1
+M 0 8302 6 8306 2
+M 0 8305 2 8306 2
+M 0 8314 6 8306 1
+M 0 8303 3 8307 1
+M 0 8304 1 8307 1
+M 0 8314 6 8307 1
+M 0 8320 5 8307 1
+M 0 8301 2 8308 1
+M 0 8308 1 8308 1
+M 0 8314 6 8308 1
+M 0 8312 2 8309 1
+M 0 8314 6 8309 1
+M 0 8320 5 8309 1
+M 0 8306 2 8310 1
+M 0 8312 2 8310 1
+M 0 8313 1 8310 1
+M 0 8309 2 8311 1
+M 0 8320 5 8311 1
+M 0 8318 2 8312 2
+M 0 8318 2 8312 2
+M 0 8319 1 8313 1
+M 0 8303 3 8313 1
+M 0 8307 2 8313 1
+M 0 8320 5 8313 1
+M 0 8320 5 8315 1
+M 0 8321 2 8318 2
+M 0 8321 2 8318 2
+M 0 8300 6 8321 2
+M 0 8300 6 8323 2
+M 0 8300 6 8324 2
+M 0 8311 1 8325 1
+M 0 8315 1 8326 1
+M 0 8316 1 8327 1
+M 0 8317 5 8331 2
+M 0 8322 2 8333 1
+M 0 8317 5 8334 2
+M 0 8322 2 8335 1
+M 0 8317 5 8337 2
+M 0 8323 2 8342 2
+M 0 8323 2 8343 2
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

@@ -1,0 +1,1547 @@
+#AREADATA
+Name Graveyard~
+Builders Dismay~
+VNUMs 3600 3699
+Credits {60  100} Fluffy      Graveyard~
+Security 0
+Version 1
+End
+
+
+
+#MOBILES
+#3600
+zombie noble~
+a zombie of a nobleman~
+A zombie of a nobleman trudges through the graveyard.
+~
+He is a tall man.  He still possesses those characteristics associated with
+the noble, except that it hangs by threads of flesh off his body.
+~
+unique~
+AG 0 -750 0
+65 0 2d7+46 2d9+100 1d5+1 pound
+6 6 6 9
+EFNU BILQ 0 N
+stand stand male 2
+CM ABCDEFGHIJK medium 0
+#3601
+zombie soldier~
+a zombie of a soldier~
+A rotting zombie of a soldier staggers aimlessly through the graveyard.
+~
+Maggots crawl all over its decaying body.  The zombie still wears its
+armor from its profession, but it is hard to tell where the armor was
+crafted from due to the rust and decay.  Patches of flesh still cling
+to its body.
+~
+unique~
+AG 0 -750 0
+64 0 2d7+46 2d9+100 1d5+1 slash
+6 6 6 9
+EFNU BILQ 0 NS
+stand stand male 2
+CM ABCDEFGHIJK medium 0
+#3602
+ghoul~
+a ghoul~
+A ghoul is here, eating an arm of a corpse.
+~
+It is a walking corpse with long fangs and long, sharp nails that most of
+resemble claws.  Its eyes are a dark yellow colour and glare hungrily at you.
+~
+unique~
+AFG J -750 0
+71 0 2d7+71 3d9+100 1d7+1 claw
+4 4 4 9
+EFNU B 0 N
+stand stand male 5
+HMV ABCDEFGHIJK medium 0
+#3603
+skeleton~
+a skeleton~
+A skeleton roams the cemetery.
+~
+This skeleton once belonged to a human.  It is clean of flesh and armor.
+Someone has animated it to do their bidding.
+~
+unique~
+AF J -750 0
+66 0 2d6+35 1d9+100 1d6+0 slash
+7 7 7 10
+EFN BI FG NY
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#3604
+giant skeleton~
+a giant skeleton~
+A giant skeleton roams the cemetery.
+~
+It is similar to the more common undead skeletons.  This giant skeleton
+has been magically enhanced to become bigger.  A small magical fire burns
+in the chest of it.
+~
+unique~
+AF J -750 0
+70 0 2d6+35 1d9+100 1d6+0 pierce
+7 7 7 10
+FU BH FGI NY
+stand stand none 0
+CDM ABCDEFGHIJK large 0
+#3605
+zombie lord~
+the zombie lord~
+The zombie lord is here, animating zombies.
+~
+The zombie lord looks as he did when he was alive, except that his skin
+has turned to the pale grey of death, and his flesh is rotting and
+decaying.  The odor of rotting meat hangs about him, and carrion feeding
+insects buzz about him to dine on his flesh.
+~
+unique~
+ABFT J -750 0
+85 0 2d7+46 2d9+100 1d5+1 pound
+6 6 6 9
+CDEFU BILQ 0 NS
+stand stand male 5
+CHM ABCDEFGHIJK medium 0
+#3606
+worried graveyard guard~
+a worried graveyard guard~
+A graveyard guard.
+~
+This guard wears armor that looks like the kind Midgaard soldiers wear.
+He paces nervously in front of the gates with a worried look on his face.
+~
+unique~
+ABT 0 0 0
+70 0 0d0+0 0d0+0 0d0+0 slash
+0 0 0 0
+CDFS 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium flesh
+#3607
+puddles zombie dog~
+Puddles the zombie dog~
+Puddles the zombie dog is digging itself out of its grave.
+~
+This dog looks freshly buried.  It retains most of its flesh, and almost
+looks like a real, live dog.  Its eyes look straight ahead, lifelessly.
+~
+unique~
+ABCF 0 -750 0
+60 0 0d0+0 0d0+0 0d0+0 bite
+0 0 0 0
+FH BILQ 0 NS
+stand stand none 0
+CG ACDEFHJKUV small flesh
+#3608
+scarfy zombie kitten~
+Scarfy the zombie kitten~
+Scarfy the zombie kitten is sprawled on the ground.
+~
+This kitten is missing a few body parts, such as its hind legs and a head.
+It tries to move on the ground, but doesn't get far.
+~
+unique~
+ABF A -750 0
+60 0 0d0+0 0d0+0 0d0+0 bite
+0 0 0 0
+FH BILQ 0 NS
+sit sit none 0
+CG ACDEFHJKQUV small flesh
+#3609
+ghast~
+a ghast~
+A ghast searches for corpses to eat.
+~
+The ghast is vaguely recognizable as once having been human.  It is horribly
+disfigured.  Its long tongue hangs out of its mouth, teeth sharp and
+elongated, and the nails are strong and sharp like claws.  It smells awful.
+~
+unique~
+AT 0 -750 0
+74 0 0d0+0 0d0+0 0d0+0 claw
+0 0 0 0
+0 B 0 INZ
+stand stand either 0
+HMV ABCDEFGHIJK medium unknown
+#3610
+Dracolich~
+a dracolich~
+A dracolich.
+~
+~
+unique~
+ABFOR DFHO -1000 0
+100 0 0d0+0 0d0+0 0d0+0 slash
+0 0 0 0
+AEFKMNa B F NS
+stand stand none 0
+AHZ ACDEFHJKLOPQUVWXY giant bone
+#3611
+zombie citizen~
+a zombie of a citizen~
+A zombie of a citizen staggers mindlessly about.
+~
+These citizen zombies look in sorry shape.  It's missing a lot of flesh and
+quite a few bones.  It can barely move.
+~
+unique~
+AT 0 -750 0
+64 0 0d0+0 0d0+0 0d0+0 pound
+0 0 0 0
+DF BILQ 0 N
+stand stand either 0
+MV ABCDEFGHIJK medium unknown
+#3612
+wraith~
+(no short description)~
+(no long description)
+~
+~
+unique~
+AGT 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 L JQ FHN
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#3600
+Before the Gates of the Graveyard~
+You stand before the gates of the graveyard.  This graveyard is used by
+all of the cities on this continent, for their soldiers, citizens, nobles,
+rulers, and in some cases their pets.  Looking beyond the gate you see
+massive desecration of tombstones and statues.  You also see some humanoid
+forms shuffling about aimlessly.  
+~
+0 0 2
+D0
+~
+~
+0 0 8
+D2
+The gravel road continues southwards.
+~
+gates~
+1 -1 3601
+S
+#3601
+Inside the Gates of the Graveyard~
+You are inside the gates of the graveyard.  The path you are on winds
+throughout the graveyard, leading to all of the sections.  It continues
+south.  To the east you see a pet cemetery.  To the west is the burial place
+for soldiers.  
+~
+0 0 2
+D0
+~
+gates~
+1 -1 3600
+D1
+~
+~
+0 0 3627
+D2
+~
+~
+0 0 3602
+D3
+~
+~
+0 0 3620
+S
+#3602
+The Mourner's Path~
+All over the graveyard you see desecrated tombstones.  The place seems to
+be continually dark, as though a curse has been set here.  The path
+continues north and south.  
+~
+0 0 2
+D0
+~
+~
+0 0 3601
+D1
+~
+~
+0 0 3628
+D2
+~
+~
+0 0 3603
+D3
+~
+~
+0 0 3625
+S
+#3603
+The Mourner's Path~
+The cobbled path winds west around a huge mausoleum south of you.  To the
+east is a pet cemetery.  To the northwest is the burial grounds for soldiers
+of various cities.  Far to the north is the graveyard entrance.  
+~
+0 0 2
+D0
+~
+~
+0 0 3602
+D1
+~
+~
+0 0 3629
+D3
+~
+~
+0 0 3604
+S
+#3604
+The Mourner's Path~
+The cobbled path before you has colored stones in front of a chapel to
+the south of you.  North leads to the burial grounds for soldiers.  Next to
+the chapel is a small staircase with a locked door leading down to a private
+tomb.  The path continues west and east.  
+~
+0 0 2
+D0
+~
+~
+0 0 3625
+D1
+~
+~
+0 0 3603
+D2
+~
+~
+1 0 3662
+D3
+~
+~
+0 0 3606
+D5
+~
+~
+3 14151 14147
+S
+#3605
+Inside the Tomb of Fallen Soldiers~
+You are near the entrance of this tomb.  The inside of this tomb is just
+as bad as the desecration in the cemetery outside.  Bodies have been pulled
+out of the walls and burial caskets recklessly.  The smell of rot is
+intense.  
+~
+0 0 0
+D0
+~
+~
+0 0 3652
+D1
+~
+~
+0 0 3654
+D2
+~
+~
+0 0 3621
+S
+#3606
+The Mourner's Path~
+The cobbled path turns south and east, around a small chapel to the
+southeast.  To the north and west are the burial grounds for soldiers of
+various cities.  South leads deeper into the bleak graveyard.  
+~
+0 0 2
+E
+tomb stone~
+~
+D0
+~
+~
+0 0 3624
+D1
+~
+~
+0 0 3604
+D2
+~
+~
+0 0 3607
+D3
+~
+~
+0 0 3630
+S
+#3607
+The Mourner's Path~
+The tombstones around you look very old.  Most are covered with peat moss
+and look very weathered.  The words on them are far too warn to be read. 
+The path continues to the south; leading further into the numerous amounts
+of unamed graves and memorials to dead.  
+~
+0 9 1
+D0
+~
+~
+0 0 3606
+D1
+~
+~
+1 0 3662
+D2
+~
+~
+0 0 3608
+S
+#3608
+The Mourner's Path~
+A twisted and hideously deformed tree stands before a small house to the
+west of you.  The house looks like it has stood here for some time now.  You
+can hear a faint moaning sound coming from inside.  
+~
+0 0 2
+E
+tomb stone~
+~
+D0
+~
+~
+0 0 3607
+D2
+~
+~
+0 0 3610
+D3
+~
+door~
+1 0 3632
+S
+#3609
+The Mourner's Path~
+
+~
+0 13 1
+S
+#3610
+The Mourner's Path~
+Tall grass surrounds the graves here.  This area of graveyard looks as
+though it hasn't been tended to in some time now.  The path continues north
+and south from here.  
+~
+0 0 2
+D0
+~
+~
+0 0 3608
+D2
+~
+~
+0 0 3611
+S
+#3611
+The Mourner's Path~
+
+~
+0 9 1
+D0
+~
+~
+0 0 3610
+D1
+~
+~
+0 0 3612
+D2
+~
+~
+0 0 3637
+D3
+~
+~
+0 0 3635
+S
+#3612
+The Mourner's Path~
+
+~
+0 0 2
+D1
+~
+~
+0 0 3613
+D2
+~
+~
+0 0 3638
+D3
+~
+~
+0 0 3611
+S
+#3613
+The Mourner's Path~
+
+~
+0 8 1
+D0
+~
+~
+0 0 3655
+D1
+~
+~
+0 0 3614
+D2
+~
+~
+0 0 3639
+D3
+~
+~
+0 0 3612
+S
+#3614
+The Mourner's Path~
+
+~
+0 0 2
+E
+tomb stone~
+~
+D1
+~
+~
+0 0 3615
+D2
+~
+~
+0 0 3640
+D3
+~
+~
+0 0 3613
+S
+#3615
+The Mourner's Path~
+
+~
+0 9 1
+D0
+~
+~
+0 0 3616
+D1
+~
+~
+0 0 3649
+D2
+~
+~
+0 0 3641
+D3
+~
+~
+0 0 3614
+S
+#3616
+The Mourner's Path~
+
+~
+0 0 2
+E
+tomb stone~
+~
+D0
+~
+~
+0 0 3617
+D1
+~
+~
+0 0 3648
+D2
+~
+~
+0 0 3615
+S
+#3617
+The Mourner's Path~
+
+~
+0 9 1
+D0
+~
+~
+0 0 3660
+D1
+~
+~
+0 0 3618
+D2
+~
+~
+0 0 3616
+S
+#3618
+The Mourner's Path~
+
+~
+0 0 2
+E
+tomb stone~
+~
+D0
+~
+~
+0 0 3658
+D1
+~
+~
+0 0 3619
+D2
+~
+~
+0 0 3648
+D3
+~
+~
+0 0 3617
+S
+#3619
+End of the Mourner's Path~
+
+~
+0 9 1
+D0
+~
+~
+0 0 3656
+D1
+~
+~
+0 0 3626
+D2
+~
+~
+0 0 3645
+D3
+~
+~
+0 0 3618
+S
+#3620
+Soldiers' Burial Grounds~
+As you walk through this section of the burial ground, you see a few very
+old and tattered war banners adorned across tombstones of Solace.  This must
+be where Solace buries their dead soldiers.  The burial grounds continue
+west and south.  To the east is the Mourner's Path.  
+~
+0 0 0
+D1
+~
+~
+0 0 3601
+D2
+~
+~
+0 0 3625
+D3
+~
+~
+0 0 3621
+S
+#3621
+Soldiers' Burial Grounds~
+Many banners stand on poles here, torn and tattered, whipping in the
+wind.  They are set alongside a path that leads north to a tomb, dedicated
+to those soldiers that have served exceptionally well to their city.  To the
+west, south, and east continue the burial ground.  
+~
+0 0 0
+D0
+~
+~
+0 0 3605
+D1
+~
+~
+0 0 3620
+D2
+~
+~
+0 0 3624
+D3
+~
+~
+0 0 3622
+S
+#3622
+Soldiers' Burial Grounds~
+This plot of the burial ground is reserved for the Port of Aachen.  There
+are not many graves since Aachen has mostly sailors who are buried at sea,
+but the ones here are for their small land military.  
+~
+0 0 0
+D1
+~
+~
+0 0 3621
+D2
+~
+~
+0 0 3623
+S
+#3623
+Soldiers' Burial Grounds~
+You pass by numerous tombstones that bear the marking of King Tyerian's
+soldiers.  The plot of land reserved for this kingdom seems to be filling up
+quite fast, as you notice many tombstones look new compared to the rest.  
+~
+0 0 0
+D0
+~
+~
+0 0 3622
+D1
+~
+~
+0 0 3624
+D2
+~
+~
+0 0 3630
+S
+#3624
+Soldiers' Burial Grounds~
+This part of the burial grounds is quite large, almost overfilled with
+graves.  A large, faded and tattered {ybanner{x lays lifelessly on the
+ground next to a destroyed tombstone.  The burial grounds continue north,
+east, and west.  South leads back to the Mourner's Path.  
+~
+0 0 0
+E
+banner~
+It is the banner of Old and New Thalos.
+~
+D0
+~
+~
+0 0 3621
+D1
+~
+~
+0 0 3625
+D2
+~
+~
+0 0 3606
+D3
+~
+~
+0 0 3623
+S
+#3625
+Soldiers' Burial Grounds~
+You walk into the burial grounds for soldiers.  In this part of the
+burial grounds you see many Midgaard insignias on what's left of the
+tombstones and plaques in the ground.  The grounds continue to the north and
+west.  South and east lead back to the Mourner's Path.  
+~
+0 0 0
+D0
+~
+~
+0 0 3620
+D1
+~
+~
+0 0 3602
+D2
+~
+~
+0 0 3604
+D3
+~
+~
+0 0 3624
+S
+#3626
+~
+
+~
+0 0 0
+D3
+~
+~
+0 0 3619
+S
+#3627
+Pet Cemetery~
+This part of the graveyard has been set aside for cherished pets of
+wealthy family, Some of the {ytombstones{x are still legible.  The pet
+cemetery extends southward.  
+~
+0 0 0
+E
+tombstone~
+Puddles
+ 
+ We will miss you, dear
+puddles.  You have always
+been a good doggie.  Rest
+         in peace
+~
+D2
+~
+~
+0 0 3628
+D3
+~
+~
+0 0 3601
+S
+#3628
+Pet Cemetery~
+This part of the pet cemetery has been completed destroyed.  There are a
+few holes in the ground that lead to the pets' caskets.  You see all sorts
+of paw prints on the ground leading in every direction.  
+~
+0 0 0
+D0
+~
+~
+0 0 3627
+D2
+~
+~
+0 0 3629
+D3
+~
+~
+0 0 3602
+S
+#3629
+Pet Cemetery~
+You enter the end of the pet cemetery.  Most of the tombstones here have
+been either destroyed or covered in some weird gel-like substance, rendering
+it unreadable.  One {ytombstone{x is readable, however.  
+~
+0 0 0
+E
+tombstone~
+Scarfy
+ 
+ Your meows and purring
+ brightened our dreary
+ lives.  We will see you
+    on the other side
+~
+D0
+~
+~
+0 0 3628
+D3
+~
+~
+0 0 3603
+S
+#3630
+Soldier's Burial Grounds~
+Elder City burial ground.  
+~
+0 0 0
+D0
+~
+~
+0 0 3623
+D1
+~
+~
+0 0 3606
+S
+#3631
+Gravekeeper's House~
+You enter a room filled with miscellaneous tools.  Dirt is strown about
+from the previous users tasks in the graveyard.  A plaque on the wall reads,
+"Barnaby Jones-Employee of the month award".  
+~
+0 0 0
+D2
+~
+~
+0 0 3632
+S
+#3632
+Gravekeeper's House~
+As you enter the room, a vile smell of rotting death surrounds you.  A
+rotting corpse lies on the ground here; looking to be the evening meal for
+some vile creature.  Whoever it is seems to not have been killed that long
+ago.  
+~
+0 0 0
+D0
+~
+~
+0 0 3631
+D1
+~
+door~
+1 0 3608
+D2
+~
+~
+0 0 3633
+S
+#3633
+Gravekeeper's House~
+An old broken down cot rests against the wall here.  A few dusty books
+are strown all over the floor.  This must have been the gravekeeper's
+bedroom.  A faint smell of old sweat and dirty socks still lingers in the
+air.  
+~
+0 0 0
+D0
+~
+~
+0 0 3632
+S
+#3634
+~
+
+~
+0 4 0
+S
+#3635
+-~
+
+~
+0 0 0
+D1
+~
+~
+0 0 3611
+D2
+~
+~
+0 0 3636
+S
+#3636
+-~
+
+~
+0 0 0
+D0
+~
+~
+0 0 3635
+D1
+~
+~
+0 0 3637
+S
+#3637
+-~
+
+~
+0 0 0
+D0
+~
+~
+0 0 3611
+D1
+~
+~
+0 0 3638
+D3
+~
+~
+0 0 3636
+S
+#3638
+-~
+
+~
+0 0 2
+E
+tomb stone~
+~
+D0
+~
+~
+0 0 3612
+D1
+~
+~
+0 0 3639
+D3
+~
+~
+0 0 3637
+S
+#3639
+-~
+
+~
+0 9 1
+D0
+~
+~
+0 0 3613
+D1
+~
+~
+0 0 3640
+D3
+~
+~
+0 0 3638
+S
+#3640
+-~
+
+~
+0 0 2
+E
+tomb stone~
+~
+D0
+~
+~
+0 0 3614
+D1
+~
+~
+0 0 3641
+D3
+~
+~
+0 0 3639
+S
+#3641
+Resting Place for the Nobles~
+
+~
+0 9 1
+D0
+~
+~
+0 0 3615
+D1
+~
+~
+0 0 3642
+D3
+~
+~
+0 0 3640
+S
+#3642
+Resting Place for the Nobles~
+
+~
+0 0 2
+E
+tomb stone~
+~
+D0
+~
+~
+0 0 3649
+D1
+~
+~
+0 0 3643
+D3
+~
+~
+0 0 3641
+S
+#3643
+Resting Place for the Nobles~
+
+~
+0 9 1
+D0
+~
+~
+0 0 3644
+D3
+~
+~
+0 0 3642
+S
+#3644
+Resting Place for the Nobles~
+
+~
+0 0 2
+E
+tomb stone~
+~
+D0
+~
+~
+0 0 3645
+D2
+~
+~
+0 0 3643
+D3
+~
+~
+0 0 3649
+S
+#3645
+Resting Place for the Nobles~
+
+~
+0 9 1
+D0
+~
+~
+0 0 3619
+D2
+~
+~
+0 0 3644
+D3
+~
+~
+0 0 3648
+S
+#3646
+-~
+
+~
+0 4 2
+E
+tomb stone~
+~
+S
+#3647
+-~
+
+~
+0 13 1
+S
+#3648
+Resting Place for the Nobles~
+
+~
+0 0 2
+E
+tomb stone~
+~
+D0
+~
+~
+0 0 3618
+D1
+~
+~
+0 0 3645
+D2
+~
+~
+0 0 3649
+D3
+~
+~
+0 0 3616
+S
+#3649
+Resting Place for the Nobles~
+
+~
+0 9 1
+D0
+~
+~
+0 0 3648
+D1
+~
+~
+0 0 3644
+D2
+~
+~
+0 0 3642
+D3
+~
+~
+0 0 3615
+S
+#3650
+A Gravel Path on the Graveyard~
+You are on a gravel path winding its way between dark evergreen trees on
+the graveyard.  The path leads south and west.  An old tomb is here.  
+~
+0 4 2
+E
+tomb stone~
+~
+S
+#3651
+In a dusty Tomb~
+You are in a dark burial chamber beneath a large tomb stone.  The only
+exit appears to be up.  
+~
+0 13 1
+S
+#3652
+Tomb of Fallen Soldiers~
+Bodies, most half-torn or missing limbs, lay strewn about on the ground. 
+Some of the appear to be partially eaten.  There seems to be many scratch
+marks along the floor near a few bodies for some reason.  
+~
+0 0 0
+D1
+~
+~
+0 0 3653
+D2
+~
+~
+0 0 3605
+D5
+~
+secret~
+5 0 3669
+S
+#3653
+Tomb of Fallen Soldiers~
+Many of the bodies that should be here are gone.  There are many dragging
+tracks on the ground, leading to the entrance of this tomb.  Aside from the
+many holes in the wall and empty caskets, this room is bare of anything.  
+~
+0 0 0
+D2
+~
+~
+0 0 3654
+D3
+~
+~
+0 0 3652
+S
+#3654
+Tomb of Fallen Soldiers~
+Most of the bodies that have been laid to rest here are either scattered
+across the floor or half-torn out of their place in the walls.  One of them
+though is untouched, encased within the southern wall.  Under his feet are
+{yinscriptions{x that are clear and readable.  
+~
+0 0 0
+E
+inscriptions~
+Here rests one of the greatest generals in Midgaard's history.  His relentless
+attacks on the troll hordes helped eradicate the troll population on this
+continent for good, and established safe trade routes and connections to all
+of the cities.  Gods bless his soul.
+~
+D0
+~
+~
+0 0 3653
+D3
+~
+~
+0 0 3605
+S
+#3655
+Path to the Ancient Mausoleum~
+
+~
+0 0 0
+D0
+~
+~
+0 0 4200
+D2
+~
+~
+0 0 3613
+S
+#3656
+~
+
+~
+0 0 0
+D0
+~
+~
+0 0 3657
+D2
+~
+~
+0 0 3619
+D3
+~
+~
+0 0 3658
+S
+#3657
+~
+
+~
+0 0 0
+D2
+~
+~
+0 0 3656
+D3
+~
+~
+0 0 3659
+S
+#3658
+~
+
+~
+0 0 0
+D0
+~
+~
+0 0 3659
+D1
+~
+~
+0 0 3656
+D2
+~
+~
+0 0 3618
+D3
+~
+~
+0 0 3660
+S
+#3659
+~
+
+~
+0 0 0
+D1
+~
+~
+0 0 3657
+D2
+~
+~
+0 0 3658
+D3
+~
+~
+0 0 3661
+S
+#3660
+~
+
+~
+0 0 0
+D0
+~
+~
+0 0 3661
+D1
+~
+~
+0 0 3658
+D2
+~
+~
+0 0 3617
+S
+#3661
+~
+
+~
+0 0 0
+D1
+~
+~
+0 0 3659
+D2
+~
+~
+0 0 3660
+S
+#3662
+Chapel~
+You enter a dark room inside the old chapel.  The windows are covered by
+long, brilliantly colored red drapes waving from the cold wind coming in
+through the broken panes of the brown stainned glass.  
+~
+0 0 0
+D0
+~
+door~
+1 0 3604
+D2
+~
+~
+0 0 3663
+D3
+~
+door~
+1 0 3607
+S
+#3663
+Inside the Chapel~
+
+~
+0 0 0
+D0
+~
+~
+0 0 3662
+D2
+~
+~
+0 0 3405
+D5
+~
+~
+0 0 3664
+S
+#3664
+Crypt~
+
+~
+0 0 0
+D0
+~
+~
+0 0 3665
+D4
+~
+~
+0 0 3663
+S
+#3665
+{RThe Catacombs~
+
+~
+0 0 0
+D0
+~
+~
+0 0 3667
+D1
+~
+~
+0 0 3668
+D2
+~
+~
+0 0 3664
+D3
+~
+~
+0 0 3666
+S
+#3666
+~
+
+~
+0 0 0
+D1
+~
+~
+0 0 3665
+S
+#3667
+The Forgotten Tomb~
+Rats scurry across the ground as you enter a darkened and seemingly
+abandoned tomb.  A charred skull covered with dust rest in a small hole
+inside the wall here.  A {Dplaque {wrest below the skull.  
+~
+0 0 0
+E
+read plaque~
+{D1{W0{D0{W0 {DA.{WD. {D- {W1{D2{W3{D2 {WA.{DD.
+{DH{We{Dr{We {DL{Wi{De{Ws {DF{Wa{Dr{Wl{Do{Wr {DM{Wo{Dr{Wt{Di{Wu{Dm{W.
+~
+D2
+~
+~
+0 0 3665
+S
+#3668
+~
+
+~
+0 0 0
+D3
+~
+~
+0 0 3665
+S
+#3669
+A Secret Room~
+This room was definitely not made with the tomb.  The ceiling is of
+stone, but the walls are made of hard dirt.  From the looks of it, this was
+freshly dug.  It is free of the stench of death as well.  
+~
+0 0 0
+D4
+~
+secret~
+5 0 3652
+S
+#0
+
+
+
+#SPECIALS
+M 3605 spec_cast_undead
+M 3607 spec_poison
+M 3610 spec_breath_any
+S
+
+
+
+#RESETS
+D 0 3600 2 1
+D 0 3601 0 1
+D 0 3604 2 1
+D 0 3604 5 2
+D 0 3607 1 1
+D 0 3608 3 2
+D 0 3632 1 2
+D 0 3652 5 1
+D 0 3662 0 1
+D 0 3662 3 1
+D 0 3669 4 1
+M 0 3606 1 3600 1
+M 0 3601 4 3620 1
+M 0 3601 4 3622 1
+M 0 3601 4 3624 1
+M 0 3607 1 3627 1
+M 0 3608 1 3629 1
+M 0 3605 1 3631 1
+M 0 3611 5 3631 1
+M 0 3603 4 3639 1
+M 0 3604 4 3640 1
+M 0 3603 4 3649 1
+M 0 3605 3 3651 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

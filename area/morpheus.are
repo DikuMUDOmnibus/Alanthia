@@ -1,0 +1,59 @@
+#AREADATA
+Name Morpheus' Area~
+Builders Morpheus~
+VNUMs 27000 27199
+Credits {  ???  } Morpheus    Morpheus' Area~
+Security 1
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#27000
+~
+~
+0 0 0
+D0
+~
+~
+0 0 27001
+S
+#27001
+~
+~
+0 0 0
+D2
+~
+~
+0 0 27000
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

@@ -1,0 +1,2241 @@
+#AREADATA
+Name Hurricane Stix~
+Builders Amir~
+VNUMs 1000 1099
+Credits {200 230} Amir        Hurricane Stix I~
+Security 0
+Version 1
+End
+
+
+
+#MOBILES
+#1000
+Gorthling~
+Gorthling~
+A small wormlike creature with arms slithers out of your way.
+~
+A small, blood-soaked reptilian worm.
+~
+unique~
+AGS DET 500 0
+209 0 2d7+46 5d9+100 1d5+0 bite
+6 6 6 8
+FU 0 0 BC
+stand stand none 1
+AHMVZ ABCDEFGHIJK medium flesh
+#1001
+Plains Grazer~
+Plains Grazer~
+A long-necked herbivore.
+~
+The plains grazer is walking on four stout legs.  It has a craning neck so it can reach what it wants to eat.  Its eyes are glazed.
+~
+unique~
+AG T 300 0
+220 0 2d7+96 4d9+100 1d7+2 crush
+3 3 3 9
+EFJN 0 0 0
+stand stand male 25
+AHMV ABCDEFGHIJK medium 0
+#1002
+Shatter~
+Shatter~
+A cluster of glass shards in the form of a man.
+~
+Some mage must have put a golem spell on a pile of broken wine bottles.  
+~
+unique~
+AB H 0 0
+219 0 0d0+0 0d0+0 0d0+0 slash
+0 0 0 0
+EFHKN 0 C HI
+stand stand none 50
+M 0 medium glass
+#1003
+Cajuck~
+Cajuck~
+Cajuck, the King of Chaos.
+~
+The King of Chaos is here, floating in the debris Dwindlewing has made for him.  He is made of anger and shadows, both of which are hard to hit with a sword.  
+~
+unique~
+AB HT 0 0
+220 0 0d0+0 0d0+0 0d0+0 slice
+0 0 0 0
+EFHIKNOW 0 ABDLQ CNS
+stand stand male 69
+JLM 0 large shadows
+#1004
+Clingvan~
+Clingvan~
+An insect with a poison needle on its tail.
+~
+A bug-like creature with a tail that can shoot at its victims, thus poisoning them.  It then proceeds to drink their fluids through its probiscus.
+~
+unique~
+AFG Q 0 0
+205 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+FHNV AB 0 C
+stand stand none 0
+AO ABCDEFHJKQU small exoskeleton
+#1005
+Flathgar~
+Flathgar~
+The nuclear ninja.
+~
+Flathgar, the royal assassin of the Amir is crouched here.  He is hunting the demon dragon Zargnoff.  His skin is very shiny and black.  You can see your reflection in his bald head.  
+~
+unique~
+AB HNPQV 1000 0
+215 0 0d0+0 0d0+0 0d0+0 slice
+0 0 0 0
+EFHIJKNVX 0 HX JL
+stand stand male 0
+AHMV ABCDEFGHIJK medium plutonium
+#1006
+Elemental It~
+The Elemental It~
+A black gaseous being wafts here.
+~
+Created from evil rougue magiks flowing through the universe, the elemental is of pure negative energy.  It wanders these halls drawn to the evil created by Zargnoff.
+~
+unique~
+AG HOVXYc -1000 0
+227 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+EIKNWX 0 HLQ IN
+stand stand none 0
+AHMV ABCDEFGHIJKUVW medium evil
+#1007
+DuskTreader~
+DuskTreader~
+A vampiric humanoid bat creature
+~
+The ancient guardians of the evil arch-mage Remus, the DuskTreaders are here protecting Zargnoff from whatever creatures may be after him.
+~
+unique~
+AG T 0 0
+222 0 0d0+0 0d0+0 0d0+0 bite
+0 0 0 0
+EFHIKNWX I LQ HNS
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#1008
+Vantor~
+The Vantor~
+A Demon-possesed Grun.
+~
+The giants of the north had stories they told their children of an evil beast who ate up their greatest warriors.  This was that beast.
+~
+unique~
+ABF a -1000 0
+226 0 0d0+0 0d0+0 0d0+0 smash
+0 0 0 0
+EHJKMNOQV BMNPQ HIKL I
+stand stand none 300
+AGHXc ABCDEFGHJKQV large flesh
+#1009
+DwindleWing~
+Dwindlewing~
+The elephant-footed, long-toothed, tentacled, demon from hell is standing before you.
+~
+A horrible demon with jagged teeth, blood shot eyes, and long tentacles.  Dwindlewing wishes only to create havoc and destroy.   He also has a fashionable human head belt.
+~
+unique~
+ABG Oac -1000 0
+235 0 0d0+0 0d0+0 0d0+0 claw
+0 0 0 0
+DEIJKNVX AB HJ DN
+stand stand none 2000
+AIMX ABCDHKPWXY medium unknown
+#1010
+Gorth~
+The Gorth~
+A gargantuan dragon-eating beast is picking its teeth.
+~
+A massive hulk of flesh and scales, the gorth has existed in this cave for eons.
+~
+unique~
+ABFG Oc -1000 0
+235 0 0d0+0 0d0+0 0d0+0 claw
+0 0 0 0
+CFIKMN FHQ 0 N
+stand stand male 1000
+CXZ ABCDEFHKQUVX giant stone
+#1011
+Carnivourous Grun~
+A Grun~
+A four-legged, two-armed centaurian-like reptile hisses.
+~
+A hideously looking reptile with sharp fangs is scanning the plains looking for something to eat.
+~
+unique~
+AFG ac -1000 0
+201 0 0d0+0 0d0+0 0d0+0 claw
+0 0 0 0
+FHJMNV 0 LQ ABT
+stand stand none 0
+X ABCDFGHQUVX medium scale
+#1012
+storm jelly~
+A storm jelly~
+A storm jelly is floating here.
+~
+A floating blob is here waving its tentacles menacingly.
+~
+unique~
+AG FT 1000 0
+205 0 0d0+0 210d10+100 0d0+0 sting
+0 0 0 0
+EFHKNXa IJRa 0 H
+stand stand none 0
+L EFN medium unknown
+#1013
+Lady Isabel~
+A fair maiden~
+The lady Isabel is tied up to a post here.
+~
+A beautiful lady is tied here awaiting to be devoured by a dragon.  She is wearing torn clothes that leaves her quite revealed.
+~
+unique~
+AB H 1000 0
+215 0 0d0+0 0d0+0 0d0+0 crush
+0 0 0 0
+EFIKNUV 0 0 D
+stand stand female 0
+M 0 medium flesh
+#1014
+Herr Krueger~
+Herr Krueger~
+A knight is here looking to kill a dragon.
+~
+A handsome knight, Herr Krueger, is awaiting the dragon to rise from its lair so he could kill it and win the fair maiden Isabel.
+~
+unique~
+AB HNa 1000 0
+229 0 0d0+0 0d0+0 0d0+0 slash
+0 0 0 0
+EHIKNUV 0 FH a
+stand stand male 0
+M 0 medium flesh
+#1015
+Zargosis~
+Spawn of Zargnoff~
+One of the Zargosis Elite is here.
+~
+A humanoid dragon with a long mane off its neck snarls as you approach.  Its wings flap and its claws are outstretched awaiting to tear into your flesh.
+~
+unique~
+AFG OTa -1000 0
+223 0 0d0+0 0d0+0 0d0+0 claw
+0 0 0 0
+DEFIKLNUV 0 H N
+stand stand none 0
+AHZ ACDEFHJKLOPQUVWXY medium scales
+#1016
+Wind Graton~
+Wind Graton~
+A fierce wind elemental.
+~
+~
+unique~
+AG Ba 955 0
+226 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 D C
+stand stand either 0
+AHZ ACDEFHJKLOPQUVWXY medium flesh
+#1017
+Temple Guardian~
+Temple Guardian~
+Temple Guardian.
+~
+A guardian of the Temple on the Plains.
+~
+unique~
+AFGNY Tc 1000 0
+225 50 50d10+20 50d10+20 50d10+20 claw
+50 50 50 50
+DFIKNU K N I
+stand stand none 1000
+AHZ ACDEFHJKLOPQUVWXY medium stone
+#1018
+Zargnoff~
+Zargnoff~
+The foul dragon of hatred and scorn resides before you.
+~
+Zargnoff towers before you.  His crimson red flanks shimmer as he moves.  His eyes show fierce intellect as you peer into them.  He is the guardian of this neck of the world and is displeased at your presence.
+As his temper mounts great black spikes begin to protroud from his head.  His claws double in size.  His wing fold and cling to his body.  He looks as if he is preparing for battle.
+ 
+~
+unique~
+ABF DFHLac -1000 0
+240 0 0d0+0 0d0+0 0d0+0 slash
+0 0 0 0
+DEFHIJKMNOW BH EK IJN
+stand stand none 10000
+AHZ ACDEFHJKLOPQUVWXY huge hellfire
+#1019
+Demonic Guardian~
+Margard~
+A demonic guardian bound in chains stands guard here.
+~
+A huge figure stands here.  Its face is covered in a great mask and its hands are shackled together.  Great magical energies are radiating from its mask.  These demons are known for their great skill at killing.
+~
+unique~
+ABF 0 -1000 0
+230 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+EFHIKNOQVWX 0 HLQ IN
+stand stand none 7000
+AHMV ABCDEFGHIJKUVW large evil
+#1020
+Armor Golem~
+An Armor Golem~
+A suit of armor brought to life to be a guardian.
+~
+This hunk of levitating metal is floating around looking for something to kill.
+~
+unique~
+AB 0 0 0
+210 0 0d0+0 0d0+0 0d0+0 crush
+0 0 0 0
+EFIJKNVX ILMNPQR ES GHJKO
+stand stand none 20000
+EJMc ABCGHK medium armor
+#0
+
+
+
+#OBJECTS
+#1001
+rose~
+a red rose~
+A red rose lays here.~
+oldstyle~
+treasure 0 AE
+BC 0 0 0 0
+1 80 0 0 P
+E
+rose~
+It's a beautiful red rose, with a soft and romantic fragrance.
+~
+#0
+
+
+
+#ROOMS
+#1001
+{DHurricane Stix{x~
+Lightning streaks in a great arch in the clouds above you.  You catch a
+glimmer of something solid in the midst of the storm.  
+~
+0 0 8
+D1
+More of the same.
+~
+~
+0 0 1006
+D2
+~
+~
+0 0 1002
+D4
+More of the same.
+~
+~
+0 0 1021
+S
+#1002
+{DHurricane Stix{x~
+Great trees are being blown past you.  The wind is creating a sound
+similiar to a dying dragon.  The air is freezing, and the earth is miles
+below.  
+~
+0 0 8
+D0
+~
+~
+0 0 1001
+D2
+More of the same.
+~
+~
+0 0 1003
+D4
+More of the same.
+~
+~
+0 0 1022
+S
+#1003
+{DHurricane Stix{x~
+Within the storm you have found a huge wind swept cavern.  The walls are
+constantly in flux, changing by the winds.  The wind blows through here
+northerly and southerly.  You might be able to fall down if you manipulate
+yourself correctly.  
+~
+0 0 8
+D0
+More of the same.
+~
+~
+0 0 1002
+D2
+More of the same.
+~
+~
+0 0 1004
+D4
+More of the same.
+~
+~
+0 0 1023
+S
+#1004
+{DHurricane Stix{x~
+You are on the western edge of a tremendous immobile hurricane.  
+~
+0 0 8
+D0
+More of the same.
+~
+~
+0 0 1003
+D2
+More of the same.
+~
+~
+0 0 1005
+S
+#1005
+{DHurricane Stix{x~
+Great chunks of hail fall past you.  You can see a great tower in the
+shadows near the center of the storm.  Great archs of lightining spark out
+from it.  
+~
+0 0 8
+D0
+More of the same.
+~
+~
+0 0 1004
+D1
+More of the same.
+~
+~
+0 0 1010
+S
+#1006
+{DHurricane Stix{x~
+Torrents of rain mixed with hail fall around you.  Lightning flashes in
+the sky.  
+~
+0 0 8
+D1
+More of the same.
+~
+~
+0 0 1011
+D3
+More of the same.
+~
+~
+0 0 1001
+D4
+More of the same.
+~
+~
+0 0 1026
+S
+#1007
+In the Cavern of the Gorth~
+There are great pillars holding up the roof carved in the shape of some
+great beast.  The ancient race who carved them must sure have had an
+imagination to come up with such a horendous sculpture.  
+~
+0 0 0
+D1
+More of the same.
+~
+~
+0 0 1012
+D3
+~
+~
+0 0 1043
+S
+#1008
+In the Cavern~
+The walls are slick and mishapen here.  The floor is littered with
+corpses of huge beasts.  Several of the corpses are of great dragons.  
+~
+0 0 13
+D1
+More of the same.
+~
+~
+0 0 1013
+D2
+More of the same.
+~
+~
+0 0 1009
+S
+#1009
+In the Cavern of the Gorth~
+There are numerous corpses littering this room.  They look like they have
+been eaten from the inside out.  There is a low rumblind noise coming from
+the east.  
+~
+0 0 13
+D0
+More of the same.
+~
+~
+0 0 1008
+D1
+More of the same.
+~
+~
+0 0 1014
+S
+#1010
+{DHurricane Stix{x~
+Billowing clouds roll over head.  Great seas roll below.  Only the wind
+will determine which way you'll go.  
+~
+0 0 8
+D1
+More of the same.
+~
+~
+0 0 1015
+D3
+More of the same.
+~
+~
+0 0 1005
+D4
+More of the same.
+~
+~
+0 0 1030
+S
+#1011
+{DHurricane Stix{x~
+A great wall cloud creates a sheer cliff of moisture to your right. 
+Sunshine flows in through holes in the storm.  The storm darkens above you. 
+~
+0 1 8
+D1
+More of the same.
+~
+~
+0 0 1016
+D3
+More of the same.
+~
+~
+0 0 1006
+D4
+More of the same.
+~
+~
+0 0 1031
+S
+#1012
+A Curve in the Cavern~
+The hall narrows to a human's height here.  There is a door to the south.
+Green fumes are wafting from under the door.  
+~
+0 8 0
+D2
+More of the same.
+~
+~
+1 0 1013
+D3
+More of the same.
+~
+~
+0 0 1007
+S
+#1013
+In the Cavern~
+This room is lined with ancient tapestries depicting a great battle with
+some horrid beast.  The ground is slick with mold and blood.  The air smells
+like the socks of a hill troll.  
+~
+0 0 13
+D0
+More of the same.
+~
+~
+1 0 1012
+D3
+More of the same.
+~
+~
+0 0 1008
+S
+#1014
+The Gorth's Lair~
+On the back wall of this room is a hundred foot long stone bed.  The
+ceiling is so far above your head you can't even see it.  The floor is
+writhing with centipedes and roaches.  
+~
+0 0 13
+D3
+More of the same.
+~
+~
+0 0 1009
+S
+#1015
+{DHurricane Stix{x~
+It is quite dark here.  The mass of the storm lies directly above you. 
+The rain from it is coming down in sheet after sheet.  
+~
+0 0 8
+D1
+More of the same.
+~
+~
+0 0 1020
+D3
+More of the same.
+~
+~
+0 0 1010
+D4
+More of the same.
+~
+~
+0 0 1035
+S
+#1016
+{DCaught in Hurricane Stix{x~
+The air current is twisting you violently.  Luckily though you are still
+air borne.  
+~
+0 1 8
+D2
+More of the same.
+~
+~
+0 0 1017
+D3
+More of the same.
+~
+~
+0 0 1011
+D4
+More of the same.
+~
+~
+0 0 1036
+S
+#1017
+{DCaught in the Hurricane Stix{x~
+This is a dark writhing cloud.  A storm of storms containing lightning,
+hundred mile an hour winds, and hail the size of aurochs surrounds you.  
+~
+0 0 8
+D0
+More of the same.
+~
+~
+0 0 1016
+D2
+More of the same.
+~
+~
+0 0 1018
+D4
+More of the same.
+~
+~
+0 0 1037
+S
+#1018
+{DCaught in the Hurricane{x~
+The wind churns the clouds all about you.  Great archs of lightning
+scream across the sky.  Shadows of other windblown objects can be seen in
+the flash.  
+~
+0 1 8
+D0
+More of the same.
+~
+~
+0 0 1017
+D2
+More of the same.
+~
+~
+0 0 1019
+D4
+More of the same.
+~
+~
+0 0 1038
+S
+#1019
+{DWithin the bowels of Stix{x~
+The outer reaches of space fail in comparison to the darkness and cold
+found around you.  
+~
+0 0 8
+D0
+More of the same.
+~
+~
+0 0 1018
+D2
+More of the same.
+~
+~
+0 0 1020
+D4
+More of the same.
+~
+~
+0 0 1039
+S
+#1020
+{DSouth Stix{x~
+The darkness encroaches upon your very skin here.  The storm seems to be
+seeking to smother you with pressure and moisture.  The wind is whistling as
+if a thousand souls were screaming to drive you mad.  
+~
+0 0 8
+D0
+More of the same.
+~
+~
+0 0 1019
+D3
+More of the same.
+~
+~
+0 0 1015
+D4
+More of the same.
+~
+~
+0 0 1040
+S
+#1021
+{DUpper Stratosphere{x~
+Coldness envelopes you once more.  The rain comes back, except this time
+it is blowing straight up.  The strong wind currents are still supporting
+you luckily.  
+~
+0 1 8
+D1
+More of the same.
+~
+~
+0 0 1026
+D2
+~
+~
+0 0 1022
+D3
+~
+~
+0 0 5400
+D5
+More of the same.
+~
+~
+0 0 1001
+S
+#1022
+{DHurricane Stix{x~
+Due to the channeling of the wind this part of the storm is heavily
+populated with fearsome storm jellies.  
+~
+0 1 9
+D0
+~
+~
+0 0 1021
+D2
+More of the same.
+~
+~
+0 0 1023
+D5
+More of the same.
+~
+~
+0 0 1002
+S
+#1023
+{DUpper West Hurricane Stix{x~
+You are caught in a spiraling vortex of wind.  By shifting your body you
+could be able to go down north or south from here.  
+~
+0 1 8
+D0
+More of the same.
+~
+~
+0 0 1022
+D2
+More of the same.
+~
+~
+0 0 1024
+D5
+More of the same.
+~
+~
+0 0 1003
+S
+#1024
+{DConfluence of storm currents{x~
+Here the winds swirl in a small eddie.  Jetsam and floatsam has
+accumulated here in vast quantities.  
+~
+0 1 9
+D0
+More of the same.
+~
+~
+0 0 1023
+D2
+More of the same.
+~
+~
+0 0 1025
+S
+#1025
+{YS{yoarin{Yg {YA{ybov{Ye T{yh{Ye C{yloud{Ys{x~
+The clouds part temporarily due to the wind rapidly blowing through this
+part of the storm.  It seems as if you are being sucked north.  
+~
+0 4 8
+D0
+More of the same.
+~
+~
+0 0 1024
+D1
+More of the same.
+~
+~
+0 0 1030
+M 200 H 200
+S
+#1026
+{DUpper Stratosphere{x~
+You are on the top of the storm.  A sea of clouds unfurl before you. 
+Nothing but blue skies and a shining sun above your head.  
+~
+0 1 9
+D1
+More of the same.
+~
+~
+0 0 1031
+D3
+More of the same.
+~
+~
+0 0 1021
+D5
+More of the same.
+~
+~
+0 0 1006
+S
+#1027
+{gThe Swirling Plains{x~
+You are wandering in a field of soft grass.  The wind rustles through the
+dry leaves making an eerie sound 
+~
+0 0 2
+D1
+More of the same.
+~
+~
+0 0 1032
+D2
+More of the same.
+~
+~
+0 0 1028
+S
+#1028
+{gSwirling Plains{x~
+An ocean of grass extends in all directions.  The sun rising over the
+cloud filled horizon lights up the whole island.  To the west there looks
+like a small mountain.  
+~
+0 0 2
+D0
+More of the same.
+~
+~
+0 0 1027
+D1
+More of the same.
+~
+~
+0 0 1033
+D2
+More of the same.
+~
+~
+0 0 1029
+D3
+~
+~
+0 0 1041
+S
+#1029
+{gThe Swirling Plains{x~
+Fields of endless johnson grass surround you.  
+~
+0 0 2
+D0
+More of the same.
+~
+~
+0 0 1028
+D1
+More of the same.
+~
+~
+0 0 1034
+S
+#1030
+{DHurricane Stix{x~
+Huge thunderhead surround you.  There is an opening below you and a storm
+current flowing east and west.  
+~
+0 0 9
+D1
+More of the same.
+~
+~
+0 0 1035
+D3
+More of the same.
+~
+~
+0 0 1025
+D5
+More of the same.
+~
+~
+0 0 1010
+S
+#1031
+{DUpper stratosphere{x~
+From this vantage point you can see something in the eye of the
+hurricane.  You cant see quite what it is due to the freakish rain, but you
+could get a closer look if you go south.  
+~
+0 1 9
+D1
+More of the same.
+~
+~
+0 0 1036
+D2
+More of the same.
+~
+~
+0 0 1032
+D3
+More of the same.
+~
+~
+0 0 1026
+D5
+More of the same.
+~
+~
+0 0 1011
+S
+#1032
+{gThe Swirling Plains{x~
+It seems that in the eye of the storm is a floating island.  The wind
+drops you softly into a field of soft grass.  You stand and notice the grass
+seems to go on forever in all directions.  
+~
+0 4 2
+D0
+More of the same.
+~
+~
+0 0 1031
+D1
+~
+~
+0 0 1044
+D2
+More of the same.
+~
+~
+0 0 1033
+D3
+More of the same.
+~
+~
+0 0 1027
+S
+#1033
+{gThe Swirling Plains{x~
+The rustling of the grass creates a pleasant sound when mixed with the
+buzzing of all the bees that are swarming you.  
+~
+0 0 2
+D0
+More of the same.
+~
+~
+0 0 1032
+D1
+~
+~
+0 0 1045
+D2
+More of the same.
+~
+~
+0 0 1034
+D3
+More of the same.
+~
+~
+0 0 1028
+S
+#1034
+{gThe Swirling Plains{x~
+The sky is open above you but in every direction is a wall of churning
+clouds.  
+~
+0 0 2
+D0
+More of the same.
+~
+~
+0 0 1033
+D1
+~
+~
+0 0 1046
+D3
+More of the same.
+~
+~
+0 0 1029
+S
+#1035
+{DUpper South Hurricane Stix{x~
+Rays of sunlight filter in through the top of the clouds, but it is only
+a glimmer of hope in an otherwise wet horrible place.  
+~
+0 0 9
+D1
+More of the same.
+~
+~
+0 0 1040
+D3
+More of the same.
+~
+~
+0 0 1030
+D5
+More of the same.
+~
+~
+0 0 1015
+S
+#1036
+{!A Gap in the Clouds{x~
+There is a hole in the cloud wall here.  You can see a rainbow leaving
+the storm above you.  
+~
+0 0 9
+D2
+More of the same.
+~
+~
+0 0 1037
+D3
+More of the same.
+~
+~
+0 0 1031
+D4
+The rainbow leads onward and upward into the sky.
+It looks safe to travel on.
+~
+~
+0 0 7700
+D5
+More of the same.
+~
+~
+0 0 1016
+S
+#1037
+{DCaught in an updraft{x~
+A vortex within the storm keeps hurling you higher and higher.  
+~
+0 0 9
+D0
+More of the same.
+~
+~
+0 0 1036
+D2
+More of the same.
+~
+~
+0 0 1038
+D5
+More of the same.
+~
+~
+0 0 1017
+S
+#1038
+{DHurricane Stix{x~
+Darkness surrounds you.  Rain soaks your body.  The wind is wrenching
+your limbs from your joints.  
+~
+0 0 9
+D0
+More of the same.
+~
+~
+0 0 1037
+D2
+More of the same.
+~
+~
+0 0 1039
+D5
+More of the same.
+~
+~
+0 0 1018
+S
+#1039
+{DWithin the Hurricane{x~
+The currents in this part of the cloud blow only north and south.  
+~
+0 0 9
+D0
+More of the same.
+~
+~
+0 0 1038
+D2
+More of the same.
+~
+~
+0 0 1040
+D5
+More of the same.
+~
+~
+0 0 1019
+S
+#1040
+{DUpper Hurricane{x~
+Roaring wind pummels you.  Hail breaks your brow.  Thunder cracks within
+your eardrums.  
+~
+0 0 9
+D0
+More of the same.
+~
+~
+0 0 1039
+D3
+More of the same.
+~
+~
+0 0 1035
+D5
+More of the same.
+~
+~
+0 0 1020
+S
+#1041
+{mThe Entrance to Cavern Gorth{x~
+There is a great gaping hole in the side of the mountain.  To the east is
+the swirling plains.  
+~
+0 4 0
+D1
+~
+~
+0 0 1028
+D3
+~
+~
+0 0 1042
+S
+#1042
+Inside the Cavern~
+The ground is littered with the skeletons of local fauna.  There is a
+path through the midst of the corpses.  The path seems to go down into a
+great chasm.  
+~
+0 0 13
+D1
+~
+~
+0 0 1041
+D5
+~
+~
+0 0 1043
+S
+#1043
+Deeper into the Chasm~
+There is a granite head sticking out of the wall.  The path leads right
+to the base of the stone face.  The hideous beast's maw seems to be an
+entrance into a further chamber.  
+~
+0 0 13
+D1
+~
+~
+0 0 1007
+D4
+~
+~
+0 0 1042
+S
+#1044
+{gThe Swirling Plains{x~
+The golden grass gracefully is blown by the breeze.  Butterflies frolick
+between the patches of wildflowers.  
+~
+0 0 2
+D1
+~
+~
+0 0 1063
+D2
+~
+~
+0 0 1045
+D3
+~
+~
+0 0 1032
+S
+#1045
+{gThe Swirling Plains{x~
+There is a tall BaoBob tree standing here in the midst of the endless
+grass.  The tree looks like it was grown upside down.  It has plump rootlike
+branches stretching upward.  
+~
+0 0 2
+D0
+~
+~
+0 0 1044
+D1
+~
+~
+0 0 1064
+D2
+~
+~
+0 0 1046
+D3
+~
+~
+0 0 1033
+S
+#1046
+{gThe Swirling Plains{x~
+The grass here is waist high.  The ground is squishy like a peat bog.  To
+the east you can just make out a spire sticking out above the grass.  
+~
+0 0 2
+D0
+~
+~
+0 0 1045
+D1
+~
+~
+0 0 1047
+D3
+~
+~
+0 0 1034
+S
+#1047
+On the steps to the Temple on the Plains~
+You are on a great length of steps which connect the Swirling Plains to
+an Ancient spire.  On each 50 ft wide step is carved a different image.  The
+one constant with all the images is a dipiction of a wizard in the middle of
+each one.  
+~
+0 4 0
+D1
+~
+~
+0 0 1048
+D3
+~
+~
+0 0 1046
+S
+#1048
+Temple on the Plains~
+You are in the base of a tall spire.  The walls are crumbling and have
+vines proliferating on them.  On every pillar there is carved a different
+rune.  The pillars look like they go on through the ceiling up the length of
+the whole spire.  
+~
+0 0 0
+D0
+~
+~
+0 0 1049
+D2
+~
+~
+0 0 1050
+D3
+~
+~
+0 0 1047
+S
+#1049
+Temple on the Plains~
+You have entered the north hallway of the temple.  There are places where
+windows used to be that look out over the plains.  You can hear a humming
+sound coming from the very rocks you are walking upon.  
+~
+0 0 0
+D1
+~
+~
+0 0 1051
+D2
+~
+~
+0 0 1048
+S
+#1050
+Temple on the Plains~
+This is the southwest corner of the base of the temple.  There are some
+pink and blue flowers growing through the cracks of the yellow rock floor. 
+The flowers smell like vanilla.  
+~
+0 0 0
+D0
+~
+~
+0 0 1048
+D1
+~
+~
+0 0 1052
+S
+#1051
+Temple on the Plains~
+The walls of the hallway are made from an odd red rock.  The hallway
+extends east and west.  
+~
+0 0 0
+D1
+~
+~
+0 0 1053
+D3
+~
+~
+0 0 1049
+S
+#1052
+Temple on the Plains~
+This is the southern hallway.  Gaping windows overlook the edge of the
+island into the great hurricane.  There is a torch lit stairway leading
+down.  
+~
+0 0 0
+D1
+~
+~
+0 0 1054
+D3
+~
+~
+0 0 1050
+D5
+~
+~
+0 0 5428
+S
+#1053
+Temple on the Plains~
+This is the northeast corner of the base of the temple.  A great arching
+pillar curves above your head.  There is a droning sound enveloping the
+room.  
+~
+0 0 0
+D2
+~
+~
+0 0 1055
+D3
+~
+~
+0 0 1051
+S
+#1054
+Temple on the plains~
+The walls are made of a yellow stone.  They are etched with great
+carvings depicting creatures doing many things with an assortment of
+machines.  A humming is coming from the ceiling.  
+~
+0 0 0
+D0
+~
+~
+0 0 1055
+D3
+~
+~
+0 0 1052
+S
+#1055
+Temple on the Plains~
+This is the west hallway of the base of the temple.  It is decorated with
+sculptures of serene looking creatures.  There are some tattered rags on the
+wall that used to be tapestries.  
+~
+0 0 0
+D0
+~
+~
+0 0 1053
+D2
+~
+~
+0 0 1054
+D3
+~
+~
+0 0 1056
+S
+#1056
+Base of the Central Spire~
+You come to realize there is no floor beneath you.  Looking down you can
+see a gaping hole into the storm.  A great updraft is keeping you aloft
+though.  The walls are covered in great machinery and blinking lights.  
+~
+0 0 0
+D1
+~
+~
+0 0 1055
+D4
+~
+~
+0 0 1057
+S
+#1057
+In the Spire~
+The lights continue up in the columns.  Archs of electricity jump accross
+the room.  This might be what is generating the Hurricane.  
+~
+0 0 0
+D4
+~
+~
+0 0 1058
+D5
+~
+~
+0 0 1056
+S
+#1058
+In the Spire~
+The air is rising rapidly now creating a huge roaring noise.  Jets in the
+wall are spewing out streams of water.  Through the water you can still see
+the blinking lights.  
+~
+0 0 0
+D4
+~
+~
+0 0 1059
+D5
+~
+~
+0 0 1057
+S
+#1059
+In the Spire~
+The air current is swirling about, churning the water into a fine mist. 
+There are spikes sticking out of the wall and archs of electricty are
+spouting out of them.  
+~
+0 0 0
+D4
+~
+~
+0 0 1060
+D5
+~
+~
+0 0 1058
+S
+#1060
+On the Spire Landing~
+A huge jet of new bourne cloud is issuing out of the center of the
+platform.  Open skies are above you.  A great storm is on the horizon in all
+directions.  The stream of cloud seems to be rolling off into the storm. 
+There are two doors which lead into the top rooms of the spire to the north
+and south.  
+~
+0 0 0
+D0
+~
+~
+1 0 1061
+D2
+~
+~
+1 0 1062
+D3
+~
+~
+5 0 5404
+D5
+~
+~
+0 0 1059
+S
+#1061
+On the Spire Landing~
+This room must be an observatory.  There is a large telescope sticking
+out of the west side of it.  The floor is marble.  The tapestries here are
+in good shape and you can make out a great battle on the one nearest you.  
+~
+0 0 0
+D2
+~
+~
+1 0 1060
+S
+#1062
+On the Spire Landing~
+This room is lined with an assortment of machina.  A great crystal is in
+the center of the room with cords attached to it.  A low humming noise
+drowns out the sound of your heart beating inside your chest.  
+~
+0 0 0
+D0
+~
+~
+1 0 1060
+S
+#1063
+{gThe Swirling Plains{x~
+A peaceful breeze flows through the tall reed.  The landscape is dotted
+with the necks of grazers peering out over the savannah.  On the horizon you
+can see a wall of storm swirling around.  
+~
+0 0 2
+D1
+~
+~
+0 0 1065
+D2
+~
+~
+0 0 1064
+D3
+~
+~
+0 0 1044
+S
+#1064
+{gThe Swirling Plains{x~
+There is a game trail here.  Tracks of many different beasts are beaten
+through the grass here.  
+~
+0 0 2
+D0
+~
+~
+0 0 1063
+D1
+~
+~
+0 0 1066
+D3
+~
+~
+0 0 1045
+S
+#1065
+{gThe Swirling Plains{x~
+The ground here is damp and little pools of water bubble up every few
+feet.  
+~
+0 0 2
+D2
+~
+~
+0 0 1066
+D3
+~
+~
+0 0 1063
+S
+#1066
+{gThe Swirling Plains{x~
+6 ft.  Tall grass surrounds you.  Over the grass you can spy a great hole
+to the east.  
+~
+0 0 2
+D0
+~
+~
+0 0 1065
+D1
+~
+~
+0 0 1068
+D3
+~
+~
+0 0 1064
+S
+#1067
+Entrance to the Depths~
+A cragged wasteland, this is the entrance to the subteranean world of the
+Swirling Plains.  It is rumored that the immortal dragon Zargnoff lives in
+this hole.  Great warriors come here often to seek battle with him and cease
+his minnions from destroying their land.  On this day a warrior has come to
+save a maiden from being devoured from Zargnoff's minions.  
+~
+0 0 0
+D1
+~
+~
+0 0 1069
+D3
+~
+~
+0 0 1068
+S
+#1068
+Leading Down into a Hole~
+You are on a path leading east and west.  The path is lined with
+skeletons on spears.  The trees here are dead as is the grass.  To the east
+you see that the path is leading into a large gaping hole.  
+~
+0 4 0
+D1
+~
+~
+0 0 1067
+D3
+~
+~
+0 0 1066
+S
+#1069
+Cave beneath the Plains~
+A large rock overhang arches over this area.  In front of you is a giant
+hole with steps leading into it.  To the west is the swirling plains.  
+~
+0 0 0
+D3
+~
+~
+0 0 1067
+D5
+~
+~
+0 0 1070
+S
+#1070
+Cavern beneath the Plains~
+You have entered a large tunnel.  It is bricked with the corpses of a
+thousand gargoyles.  The ground has been beat down with numerous footsteps. 
+~
+0 0 0
+D2
+~
+~
+0 0 1071
+D4
+~
+~
+0 0 1069
+S
+#1071
+Opening to the Underside~
+This room is lit up from light coming from a large hole in the center of
+the room.  A strong breeze is also blowing through the hole.  There are
+openings in the walls of the tunnel.  
+~
+0 0 0
+D0
+~
+~
+0 0 1070
+D1
+~
+~
+0 0 1072
+D3
+~
+~
+0 0 1073
+D5
+~
+~
+0 0 1074
+S
+#1072
+Hole in the Wall~
+This little alcove seems to be a shrine.  The walls are covered in blood
+and rotten flesh.  There is a worn spot on the floor in front of an alter
+made of bone and flesh.  Black candles burn around the edges of the room.  
+~
+0 0 0
+D3
+~
+~
+0 0 1071
+M -100 H -100
+S
+#1073
+Hole in the Wall~
+The leftovers of a thousand meals are piled here.  Skulls, limbs,
+fingers, bones of all types, even glazed over eyes are among the refuse.  
+~
+0 0 0
+D1
+~
+~
+0 0 1071
+S
+#1074
+Edge of a Cliff~
+You are on the edge of a cliff.  A rickety wooden laced bridge stretches
+off into the east.  Below the edge of the cliff you can see the blackness of
+the storm stix.  Great winds howl past you and dust blows freely off the
+rocks.  
+~
+0 0 0
+D1
+~
+~
+0 0 1075
+D4
+~
+~
+0 0 1071
+S
+#1075
+Rickety Bridge~
+You are walking across a wooden bridge with large gaps between the
+boards.  The strong wind sways the bridge to and fro.  
+~
+0 0 0
+D1
+~
+~
+0 0 1076
+D3
+~
+~
+0 0 1074
+S
+#1076
+Rickety Bridge~
+The boards squeek as you step on them.  When you look down you can see
+birds flying far below you.  If you focus hard you can see the rooftops of
+midgarde.  Above you is the bottom of the floating island the swirling
+plains are on.  In places great stalagtites the size of towers hang from it.
+~
+0 0 0
+D1
+~
+~
+0 0 1077
+D3
+~
+~
+0 0 1075
+S
+#1077
+Rickety Bridge~
+The cords holding up the bridge you are walking on are greatly frayed. 
+You are being supported by a mere thread.  The the east you can see an
+opening in a great stalagtite hanging from the underside of the floating
+island.  
+~
+0 0 0
+D1
+~
+~
+0 0 1078
+D3
+~
+~
+0 0 1076
+S
+#1078
+Caverns of Zargnoff~
+You are at the entrance to another cavern.  This one though has great
+statues of hideous beasts beside it.  Magikal runes made of blood line the
+door way.  
+~
+0 0 0
+D3
+~
+~
+0 0 1077
+D4
+~
+~
+1 0 1079
+S
+#1079
+Caverns of Zargnoff~
+A dark round room.  The smell of death lingers here.  The air is quite
+still.  No breeze flows through this cavern.  All directions look the same. 
+There is no telling which way Zargnoff may be.  
+~
+0 0 0
+D0
+~
+~
+0 0 1082
+D1
+~
+~
+0 0 1080
+D2
+~
+~
+0 0 1083
+D3
+~
+~
+0 0 1081
+D5
+~
+~
+1 0 1078
+S
+#1080
+Caverns of Zargnoff~
+The floor of this room is covered in bowel.  You look closer and can see
+bones of humanoid creatures in it.  
+~
+0 0 0
+D3
+~
+~
+0 0 1079
+S
+#1081
+Caverns of Zargnoff~
+A small trickle of water flows from a crack in the wall.  The floor is
+smooth and slimy.  A green phosphoesence glow is coming off the walls
+lighting the place.  
+~
+0 0 0
+D1
+~
+~
+0 0 1079
+S
+#1082
+In the Catacombs~
+You are in a tunnel stretching north and south.  Looks like some clawed
+creature ran its fingers on the walls as it ran through here.  
+~
+0 0 0
+D0
+~
+~
+0 0 1084
+D2
+~
+~
+0 0 1079
+S
+#1083
+Caverns of Zargnoff~
+There are some etchings on the wall here.  Stick figures grouped around a
+reptilian shape with wings.  The stick men have little swords drawn into
+their hands.  Small stalagtites hang above your head.  
+~
+0 0 0
+D0
+~
+~
+0 0 1079
+S
+#1084
+In the Catacombs~
+Deep in the catacombs, this tunnel runs north and south.  You can here
+the sounds of the Zargosis speaking echoing through the cavern.  
+~
+0 0 0
+D0
+~
+~
+0 0 1085
+D2
+~
+~
+0 0 1082
+S
+#1085
+In the Catacombs~
+The tunnel ends here.  A stairway leads down from here.  
+~
+0 0 0
+D2
+~
+~
+0 0 1084
+D5
+~
+~
+0 0 1086
+S
+#1086
+Cavern of Zargnoff~
+You are in a lower chamber of the catacomb.  There are inlet holes carved
+in the walls.  The bodies of dead Zargosis have been placed within the holes
+in the wall.  Cobwebs stretch between the arches holding up the ceiling.  
+~
+0 0 0
+D1
+~
+~
+0 0 1087
+D4
+~
+~
+0 0 1085
+S
+#1087
+Cavern of Zargnoff~
+This room is lined with coffins.  The lids of the coffins are greatly
+decorated with many emblems.  This room must be where the great Zargosis
+leaders are buried.  
+~
+0 0 0
+D3
+~
+~
+0 0 1086
+D4
+~
+~
+1 0 1088
+S
+#1088
+Catacombs of Zargnoff~
+There is a large table in the center of this room.  This must be the
+dining hall of the Zargosis.  A tunnel is to the north, and it seems a
+trapdoor is under the table.  
+~
+0 0 0
+D0
+~
+~
+0 0 1089
+D5
+~
+~
+1 0 1087
+S
+#1089
+Catacombs of Zargnoff~
+This tunnel is lined with gold mosaics depicting armies of Draconian
+warriors devasting castles.  You are able to see thanks to some well placed
+torches on the walls.  
+~
+0 0 0
+D0
+~
+~
+0 0 1090
+D2
+~
+~
+0 0 1088
+S
+#1090
+Confluence of the Catacombs~
+This room is shaped in a dome like fashion with a cross arch and pillars
+supporting it.  A tunnel leads north.  
+~
+0 0 0
+D0
+~
+~
+0 0 1093
+D1
+~
+~
+1 0 1091
+D2
+~
+~
+0 0 1089
+D3
+~
+~
+1 0 1092
+S
+#1091
+In the Catacombs~
+
+~
+0 0 0
+D3
+~
+~
+1 0 1090
+S
+#1092
+In the Catacombs~
+
+~
+0 0 0
+D1
+~
+~
+1 0 1090
+S
+#1093
+In the Catacombs~
+There is a large mosaic on the east wall of the tunnel.  It is a portrait
+of a great red dragon eating a handful of virgins.  The tunnel runs north
+and south.  
+~
+0 0 0
+D0
+~
+~
+0 0 1094
+D2
+~
+~
+0 0 1090
+S
+#1094
+In the Catacombs~
+This room is decorated with a mural of the history of the land.  On one
+side of the room is a big white ball, probably creation or armageddon.  The
+mural goes on in a big circle ending back at the ball of white.  
+~
+0 0 0
+D0
+~
+~
+0 0 1095
+D2
+~
+~
+0 0 1093
+S
+#1095
+In the Catacombs~
+This room is very tall.  There are roosts high up on the walls.  There
+are exits to the north and south.  
+~
+0 0 0
+D0
+~
+~
+0 0 1096
+D2
+~
+~
+0 0 1094
+S
+#1096
+In the Catacombs~
+You are at the base of a large shaft heading up.  There is a small ladder
+made of aged wood on the wall.  You notice big handholds every 20 feet up
+the side of the shaft.  They look worn.  
+~
+0 0 0
+D2
+~
+~
+0 0 1095
+D4
+~
+~
+0 0 1097
+S
+#1097
+In the Catacombs~
+This room is sparkling.  It is covered in silver, and great piles of gem
+laying about the room.  Sixteen great pillars of ivory hold up the marble
+ceiling.  
+~
+0 0 0
+D0
+~
+~
+0 0 1098
+D5
+~
+~
+0 0 1096
+S
+#1098
+In the Catacombs~
+This room is highly decorated.  It has a jade chandelier hanging from its
+roof which is 50 feet above your head.  There is gold trim all around the
+walls and large mirrors inset in the walls.  A large door of black alabaster
+is in the middle of the east wall.  
+~
+0 8192 0
+D1
+~
+~
+1 0 1099
+D2
+~
+~
+0 0 1097
+S
+#1099
+Zargnoff's Lair~
+This room smells of brimstone.  The ground has vast pools of lava inset
+into it.  You see in the corners vast piles of bodies and gold.  Four great
+pillars are holding the ceiling up.  These pillars are bedcecked with magic
+runes.  
+~
+0 8192 0
+D3
+~
+~
+1 0 1098
+S
+#0
+
+
+
+#SPECIALS
+M 1000 spec_cast_mage
+M 1004 spec_poison
+M 1007 spec_cast_judge
+M 1009 spec_cast_mage
+M 1010 spec_breath_any
+M 1012 spec_poison
+M 1013 spec_cast_cleric
+M 1015 spec_breath_any
+M 1016 spec_breath_frost
+M 1018 spec_cast_cleric
+M 1019 spec_guard
+S
+
+
+
+#RESETS
+D 0 1012 2 1
+D 0 1013 0 1
+D 0 1060 0 1
+D 0 1060 2 1
+D 0 1060 3 1
+D 0 1061 2 1
+D 0 1062 0 1
+D 0 1078 4 1
+D 0 1079 5 1
+D 0 1087 4 1
+D 0 1088 5 1
+D 0 1090 1 1
+D 0 1090 3 1
+D 0 1091 3 1
+D 0 1092 1 1
+D 0 1098 1 1
+D 0 1099 3 1
+M 0 1004 20 1007 1
+M 0 1000 20 1009 3
+M 0 1012 20 1010 1
+M 0 1000 20 1013 1
+M 0 1010 1 1014 1
+M 0 1012 10 1017 1
+M 0 1012 20 1020 1
+M 0 1012 10 1021 1
+M 0 1003 1 1024 1
+M 0 1001 20 1028 1
+M 0 1011 20 1028 2
+M 0 1016 10 1030 3
+M 0 1016 10 1031 3
+M 0 1001 20 1032 2
+M 0 1001 20 1033 2
+M 0 1016 10 1039 3
+M 0 1004 20 1042 1
+M 0 1011 20 1044 2
+M 0 1011 20 1044 2
+M 0 1001 20 1046 2
+M 0 1017 20 1048 2
+M 0 1002 20 1049 2
+M 0 1002 20 1050 2
+M 0 1002 20 1055 2
+M 0 1017 20 1060 2
+M 0 1009 1 1061 1
+M 0 1017 20 1062 2
+M 0 1011 20 1065 2
+M 0 1013 1 1067 1
+M 0 1014 1 1067 1
+M 0 1015 1 1067 1
+M 0 1015 20 1070 2
+M 0 1015 20 1072 2
+M 0 1007 10 1075 2
+M 0 1007 10 1076 2
+M 0 1007 10 1077 2
+M 0 1015 20 1082 2
+M 0 1006 8 1083 2
+M 0 1015 20 1085 2
+M 0 1006 8 1086 2
+M 0 1015 20 1088 3
+M 0 1019 10 1090 1
+M 0 1005 1 1091 1
+M 0 1008 1 1092 1
+M 0 1020 20 1096 20
+M 0 1019 10 1098 2
+M 0 1019 10 1098 1
+M 0 1018 1 1099 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

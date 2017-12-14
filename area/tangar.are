@@ -1,0 +1,3711 @@
+#AREADATA
+Name Tangar City~
+Builders Fluffy Halodar~
+VNUMs 10700 10899
+Credits {100 130} Baxter      Tanger City~
+Security 9
+Version 1
+End
+
+
+
+#MOBILES
+#10700
+banker teller~
+the banker~
+The banker is here, watching you carefully.
+~
+He patiently awaits your deposit, while watching for any movement that might
+signify a robbery.
+~
+unique~
+ABCDEFGMVde ABCDEFGHJbe 0 0
+300 0 1d1+999 1d1+999 1d8+32 pierce
+-15 -15 -15 -15
+ABCDEFG ABCD ABC ABC
+stand stand male 0
+ABCHMV ABCDEFGHIJK medium 0
+#10701
+shopkeeper~
+the shopkeeper~
+The shopkeeper is here rearranging some bags.
+~
+This shopkeeper looks pleased to be dealing with the basic necessities of life.
+There is nothing like a quality torch to light up his day.
+~
+unique~
+ABCDEFGVe ABCDEFGHJ 0 0
+300 0 1d1+999 1d1+999 1d8+32 pierce
+-15 -15 -15 -15
+ABCDEFG ABCD ABC ABC
+stand stand male 100000
+ABCHMV ABCDEFGHIJK medium 0
+#10702
+shopkeeper~
+the shopkeeper~
+The shopkeeper is here feeding some animals.
+~
+This woman's eyes shine with love as she looks at her animals.
+~
+unique~
+ABCDEFGVe ABCDEFGHJ 0 0
+300 0 1d1+999 1d1+999 1d8+32 pierce
+-15 -15 -15 -15
+ABCDEFG ABCD ABC ABC
+stand stand female 100000
+ABCHMV ABCDEFGHIJK medium 0
+#10703
+seller boat~
+the boat seller~
+The boat seller is here poring over his charts.
+~
+This old man has skin like leather from years in the sun.  He rubs his hands
+over his bald scalp and ponders what changes to make for a better ship.
+~
+unique~
+ABCDEFGVe ABCDEFGHJ 0 0
+300 0 1d1+999 1d1+999 1d8+32 pierce
+-15 -15 -15 -15
+ABCDEFG ABCD ABC ABC
+stand stand male 100000
+ABCHMV ABCDEFGHIJK medium 0
+#10704
+leather leatherworker~
+the leatherworker~
+The leatherworker is here making a bracer.
+~
+This man patiently stretches the leather into place on the molds.  He pulls
+another bracer down from the wall to check on its dryness.
+~
+unique~
+ABCDEFGVe ABCDEFGHJ 0 0
+300 0 1d1+999 1d1+999 1d8+32 pierce
+-15 -15 -15 -15
+ABCDEFG ABCD ABC ABC
+stand stand male 100000
+ABCHMV ABCDEFGHIJK medium 0
+#10705
+kitten cat pet~
+the kitten~
+A small kitten is here.
+~
+The kitten looks like a cute, little, fierce fighter.
+~
+unique~
+ABCDEFGU ABCDEFGZ 0 0
+1 2 2d6+20 1d1+99 1d4+0 claw
+8 8 8 10
+ABCDEFGH ABC ABC ABC
+stand stand either 0
+ABCGV ABCDEFHJKQUV tiny 0
+#10706
+puppy dog pet~
+the puppy~
+A small puppy is here.
+~
+The puppy looks like a cute, little, fierce fighter.
+~
+unique~
+ABCDEFGU ABCDEFG 0 0
+3 2 4d6+30 1d1+99 1d6+0 bite
+7 7 7 10
+ABCDEFGHN ABC ABC ABC
+stand stand either 0
+ABCGV ABCDEFHJKQUV small 0
+#10707
+beagle dog pet~
+the beagle~
+A small, quick, beagle is here.
+~
+The beagle looks like a fierce fighter.
+~
+unique~
+ABCDEFGU ABCDEFG 0 0
+5 3 3d12+60 1d1+99 1d6+0 bite
+5 5 5 9
+ABCDEFGHN ABC ABC ABC
+stand stand either 0
+ABCGV ABCDEFHJKQUV small 0
+#10708
+rottweiler dog pet~
+the rottweiler~
+A large rottweiler is here.
+~
+The rottweiler looks like strong, fierce fighter.
+~
+unique~
+ABCDEFGU ABCDEFG 0 0
+7 3 4d10+70 1d1+99 2d4+1 bite
+4 4 4 8
+ABCDEFGHL ABC ABC ABC
+stand stand either 0
+ABCGV ABCDEFHJKUV medium 0
+#10709
+wolf pet~
+the wolf~
+A large wolf is here.
+~
+The wolf looks like a strong, fierce fighter.
+~
+unique~
+ABCDEFGU ABCDEFGZ 0 0
+9 3 6d10+90 1d1+99 2d5+1 bite
+3 3 3 7
+ABCDEFG ABC ABC ABC
+stand stand either 0
+ABCGV ABCDEFJKQV medium 0
+#10710
+eagle bird pet~
+the eagle~
+A eagle circles overhead.
+~
+The eagle looks like a strong, fierce fighter.
+~
+unique~
+ABCDEFGIU ABCDEFGT 0 0
+12 3 6d10+140 1d1+99 2d5+3 claw
+0 0 0 8
+ABCDEFGHN ABC ABC ABC
+stand stand either 0
+ABCGW ABCDEFHKPU small 0
+#10711
+lion pet~
+the lion~
+A large lion is here.
+~
+The large lion looks like a strong, fierce fighter.
+~
+unique~
+ABCDEFGIU ABCDEFGZ 0 0
+15 2 4d9+210 1d1+99 2d8+3 chomp
+-2 -2 -2 7
+ABCDEFGH ABC ABC ABC
+stand stand either 0
+ABCGV ABCDEFHJKQUV medium 0
+#10712
+mapmaker~
+the mapmaker~
+The mapmaker is here hanging up her latest maps.
+~
+The mapmaker recently added an updated map of Thera to her collection as well
+as a new map of the city of Tangar.
+~
+unique~
+ABCDEFGVe ABCDEFGHJ 0 0
+300 0 1d1+999 1d1+999 1d8+32 pierce
+-15 -15 -15 -15
+ABCDEFG ABCD ABC ABC
+stand stand female 100000
+ABCHMV ABCDEFGHIJK medium 0
+#10713
+shopkeeper~
+the shopkeeper~
+The shopkeeper is here putting out some turnips.
+~
+This woman loves vegetables so all she sells are... vegetables.
+~
+unique~
+ABCDEFGVe ABCDEFGHJ 0 0
+200 0 1d1+999 1d1+999 1d8+32 pierce
+-15 -15 -15 -15
+ABCDEFG ABCD ABC ABC
+stand stand female 100000
+ABCHMV ABCDEFGHIJK medium 0
+#10714
+armourer~
+the armourer~
+The armourer is here pounding a dent out of a breast plate.
+~
+This huge man may be able to mend your armor for you or just sell you a new
+piece.  His large muscles make you think twice about trying to steal any armor
+from him.
+~
+unique~
+ABCDEFGVe ABCDEFGHJ 0 0
+300 0 1d1+999 1d1+999 1d8+32 pierce
+-15 -15 -15 -15
+ABCDEFG ABCD ABC ABC
+stand stand male 100000
+ABCHMV ABCDEFGHIJK medium 0
+#10715
+shopkeeper~
+the shopkeeper~
+The shopkeeper is here rearranging some apples.
+~
+This shifty-eyed man looks at you suspiciously and rearranges the apples
+again.  He demands to see your money before you pick out any fruit.
+~
+unique~
+ABCDEFGVe ABCDEFGHJ 0 0
+300 0 1d1+999 1d1+999 1d8+32 pierce
+-15 -15 -15 -15
+ABCDEFG ABCD ABC ABC
+stand stand male 100000
+ABCHMV ABCDEFGHIJK medium 0
+#10716
+weaponsmith~
+the weaponsmith~
+The weaponsmith is here making a dagger.
+~
+This tall man is a weaponmaster in his own right, but he decided to quit
+adventuring and make weapons because there weren't any quality blacksmiths
+around.
+~
+unique~
+ABCDEFGVe ABCDEFGHJ 0 0
+300 0 1d1+999 1d1+999 1d8+32 pierce
+-15 -15 -15 -15
+ABCDEFG ABCD ABC ABC
+stand stand male 100000
+ABCHMV ABCDEFGHIJK medium 0
+#10717
+healer~
+the healer~
+A healer is here.
+~
+This healer will heal you if you are a low level or pay him some money.
+That is his job and he follows it with alacrity.
+~
+unique~
+ABCDEFGQVae ABCDEFGH 0 0
+120 10 1d1+999 1d1+999 2d4+30 divine
+-15 -15 -15 -15
+ABCDEFGHIK ABCD ABC ABC
+stand stand male 0
+ABCHMV ABCDEFGHIJK medium 0
+#10718
+healer~
+the healer~
+The healer is here, passing out heals and death.
+~
+If the healer takes a dislike for you, you might wind up dead instead of
+healed.  Better be nice to him and give him some money.
+~
+unique~
+ABCDEFGQVae ABCDEFGH -1000 0
+120 10 1d1+999 1d1+999 2d4+30 divine
+-15 -15 -15 -15
+ABCDEFGHIK ABCD ABC ABC
+stand stand male 0
+ABCHMV ABCDEFGHIJK medium 0
+#10719
+healer~
+the healer~
+The healer is here, healing the needy.
+~
+This kindly woman shines with the light of her god as she follows her task
+in healing the needy.
+~
+unique~
+ABCDEFGQVae ABCDEFGH 1000 0
+120 10 1d1+999 1d1+999 2d4+30 divine
+-15 -15 -15 -15
+ABCDEFGHIK ABCD ABC ABC
+stand stand female 0
+ABCHMV ABCDEFGHIJK medium 0
+#10720
+gate guard~
+the gate guard~
+A guard is here, watching the gate.
+~
+This guard has a specific duty - to watch who comes in and out of Tangar and
+make sure no suspicious looking people get by.
+~
+unique~
+ABCDEFGTVe ABCDEFGHV 1000 0
+115 3 15d15+2500 1d1+750 2d10+10 pierce
+-10 -10 -10 -5
+ABCDEFG ABCGQ ABCD ABC
+stand stand male 200
+ABCHMV ABCDEFGHIJK medium 0
+#10721
+shopkeeper~
+the shopkeeper~
+The shopkeeper is standing the desk.
+~
+He is fat and has a content although watchful look on his face.
+~
+unique~
+ABCDEFGVe ABCDEFGHJ 0 0
+300 0 1d1+999 1d1+999 1d8+32 pierce
+-15 -15 -15 -15
+ABCDEFG ABCD ABC ABC
+stand stand male 100000
+ABCHMV ABCDEFGHIJK medium 0
+#10722
+trainer~
+the trainer~
+The trainer is here, waiting to teach you.
+~
+The trainer has a very patient expression as he guides his students through
+the steps to increase their abilities.
+~
+unique~
+ABCDEFGJKe ABCDEFGHJ 0 0
+300 0 1d1+999 1d1+999 1d8+32 pierce
+-15 -15 -15 -15
+ABCDEFG ABCD ABC ABC
+stand stand male 0
+ABCHMV ABCDEFGHIJK medium 0
+#10723
+baker~
+the baker~
+The baker is taking some loaves out of the oven.
+~
+This jolly old man looks like he's had too many cookies and cakes.  He
+decorates his creations and delivers them, piping hot, for you to eat.
+~
+unique~
+ABCDEFGVe ABCDEFGHJ 0 0
+300 0 1d1+999 1d1+999 1d8+32 pierce
+-15 -15 -15 -15
+ABCDEFG ABCD ABC ABC
+stand stand male 100000
+ABCHMV ABCDEFGHIJK medium 0
+#10724
+butcher~
+the butcher~
+The butcher is here dressing a side of beef.
+~
+This brawny woman wears a large white apron to catch all the satters while
+she cuts the beef.
+~
+unique~
+ABCDEFGVe ABCDEFGHJ 0 0
+300 0 1d1+999 1d1+999 1d8+32 pierce
+-15 -15 -15 -15
+ABCDEFG ABCD ABC ABC
+stand stand female 100000
+ABCHMV ABCDEFGHIJK medium 0
+#10725
+wizard~
+the wizard~
+A wizard is here, ready to sell you some wands.
+~
+The wizard looks ancient.  He peers at you with a twinkle in his eye and
+suddenly you think he might be a good person to have as a friend rather than
+an enemy.
+~
+unique~
+ABCDEFGVe ABCDEFGHJ 0 0
+300 0 1d1+999 1d1+999 1d8+32 pierce
+-15 -15 -15 -15
+ABCDEFG ABCD ABC ABC
+stand stand male 100000
+ABCHMV ABCDEFGHIJK medium 0
+#10726
+magician scribe~
+the scribe~
+A magician is here, waiting to sell you some parchment.
+~
+This scribe once worked for the Royal Library in Tangar until it was burned
+down several years ago.  He collected all the books he could save and one
+taught him how to write scrolls.  This being a much preferable job to mucking
+out stalls, he quickly became the best in Tangar and set up shop.
+~
+unique~
+ABCDEFGVe ABCDEFGHJ 0 0
+300 0 1d1+999 1d1+999 1d8+32 pierce
+-15 -15 -15 -15
+ABCDEFG ABCD ABC ABC
+stand stand male 100000
+ABCHMV ABCDEFGHIJK medium 0
+#10727
+apotheracy~
+the apotheracy~
+The apotheracy is here, brewing a potion.
+~
+This beautiful young woman looks out of place in this old store, yet her
+hands move with practiced ease through the steps of making a potion of
+healing.  How did she get so experienced at such a young age?
+~
+unique~
+ABCDEFGVe ABCDEFGHJ 0 0
+300 0 1d1+999 1d1+999 1d8+32 pierce
+-15 -15 -15 -15
+ABCDEFG ABCD ABC ABC
+stand stand female 100000
+ABCHMV ABCDEFGHIJK medium 0
+#10728
+bargalha~
+Bargalha~
+Bargalha is here mixing up a Tangar delight.
+~
+Bargalha looks like a practiced barkeep.  Name any drink and she can make
+you one better then you've ever tasted before.
+~
+unique~
+ABCDEFGVe ABCDEFGHJ 0 0
+300 0 1d1+999 1d1+999 1d8+32 pierce
+-15 -15 -15 -15
+ABCDEFG ABCD ABC ABC
+stand stand female 100000
+ABCHMV ABCDEFGHIJK medium 0
+#10729
+bouncer~
+the bouncer~
+The bouncer for the bar is here, making sure there is no trouble.
+~
+This large man provides security for this bar, where even city guards would
+fear to tread.
+~
+unique~
+ABCDEFGe ABCDEFGHJ 0 0
+122 0 16d15+450 1d1+999 5d5+25 pierce
+-5 -5 -5 -1
+ABCDEFG ABCD ABC ABC
+stand stand male 0
+ABCHMV ABCDEFGHIJK large 0
+#10730
+drunk man~
+the drunk man~
+A drunk man is here singing at the top of his lungs.
+~
+This man has had far too much.  Good thing he doesn't get violent when drunk.
+~
+unique~
+ABCDEFG ABCDEFG 400 0
+110 -1 2d6+22 1d1+99 1d6+0 none
+8 8 8 10
+ABCDEFGU ABC ABC ABC
+stand stand male 75
+ABCHMV ABCDEFGHIJK medium 0
+#10731
+dog poor~
+the poor dog~
+A poor, abused dog is here.
+~
+This poor dog was obviously abused by his master.  He cringes away from any
+attempts to pet him.
+~
+unique~
+ABCDEFGHU ABCDEFG -100 0
+100 0 1d6+10 1d1+99 1d4+0 bite
+10 10 10 10
+ABCDEFGR ABC ABC ABC
+stand stand either 0
+ABCGV ABCDEFHJKQV small 0
+#10732
+guard cityguard~
+the cityguard~
+The cityguard is scrolling through here, keeping the peace.
+~
+The cityguard has a commanding presence.  While on duty, she looks like she's
+ready for anything that comes her way.
+~
+unique~
+ABCDEFGT ABCDEFG 1000 3400
+118 3 15d15+170 1d1+149 2d4+4 punch
+0 0 0 8
+ABCDEFGKLTU ABC ABC ABC
+stand stand female 250
+ABCHMV ABCDEFGHIJK medium 0
+#10733
+janitor~
+the janitor~
+A janitor is walking around, cleaning up.
+~
+~
+unique~
+ABCDEFGH ABCDEFG 500 0
+104 0 2d6+20 1d1+99 1d5+1 pound
+10 10 10 10
+ABCDEFGNU ABC ABC ABC
+stand stand either 20
+ABCHMV ABCDEFGHIJK medium 0
+#10734
+thief~
+the thief~
+A thief, all dressed in black.
+~
+Well COUNT your money!
+~
+unique~
+ABCDEFGHS ABCDEFGPQ -100 0
+108 1 6d8+80 1d1+99 1d5+1 punch
+2 4 3 7
+ABCDEFGJN ABC ABC ABC
+stand stand either 200
+ABCHMV ABCDEFGHIJK medium 0
+#10735
+swan~
+the swan~
+A swan is swimming around in the pond.
+~
+The white swan is very elegant.
+~
+unique~
+ABCDEFGU ABCDEFGTb 400 0
+100 0 2d6+10 1d1+99 1d5+0 peckb
+8 8 8 10
+ABCDEFGR ABC ABCR ABC
+stand stand either 0
+ABCGW ABCDEFHKP small 0
+#10736
+duckling~
+the duckling~
+A duckling is swimming around in the pond.
+~
+The duckling is adorable, it looks most of all like a tiny furball.
+~
+unique~
+ABCDEFGU ABCDEFGTb 400 0
+100 0 1d4+0 1d1+99 1d1+0 peckb
+10 10 10 10
+ABCDEFGR ABC ABCR ABC
+stand stand either 0
+ABCGW ABCDEFHKP tiny 0
+#10737
+duck~
+the duck~
+A duck is here, quacking happly.
+~
+The duck is quite fat.  It looks like it is enjoying life.
+~
+unique~
+ABCDEFGU ABCDEFGTb 500 0
+101 0 2d6+5 1d1+99 1d4+0 peckb
+10 10 10 10
+ABCDEFGR ABC ABCR ABC
+stand stand either 0
+ABCGW ABCDEFHKP small 0
+#10738
+cat~
+the stealthy cat~
+A cat is sneaking through the shadows here.
+~
+This cat looks like he's ready to pounce on anything that might be edible.
+His tail constantly twitches, showing his annoyance.
+~
+unique~
+ABCDEFGHU ABCDEFGZ -200 0
+101 1 1d6+4 1d1+99 1d4+0 none
+8 8 8 10
+ABCDEFGHR ABC ABC ABC
+stand stand either 0
+ABCGV ABCDEFHJKQUV small 0
+#10739
+warrior~
+the warrior~
+A warrior stands here guarding the entrance to her Guildhall.
+~
+This warrior stands at constant guard to keep intruders out of her Guildhall.
+~
+unique~
+ABCDEFGVe ABCDEFGJ 500 0
+124 5 1d1+999 1d1+499 5d8+10 pierce
+-10 -10 -10 0
+ABCDEFGHIJKN ABC ABCD ABC
+stand stand female 0
+ABCHMV ABCDEFGHIJK medium 0
+#10740
+cleric~
+the cleric~
+A cleric stands here guarding the entrance to his Guildhall.
+~
+This cleric stands at constant guard to keep intruders out of his Guildhall.
+~
+unique~
+ABCDEFGVe ABCDEFGHJU 500 0
+124 5 1d1+999 1d1+499 5d8+10 pierce
+-10 -10 -10 -10
+ABCDEFGHIJKN ABC ABCD ABC
+stand stand male 0
+ABCHMV ABCDEFGHIJK medium 0
+#10741
+thief~
+the thief~
+A thief stands here guarding the entrance to her Guildhall.
+~
+This thief stands at constant guard to keep intruders out of her Guildhall.
+~
+unique~
+ABCDEFGVe ABCDEFGJQ 500 0
+124 5 1d1+999 1d1+499 5d8+10 pierce
+-10 -10 -10 -5
+ABCDEFGHIJKN ABC ABCD ABC
+stand stand female 0
+ABCHMV ABCDEFGHIJK medium 0
+#10742
+transmuter~
+the transmuter~
+A transmuter stands here guarding the entrance to his Guildhall.
+~
+This warrior stands at constant guard to keep intruders out of his Guildhall.
+~
+unique~
+ABCDEFGRVe ABCDEFGJ 500 0
+124 5 1d1+999 1d1+499 5d8+10 pierce
+-10 -10 -10 -20
+ABCDEFGHIJKN ABC ABCD ABC
+stand stand male 0
+ABCHMV ABCDEFGHIJK medium 0
+#10743
+paladin~
+the paladin~
+A paladin stands here guarding the entrance to his Guildhall.
+~
+~
+unique~
+ABCDEFGTVe ABCDEFGHJ 750 0
+124 5 1d1+999 1d1+499 5d8+10 pierce
+-10 -10 -10 -10
+ABCDEFGHIJKN ABC ABCD ABC
+stand stand male 0
+ABCHMV ABCDEFGHIJK medium 0
+#10744
+assassin~
+the assassin~
+A assassin stands here guarding the entrance to his Guildhall.
+~
+This assassin hides in the shadows, tracking all intruders entering the hall.
+~
+unique~
+ABCDEFGSe ABCDEFGJ 500 0
+124 5 1d1+999 1d1+499 5d8+10 pierce
+-10 -10 -10 -5
+ABCDEFGHIJKN ABC ABCD ABC
+stand stand male 0
+ABCHMV ABCDEFGHIJK medium 0
+#10745
+invoker~
+the invoker~
+A small invoker stands here guarding the Guildhall.
+~
+An invoker stands here eyeing suspicious people awaiting his chance to
+fireball any would be intruders.
+~
+unique~
+ABCDEFGRVe ABCDEFGHJ 500 0
+124 5 1d1+999 1d1+499 5d8+10 pierce
+-10 -10 -10 -20
+ABCDEFGHIJKN ABC ABCD ABC
+stand stand female 0
+ABCHMV ABCDEFGHIJK medium 0
+#10746
+golem guard~
+the golem guardian~
+A massive statue of carved stone stands guard over the ruined shrine.
+~
+A roughly homanoid statue, this golem could easily crush several humans
+in its huge arms.
+~
+unique~
+ABCDEFGVe ABCDEFGJ -750 0
+127 5 1d1+999 1d1+499 5d8+10 pierce
+-10 -10 -10 -7
+ABCDEFGHIJKN ABC ABCD ABC
+stand stand male 0
+ABCHMV ABCDEFGHIJK medium 0
+#10747
+bard~
+the bard~
+A cheerful bard strums his harp while guarding his Guildhall.
+~
+An older smiling bard sings to himself while strumming his harp.  However,
+you notice he's always watching the entrance to the Guild closely.
+~
+unique~
+ABCDEFGVe ABCDEFGJ 500 0
+124 5 1d1+999 1d1+499 5d8+10 pierce
+-10 -10 -10 -7
+ABCDEFGHIJKN ABC ABCD ABC
+stand stand male 0
+ABCHMV ABCDEFGHIJK medium 0
+#10748
+anti-paladin antipaladin~
+the anti-paladin~
+An anti-paladin stands here guarding the entrance to his Guildhall.
+~
+This anti-paladin stands at constant guard to keep intruders out of his
+Guildhall.
+~
+unique~
+ABCDEFGTe ABCDEFGJ -750 0
+124 5 1d1+999 1d1+499 5d8+10 pierce
+-10 -10 -10 -5
+ABCDEFGHIJKN ABC ABCD ABC
+stand stand male 0
+ABCHMV ABCDEFGHIJK medium 0
+#10749
+guildmaster master~
+the guildmaster~
+The guildmaster is here showing the way to make a staff.
+~
+The transmuter has a very patient expression as his student asks him to
+show the steps yet again.
+~
+unique~
+ABCDEFGKMe ABCDEFGJ 1000 0
+300 0 1d1+1999 1d1+999 3d8+24 none
+-20 -20 -20 -30
+ABCDEFGHIK ABCD ABC ABCZ
+stand stand male 0
+ABCHMV ABCDEFGHIJK medium 0
+#10750
+guildmaster master~
+the guildmaster~
+With a flash of light, your guildmaster creates a fire ball!
+~
+The guildmaster motions with his hand as though to send the fire ball
+towards you.
+~
+unique~
+ABCDEFGKMe ABCDEFGHJ 1000 0
+300 0 1d1+1999 1d1+999 3d8+24 none
+-20 -20 -20 -35
+ABCDEFGHIK ABCD ABC ABCZ
+stand stand male 0
+ABCHMV ABCDEFGHIJK medium 0
+#10751
+guildmaster master~
+the guildmaster~
+A cruel face leers at you through the smoke as your guildmaster raises another zombie from a corpse.
+~
+This would not be a good person to cross.  His power extends beyond death
+to bind you in eternal punishment if you should fail him.
+~
+unique~
+ABCDEFGKMe ABCDEFG -1000 0
+300 0 1d1+1999 1d1+999 3d8+24 none
+-20 -20 -20 -35
+ABCDEFGHIK ABCD ABC ABC
+stand stand male 0
+ABC ABC medium 0
+#10752
+guildmaster master~
+the guildmaster~
+Your guildmaster stands here, writing down a new tune.
+~
+Thid old bard has been entertaining for years.  She might be able to give you
+a few tips on performance or even on how to write your own songs.  She mildly
+suggests that you try the songs you have learned in a different room.
+~
+unique~
+ABCDEFGKMe ABCDEFG 1000 0
+300 0 1d1+1999 1d1+999 3d8+24 pierce
+-20 -20 -20 -20
+ABCDEFGHIK ABCD ABC ABC
+stand stand female 0
+ABCHMV ABCDEFGHIJK medium 0
+#10753
+guildmaster master~
+the guildmaster~
+Your guildmaster stands here, praying for Mota.
+~
+You are in no doubt that this guildmaster is truly close to your god; he has
+a peaceful, loving look.  You notice that he is surrounded by a white aura.
+~
+unique~
+ABCDEFGKMe ABCDEFGH 1000 0
+300 0 1d1+1999 1d1+999 3d8+24 divine
+-20 -20 -20 -15
+ABCDEFGHIK ABCD ABC ABC
+stand stand male 0
+ABCHMV ABCDEFGHIJK medium 0
+#10754
+guildmaster master~
+the guildmaster~
+A hidden form reaches across, and takes your purse.
+~
+You realize that whenever your guildmaster moves, you fail to notice it:
+The way of the true thief.  She is dressed in poor clothing, having the
+appearance of an ordinary citizen.
+~
+unique~
+ABCDEFGKMe ABCDEFG 1000 0
+300 0 1d1+1999 1d1+999 3d8+24 stab
+-20 -20 -20 -5
+ABCDEFGHIK ABCD ABC ABC
+stand stand female 0
+ABCHMV ABCDEFGHIJK medium 0
+#10755
+guildmaster master~
+the guildmaster~
+Your guildmaster is standing here.
+~
+This is your master.  A short, strong dwarf with bulging muscles.  Several
+scars across his body prove that he was using arms before you were born.  He
+has a calm look on his face.
+~
+unique~
+ABCDEFGKMe ABCDEFGJ 1000 0
+300 0 1d1+1999 1d1+999 3d8+24 none
+-20 -20 -20 -1
+ABCDEFGHIK ABCD ABCLQ ABCF
+stand stand male 0
+ABCHMV ABCDEFGHIJK medium 0
+#10756
+guildmaster master~
+the guildmaster~
+A dark caped man grabs his sword, for your unexpected existance.
+~
+He is a dark-elf with evil looking eyes.  As you look in his eyes, you
+think they are glowing red.  His black cloak covers almost all of his
+face.
+~
+unique~
+ABCDEFGKMe ABCDEFG -1000 0
+300 0 1d1+1999 1d1+999 3d8+24 slash
+-20 -20 -20 -15
+ABCDEFGHIK ABCD ABC ABC
+stand stand male 0
+ABC ABC medium 0
+#10757
+guildmaster master~
+the guildmaster~
+A knight watches your moves carefully.
+~
+The guildmaster is a tall well build man.  You can easyly say he is charismatic
+He is wearing his bright body armor, even at a very safe place like this.
+~
+unique~
+ABCDEFGKMe ABCDEFGJ 1000 0
+300 0 1d1+1999 1d1+999 3d8+24 slash
+-20 -20 -20 -15
+ABCDEFGHIK ABCD ABC ABCZ
+stand stand male 0
+ABCHMV ABCDEFGHIJK medium 0
+#10758
+guildmaster master~
+the guildmaster~
+You notice an assassin behind you as you turn around!
+~
+The guildmaster is a tall well build man.  He wears a dark cloth all over
+his body, and carries strange equipment tied on his belt.
+~
+unique~
+ABCDEFGKMe ABCDEFG 1000 0
+300 0 1d1+1999 1d1+999 3d8+24 slash
+-20 -20 -20 -5
+ABCDEFGHIK ABCD ABC ABC
+stand stand male 0
+ABCHMV ABCDEFGHIJK medium 0
+#10759
+bartender~
+the bartender~
+A bartender watches you calmly, while he skillfully mixes a drink.
+~
+A tired looking bartender who hates trouble in his bar.
+~
+unique~
+ABCDEFGe ABCDEFG 900 0
+112 0 1d1+499 1d1+99 1d8+18 pierce
+-5 -5 -5 1
+ABCDEFGHJN ABC ABCD ABC
+stand stand male 500
+ABCHMV ABCDEFGHIJK medium 0
+#10760
+maid~
+the maid~
+The maid is waiting for your order.
+~
+She is very beautiful with golen hair, and deep blue eyes.  A good reason
+for coming here more often.
+~
+unique~
+ABCDEFGVe ABCDEFGJ 1000 0
+110 2 1d1+499 1d1+99 2d8+12 none
+-10 -10 -10 -5
+ABCDEFG ABC ABCD ABCZ
+stand stand female 200
+ABCHMV ABCDEFGHIJK medium 0
+#10761
+captain cityguard~
+the captain~
+The captain of the cityguards is looking very upset.
+~
+A big, strong, angry captain.
+~
+unique~
+ABCDEFGTe ABCDEFG 1000 10700
+130 4 15d15+190 1d1+199 2d4+6 punch
+-2 -2 -2 5
+ABCDEFGHKLU ABC ABC ABC
+stand stand male 1000
+ABCHMV ABCDEFGHIJK medium 0
+#10762
+guard cityguard~
+the cityguard~
+A cityguard stands here, looking very upset.
+~
+A big, strong, angry guard.
+~
+unique~
+ABCDEFGT ABCDEFG 1000 10700
+118 3 15d15+10 1d1+149 2d4+4 punch
+0 0 0 7
+ABCDEFGHKLU ABC ABC ABC
+stand stand either 250
+ABCHMV ABCDEFGHIJK medium 0
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#10700
+Outside the North Gate~
+The entrance to the city of Tangar is visible here.  The city is
+protected by massive walls that seem to reach the sky in a vain attempt to
+keep the unwanted out.  A large, sturdy iron gate protects the entrance to
+the city from intruders.  
+~
+0 0 3
+D2
+A large iron gate stands tall, guarding the entrance to the city of Tangar.
+~
+gate~
+1 0 10701
+S
+#10701
+Inside the North Gate~
+You are just inside the city of Tangar.  Everything is much cleaner here
+than it is outside and many would wonder why anyone would leave this place. 
+On either side of you there is a watchtower built into the wall.  Meanwhile,
+to the south the main road continues and to the north you can leave the
+city.  
+~
+0 262148 1
+D0
+A large iron gate stands tall, protecting you from anything unwanted from
+outside.  
+~
+gate~
+1 0 10700
+D1
+~
+~
+0 0 10829
+D2
+You see the Main Road.
+~
+~
+0 -1 10702
+D3
+~
+~
+0 0 10830
+S
+#10702
+Main Road~
+You are standing on the broad cobbelstone road known as Main Road, the
+main throughfare of this beautiful island city.  The streets here are filled
+with an assortment of people, mostly the wealthier citizens of Tangar.  The
+road continues to the south.  
+~
+0 0 1
+D0
+You see the inside the city walls.
+~
+~
+0 -1 10701
+D2
+The road continues.
+~
+~
+0 -1 10723
+S
+#10703
+Main Road~
+You are standing on the broad cobbelstone road known as Main Road, the
+main throughfare of this beautiful island city.  The streets here are filled
+with an assortment of people, mostly the wealthier citizens of Tangar.  The
+main road turn into the park to the south, and continues to the north.  
+~
+0 0 1
+D0
+The road continues.
+~
+~
+0 -1 10723
+D2
+The Main Road turns into the Park Road.
+~
+~
+0 -1 10704
+S
+#10704
+Park Road~
+Here the road encircling the park meets with the Main Road.  The park
+lies to the east, and west, but the dense trees make it impossible to force
+your way through at this point.  The road around the park continues to the
+east and west, and the Main Road runs towards the north gate to the north.  
+~
+0 0 1
+D0
+You see the Main Road.
+~
+~
+0 -1 10703
+D1
+The park road makes a sharp turn to the east.
+~
+~
+0 -1 10720
+D3
+The park road makes s sharp turn to the west.
+~
+~
+0 -1 10705
+S
+#10705
+Park Road~
+This portion of Park Road encircles the city park.  Here you are at the
+northwest corner of the park.  The Bank lies to the north and the road
+continues to the west and east.  
+~
+0 0 1
+D0
+You see the bank.
+~
+~
+0 -1 10771
+D1
+Park Road continues around the park.
+~
+~
+0 -1 10704
+D3
+Park Road continues around the park.
+~
+~
+0 -1 10706
+S
+#10706
+Park Road~
+This portion of Park Road encircles the city park.  Here, along the
+northern edge of the park, grow some gigantic trees, preventing movement
+south into the park.  To the north you see the Training Room and the road
+continues around the park to the east and south.  
+~
+0 0 1
+D0
+You see the Training Grounds.
+~
+~
+0 -1 10799
+D1
+The road continues.
+~
+~
+0 -1 10705
+D2
+The road continues.
+~
+~
+0 -1 10707
+S
+#10707
+Park Road~
+This portion of Park Road encircles the city park.  Here you are at the
+northwest corner of the park.  The road continues to the north and south.  
+~
+0 0 1
+D0
+The road continues.
+~
+~
+0 -1 10706
+D2
+The road continues.
+~
+~
+0 -1 10708
+S
+#10708
+Park Road~
+Here the great North Road meets the road encircling the park.  To the
+south, some large trees border the northern edge of the park.  The North
+Road runs west to the northwestern gate of Tangar.  The park road continues
+to the north and south.  
+~
+0 0 1
+D0
+The road continues.
+~
+~
+0 -1 10707
+D2
+The road continues.
+~
+~
+0 -1 10709
+D3
+You see the North Road.
+~
+~
+0 -1 10721
+S
+#10709
+Park Road~
+This portion of Park Road encircles the city park.  Here you are at the
+northwest corner of the park.  The road continues to the north and south.  
+~
+0 0 1
+D0
+The road continues.
+~
+~
+0 -1 10708
+D2
+The road continues.
+~
+~
+0 -1 10710
+S
+#10710
+Park Road~
+This portion of Park Road encircles the city park.  Here, along the
+northern edge of the park, grow some gigantic trees, preventing movement
+south into the park.  The courtyard of the Temple of the Sun lies to the
+south through a large gate.  The road continues around the park to the east
+and south.  
+~
+0 0 1
+D0
+The road continues.
+~
+~
+0 -1 10709
+D1
+The road continues.
+~
+~
+0 -1 10711
+D2
+You see the Temple Square.
+~
+~
+0 -1 10772
+S
+#10711
+Park Road~
+This portion of Park Road encircles the city park.  Here you are at the
+northwest corner of the park.  The road continues to the west and east.  
+~
+0 0 1
+D1
+Park Road continues around the park.
+~
+~
+0 -1 10712
+D3
+Park Road continues around the park.
+~
+~
+0 -1 10710
+S
+#10712
+Park Road~
+Here the road encircling the park meets with the Main Road.  The park
+lies to the east, and west, but the dense trees make it impossible to force
+your way through at this point.  The road around the park continues to the
+east and west, and the Main Road continues to the south.  
+~
+0 0 1
+D1
+The road continues.
+~
+~
+0 -1 10713
+D2
+You see the Main Road.
+~
+~
+0 -1 10732
+D3
+The road continues.
+~
+~
+0 -1 10711
+S
+#10713
+Park Road~
+This portion of Park Road encircles the city park.  Here you are at the
+northeast corner of the park.  The road continues to the west and east.  
+~
+0 0 1
+D1
+Park Road continues around the park.
+~
+~
+0 -1 10714
+D3
+Park Road continues around the park.
+~
+~
+0 -1 10712
+S
+#10714
+Park Road~
+This portion of Park Road encircles the city park.  Here, along the
+northern edge of the park, grow some gigantic trees, preventing movement
+south into the park.  The road continues around the park to the west and
+north.  
+~
+0 0 1
+D0
+The road continues.
+~
+~
+0 -1 10715
+D3
+The road continues.
+~
+~
+0 -1 10713
+S
+#10715
+Park Road~
+This portion of Park Road encircles the city park.  Here you are at the
+northeast corner of the park.  The road continues to the north and south.  
+~
+0 0 1
+D0
+The road continues.
+~
+~
+0 -1 10716
+D2
+The road continues.
+~
+~
+0 -1 10714
+S
+#10716
+Park Road~
+Here the great North Road meets the road encircling the park.  To the
+south, some large trees border the northern edge of the park.  The North
+Road runs east to the northeastern gate of Tangar.  The park road continues
+to the north and south.  
+~
+0 0 1
+D0
+The road continues.
+~
+~
+0 -1 10717
+D1
+You see the North Road.
+~
+~
+0 -1 10727
+D2
+The road continues.
+~
+~
+0 -1 10715
+S
+#10717
+Park Road~
+This portion of Park Road encircles the city park.  Here you are at the
+northeast corner of the park.  The Temple of the Moon lies through a small
+archway in the ivy to the east.  The road continues to the north and south. 
+~
+0 0 1
+D0
+The road continues.
+~
+~
+0 -1 10718
+D1
+You see an archway leading into the Temple of the Moon.
+~
+~
+0 -1 10776
+D2
+The road continues.
+~
+~
+0 -1 10716
+S
+#10718
+Park Road~
+This portion of Park Road encircles the city park.  Here, along the
+northern edge of the park, grow some gigantic trees, preventing movement
+south into the park.  The road continues around the park to the west and
+south.  
+~
+0 0 1
+D2
+The road continues.
+~
+~
+0 -1 10717
+D3
+The road continues.
+~
+~
+0 -1 10719
+S
+#10719
+Park Road~
+This portion of Park Road encircles the city park.  Here you are at the
+northeast corner of the park.  The road continues to the west and east.  
+~
+0 0 1
+D1
+The road continues.
+~
+~
+0 -1 10718
+D3
+The road continues.
+~
+~
+0 -1 10720
+S
+#10720
+Park Road~
+This portion of Park Road encircles the city park.  Here you are at the
+northeast corner of the park.  The road continues to the west and east.  
+~
+0 0 1
+D1
+Park Road continues around the park.
+~
+~
+0 -1 10719
+D3
+Park Road continues around the park.
+~
+~
+0 -1 10704
+S
+#10721
+The North Road~
+You are on the North road passing through the city of Tangar.  The park
+lies east, but the dense trees make it impossible to force your way through
+at this point.  To the south you see the Invokers Guild and the North Road
+continues west.  
+~
+0 0 1
+D1
+You see the Park Road.
+~
+~
+0 -1 10708
+D2
+You see the Invokers Guild.
+~
+~
+0 -1 10822
+D3
+The road continues.
+~
+~
+0 -1 10722
+S
+#10722
+The North Road~
+This small road runs between the northwest and northeast gates of Tangar,
+splitting around the park.  The North Road continues to the east and west.  
+~
+0 0 1
+D1
+The road continues.
+~
+~
+0 -1 10721
+D3
+The road continues.
+~
+~
+0 -1 10724
+S
+#10723
+Main Road~
+You are standing on the broad cobbelstone road known as Main Road, the
+main throughfare of this beautiful island city.  The streets here are filled
+with an assortment of people, mostly the wealthier citizens of Tangar.  The
+road continues to the north and south.  
+~
+0 0 1
+D0
+The road continues.
+~
+~
+0 -1 10702
+D2
+The road continues.
+~
+~
+0 -1 10703
+S
+#10724
+The North Road~
+This small road runs between the northwest and northeast gates of Tangar,
+splitting around the park.  A strangle mist creeps out of a closed gate to
+the west and the road continues to the east.  
+~
+0 0 1
+D1
+The road continues.
+~
+~
+0 -1 10722
+D3
+You see the northwest gate.
+~
+~
+0 -1 10725
+S
+#10725
+Inside the Northwest Gate~
+You stand just inside the northwest gate of Tangar.  The city walls arch
+over the gate in their path around the city.  Through the gates to the west.
+To the east, the North Road runs toward the park.  
+~
+0 262148 1
+D1
+The North Road begins.
+~
+~
+0 -1 10724
+D3
+You see the outside the city walls.
+~
+~
+0 -1 10726
+S
+#10726
+Outside the Northwest Gate~
+You stand in the small patch of land outside the gates of Tangar that is
+still protected by the city guard.  To venture further afield means to lose
+the protection of the city.  You can enter the city to the east.  
+~
+0 0 3
+D1
+You see the gates of Tangar.
+~
+~
+0 -1 10725
+S
+#10727
+The North Road~
+You are on the North Road passing through the city of Tangar.  The park
+lies west, but the dense trees make it impossible to force your way through
+at this point.  The Temple of the Moon lies to the south through a large
+gate.  The North Road continues to the east.  
+~
+0 0 1
+D1
+The road continues.
+~
+~
+0 -1 10728
+D2
+You see the Temple Square.
+~
+~
+0 -1 10776
+D3
+You see the Park Road.
+~
+~
+0 -1 10716
+S
+#10728
+The North Road~
+This small road runs between the northwest and northeast gates of Tangar,
+splitting around the park.  To the south you see the Clerics Guild and the
+road continues to the east and west.  
+~
+0 0 1
+D1
+The road continues.
+~
+~
+0 -1 10729
+D2
+You see the Clerics Guild.
+~
+~
+0 -1 10814
+D3
+The road continues.
+~
+~
+0 -1 10727
+S
+#10729
+The North Road~
+This small road runs between the northwest and northeast gates of Tangar,
+splitting around the park.  A strangle mist creeps out of a closed gate to
+the east and the road continues to the west.  
+~
+0 0 1
+D0
+You see the inn.
+~
+~
+0 -1 10818
+D1
+You see the northeast gate.
+~
+~
+0 -1 10730
+D3
+The road continues.
+~
+~
+0 -1 10728
+S
+#10730
+Inside the Northeast Gate~
+You stand just inside the northeast gate of Tangar.  The city walls arch
+over the gate in their path around the city.  Through the gates to the east.
+To the west, the North Road runs toward the park.  
+~
+0 262148 1
+D1
+You see the outside the city walls.
+~
+~
+0 -1 10731
+D3
+The North Road begins.
+~
+~
+0 -1 10729
+S
+#10731
+Outside the Northeast Gate~
+You stand in the small patch of land outside the gates of Tangar that is
+still protected by the city guard.  To venture further afield means to lose
+the protection of the city.  You can enter the city to the west.  
+~
+0 0 3
+D3
+You see the gates of Tangar.
+~
+~
+0 -1 10730
+S
+#10732
+Main Road~
+You are standing on the smooth cobblestone road called Main Road, the
+main throughfare of this beutiful city.  Around you citizens mill around,
+the wealthy leisurely shopping while the working folk hurry about on their
+tasks.  Here, it passes by the majestic Temple of the Sun to the west on its
+way toward the park to the north.  The Main Road continues toward the Market
+Square to the south.  
+~
+0 0 1
+D0
+The Main Road turns into Park Road.
+~
+~
+0 -1 10712
+D2
+The road continues.
+~
+~
+0 -1 10733
+D3
+You see the Temple Square.
+~
+~
+0 -1 10772
+S
+#10733
+Main Road~
+You are waling down Main Road, the central road of this glorious city,
+which cross from one side of the island to the other.  Most of the stores
+here seem to deal in clothing and outdoor gear, and cater to travellers just
+entering town or on the way out for some great adventure.  The road
+continues to the north and south.  
+~
+0 0 1
+D0
+The road continues.
+~
+~
+0 -1 10732
+D1
+You see the headquarters.
+~
+~
+0 -1 10820
+D2
+The road continues.
+~
+~
+0 -1 10734
+D3
+You see the Paladin's Guild.
+~
+~
+0 -1 10812
+S
+#10734
+Main Road~
+Here the broad avenue merges with the market square to the south to form
+a large bustling open marketplace.  To the west you see the Map Shop, to the
+east you see the Garden Bounty and the road continues to the north.  
+~
+0 0 1
+D0
+The road continues.
+~
+~
+0 -1 10733
+D1
+You see the Garden Bounty.
+~
+~
+0 -1 10790
+D2
+You see the market square.
+~
+~
+0 -1 10735
+D3
+You see the Map Store.
+~
+~
+0 -1 10789
+S
+#10735
+Market Square~
+You are standing on the market square, the famous square of Tangar.  This
+bustling square lies at the intersection of the Main Road and the Market
+Road.  Trades from every city have come here to try to convince you to buy
+their cheap wares.  None of it is even worth a second glance.  The Main Road
+continues to the north and south, and the Market Road continues to the east
+and west.  
+~
+0 0 1
+D0
+You see the Main Road.
+~
+~
+0 -1 10734
+D1
+You see the Market Road.
+~
+~
+0 -1 10745
+D2
+You see the Main Road.
+~
+~
+0 -1 10736
+D3
+You see the Market Road.
+~
+~
+0 -1 10751
+S
+#10736
+Main Road~
+You are walking along Main Road, the main throughfare of southern Tangar.
+You see children running up and down the street, playing tag and other
+games.  A mother stands on the front lawn of her house, yelling to her kids
+to come get their lunch.  The General Store lies to the east and the Pet
+Shop is west.  To the north you see the Market Square and the Main Road
+continues south.  
+~
+0 0 1
+D0
+You see the market square.
+~
+~
+0 -1 10735
+D1
+You see the General Store.
+~
+~
+0 -1 10785
+D2
+The road continues.
+~
+~
+0 -1 10737
+D3
+You see the Pet Shop.
+~
+~
+0 -1 10787
+S
+#10737
+Main Road~
+You are waling down Main Road, the central road of this glorious city,
+which cross from one side of the island to the other.  Most of the stores
+here seem to deal in clothing and outdoor gear, and cater to travellers just
+entering town or on the way out for some great adventure.  The Dark Temple
+looms menacingly over you to the east.  The road continues to the north and
+the Common Square to the south.  
+~
+0 0 1
+D0
+The road continues.
+~
+~
+0 -1 10736
+D1
+You see the Temple Square.
+~
+~
+0 -1 10779
+D2
+You see the Common Square.
+~
+~
+0 -1 10738
+D3
+You see the Bargalha's Tavern.
+~
+~
+0 -1 10802
+S
+#10738
+Common Square~
+You are standing at the Common Square between the Main Road.  A large
+round wood board with a heavy iron ring set in it covers a hole in the
+center of the intersection.  Faint wisps of steam escape around the edges. 
+The Main Road enters the city of Tangar to the north and runs toard the
+south gate to the south, and to the east is the dark alley, to the west is
+the poor alley.  
+~
+0 0 1
+D0
+The Main road continues.
+~
+~
+0 -1 10737
+D1
+You see the dark alley.
+~
+~
+0 -1 10762
+D2
+You see the bridge.
+~
+~
+0 -1 10739
+D3
+You see the poor alley.
+~
+~
+0 -1 10768
+S
+#10739
+On the Bridge~
+You are standing on the stone bridge crosses the river.  Below you, the
+river flows into an opening in the city wall, sealed with strong metal bars.
+The bridge is built out from the southern city wall and the river flows west
+and east through an opening in the wall ten feet below the bridge.  The Main
+Road leads into Tangar to the north and towards the south gate to the south.
+~
+0 0 1
+D0
+You see the Common Square.
+~
+~
+0 -1 10738
+D1
+~
+~
+0 -1 10756
+D2
+The Main Road continues.
+~
+~
+0 -1 10740
+D3
+~
+~
+0 -1 10759
+S
+#10740
+Main Road~
+You are waling down Main Road, the central road of this glorious city,
+which cross from one side of the island to the other.  Most of the stores
+here seem to deal in clothing and outdoor gear, and cater to travellers just
+entering town or on the way out for some great adventure.  The road
+continues to the south and the bridge to the north.  
+~
+0 0 1
+D0
+You see the bridge leading into Tangar.
+~
+8~
+0 -1 10739
+D2
+The road continues toward the southern gate.
+~
+~
+0 -1 10741
+S
+#10741
+Main Road~
+You are waling down Main Road, the central road of this glorious city,
+which cross from one side of the island to the other.  Most of the stores
+here seem to deal in clothing and outdoor gear, and cater to travellers just
+entering town or on the way out for some great adventure.  The road
+continues to the north and the south gate of Tangar to the south.  
+~
+0 0 1
+D0
+The Main road continues.
+~
+~
+0 -1 10740
+D2
+You see the south gate.
+~
+~
+0 -1 10742
+S
+#10742
+Inside the South Gate~
+8You are by two small towers that have been built into the city wall and
+connected with a footbridge across the heavy wooden gate.  Through the gates
+to the south, you can see a road leading north.  
+~
+0 262148 1
+D0
+You see the Main Road.
+~
+~
+0 -1 10741
+D2
+You see the outside the city walls.
+~
+gate~
+1 10700 10743
+S
+#10743
+Outside the South Gate~
+You are standing just outside the walls of the beautiful island city of
+Tangar.  The massive city walls stand immediately to the north.  The hustle
+and bustle of city life has dwindled to almost nothing.  You can enter the
+city to the north.  
+~
+0 0 3
+D0
+The city gate is to the north.
+~
+gate~
+1 10700 10742
+D2
+~
+~
+0 0 328
+S
+#10744
+~
+
+~
+0 4 0
+S
+#10745
+Market Road~
+You stand on the main thoroughfare of Tangar.  This road connects the
+east and west gates and holds all the traffic coming from the western
+forests as well as the traffic coming from New Thalos to the east.  Here,
+near the Market Square, the crowds are overwhelming.  To the south you see
+the Armory, to the north you see the Fruit Stand and the market square lies
+to the west and the road continues towards the east gate to the east.  
+~
+0 0 1
+D0
+You see the Fruit Stand.
+~
+~
+0 -1 10795
+D1
+The road continues towards the east gate.
+~
+~
+0 -1 10746
+D2
+You see the Armory.
+~
+~
+0 -1 10793
+D3
+You see the Market Square.
+~
+~
+0 -1 10735
+S
+#10746
+Market Road~
+You stand on the main thoroughfare of Tangar.  This road connects the
+east and west gates and holds all the traffic coming from the western
+forests as well as the traffic coming from New Thalos to the east.  To the
+north you see the Jeweler Shop and to the south Dark Alley.  This is a
+fairly calm stretch of the road.  The road continues to the east and west.  
+~
+0 0 1
+D0
+You see the Jeweler.
+~
+~
+0 -1 10798
+D1
+The road continues towards the east gate.
+~
+~
+0 -1 10747
+D2
+You see the dark alley.
+~
+~
+0 -1 10765
+D3
+The road continues towards the market square.
+~
+~
+0 -1 10745
+S
+#10747
+Market Road~
+You stand on the main thoroughfare of Tangar.  This road connects the
+east and west gates and holds all the traffic coming from the western
+forests as well as the traffic coming from New Thalos to the east.  To the
+south you see the Weapon Shop and the road continues to the east and west.  
+~
+0 0 1
+D0
+You see the Warrior's Guild.
+~
+~
+0 -1 10806
+D1
+The road continues towards the east gate.
+~
+~
+0 -1 10748
+D2
+You see the weapon shop.
+~
+~
+0 -1 10796
+D3
+The road continues towards the market square.
+~
+~
+0 -1 10746
+S
+#10748
+Market Road~
+You stand on the main thoroughfare of Tangar.  This road connects the
+east and west gates and holds all the traffic coming from the western
+forests as well as the traffic coming from New Thalos to the east.  Hear,
+near the eastern gate, the crowds are overwhelming.  The east gate lies to
+the east and the road continues to the west.  
+~
+0 0 1
+D1
+You see the east gate.
+~
+~
+0 -1 10749
+D3
+The road continues towards the market square.
+~
+~
+0 -1 10747
+S
+#10749
+Inside the East Gate~
+You are by two small towers that have been built into the city wall and
+connected with a footbridge across the heavy wooden gate.  Through the gates
+to the east, to the west, the Market Road leads into the city through all
+the shops.  
+~
+0 262148 1
+D1
+You see the outside the city walls.
+~
+gate~
+1 10700 10750
+D3
+You see the Market Road.
+~
+~
+0 -1 10748
+S
+#10750
+Outside the East Gate~
+You are standing just outside the walls of the beautiful island city of
+Tangar.  The massive city walls stand immediately to the west.  The hustle
+and bustle of city life has dwindled to almost nothing.  You can enter the
+city to the west.  
+~
+0 0 3
+D3
+The city gate is to the west.
+~
+gate~
+1 10700 10749
+S
+#10751
+Market Road~
+You stand on the main thoroughfare of Tangar.  This road connects the
+east and west gates and holds all the traffic coming from the western
+forests as well as the traffic coming from New Thalos to the east.  Hear,
+near the market square, the crowds are overwhelming.  You notice there is a
+baker to the north and a butcher to the south.  The market square lies to
+the east and the road continues to the west.  
+~
+0 0 1
+D0
+You see the Bakery.
+~
+~
+0 -1 10801
+D1
+You see the bustling market square.
+~
+~
+0 -1 10735
+D2
+You see the Butcher.
+~
+~
+0 -1 10800
+D3
+The road continues in the direction of the west gate.
+~
+~
+0 -1 10752
+S
+#10752
+Market Road~
+You stand on the main thoroughfare of Tangar.  This road connects the
+east and west gates and holds all the traffic coming from the western
+forests as well as the traffic coming from New Thalos to the east.  This is
+a fairly calm stretch of the road.  The road continues to the east and west.
+~
+0 0 1
+D0
+You see the Wizard's Shop.
+~
+~
+0 -1 10797
+D1
+The road continues towards the Market Square.
+~
+~
+0 -1 10751
+D2
+You see the Transmuter's Guild.
+~
+~
+0 -1 10804
+D3
+The road continues towards the west gate.
+~
+~
+0 -1 10753
+S
+#10753
+Market Road~
+You stand on the main thoroughfare of Tangar.  This road connects the
+east and west gates and holds all the traffic coming from the western
+forests as well as the traffic coming from New Thalos to the east.  Hear,
+near the western gate, the crowds are overwhelming.  You notice there is a
+parchment shop to the north and an apotheracy to the south.  The west gate
+lies to the west and the road continues to the east.  
+~
+0 0 1
+D0
+You see the Parchment Shop.
+~
+~
+0 -1 10784
+D1
+The road continues toward the Market Square.
+~
+~
+0 -1 10752
+D2
+You see the apotheracy.
+~
+~
+0 -1 10792
+D3
+You see the west gate.
+~
+~
+0 -1 10754
+S
+#10754
+Inside the West Gate~
+You are by two small towers that have been built into the city wall and
+connected with a footbridge across the heavy wooden gate.  Through the gates
+to the west, to the east, the Market Road leads into the city through all
+the shops.  
+~
+0 262148 1
+D1
+The Market Road begins.
+~
+~
+0 -1 10753
+D3
+You see the outside the city walls.
+~
+gate~
+1 10700 10755
+S
+#10755
+Outside the West Gate~
+You are standing just outside the walls of the beautiful island city of
+Tangar.  The massive city walls stand immediately to the east.  The hustle
+and bustle of city life has dwindled to almost nothing.  You can enter the
+city to the west.  
+~
+0 0 3
+D1
+You see the gates of Tangar.
+~
+gate~
+1 10700 10754
+S
+#10756
+On the River~
+You are carried by the swift currents of the river.  You can pretty much
+the current carry you here.  There are strong currents, and a bluish spot in
+the grey water here.  
+~
+0 0 7
+D1
+~
+~
+0 -1 10757
+D3
+~
+~
+0 -1 10739
+S
+#10757
+On the River~
+You are carried by the swift currents of the river.  You can pretty much
+the current carry you here.  There are strong currents, and a bluish spot in
+the grey water here.  
+~
+0 0 7
+D1
+~
+~
+0 -1 10758
+D3
+~
+~
+0 -1 10756
+S
+#10758
+On the River~
+You are carried by the swift currents of the river.  You can pretty much
+the current carry you here.  There are strong currents, and a bluish spot in
+the grey water here.  
+~
+0 0 7
+D3
+~
+~
+0 -1 10757
+S
+#10759
+On the River~
+You are carried by the swift currents of the river.  You can pretty much
+the current carry you here.  There are strong currents, and a bluish spot in
+the grey water here.  
+~
+0 0 7
+D1
+~
+~
+0 -1 10739
+D3
+~
+~
+0 -1 10760
+S
+#10760
+On the River~
+You are carried by the swift currents of the river.  You can pretty much
+the current carry you here.  There are strong currents, and a bluish spot in
+the grey water here.  
+~
+0 0 7
+D1
+~
+~
+0 -1 10759
+D3
+~
+~
+0 -1 10761
+S
+#10761
+On the River~
+You are carried by the swift currents of the river.  You can pretty much
+the current carry you here.  There are strong currents, and a bluish spot in
+the grey water here.  
+~
+0 0 7
+D1
+~
+~
+0 -1 10760
+S
+#10762
+Dark Alley~
+The dark alley, the alley meets with the Common Square to the west and
+continues to the east.  The Temple Square lies to the north.  You can hear
+the moans of the prisoners being prepared for sacrifice even from out here. 
+~
+0 0 1
+D0
+You see the Temple Square.
+~
+~
+0 -1 10779
+D1
+The alley continues.
+~
+~
+0 -1 10763
+D3
+You see the common square.
+~
+~
+0 -1 10738
+S
+#10763
+Dark Alley~
+The dark alley, the alley meets with the Common Square to the west and
+continues to the north.  To the south lies the boar maker's shop.  
+~
+0 0 1
+D0
+The alley continues.
+~
+~
+0 -1 10764
+D1
+The alley continues.
+~
+~
+0 -1 10766
+D2
+You see the boat maker's shop.
+~
+~
+0 -1 10782
+D3
+The alley continues.
+~
+~
+0 -1 10762
+S
+#10764
+Dark Alley~
+The dark alley, the alley meets with the Common Square to the south and
+continues to the north and Necromancers Guild to the east.  
+~
+0 1 0
+D0
+The alley continues.
+~
+~
+0 -1 10765
+D1
+You see the Necromancers Guild.
+~
+~
+0 -1 10824
+D2
+The alley continues.
+~
+~
+0 -1 10763
+S
+#10765
+Dark Alley~
+The dark alley, the alley meets with the Common Square to the south and
+the alley meets with the Market Road to the north.  
+~
+0 1 0
+D0
+You see the Market Road.
+~
+~
+0 -1 10746
+D2
+The alley continues.
+~
+~
+0 -1 10764
+S
+#10766
+Dark Alley~
+You are standing in the alley which continues east and west.  To the
+south you see the Anti-Paladins Guild.  
+~
+0 1 0
+D1
+The alley continues.
+~
+~
+0 -1 10767
+D2
+You see the Anti-Paladins Guild.
+~
+~
+0 -1 10810
+D3
+The alley continues.
+~
+~
+0 -1 10763
+S
+#10767
+Eastern end of Dark Alley~
+You are standing at the eastern end of the dark alley, near the city
+walls.  
+~
+0 1 0
+D3
+The alley continues.
+~
+~
+0 -1 10766
+S
+#10768
+Poor Alley~
+You are in narrow and dirty alley leading west.  The Common Square is to
+the east and to the south you see the Thieves Guild.  
+~
+0 0 1
+D1
+You see the Common Square.
+~
+~
+0 -1 10738
+D2
+You see the Thieves Guild.
+~
+~
+0 -1 10808
+D3
+The alley continues.
+~
+~
+0 -1 10769
+S
+#10769
+Poor Alley~
+You are in narrow and dirty alley leading west and east.  A foul smell is
+coming out of the leather shop to the north.  You see the Assassins Guild to
+the south.  
+~
+0 0 1
+D0
+You see the leather shop.
+~
+~
+0 -1 10783
+D1
+The alley continues.
+~
+~
+0 -1 10768
+D2
+You see the Assassin Guild.
+~
+~
+0 -1 10816
+D3
+The alley continues.
+~
+~
+0 -1 10770
+S
+#10770
+Western end of Poor Alley~
+You are in narrow and dirty alley.  The alley continues furter east.  
+~
+0 0 1
+D1
+The alley continues.
+~
+~
+0 -1 10769
+S
+#10771
+The Bank~
+This is the main branch of the Tangar bank.  The floor is all marble, the
+walls are panelled with fine wood, and tapestries hang between tall columns.
+Obviously, the bank makes quite a profit on storing your money for you.  A
+small sign hangs above the teller's desk.  You can exit the bank to either
+south.  
+~
+0 1311752 1
+E
+sign~
+balance                           - find out much you have in the bank.
+deposit <number> <gold/silver>    - deposit a quantity of coins.
+withdraw <number> <gold/silver>   - withdraw a quantity of coins.
+~
+D2
+You see the park.
+~
+~
+0 -1 10705
+S
+#10772
+Temple Square~
+This peaceful square lies in the shadows of what most call the most
+beautiful Temple in the world, the Temple of the Sun.  A bubbling fountain
+surrounded by some shady trees graces the center of the courtyard.  To the
+north lies the lovely park of Tangar, to the east lies the Main Road, to the
+west you can enter the Temple.  Down lies the Mud School entrance.  
+~
+0 0 1
+D0
+You see a park.
+~
+~
+0 -1 10710
+D1
+You see the Main Road.
+~
+~
+0 -1 10732
+D3
+You see the northern end of the Temple.
+~
+~
+0 -1 10773
+S
+#10773
+Temple of the Sun~
+You stand at the northern end of the Temple of the Sun.  It is a
+beautiful sight with all the stained glass, frescos and statues.  To the
+south you see the most beautiful stained glass window above the altar.  You
+can exit the temple to the east.  
+~
+0 12 0
+D1
+You see the Temple Square.
+~
+~
+0 -1 10772
+D2
+You see the altar.
+~
+~
+0 -1 10775
+S
+#10775
+At the Altar~
+You stand before an impressive gold altar.  The tallest candelabra are so
+tall they hardly cast and light down on the main part of the altar; they
+only serve to highlight the highest reaches of the altar.  Fortunately,
+there are more candelabra lower down, which, along with the light coming
+through the stained glass window, provide enough light to see the full
+magnificence of this altar.  You can exit the temple to the north.  
+~
+0 262152 0
+D0
+You see the temple.
+~
+~
+0 -1 10773
+M 120 H 120
+S
+#10776
+Temple Square~
+This large courtyard is filled with oak trees, which bend over a large
+fountain in the middle of the yard.  The pavement is a neutral gray stone
+and the walls are done in the same neutral shade.  Everything has an air of
+practicality here, every paving stone is the same size, every tree the same
+size.  There is no excess ornamentation on the temple.  Two archways lead
+north and west to the North Road and the Park Road.  Another large doorway
+leads into the temple to the east.  Up lies the entrance to Mud School.  
+~
+0 0 1
+D0
+You see the North Road.
+~
+~
+0 -1 10727
+D1
+You see a Temple of the Moon.
+~
+~
+0 -1 10777
+D3
+You see a park.
+~
+~
+0 -1 10717
+S
+#10777
+Temple of the Moons~
+This is the northern end of a large temple dedicated to worshipping the
+three moons.  Large windows are covered with drapes during the day but
+uncovered at night so the moon can bathe the temple with its light.  The
+pale grey stonework takes on an inner grow in the moonshine, celebrating the
+neutrality of the moon.  To the south lies the altar and the temple square
+lies to the west.  
+~
+0 12 0
+D2
+You see the altar.
+~
+~
+0 -1 10778
+D3
+You see the Temple Square.
+~
+~
+0 -1 10776
+S
+#10778
+By the Temple Altar~
+This altar is fashioned from pale grey stone into a large crescent shape.
+A round window high in the wall frames the moon precisely twice each year. 
+On those nights, the city is said to be under the good graces of neutrality,
+and any child born will lead a peaceful life.  The temple continues to the
+north.  
+~
+0 262152 0
+D0
+You see the temple.
+~
+~
+0 -1 10777
+M 120 H 120
+S
+#10779
+Temple Square~
+This large courtyard is devoid of plant life.  Evil-looking gargoyles
+leer down on you from every wall.  Be wary of the small traps hiding
+underneath the various flagstones.  A pile of corpses is stacked along one
+wall, the sacrifices from today waiting to be burned.  The temple looms over
+you to the east.  You can escape this evil place to the Dark Alley to the
+south or the Main Road to the west.  
+~
+0 0 1
+D1
+You see inside the temple.
+~
+~
+0 -1 10780
+D2
+You see the dark alley.
+~
+~
+0 -1 10762
+D3
+You see the Main Road.
+~
+~
+0 -1 10737
+S
+#10780
+The Dark Temple~
+This large, cold temple seems to sit over your head with a brooding
+silence.  Hideous statues line the walls, some looking very life-like with
+expressions of horror on their faces.  At the northern end of the temple,
+the torches around the altar seem as though they can barely penetrate the
+darkness.  You can escape out into the somewhat fresh air of the temple
+square to the west.  
+~
+0 12 0
+D0
+You see the altar.
+~
+~
+0 -1 10781
+D3
+You see the Temple Square.
+~
+~
+0 -1 10779
+S
+#10781
+By the Temple Altar~
+A huge chuck of black obsidian stone has been fashioned into a death bed
+for the sacrifices the Dark God demands.  Torches hang on the walls to cast
+a fitful light over the dark enterprise.  The Dark Temple lies to the south.
+~
+0 262152 0
+D2
+You see the temple.
+~
+~
+0 -1 10780
+M 120 H 120
+S
+#10782
+Boat Maker's Shop~
+This small room is where the boat maker plans out his boats.  Charts
+cover the walls and designs of different boats lie on a table.  You can get
+back to the Dark Alley to the north.  
+~
+0 8 0
+D0
+You see the Dark Alley.
+~
+~
+0 -1 10763
+S
+#10783
+Leather Shop~
+This rather smelly shop is filled with various pieces of armor made from
+leather.  The shopkeeper fashions the armor from raw leather bought from the
+tannery next door.  You can escape the foul smells to the south or venture
+up a small ladder in the corner.  A sign sits on the counter.  
+~
+0 8 0
+E
+sign~
+LIST shows you a list of items and their prices that the shop has to sell.
+BUY <item> lets you buy one of the items.
+VALUE <item> shows you how much the shopkeeper is willing to pay for your item.
+and SELL <item> will let you sell your items to the shopkeeper, if he's
+interested and has the money.
+~
+D2
+You see the Poor Alley.
+~
+~
+0 -1 10769
+S
+#10784
+The Parchment Shop~
+This store sells a variety of supplies for making scrolls and also quite
+a few ready made scrolls.  This store also sells some old manuscripts and
+books about the history of Thera.  A small sign sits on the counter top. 
+You can get back to the Market Road to the south.  
+~
+0 8 0
+E
+sign~
+LIST shows you a list of items and their prices that the shop has to sell.
+BUY <item> lets you buy one of the items.
+VALUE <item> shows you how much the shopkeeper is willing to pay for your item.
+and SELL <item> will let you sell your items to the shopkeeper, if he's
+interested and has the money.
+~
+D2
+~
+~
+0 -1 10753
+S
+#10785
+General Store~
+This small store is stocked with all the types of things a person might
+need that are nonperishable.  Bags and sacks lie in piles on the floor while
+oil lamps and bundles of torches hang from the walls.  A ladder reaches up
+to a room above the store and a sign hangs on the wall.  You can get back to
+the Main Road to the west.  
+~
+0 8 0
+E
+sign~
+LIST shows you a list of items and their prices that the shop has to sell.
+BUY <item> lets you buy one of the items.
+VALUE <item> shows you how much the shopkeeper is willing to pay for your item.
+and SELL <item> will let you sell your items to the shopkeeper, if he's
+interested and has the money.
+~
+D3
+You see the Main Road.
+~
+~
+0 -1 10736
+D4
+You see the bedroom.
+~
+~
+0 -1 10786
+S
+#10786
+Tiny Room~
+This tiny room is filled by the bed on one wall, the desk in the corner
+and the hole you came up through.  The shopkeeper must keep his excess
+inventory elsewhere.  You can go back down to the shop on the ladder.  
+~
+0 8 0
+D5
+You see the store below.
+~
+~
+0 -1 10785
+S
+#10787
+Pet Shop~
+This shop specialized in catching and taming wild animals and also
+breeding them to have domestic offspring.  You can purchase these pets to
+fight along side you as you venture out into the more dangerous parts of
+Thera.  A small sign sits among the cages and the Main Road lies to the
+east.  
+~
+0 4104 0
+E
+sign~
+LIST shows you a list of items and their prices that the shop has to sell.
+BUY <item> lets you buy one of the items.
+VALUE <item> shows you how much the shopkeeper is willing to pay for your item.
+and SELL <item> will let you sell your items to the shopkeeper, if he's
+interested and has the money.
+~
+D1
+You see the Main Road.
+~
+~
+0 -1 10736
+S
+#10788
+Pet Shop Store~
+This is the small dark room in which the shopkeeper keeps his pets.  It
+is vital that this room be immediately after the pet shop.  
+~
+0 281026573 0
+S
+#10789
+Map Shop~
+You are in the Map Store.  All you see around you are maps, maps, and
+more maps.  There are maps hanging on the walls, maps lying on the tables,
+maps rolled up on the ground, and even more maps on the shelves.  An old
+adventurer who bears the marks of one who has traveled afar in his life time
+is here, selling you maps.  You can leave the store to the east.  
+~
+0 8 0
+D1
+You see the Main Road.
+~
+~
+0 -1 10734
+S
+#10790
+The Garden Bounty~
+This store is filled with bins of freshly picked vegetables.  You can see
+the garden they were picked from in the back, on top of a small hill.  A
+small sampler of vegetables sits on the counter next to a sign.  You can
+back to the Main Road to the west.  
+~
+0 8 0
+E
+sign~
+LIST shows you a list of items and their prices that the shop has to sell.
+BUY <item> lets you buy one of the items.
+VALUE <item> shows you how much the shopkeeper is willing to pay for your item.
+and SELL <item> will let you sell your items to the shopkeeper, if he's
+interested and has the money.
+~
+D3
+You see the Main Road.
+~
+~
+0 -1 10734
+D4
+You see the Vegetable Garden.
+~
+~
+0 -1 10791
+S
+#10791
+Vegetable Garden~
+This nice sunny garden is filled with rows of vegetables, waiting to be
+harvested.  There are rows of bell peppers, ripening in the sun, and lots of
+leafy green sprouts that you suspect are the tops of carrots and turnips. 
+You don't see any of the wonderful mushrooms sold in the store, those are
+gathered from the western forest.  You can get back to the store by going
+down the hill.  
+~
+0 8 0
+D5
+You see the store.
+~
+~
+0 -1 10790
+S
+#10792
+Apotheracy~
+This small store is filled with a strange mixture of vile vapors and
+refreshing scents.  Various potions are displayed beneath a locked
+countertop.  A large sign hangs on the wall, and the Market Road lies to the
+north.  
+~
+0 8 0
+E
+sign~
+LIST shows you a list of items and their prices that the shop has to sell.
+BUY <item> lets you buy one of the items.
+VALUE <item> shows you how much the shopkeeper is willing to pay for your item.
+and SELL <item> will let you sell your items to the shopkeeper, if he's
+interested and has the money.
+~
+D0
+You see the Market Road.
+~
+~
+0 -1 10753
+S
+#10793
+Armory~
+This hot room is only lit by the light of the fires in the forge and
+whatever light might come in through the doorway.  The armourer takes pride
+in his work.  He made his way up from a lowly apprentice to the point he is
+at now, with kings and great warriors coming to him to buy his fine armor
+and get their armor repaired by a master.  He sells his ringmail and
+chainmail to the public, but his special customers only get the best:
+mithril, plate, and adamantine.  A sign sits on the counter and you can get
+back to the road to the north.  
+~
+0 8 0
+E
+sign~
+LIST shows you a list of items and their prices that the shop has to sell.
+BUY <item> lets you buy one of the items.
+VALUE <item> shows you how much the shopkeeper is willing to pay for your item.
+and SELL <item> will let you sell your items to the shopkeeper, if he's
+interested and has the money.
+~
+D0
+You see the Market Road.
+~
+~
+0 -1 10745
+D4
+You see a small room.
+~
+~
+0 -1 10794
+S
+#10794
+Small Room~
+This is a small room above the armory where the smith and his apprentices
+come to take naps.  The room will never need heating thanks to the heat from
+the forge just below you.  The smith also has some jeweler's tools lying on
+his work bench, maybe he doesn't want to do just armor for the rest of his
+life.  The armory lies downstairs.  
+~
+0 8 0
+D5
+You see the armory.
+~
+~
+0 -1 10793
+S
+#10795
+Fruit Stand~
+This open air stand sits in the corner of the Market Square, facing the
+Market Road to the south.  The assortment of fruits offered here is amazing.
+Fruits from all over Thera are stacked in bins and bushels, perfectly ripe
+for eating.  You suspect that magic might be involved.  A large sign hangs
+in back.  
+~
+0 8 0
+E
+sign~
+LIST shows you a list of items and their prices that the shop has to sell.
+BUY <item> lets you buy one of the items.
+VALUE <item> shows you how much the shopkeeper is willing to pay for your item.
+and SELL <item> will let you sell your items to the shopkeeper, if he's
+interested and has the money.
+~
+D2
+You see the Market Road.
+~
+~
+0 -1 10745
+S
+#10796
+Weapon Shop~
+You are entered a large room with a white marble floor.  Tapestries
+showing scenes of battle line the walls in between the displays of the
+weapons.  You are sure that there are many fine articles for sale in this
+store.  It seems as though this weaponsmith supplies to the royal armies. 
+There is a small sign on the counter.  You can back the Market Road to the
+north.  
+~
+0 8 0
+E
+sign~
+LIST shows you a list of items and their prices that the shop has to sell.
+BUY <item> lets you buy one of the items.
+VALUE <item> shows you how much the shopkeeper is willing to pay for your item.
+and SELL <item> will let you sell your items to the shopkeeper, if he's
+interested and has the money.
+~
+D0
+You see the Market Road.
+~
+~
+0 -1 10747
+S
+#10797
+The Wizard's Shop~
+This fine establishment offers a variety of wands and staves for your
+amusement and protection.  A display of some of the more popular wands and
+staves is locked behind the counter.  A small card rests on the counter and
+you can back to the Market Road to the south.  
+~
+0 8 0
+E
+card~
+LIST shows you a list of items and their prices that the shop has to sell.
+BUY <item> lets you buy one of the items.
+VALUE <item> shows you how much the shopkeeper is willing to pay for your item.
+and SELL <item> will let you sell your items to the shopkeeper, if he's
+interested and has the money.
+~
+D2
+You see the Market Road.
+~
+~
+0 -1 10752
+S
+#10798
+Jeweler~
+You are in a small, beautifully furnished room.  The warm light emanating
+from the small oil maps on the walls is reflected in the hard, polished
+surface of the big mahohany desk that stands in the center of the room.  A
+small sign with golden letters stands on the desk.  
+~
+0 8 0
+E
+sign~
+LIST shows you a list of items and their prices that the shop has to sell.
+BUY <item> lets you buy one of the items.
+VALUE <item> shows you how much the shopkeeper is willing to pay for your item.
+and SELL <item> will let you sell your items to the shopkeeper, if he's
+interested and has the money.
+~
+D2
+You see the Market Road.
+~
+~
+0 -1 10746
+S
+#10799
+Training Grounds~
+You are standing in the middle of a small open field off of the streets
+of Tangar.  All around you are various tools to help you improve your
+health, magical energy, stamina, and other attributes.  A trainer is here to
+help guide you along.  You can back to the Park Road to the south.  
+~
+0 262152 0
+D2
+You see the Park Road.
+~
+~
+0 -1 10706
+S
+#10800
+Butcher~
+This store is filled with the aroma of roasting meats, thankfully over-
+powering the smell of the raw meat hanhing behind the counter.  Here you can
+pick up an assortment of raw meats to cook at home or some of the butcher's
+famous beef jerky, dried out back in the sun, or one of his cooked
+selections.  A small card sits on the counter and the Market Road lies to
+the north.  
+~
+0 8 0
+E
+card~
+LIST shows you a list of items and their prices that the shop has to sell.
+BUY <item> lets you buy one of the items.
+VALUE <item> shows you how much the shopkeeper is willing to pay for your item.
+and SELL <item> will let you sell your items to the shopkeeper, if he's
+interested and has the money.
+~
+D0
+You see the Market Road.
+~
+~
+0 -1 10751
+S
+#10801
+Bakery~
+This large store turns out enough bread each day to feed all the people
+of the city and all the hungry travelers coming through.  All the innkeepers
+in the city come to this baker to get fresh bread each day.  Leaves of bread
+are displayed on racks around the store and pastries line all the shelves. 
+A small sign sits on the counter and you can get back to the Market Road to
+the south.  
+~
+0 8 0
+E
+sign~
+LIST shows you a list of items and their prices that the shop has to sell.
+BUY <item> lets you buy one of the items.
+VALUE <item> shows you how much the shopkeeper is willing to pay for your item.
+and SELL <item> will let you sell your items to the shopkeeper, if he's
+interested and has the money.
+~
+D2
+You see the Market Road.
+~
+~
+0 -1 10751
+S
+#10802
+Bargalha's Tavern~
+This large tavern is filled with travelers and young adventurers, all of
+whom seems intent on having a good time and a great deal of ale.  The bar
+lies to the south and the Main Road lies to the east.  
+~
+0 8 0
+D1
+You see the Main Road.
+~
+~
+0 -1 10737
+D2
+You see the bar.
+~
+~
+0 -1 10803
+S
+#10803
+At the Bar~
+You stand at a long, wooden bar amongst some drunken adventurers.  As you
+turn away from one boring story of exploits, you get caught up in another. 
+Smoke hangs heavy in the air and you start to see images of the adventures
+in the clouds of smoke.  A small sign sits on the bar and the common room
+continues to the north.  
+~
+0 8 0
+E
+sign~
+LIST shows you a list of items and their prices that the shop has to sell.
+BUY <item> lets you buy one of the items.
+VALUE <item> shows you how much the shopkeeper is willing to pay for your item.
+and SELL <item> will let you sell your items to the shopkeeper, if he's
+interested and has the money.
+~
+D0
+You see the common room.
+~
+~
+0 -1 10802
+S
+#10804
+Entrance to the Transmuters' Guild~
+This small anteroom proclaims with large glowing runes what none but
+mages may pass farther.  The room is sparsely furnished with chairs for
+friends to sit on while they wait for their mage friends to learn their
+trade.  Everyone can get to Market Road to the north but only transmuters
+may go east.  
+~
+0 8 0
+D0
+You see the Market Road.
+~
+~
+0 -1 10752
+D1
+You see the Laboratory.
+~
+~
+0 -1 10805
+S
+#10805
+The Laboratory~
+This room serves as a learning place for mages and as a research area for
+the highter level transmuters and the guildmaster.  As you look around, you
+see some pieces of glass that have been permanently imbedded in the walls
+from misbrewed potions.  The multitude of scorch marks bears further mute
+testimony to the many failures but for each failure there is a success and a
+furthering of knowledge of Thera.  The entrance is to the west.  
+~
+0 8650764 0
+D3
+You see the entrance.
+~
+~
+0 -1 10804
+S
+#10806
+Entrance to the Warriors' Guild~
+This spartan entryway has only the most uncomfortable chairs for visitors
+to sit in, to encourage endurance of pain in non-warriors in the hopes they
+may come to appreciate the warrior's lifestyle.  Only true warriors may pass
+through the doors to the north, all the rest will have to leave to the
+south.  
+~
+0 8 0
+D0
+You see the Guildhall.
+~
+~
+0 -1 10807
+D2
+You see the Market Road.
+~
+~
+0 -1 10747
+S
+#10807
+Practice Yard~
+The practice yard of the warriors.  To the north is the entrance hall.  A
+well leads down into darkness.  
+~
+0 8650764 0
+D2
+You see the entrance hall.
+~
+~
+0 -1 10806
+S
+#10808
+Entrance to the Thieves' Guild~
+This is a dark, smoky room, just the way thieves like it.  You'd better
+keep a close eye on your valuables while waiting in here.  The few chairs
+look rather suspicious, as though designed to make pockets hang open when
+sat in and give Thieves easy access to your money.  The only exit you can
+see are a door at the north, leading back to the Poor Alley, and a door to
+the west that leads deeper into the Guild, a place where none but thieves
+dare tread.  
+~
+0 8 0
+D0
+You see the Poor Alley.
+~
+~
+0 -1 10768
+D3
+You see the Guildhall.
+~
+~
+0 -1 10809
+S
+#10809
+Secret Yard~
+The secret practice yard of thieves.  To the east is the entrance hall. 
+A well leads down into darkness.  
+~
+0 8650764 0
+D1
+You see the entrance hall.
+~
+~
+0 -1 10808
+D5
+You can't see what is down there, is it too dark.  Looks like it would be
+impossible to climb back up.
+~
+~
+0 -1 8
+S
+#10810
+Entrance to the Anti-Paladins' Guild~
+This large entrance hall is marked by a sword hanging on the wall, with
+the tip pointing up.  Other than the sword, the room is devoid of any
+furnishings.  If you want to wait for your Anti-Paladin companion (since he
+is obviously not your friend), you will just have to sit on the floor.  Only
+Anti-Paladins may continue to the south.  Only they would want to.  Everyone
+may exit to the north.  
+~
+0 8 0
+D0
+You see the dark alley.
+~
+~
+0 -1 10766
+D2
+You see the Guildhall.
+~
+~
+0 -1 10811
+S
+#10811
+The Anti-Paladins' Guild~
+You step into your guild house.  Several Knights of Legion are relaxing
+here.  They bear the ensignia of high rank within Udgaard Loke's army.  You
+ponder whether abiding by Loke's laws in worth the favor he gives Anti-
+Paladins in his army of evil.  
+~
+0 8650764 0
+D0
+You see the entrance hall.
+~
+~
+0 -1 10810
+S
+#10812
+Entrance to the Paladins' Guild~
+This humble foyer only contains a few plain chairs a beautiful filigreed
+cross, dedicated to the gods of honor.  Only the purest of heart and
+humblest of intent may enter further into this Guild to the west.  Everyone
+may exit to the east.  
+~
+0 8 0
+D1
+You see the Main Road.
+~
+~
+0 -1 10733
+D3
+You see the Guildhall.
+~
+~
+0 -1 10813
+S
+#10813
+Holy Temple~
+Did you practice flamstrike?  Perhabs your guildmaster is ugly and mas
+has idiot face, but he helps you certainly good and always think about you. 
+A well in the middle of the floor leads down into darkness.  
+~
+0 8650764 0
+D1
+You see the entrancel hall.
+~
+~
+0 -1 10812
+S
+#10814
+Entrance to the Clerics' Guild~
+This room almost looks like a temple with all the stained glass, frescos,
+paintings and crosses, all to glorify the gods.  Clerics worship all gods
+with equal devotion, some clerics gravitate toward particular gods, but they
+all observe all the rituals.  This entrance hall has shrines for each of the
+gods of Thera so that any waiting friends may worship at the shrine of their
+choice.  Clerics may go further into the Guildhall to the east and everyone
+may exit to the north.  
+~
+0 8 0
+D0
+You see the North Road.
+~
+~
+0 -1 10728
+D1
+You see the Guildhall.
+~
+~
+0 -1 10815
+S
+#10815
+Inner Sanctum~
+This is the inner sanctum.  A pircure of the mighty Thera is handing on
+the wall, just above the altar which is set against the western wall.  A
+well in the middle of the floor leads down into darkness.  Vile smells waft
+from the depths.  
+~
+0 8650764 0
+D3
+You see the entrance hall.
+~
+~
+0 -1 10814
+S
+#10816
+Entrance to the Assassins' Guild~
+You are standing in the entrance of a plain, but well-made building. 
+There is little decorating save for some small letterings over the door into
+the Guild.  A guard stands here to make sure you are worthy of entering.  
+~
+0 8 0
+D0
+You see the Poor Alley.
+~
+~
+0 -1 10769
+D1
+You see the Guildhall.
+~
+~
+0 -1 10817
+S
+#10817
+Dojo~
+This room here is filled with several students and a few teachers
+practising their art.  Practice weapons of every sort linr the walls, their
+use waiting to be taught.  The air is filled with the smell of hard work
+mixed with exotic insence.  The entrance lies to the west.  
+~
+0 8650764 0
+D3
+You see the entrance hall.
+~
+~
+0 -1 10816
+D5
+You can't see what is down there, is it too dark.  Looks like it would be
+impossible to climb back up.
+~
+~
+0 -1 8
+S
+#10818
+Common Room~
+You stand in the main room if the inn.  As your eyes adjust to the murky
+light, you notice there are several empty tables.  A large fireplace sits in
+the center of the east wall, providing most of the light in the room.  A
+large deer from the western forests slowly roasts over the flames.  The room
+continues to the north.  The road lies back to the south.  A small doorway
+exits to the east.  
+~
+0 8 0
+D0
+You see the back room.
+~
+~
+0 -1 10819
+D1
+You see the Bards Guild.
+~
+~
+0 -1 10826
+D2
+You see the North Road.
+~
+~
+0 -1 10729
+D4
+You see the bar.
+~
+~
+0 -1 10827
+S
+#10819
+Back Room~
+This room at the back of the inn is where people come to engage in
+business transactions.  Everyone is hudded in small groups around their
+tables, talking in low whispers to prevent anyone from eavesdropping.  The
+rest of the room is very bare.  Back to the louder common room of the inn to
+the south.  
+~
+0 8 0
+D2
+You see the common room.
+~
+~
+0 -1 10818
+S
+#10820
+City Guard Headquarters~
+Here is the headquarters for the guards of the city.  They ensure that
+the Mayor's laws get enforced and the more corrupt citizens of Tangar are
+kept under control.  A large iron door bars the way into the jail room to
+the north.  You can get back to the road to the west.  
+~
+0 8 0
+D0
+You see the jail.
+~
+door~
+1 -1 10821
+D3
+You see the Main Road.
+~
+~
+0 -1 10733
+S
+#10821
+In Jail~
+You are in jail!  This small, square chamber has a massive, steel door
+for the south wall and a tiny, barred window in the north wall.  As you look
+out the window, you can see the beautiful city park just across the road. 
+Too bad you're stuck in here.  
+~
+0 8 0
+D2
+You see the headquarters.
+~
+door~
+1 -1 10820
+S
+#10822
+Entrance to the Invokers' Guild~
+This small antreroom proclaims with large glowing runes that none but
+invokers may pass farther.  The room is sparsely furnished with chairs for
+friends to sit on while they wait for their invoker friends to learn their
+trade.  The guild lies to the east, while North Road is back to the north.  
+~
+0 8 0
+D0
+You see the North Road.
+~
+~
+0 -1 10721
+D1
+You see the Guildhall.
+~
+~
+0 -1 10823
+S
+#10823
+Invokers' Guild~
+A large pentagram is incscribed in the center of the floor, the
+guildmaster's teaching platform.  Several smaller pentagrams lie outside it
+for the students to practice with.  The air crackles with the powers that
+are summoned into the room.  Fortunately, it is well magic-proofed and there
+is minimal danger of an explosion.  The entrance lies to the west.  
+~
+0 8650764 0
+D3
+You see the entrance hall.
+~
+~
+0 -1 10822
+S
+#10824
+Desecrated Shrine~
+Headless marble statues and a crushed reliquary are all that remain
+within this polluted shrine to some forgotten god of Light & Life. 
+Overgrown with vines and stinging nettles, the small windows near the
+ceiling offer no light to this shadowed and chilly ruin.  A narrow doorway
+leads west to a Dark Alley and a steep flight of wooden stairs leads down
+into blackness...  
+~
+0 8 0
+D3
+You see the Dark Alley.
+~
+~
+0 -1 10764
+D5
+You see the Guildhall.
+~
+~
+0 -1 10825
+S
+#10825
+Vast Cellar~
+Deep below the streets of Tangar is where the necromantic community
+gathers to carry out theirt loathsome experiments in secret.  This vast donk
+cellar reeks of decomposing organs embalming fluids, and black smoke. 
+Twisted corpses lie stacked in one corner, the rejects from today's studies.
+A cold mist floats here permenantly.  
+~
+0 8650764 0
+D4
+You see the entrance hall.
+~
+~
+0 -1 10824
+S
+#10826
+Grebe's Tavern~
+Dive.  That's all you can say about this place; its a dive.  You step
+carefully over the dead and/or drunk sailors on the floor toward the center
+of the room.  There's no decorations on the wall, they've all been ripped
+down in anger or for use as weapons at one time or another.  Looking around
+you search vainly for a clean table to sit at, and then give up.  
+~
+0 8 0
+D0
+You see the music guildhall.
+~
+~
+0 -1 10828
+D3
+You see the common room.
+~
+~
+0 -1 10818
+S
+#10827
+The Bar~
+A long mahohany bar is set in the back of the inn.  Mugs line a shelf
+behind the bar.  Bottles of strong, nasty looking liquids decorate one of
+the lower shelves.  A large cask rests on a table begind the bar.  A strong
+but friendly-looking bartender stands next to the cask polishing glasses.  A
+couple of the bar maids stand in a corner and throw the most inviting
+glances your way.  
+~
+0 8 0
+E
+sign table~
+The sign says: Don't forget our dinner menu.
+~
+D5
+You see the common room.
+~
+~
+0 -1 10818
+S
+#10828
+Music Guildhall~
+This room is filled with music.  Shelves line each wall from floor to
+ceiling, each shelf covered with musical scores.  Several musical
+instruments are in stands scrattered throughout the room, waiting to be used
+to learn the music.  A grand piano even stands in one corner.  A large table
+in the center is covered with scores, some of which are blank and are
+waiting to be filled with new music.  
+~
+0 8650764 0
+D2
+You see the tavern.
+~
+~
+0 -1 10826
+S
+#10829
+Entrance to the West Watchtower~
+
+~
+0 262144 1
+D3
+~
+~
+0 0 10701
+S
+#10830
+~
+
+~
+0 0 0
+D1
+~
+~
+0 0 10701
+S
+#0
+
+
+
+#SPECIALS
+M 10717 spec_cast_adept
+M 10718 spec_cast_adept
+M 10719 spec_cast_adept
+M 10720 spec_guard
+M 10725 spec_cast_mage
+M 10726 spec_cast_mage
+M 10727 spec_cast_mage
+M 10731 spec_fido
+M 10732 spec_guard
+M 10733 spec_janitor
+M 10734 spec_nasty
+M 10742 spec_cast_mage
+M 10761 spec_guard
+M 10762 spec_guard
+S
+
+
+
+#RESETS
+D 0 10700 2 1
+D 0 10701 0 1
+M 0 10720 10 10700 2
+M 0 10731 9 10703 1
+M 0 10732 11 10703 1
+M 0 10732 11 10707 1
+M 0 10731 9 10708 1
+M 0 10733 2 10710 1
+M 0 10732 11 10714 1
+M 0 10731 9 10715 1
+M 0 10732 11 10722 1
+M 0 10731 9 10724 1
+M 0 10720 10 10726 1
+M 0 10732 11 10729 1
+M 0 10720 10 10731 1
+M 0 10732 11 10733 1
+M 0 10731 9 10734 1
+M 0 10732 11 10737 1
+M 0 10731 9 10738 1
+M 0 10733 2 10740 1
+M 0 10732 11 10741 1
+M 0 10720 10 10743 2
+M 0 10731 9 10746 1
+M 0 10732 11 10747 1
+M 0 10720 10 10750 2
+M 0 10732 11 10752 1
+M 0 10731 9 10753 1
+M 0 10720 10 10755 2
+M 0 10738 1 10765 1
+M 0 10732 11 10768 1
+M 0 10734 1 10769 1
+M 0 10731 9 10770 1
+M 0 10700 1 10771 1
+M 0 10719 1 10775 1
+M 0 10717 1 10778 1
+M 0 10718 1 10781 1
+M 0 10703 1 10782 1
+M 0 10704 1 10783 1
+M 0 10726 1 10784 1
+M 0 10701 1 10785 1
+M 0 10702 1 10787 1
+M 0 10705 1 10788 1
+M 0 10706 1 10788 1
+M 0 10707 1 10788 1
+M 0 10708 1 10788 1
+M 0 10709 1 10788 1
+M 0 10710 1 10788 1
+M 0 10711 1 10788 1
+M 0 10712 1 10789 1
+M 0 10713 1 10790 1
+M 0 10727 1 10792 1
+M 0 10714 1 10793 1
+M 0 10715 1 10795 1
+M 0 10716 1 10796 1
+M 0 10725 1 10797 1
+M 0 10721 1 10798 1
+M 0 10722 1 10799 1
+M 0 10724 1 10800 1
+M 0 10723 1 10801 1
+M 0 10729 1 10802 1
+M 0 10730 2 10802 1
+M 0 10728 1 10803 1
+M 0 10742 1 10804 1
+M 0 10749 1 10805 1
+M 0 10739 1 10806 1
+M 0 10755 1 10807 1
+M 0 10741 1 10808 1
+M 0 10754 1 10809 1
+M 0 10748 1 10810 1
+M 0 10756 1 10811 1
+M 0 10743 1 10812 1
+M 0 10757 1 10813 1
+M 0 10740 1 10814 1
+M 0 10753 1 10815 1
+M 0 10744 1 10816 1
+M 0 10758 1 10817 1
+M 0 10730 2 10818 1
+M 0 10717 1 10818 1
+M 0 10761 1 10820 1
+M 0 10762 4 10820 4
+M 0 10745 1 10822 1
+M 0 10750 1 10823 1
+M 0 10746 1 10824 1
+M 0 10751 1 10825 1
+M 0 10759 1 10826 1
+M 0 10760 1 10827 1
+M 0 10752 1 10828 1
+S
+
+
+
+#SHOPS
+10701 1 9 13 15 19 100 50 0 23
+10702 0 0 0 0 0 100 50 0 23
+10703 22 0 0 0 0 100 50 0 23
+10704 9 0 0 0 0 100 50 0 23
+10712 0 0 0 0 0 100 50 0 23
+10713 0 0 0 0 0 100 50 0 23
+10714 9 0 0 0 0 100 50 0 23
+10715 0 0 0 0 0 100 50 0 23
+10716 5 0 0 0 0 100 50 0 23
+10721 8 30 32 33 0 100 50 0 23
+10723 0 0 0 0 0 100 50 0 23
+10724 0 0 0 0 0 100 50 0 23
+10725 3 0 0 0 0 100 50 0 23
+10726 2 0 0 0 0 100 50 0 23
+10727 10 0 0 0 0 100 50 0 23
+10728 0 0 0 0 0 100 50 0 23
+0
+
+
+
+#$

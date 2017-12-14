@@ -1,0 +1,1970 @@
+#AREADATA
+Name Sanitorium~
+Builders Fluffy Halodar~
+VNUMs 1900 1999
+Credits {40   80} Glory       Sanitorium~
+Security 9
+Version 1
+End
+
+
+
+#MOBILES
+#1900
+nurse cratchitt~
+Nurse Cratchitt~
+Nurse Cratchitt snaps a rubber glove over her hand!
+~
+A very masculine female nurse is preparing to participate in her favorite
+part of the day.  
+~
+unique~
+ABCT Vc -300 0
+80 0 0d0+0 0d0+0 0d0+0 charge
+0 0 0 0
+EFHVX AB 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium unknown
+#1901
+drager demonspawn~
+Drager~
+A demonspawn in-patient bends over for a bar of soap.
+~
+Drager's muscles have maintained their tone during his stay at
+Cherrywood.  He is preparing to cleanse himself of the sweat and grime
+accumulated throughout the day.  
+~
+unique~
+ABT FGTZa -666 0
+57 0 0d0+0 0d0+0 0d0+0 chomp
+0 0 0 0
+CEFNV AB HLQ IKN
+stand stand male 0
+ABHMV ABCDEFGHIJKUVW huge unknown
+#1902
+charice~
+Charice~
+Charice is reviewing the day's roster.
+~
+You see a lovely young Kesthai, earning meager wages to further her
+studies.  She looks up from the roster and flashes a warm smile before
+resuming her task.  
+~
+unique~
+AB 0 0 0
+50 0 0d0+0 0d0+0 0d0+0 slap
+0 0 0 0
+FI 0 0 BL
+stand stand female 0
+AHMV ABCDEFGHIJK medium unknown
+#1903
+pax~
+Pax~
+Pax sits behind a desk, organizing paperwork.
+~
+This half-elf seems to have received most of his genes from his human
+parent, as his pointy ears are the only identifiably elven feature he has. 
+He is dressed conservatively, in a tasteful tunic and leggings.  
+~
+unique~
+AB J 300 0
+54 0 0d0+0 0d0+0 0d0+0 punch
+0 0 0 0
+FNV A B Z
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#1904
+bruce vice administrator~
+Bruce~
+The Vice Administrator of Cherrywood is here, looking befuddled.
+~
+An unkept human stands before you, his hair scraggly and unwashed, his
+clothing wrinkled and untucked.  Bruce spends most of his time looking for
+misplaced items.  
+~
+unique~
+ABH 0 0 0
+69 0 0d0+0 0d0+0 0d0+0 punch
+0 0 0 0
+FNV A B E
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#1905
+sharla head administrator~
+Sharla~
+The Head Administrator of Cherrywood is brooding here.
+~
+A bulky amazon has her hair swept up into a severe bun with a long braid
+extending from it.  Her skin is browned from the sun, and she is scantily
+clothed in studded leather.  Sharla appears agitated as she glares at the
+dart board with intense concentration.  The cologne in the room seems to
+have been deposited by a recent visitor.  
+~
+unique~
+ABT V 250 0
+79 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+DEFIKNVX AB E Q
+stand stand female 0
+AHMV ABCDEFGHIJK medium unknown
+#1906
+in-patient brownie~
+the brownie~
+A forgotten in-patient is playing with a newly opened bottle of wine.
+~
+The brownie somehow snuck by the orderlies and found his way to his favorite
+place of meditation.
+~
+unique~
+ABS DFH 0 0
+47 0 0d0+0 0d0+0 0d0+0 chomp
+0 0 0 0
+FHJKV 0 C B
+stand stand male 0
+AHMV ABCDEFGHIJK tiny unknown
+#1907
+troll~
+the troll~
+A troll is poking his eye with a sharp stick.
+~
+His bumpy skin has dribbles of mucus sliding along it.  He babbles in
+incoherant grunts with an occasional outburst of nonsense.  
+~
+unique~
+ABC FJc -200 0
+53 0 0d0+0 0d0+0 0d0+0 punch
+0 0 0 0
+DFKV 0 BE HK
+stand stand male 0
+ABHMV ABCDEFGHIJKUV large unknown
+#1910
+skaven~
+skaven~
+A skaven is gnawing on its latest creation.
+~
+The rat-like humanoid holds a clay figure that is lacking any
+identifiable form.  Its sharp pointy teeth scrape against the clay, as its
+tongue circles the creation.  
+~
+unique~
+ABC Z -300 0
+54 0 0d0+0 0d0+0 0d0+0 bite
+0 0 0 0
+FKMV AB L I
+stand stand male 0
+AGXc ACDEFHKQV medium unknown
+#1911
+starn dwarf~
+Starn~
+A dwarf is crawling on the floor, looking for his marbles.
+~
+A stout mountain dwarf seems to have lost his marbles.  He scuttles by
+your feet.  
+~
+unique~
+AB JZ 200 0
+53 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+CDFV A LQ F
+stand stand male 0
+AHMV ABCDEFGHIJK small unknown
+#1912
+khargan gargoyle~
+Khargan~
+A gargoyle is playing with a short deck.
+~
+Khargan is seated at one of the tables, playing a rousing game of
+solitaire.  He can't seem to find the last card, however.  
+~
+unique~
+ABT HT 0 0
+56 0 0d0+0 0d0+0 0d0+0 punch
+0 0 0 0
+CKV AB D C
+stand stand male 0
+AHZ ACDEFHJKLOPQUVWXY large unknown
+#1913
+lunie~
+Lunie~
+Lunie is here playing a tune.
+~
+A once beautiful dryad is tapping rounded sticks together and humming to
+herself.  Her bark-like skin appears to have had messages graffittied into
+it, and her grey hair has lost its luster.  
+~
+unique~
+ABQ H 570 0
+49 0 0d0+0 0d0+0 0d0+0 slap
+0 0 0 0
+FKV 0 BF EG
+stand stand female 0
+AHMV ABCDEFGHIJK medium unknown
+#1914
+bastetii~
+the bastetii~
+A bastetii carrying an ink-dipped feather is eyeing your forehead eagerly.
+~
+The sleek blonde fur of the bastetii shimmers slightly under the
+lighting.  She purrs in your direction and begins to saunter towards you.  
+~
+unique~
+ABR VZ -150 0
+61 0 0d0+0 0d0+0 0d0+0 claw
+0 0 0 0
+FHKV A B 0
+stand stand female 0
+AGV ACDEFHJKQUV medium unknown
+#1915
+patient~
+the patient~
+A patient huddles in the corner, drooling happily.
+~
+Her hair has been chopped into various lengths with a blunt instrument,
+and her wide staring eyes hold an eerie vacancy.  Shiny white skin surrounds
+her painfully thin structure, glistening with the saliva that flows in a
+steady stream from her mouth.  
+~
+unique~
+AB Y 340 0
+40 0 0d0+0 0d0+0 0d0+0 punch
+0 0 0 0
+FIV 0 0 CD
+sit sit female 0
+AHMV ABCDEFGHIJK medium unknown
+#1916
+clarissa~
+Clarissa~
+Clarissa has just received treatment.
+~
+You see wide bloodshot eyes staring back at you.  Clarissa seems to be
+imbued with a supernatural strength, possibly resulting from her taste of
+electricity.  Her muscles twitch involuntarily as she prepares to share her
+recent experiences with you.  
+~
+unique~
+ABF a 0 0
+62 0 0d0+0 0d0+0 0d0+0 shock
+0 0 0 0
+FKVX A BEJ 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium unknown
+#1917
+small lightning bolt~
+a small lightning bolt~
+A small lightning bolt strays from its path.
+~
+The flash of light is blinding, and a violent heat washes over you.  A
+loud *BOOM*!  Shakes against your eardrums.  
+~
+unique~
+ABF TZa 0 0
+65 0 0d0+0 0d0+0 0d0+0 shock
+0 0 0 0
+FH ABJLOQ EH CS
+stand stand none 0
+AGV ACDEFHJKP medium unknown
+#1918
+grey elf greyelf~
+the grey elf~
+A grey elf is huddled over a workbench.
+~
+Rivulets of sweat drip slowly along the elf's face as he labors intently
+over his project.  
+~
+unique~
+ABH J 0 0
+62 0 0d0+0 0d0+0 0d0+0 punch
+0 0 0 0
+FIV A BC Z
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#1919
+orc child durgo~
+Durgo~
+An orc child nips at your knees.
+~
+He growls at you and flashes a mouthful of sharp teeth.  Bits of tendons
+hang from the gaps in his teeth, and splashes of blood line his lips.  
+~
+unique~
+ABH J -800 0
+60 0 0d0+0 0d0+0 0d0+0 bite
+0 0 0 0
+FIN A Q S
+stand stand male 0
+AHMV ABCDEFGHIJK small unknown
+#1920
+misty form shifter~
+Shifter~
+A misty form melds with the shadows.
+~
+A shadowy presence slinks through the room, taunting you.  Occasional
+flashes of piercing red lights blink at you through the inky blackness.  
+~
+unique~
+ABCOR QUZ -750 0
+69 0 0d0+0 0d0+0 0d0+0 chill
+0 0 0 0
+GKV ABEL FGJQ DHN
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#1921
+fruit flies swarm~
+a swarm of fruit flies~
+A swarm of fruit flies dive at your ears.
+~
+Tiny black dots with minute wings buzz angrily in a swarm so thick it
+almost appears to be a dark cloud.  
+~
+unique~
+ABCF TZ 0 0
+59 0 0d0+0 0d0+0 0d0+0 bite
+0 0 0 0
+HU B FI E
+stand stand none 0
+ABGO ACKP tiny unknown
+#1922
+ancient demonspawn traxyn~
+Traxyn~
+The ancient demonspawn of muses perches on the carousel.
+~
+Rarely have you seen a creature of such sublime form.  Every muscle
+clearly defined, every talon sharpened to perfection, and eyes the color of
+obsidian.  He perches comfortably along the upper ridge of the carousel,
+keeping watch over his masterpiece.  
+~
+unique~
+ABCRT GHTZd -1000 0
+80 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+CEFKLRVX AB CEHLQ IKN
+stand stand male 0
+AHMV ABCDEFGHIJKPUVW huge unknown
+#1923
+plant stink pod~
+a stink pod~
+A large plant draws your attention.
+~
+The plant has a rich green color and stretches about 8 feet into the air.
+There are a number of small green stems branching from the main stalk, each
+ending in a thick pod-like structure.  It trembles slightly as it continues
+along its growth cycle.  
+~
+unique~
+AB 0 -600 0
+68 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+FV ABL EQ G
+stand stand none 0
+AHMV ABCDEFGHIJK large unknown
+#1924
+carousel horse~
+a carousel horse~
+A carousel horse is nearby.
+~
+The paint has faded to a point that little is distinguishable other than
+the plasticine material the horse is made of.  The craftsmanship indicates
+the horse must have been a spectacular sight in its glory days.  Now it dies
+a slow death within the walls of the sanitorium.  
+~
+unique~
+ABM GTZ -1000 0
+74 0 0d0+0 0d0+0 0d0+0 charge
+0 0 0 0
+DHLNR AB FHLQ EIKN
+stand stand none 0
+ABGHMV ABCDEFGHIJKUVW medium unknown
+#1925
+kesthai bakshar~
+the young kesthai~
+A young kesthai rests here, perusing through a scroll of Dragon Quarterly.
+~
+The kesthai wears the distinctive insignia of the bakshar, a pair of
+black wings tattooed to the forearm.  His youthful appearance brightens the
+room as he lounges comfortably on one of the leather mounds.  
+~
+unique~
+AB 0 500 0
+70 0 0d0+0 0d0+0 0d0+0 punch
+0 0 0 0
+FKV K C D
+rest rest male 0
+AHMV ABCDEFGHIJK medium unknown
+#1926
+zi pygmy~
+zi~
+A disgruntled pygmy scowls at you from behind the glass.
+~
+Zi's love for his job is apparent from the non-stop grumbling he exudes. 
+He is dressed in proper sanitorium attire which pleases him even more.  
+~
+unique~
+ABM 0 -450 0
+200 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+FKV 0 0 P
+stand stand male 100000
+AHMV ABCDEFGHIJK small unknown
+#1927
+mountain dwarf~
+the mountain dwarf~
+A mountain dwarf is taking a bed bath.
+~
+A small rubber sheet barely covers the stocky dwarf, as he plays with the
+soap bubbles dripping down the wall.  His hair and beard are soaked through,
+giving him the appearance of a soggy toad.  
+~
+unique~
+ABH FJ 600 0
+76 0 0d0+0 0d0+0 0d0+0 punch
+0 0 0 0
+CEFIKV 0 LQ FJ
+stand stand male 0
+AHMV ABCDEFGHIJK small unknown
+#1928
+twinkle sprite~
+Twinkle~
+Twinkle dances around on tippy-toes.
+~
+A dainty sprite with sparkly wings dances about the room, giggling
+wildly.  She notices you, and decides to try her dance moves upon your head.
+~
+unique~
+ABH T 800 0
+76 0 0d0+0 0d0+0 0d0+0 bite
+0 0 0 0
+FKV 0 CF E
+stand stand female 0
+AHMV ABCDEFGHIJK tiny unknown
+#1929
+mortak minotaur~
+Mortak~
+A minotaur is practicing with a sparring stick.
+~
+Mortak is a bit hairier than other minotaurs you have encountered, and
+his fur is clumped in patches along his body.  Occasional snorts of hot air
+blow from his nostrils, mixed with a dab of mucous.  
+~
+unique~
+ABT 0 -450 0
+77 0 0d0+0 0d0+0 0d0+0 crush
+0 0 0 0
+EFKNVX 0 EI H
+stand stand male 0
+AHMV ABCDEFGHIJK large unknown
+#1930
+tiny rubber ball~
+a tiny rubber ball~
+A tiny rubber ball bounces into the room!
+~
+It is perfectly rounded and the color of an overcast day.  The ball
+bounces about lazily as if it has no particular place to be.  
+~
+unique~
+ACH 0 100 0
+62 0 0d0+0 0d0+0 0d0+0 pound
+0 0 0 0
+FU BILMNPQR EJS GHJKO
+stand stand none 0
+EJMc ABCGHK small unknown
+#1931
+rose ward orderly~
+the orderly~
+A Rose Ward orderly wanders around.
+~
+The orderly is dressed from head to toe in simple cotton attire that has
+been dyed a soft rose color.  The human meanders about, whistling along with
+the maddening music that haunts the institution.  
+~
+unique~
+ACH 0 0 0
+43 0 0d0+0 0d0+0 0d0+0 punch
+0 0 0 0
+FUV 0 0 0
+stand stand either 0
+AHMV ABCDEFGHIJK medium unknown
+#1932
+tangerine ward orderly~
+the orderly~
+A Tangerine Ward orderly *WHAPS* you!
+~
+A tiny yet brawny brownie gives you the warmest welcome it can muster. 
+The creature stands close to 3 feet tall and is adorned in baggy tangerine
+colored clothing.  
+~
+unique~
+ACH 0 0 0
+55 0 0d0+0 0d0+0 0d0+0 punch
+0 0 0 0
+FUV 0 0 0
+stand stand either 0
+AHMV ABCDEFGHIJK small unknown
+#1933
+twizzle sprite~
+Twizzle~
+A sprite is chewing on his wings.
+~
+Twizzle seems to have an oral fixation.  Luckily, he always comes
+prepared.  The tiny sprite is seated on one of the rubber mats.  
+~
+unique~
+AB T -200 0
+72 0 0d0+0 0d0+0 0d0+0 pound
+0 0 0 0
+EFHKV AB CEF 0
+sit sit male 0
+AHMV ABCDEFGHIJK tiny unknown
+#1934
+brownie bip~
+Bip~
+A brownie looks for the missing sandwich from his picnic.
+~
+Bip searches through his picnic basket, slowly becoming aware that he
+won't have enough food to pass around.  He pauses long enough to eye the
+room suspiciously before resuming his project.  He is seated on a rubber
+mat.  
+~
+unique~
+ABCH J -140 0
+66 0 0d0+0 0d0+0 0d0+0 punch
+0 0 0 0
+CFKVX AB LQ F
+sit sit male 0
+AHMV ABCDEFGHIJK small unknown
+#1935
+trask deep dwarf~
+Trask~
+Trask trims his toenails with his teeth.
+~
+You see a dark, surly dwarf gnawing happily upon his toes.  He is waiting
+for Nurse Cratchitt who must be finishing up with her other duties at the
+moment.  A shredded dwarf nail hits you square in the face as Trask chortles
+in your direction.  He is seated on a rubber mat.  
+~
+unique~
+ABCT J -590 0
+0 0 0d0+0 0d0+0 0d0+0 punch
+0 0 0 0
+CFKVX AB ELQ F
+sit sit male 0
+AHMV ABCDEFGHIJK small unknown
+#1936
+chiffon ward orderly~
+the orderly~
+A Chiffon Ward orderly giggles at you.
+~
+The orderly buzzes about, tidying up the room.  Nurse Cratchitt runs a
+tight ship, and no one wants to fail inspection.  The sprite seems to be in
+jovial spirits despite the menial tasks being performed.  
+~
+unique~
+ACH T 800 0
+49 0 0d0+0 0d0+0 0d0+0 bite
+0 0 0 0
+FUV 0 EF 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#1937
+doctor~
+a doctor~
+A doctor is surveying his handiwork.
+~
+Before you stands an elderly human contaminated with vampiric blood. 
+Kartokvian feels obligated to drain the life from those who wish it, and
+those who are too weak to make that choice.  Though his body appears to be
+frail, he is imbued with the strength of generations.  
+~
+unique~
+ABT DFGOTZ -1000 0
+80 0 0d0+0 0d0+0 0d0+0 crush
+0 0 0 0
+FKVX L Q HNS
+stand stand male 0
+AHMV ABCDEFGHIJK large unknown
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#1900
+Cherrywood Lawn~
+A finely manicured lawn is interspersed with tiny star-shaped violets
+that fill the gentle breezes with sedating scents.  Cherrywood Sanitorium
+rises above you, a guardian to the less fortunate of the realm.  A set of
+granite stairs appear to have crushed quartz scattered within as they
+sparkle gaily, ushering you through a massive doorway.  
+~
+0 0 2
+D2
+~
+~
+0 0 3141
+D4
+~
+door~
+1 0 1901
+S
+#1901
+Transit Desk~
+The floor is polished so supremely you can watch your reflection
+following your every step.  The ceiling appears to rise about twenty feet
+high, steepling along the middle seam.  A large tidy reception desk envelops
+the northern edge of the airy room, and workers bustle about silently behind
+it.  A copper bell dangles from a sturdy stick protruding from the desk, and
+a sign-in register awaits your signature.  Windowed double doors block exits
+to the east and west.  
+~
+0 8 0
+E
+bell~
+Ring for service.  
+~
+E
+register~
+The pages are separated into two columns, "checking in" and "dropping
+off".  
+~
+D0
+~
+door~
+1 0 1902
+D1
+~
+door~
+1 0 1904
+D3
+~
+door~
+1 0 1918
+D5
+~
+door~
+1 0 1900
+S
+#1902
+Lounge~
+Upon passing through the small doorway, you see a carved tea table with a
+polished silver tea service resting upon it.  An ivory bud vase is
+overflowing with the same star-shaped violets growing in the sanitorium
+lawn.  Finger sandwiches filled with sliced cucumbers and cream cheese are
+stacked in a pyramid shape alongside the tea service.  A flight of stairs
+lead up.  
+~
+0 8 0
+D2
+~
+door~
+1 0 1901
+D4
+~
+~
+0 0 1932
+D5
+~
+cellar~
+1 0 1903
+S
+#1903
+Wine Cellar~
+Rickety wooden stairs are cradled by whispy strands of silken cobwebs. 
+Sturdy wooden shelves lean against each of the earthen walls in the room. 
+They are filled with rows of what appear to be vintage wine bottles.  A
+rather large fuzzy spider hurridly scurries across the floor.  
+~
+0 9 0
+D4
+~
+cellar~
+1 0 1902
+S
+#1904
+Corridor~
+Faint music trickles in from an unseen source.  The floor is formed of
+brightly polished mica, and the walls are a smooth plaster painted with
+ivory colors.  The oil lamps suspended from above cast bright soothing light
+along the expanse of corridor.  A windowed double door is to the west.  
+~
+0 8 0
+D1
+~
+~
+0 0 1905
+D3
+~
+door~
+1 0 1901
+S
+#1905
+Corridor~
+An antiseptic aroma flows in on a draft from the north.  The corridor
+ends in a flight of stairs leading to the second story of the sanitorium.  A
+non-descript orange leather settee has been placed to the side of the double
+doors to the north.  Soft, barely audible music seems to be piped in through
+the walls.  
+~
+0 12 0
+D0
+~
+door~
+1 0 1906
+D3
+~
+~
+0 0 1904
+D4
+~
+~
+0 0 1938
+S
+#1906
+Rose Ward Reception Desk~
+Human orderlies, adorned in white shirts and pants, are busy gathering up
+cleaning supplies and linens.  A harsh-looking dwarven woman examines a
+multi-tiered cart with several wooden trays that emit a smell reminiscent of
+raw fish mixed with wet dirt.  Two small steps lead up to a swinging door
+and the double doors to the south lead out of the Rose Ward.  
+~
+0 8 0
+D2
+~
+door~
+1 0 1905
+D4
+~
+door~
+1 0 1907
+S
+#1907
+Rose Ward~
+The swinging door leading down appears to only swing in one
+direction---into the ward.  The plaster walls are painted in soft rose
+colors, and a running mural of a vine of roses extends along each wall to
+the north.  The incessant music seems a bit louder now, though the tune
+still escapes you.  A metal door with a tiny barred window leads west.  
+~
+0 8 0
+D0
+~
+~
+0 0 1909
+D3
+~
+door~
+1 0 1908
+S
+#1908
+Play Therapy~
+Cloth dolls overflow from a wooden toy chest in the northwest corner of
+the room.  A few are lacking their heads, others would have a difficult time
+playing patty-cake.  Scribbled lines of chalk adorn each of the four walls
+of the room.  Sharp sticks rest in each corner.  
+~
+0 8 0
+D1
+~
+door~
+1 0 1907
+S
+#1909
+Rose Ward~
+The painted vines of roses extend to the north and south while the soft,
+tinkling music tickles along your ears.  The antiseptic smell is quite
+strong now, burning your nostrils.  A metal door painted a dark rose color
+leads to the east.  
+~
+0 8 0
+D0
+~
+~
+0 0 1911
+D1
+~
+door~
+1 0 1910
+D2
+~
+~
+0 0 1907
+S
+#1910
+Art Therapy~
+As you enter the room, you are struck by the number of painted papers
+that are seemingly utilized as wallpaper.  Small works of clay pottery rest
+upon a windowsill along the eastern wall.  Most of them appear to have been
+gnawed on, further marring the already disfigured and borderline obscene
+shapes.  
+~
+0 8 0
+D3
+~
+door~
+1 0 1909
+S
+#1911
+Rose Ward~
+A simple wooden table rests in the corner of the hall.  A mirror in the
+northeast corner is perched high enough for you to see your reflection. 
+Something appears to be different with this mirror.  After a few moments,
+you realize the sights reflected in the mirror are not backwards.  The hall
+continues to the south, and a large windowed double door is to the west.  
+~
+0 8 0
+D2
+~
+~
+0 0 1909
+D3
+~
+door~
+1 0 1912
+S
+#1912
+Rose Recreation Room~
+The music that has been teasing you is now almost unbearably loud. 
+Unfortunately, the volume has distorted to such an extent, you still can't
+quite make out the melody line.  The ceiling is embedded with glass panels,
+allowing you to see the sky.  The room, keeping in step with the rest of the
+ward, is painted a rose color.  Rose chairs and tables are scattered about. 
+The tables are topped with various games meant to soothe the soul.  Double
+doors lead east and west.  
+~
+0 8 0
+D1
+~
+door~
+1 0 1911
+D3
+~
+door~
+1 0 1913
+S
+#1913
+Rose Ward~
+The rose-colored walls are painted with a continuous vine of roses that
+extend to the south.  A light music, almost nauseatingly sweet, flows into
+the room from what seems to be all directions.  Scuff marks near the wall
+mar the otherwise perfectly polished mica floor.  Above the scuff marks it
+appears the wall has been clawed at with long sharp strokes.  A windowed
+double door is east of you, and the hall extends south.  
+~
+0 8 0
+D1
+~
+door~
+1 0 1912
+D2
+~
+~
+0 0 1914
+S
+#1914
+Rose Ward~
+The painted vines of roses extend north and south along both walls.  A
+large black and white painting has been hung on the eastern wall.  It seems
+a jar of black ink was splattered onto the canvas, then framed.  It is
+rumored that the answer to the most important question in the universe is
+contained within this ink splot.  A metal door painted with black stripes
+leads west.  
+~
+0 8 0
+D0
+~
+~
+0 0 1913
+D2
+~
+~
+0 0 1916
+D3
+~
+door~
+1 0 1915
+S
+#1915
+Music Therapy~
+An upright piano leans against the west wall, its ivory keys cracked and
+chipped.  A wooden barrel has been shoved into a corner of the room with
+rounded sticks and tambourines overflowing from it.  Tin music stands have
+toppled over in the middle of the room.  Rose-colored butterflies fly in a
+painted garden along the walls.  
+~
+0 8 0
+D1
+~
+door~
+1 0 1914
+S
+#1916
+Rose Ward~
+Annoyingly sweet music flits through the room at a volume just low enough
+to prevent you from identifying the tune.  Twisted painted vines adorned
+with roses trace a path north along the walls.  A padded double door is to
+the east, and a swinging door seems to shimmer in and out of view to the
+south.  
+~
+0 8 0
+D0
+~
+~
+0 0 1914
+D1
+~
+door~
+1 0 1917
+D2
+~
+door~
+1 0 1906
+S
+#1917
+Solitary~
+The room is smaller than small and threatens to cut off your supply of
+oxygen.  The walls, ceiling, and floor are covered with rose-colored
+padding.  Confinement will soon become your best friend should you choose to
+remain here.  
+~
+0 9 0
+D2
+~
+door~
+1 0 1906
+D3
+~
+door~
+1 0 1916
+S
+#1918
+Corridor~
+A faint music that seems to consist of calliope tones tickles your ears. 
+The expertly plastered walls are smooth to the touch, and the mica floors
+reflect the bright lights emitting from the oil lamps.  A large double door
+leads east while the corridor extends west.  
+~
+0 8 0
+D1
+~
+door~
+1 0 1901
+D3
+~
+~
+0 0 1919
+S
+#1919
+Corridor~
+You notice a burgundy settee resting alongside the double doors to the
+north as you reach the end of the corridor.  The light music flowing through
+the building follows you like a lonesome pup.  The inside of this sanitorium
+is more sterile than any structure you have encountered in Alanthia.  You
+receive a powerful vision of your innards being scrubbed so as not to
+contaminate anything you come in contact with.  A flight of stairs lead up
+from the southwest corner of the room.  
+~
+0 12 0
+D0
+~
+door~
+1 0 1920
+D1
+~
+~
+0 0 1918
+D4
+~
+~
+0 0 1950
+S
+#1920
+Tangerine Ward Reception Desk~
+A circular pine desk has been painted a bright tangerine and has been
+placed in the middle of the room.  The orderlies assigned to this ward have
+decided to extend themselves a break.  A rather extended break it seems. 
+Soiled linens are piled along the edges of the reception room as are trays
+of half-eaten substances.  A small step-ladder leads up to a door.  
+~
+0 8 0
+D2
+~
+door~
+1 0 1919
+D4
+~
+door~
+1 0 1921
+S
+#1921
+Tangerine Ward~
+Geometric figures are so well painted they seem to jump at you from the
+tangerine colored walls.  Your step is comfortably cushioned and muffled as
+you walk.  Looking down, you realize the entire floor is made of a rubbery
+substance.  A triangular door is to the west.  
+~
+0 8 0
+D0
+~
+~
+0 0 1923
+D3
+~
+triangle~
+1 0 1922
+S
+#1922
+Woodworking~
+Long wooden tables fill the room and are covered with sawdust and tools. 
+Small wooden mallets and carving picks as sharp as butter knives adorn the
+tables.  A wooden cabinet stretching almost to the ceiling of the room fills
+your sight to the north.  The doors are made of a solid glass, and through
+the glass you see terribly sharp saws and other cutting devices.  The
+cabinet is padlocked.  
+~
+0 8 0
+D1
+~
+triangle~
+1 0 1921
+S
+#1923
+Tangerine Ward~
+The large geometric shapes continue their travels along the tangerine
+walls.  A small warning plaque is perched high upon the wall.  It warns not
+to stare too long at the shapes for fear they will become permanently burned
+into your cornea, forever changing your point of view.  A circular door is
+to the east.  
+~
+0 8 0
+D0
+~
+~
+0 0 1925
+D1
+~
+circle~
+1 0 1924
+D2
+~
+~
+0 0 1921
+S
+#1924
+Leatherworking~
+A soft pleasing smell of leather fills the room.  Long wooden tables line
+the room.  There seems to be a lack of tools to work the materials, but
+finished products rest atop the tables.  Many appear to be leather straps
+and bindings, others are pouches and moneybelts.  The skill of the work is
+most impressive.  
+~
+0 8 0
+D3
+~
+circle~
+1 0 1923
+S
+#1925
+Tangerine Ward~
+A four foot tall rectangular shaped window has been carved into the
+northern tangerine wall.  A cloth tapestry with hundreds of clusters of blue
+dots ranging in size is tacked up near the window.  A metal cylinder rests
+on a tripod and faces the window.  At each end of the cylinder, glass lenses
+have been attached.  A tangerine stool rests in front of the smaller end of
+the cylinder.  A square door leads west.  
+~
+0 8 0
+E
+cylinder~
+Looking through the bottom lens, you see a vast expanse of the heavens.  
+~
+D2
+~
+~
+0 0 1923
+D3
+~
+square~
+1 0 1926
+S
+#1926
+Production Room~
+A makeshift wooden platform spreads across the southern quarter of the
+room.  The lamps in this room have been extinguished until the next
+performance by the talented in-patients.  Metal rings extend from the walls,
+a convenient tie-down for the more belligerent of audience members.  An
+occasional husky giggle reaches your ears, seemingly coming from beneath the
+platform.  
+~
+0 9 0
+D1
+~
+square~
+1 0 1925
+D3
+~
+square~
+1 0 1927
+S
+#1927
+Tangerine Ward~
+A single rose lies on the ground with a gentle frost kissing the tips of
+its velvet petals.  It has somehow remained in full-bloom without benefit of
+water or soil.  Small droplets of moisture weep from the stem, quickly
+evaporating upon the floor.  A wave of helplessness washes over you, though
+the emotion is not your own.  A square door lies to the east, and the
+tangerine walls stretch south.  
+~
+0 8 0
+D1
+~
+square~
+1 0 1926
+D2
+~
+~
+0 0 1928
+S
+#1928
+Tangerine Ward~
+You nearly tumble head over heels as you slip on a rotten banana peel. 
+In fact, the entire floor is filled with discarded remains of fruit.  The
+sickeningly sweet stench weighs heavy in the air.  The fruit are lathered
+with tiny black eggs that seem to wiggle slightly.  A trapezoid door is to
+the west.  
+~
+0 8 0
+D0
+~
+~
+0 0 1927
+D2
+~
+~
+0 0 1930
+D3
+~
+trapezoid~
+1 0 1929
+S
+#1929
+Hothouse~
+A blast of moist heat embraces you as you pass through the door. 
+Fledgling sprouts push their way through beds of dark soil, the joy of new
+life inspiring their growth.  The ceiling is constructed from large panels
+of glass which are covered with droplets of water that gently drip on you. 
+You notice your armor is beginning to attract condensation.  
+~
+0 8 0
+D1
+~
+trapezoid~
+1 0 1928
+S
+#1930
+Tangerine Ward~
+The soft, repetitive music pushes its way back into your auditory canal. 
+It becomes difficult to concentrate, and the walls seem to pulse around you.
+Your throat constricts as if held in a vise-grip of a titan.  Your mouth is
+unbearably dry, and your skin breaks out in a cold sweat.  The room begins
+to slowly spin within your sights, making it difficult to keep your
+equilibrium.  A pentagon shaped door is to the east.  
+~
+0 8 0
+D0
+~
+~
+0 0 1928
+D1
+~
+pentagon~
+1 0 1931
+D2
+~
+door~
+1 0 1920
+S
+#1931
+Time-Out~
+An unfurnished room with cushioned walls welcomes you.  The previous
+visitor to this room decorated the floor with yellow stains and an
+accompanying fragrance.  Each corner of the room is warped as if heavy
+weights were placed there for prolonged periods of time.  
+~
+0 8 0
+D3
+~
+pentagon~
+1 0 1930
+S
+#1932
+Back Stairs~
+You traipse along a narrow flight of stairs made of concrete slabs.  The
+walls are dark-stained pine oozing with sap and are slightly warm to the
+touch.  The flight stretches up to a large oaken door, and down to the
+employees' lounge.  
+~
+0 8 0
+D4
+~
+~
+0 0 1933
+D5
+~
+~
+0 0 1902
+S
+#1933
+Landing~
+Standing at the top of the rather long flight of stairs, you hear low
+murmurs escaping through the oaken door before you.  The landing is cramped,
+causing those of larger stature to have to squeeze their bodies together,
+shoved between the walls.  There is nothing barring your entrance through
+the door, though perhaps a polite knock may be in order.  
+~
+0 8 0
+D0
+~
+door~
+1 0 1934
+D5
+~
+~
+0 0 1932
+S
+#1934
+Administrative Offices~
+You enter a very elegantly decorated reception area.  The walls are
+panelled with slabs of cherrywood harvested from the Alanthian countryside,
+and they are adorned with framed paintings filled with splashes of color.  A
+Darvian-style desk sits in the center of the room upon an expertly woven
+rug.  Copper oil lamps dangle from the ceiling, giving the room a warm, airy
+feel.  
+~
+0 8 0
+D0
+~
+~
+0 0 1935
+D2
+~
+door~
+1 0 1933
+S
+#1935
+Hallway~
+The cherrywood panelling stretches along the walls of the hallway. 
+Framed certificates of inspection from the Cherrywood Advisory Committee are
+mounted on the walls.  A three-legged hickory table rests at the end of the
+hall with an ivory bud vase atop a lace doily.  Two blue roses drape
+gracefully out of the bud vase.  A silver placard on the western door
+announces, "Vice Administrator".  A gold placard on the eastern door
+indicates, "Head Administrator".  
+~
+0 8 0
+D1
+~
+door~
+1 0 1937
+D2
+~
+~
+0 0 1934
+D3
+~
+door~
+1 0 1936
+S
+#1936
+Vice Administrator's Office~
+You find yourself in relatively cramped quarters.  Random papers are
+scattered along the floor and the built-in shelving.  A pile of thin pink
+and yellow papers are flowing from and surrounding a wastebasket near the
+small desk along the northern wall.  Unkept, shoddy books are jumbled around
+the room.  
+~
+0 8 0
+D1
+~
+door~
+1 0 1935
+S
+#1937
+Head Administrator's Office~
+Everything is tidy and neat, almost obsessively so.  A portrait of a
+human mercenary drawn in colored chalk is tacked to a dart board on the
+eastern wall.  The scent of cheap cologne hovers in the air, catching in
+your throat.  Beautifully leather-bound volumes of the newest in
+psychological theories line the sturdy shelves along the edges of the north
+and south walls.  
+~
+0 8 0
+D3
+~
+door~
+1 0 1935
+S
+#1938
+Stairway~
+Something causes you to skip gaily along the stairs, as if your body is
+not your own.  Thoughts of green fields and daisy chains push violently into
+your mind.  The periodic sound of electricity filters down from the top of
+the stairs, the static in the air sending tingles through your body.  
+~
+0 12 0
+D4
+~
+~
+0 0 1939
+D5
+~
+~
+0 0 1905
+S
+#1939
+Rubber Ward Sign-In~
+The room is decorated in dull-grey decor, and everything you see appears
+cushy.  Small indentations fill the walls, as if circular chunks were
+spooned out of them.  The distinct odor of ozone tickles your nose, and the
+sound of tinkering floats in from the east and west.  A flight of stairs
+lead down to the main floor.  
+~
+0 8 0
+D1
+~
+~
+0 0 1940
+D3
+~
+~
+0 0 1949
+D5
+~
+~
+0 0 1938
+S
+#1940
+Rubber Ward~
+Two small grey balls ricochet absently between the northeast and
+southwest corners of the walls.  The floor is springy beneath your feet,
+giving an energetic lilt to your step.  Sounds of metal clinking together
+drift in from the north, and the caliope music you encountered on the first
+floor returns.  
+~
+0 8 0
+D0
+~
+~
+0 0 1941
+D3
+~
+~
+0 0 1939
+S
+#1941
+Rubber Ward~
+Four small grey balls bounce lightly around you, weaving amongst
+themselves as if possessed with an intelligent life.  The dull color of the
+ward seems to deaden the shine on the metal objects you possess.  Large
+double doors are to the east, and the sound of metal upon metal is almost
+deafeningly loud.  
+~
+0 8 0
+D0
+~
+~
+0 0 1943
+D1
+~
+door~
+1 0 1942
+D2
+~
+~
+0 0 1940
+S
+#1942
+Customized Lobotamy~
+The room is alive with activity.  Gnomes, dwarves, and trolls wearing
+surgical garb are bustling to and fro taking care of their individual
+responsibilities.  A gurney holds a sheet-covered patient, comatose from the
+narcotic gas flowing through the mask covering his mouth and face.  Dark
+marks have been made along the patient's forehead which seem to form into a
+bullseye.  
+~
+0 8 0
+D3
+~
+~
+1 0 1941
+S
+#1943
+Rubber Ward~
+Small rubber balls pelt you as you pass through this section of the ward,
+and you notice circular chunks have been scooped from the floor.  You seem
+to be nearing the source of the persistant music that has been chasing you,
+as the vibrations reverberate through the room.  The ward extends west and
+south.  
+~
+0 8 0
+D2
+~
+~
+0 0 1941
+D3
+~
+~
+0 0 1944
+S
+#1944
+Rubber Ward~
+Booming cracks of electricity erupt nearby.  It is difficult to determine
+from which direction it is originating, for it seems to be all around you. 
+The taste of ozone tickles your tongue and the scent of it splashes into
+your nostrils.  There seems to be an added identifiable scent----burnt
+flesh, perhaps?  
+~
+0 8 0
+D1
+~
+~
+0 0 1943
+D2
+~
+door~
+1 0 1945
+D3
+~
+~
+0 0 1946
+S
+#1945
+Shock Therapy~
+Metal contraptions crowd the large room, as do upright metal rods
+connected to a gurney.  Two amazon technicians are busy adjusting dials on
+the machinery.  Looking up, you see metal shafts rising out of an opening in
+the ceiling.  One of the amazons looks at you and winks, then pulls a large
+lever.  A bolt of lightning cracks against the metal shafts and rushes along
+the machinery, finally reaching its target, a patient lying prone on the
+gurney and draped in a heavy cloth.  The patient's body jolts violently,
+then settles back down.  You notice a serene look overcome his face.  
+~
+0 8 0
+D0
+~
+~
+1 0 1944
+S
+#1946
+Rubber Ward~
+This section of the ward is in serious disrepair.  The rubber padding
+along the walls is peeling off in chunks, or perhaps torn off judging by the
+jagged edges.  You notice a two inch thick layer of insulation is between
+the padding and the wall, and where it has been removed, the repetitive
+music vibrates through loudly.  
+~
+0 8 0
+D1
+~
+~
+0 0 1944
+D2
+~
+~
+0 0 1947
+S
+#1947
+Rubber Ward~
+Several little grey rubber balls bounce happily around the room,
+appearing to almost be playing a game of tag.  A warm drop of water splashes
+heavily upon your head.  As you gaze up, you see a dark stain spreading ever
+so slowly along the ceiling.  Several more drops of water poise themselves
+to start their freefall.  Sturdy double doors are to the west, and a bright
+red circular symbol is painted upon them.  
+~
+0 8 0
+D0
+~
+~
+0 0 1946
+D2
+~
+~
+0 0 1949
+D3
+~
+door~
+1 0 1948
+S
+#1948
+Drug Therapy~
+A dim warm glow illuminates the simple decor of this airy room.  A lithe
+female grey-elf is perched on a circular stool next to a leather lounger. 
+Upon the lounger is a young lady wearing the latest in sanitorium fashion. 
+Plastic tubing extends out of the patient's arm and leads up to a plastic
+bag hanging from a metal pole.  The grey-elf is skimming through paperwork
+attached to a clipboard while an orange liquid pours into the patient's arm.
+~
+0 8 0
+D0
+~
+~
+4 14157 14140
+D1
+~
+door~
+1 0 1947
+S
+#1949
+Rubber Ward~
+A rubber bench has been built into the grey padded wall along the western
+edge of the room, providing a comfortable resting point.  Low vibrations
+shudder through your footwear from the floor.  A solitary rubber ball is
+rolling lazily around the room, propelled by the vibrations.  The ward
+extends north and east.  
+~
+0 8 0
+D0
+~
+~
+0 0 1947
+D1
+~
+~
+0 0 1939
+S
+#1950
+Stairway~
+The oil lamps along the stairwell have run dry, leaving you to fend for
+yourself.  A blissful silence exists here.  Even the usual echo from your
+steps has disappeared.  The stairs are wide enough to allow crowds to
+traverse along them.  
+~
+0 13 0
+D4
+~
+~
+0 0 1951
+D5
+~
+~
+0 0 1919
+S
+#1951
+Chiffon Ward Sign-In~
+Cute little male and female sprites, dressed in darling little chiffon
+outfits, flit excitedly about the room.  A cacophony of sounds float through
+the air, ranging from high-pitched giggles to baritone groans.  A mul stands
+in each corner of the room, circulating the air with immense palm fans. 
+Open doorways lead east and west.  
+~
+0 8 0
+D1
+~
+~
+0 0 1952
+D3
+~
+~
+0 0 1961
+D5
+~
+~
+0 0 1950
+S
+#1952
+Chiffon Ward~
+You enter what appears to be a dormitory of sorts.  Bunk beds line the
+east and west walls with chiffon sheers draped in front of them
+for---privacy?  An end table stands at the head of each bunk bed unit, and a
+large trunk is at the foot.  A tattered stuffed rabbit with velveteen fur
+and an absent button eye sleeps peacefully on a pillow.  
+~
+0 8 0
+D0
+~
+~
+0 0 1953
+D3
+~
+~
+0 0 1951
+S
+#1953
+Chiffon Ward~
+Metal cots with thin mattresses are arranged in a large circle, nearly
+blocking each of the exits from this room.  The air is stifling and filled
+with the aroma of sweaty fur and skin.  Dangling from the ceiling, attached
+to several lengths of twine, are heavy circles of white paper with black
+swirls painted on them.  
+~
+0 8 0
+D0
+~
+~
+0 0 1955
+D1
+~
+~
+0 0 1954
+D2
+~
+~
+0 0 1952
+S
+#1954
+Group Therapy~
+Rubber mats fill the floor of this gathering area, all facing a sturdy
+rocking chair that has been painted a soft white.  In each corner of the
+room is a five foot wooden pole with masses of rubber padding on each end. 
+There are rubber grips secured to the center of each pole.  A large music
+box is positioned next to the rocking chair.  
+~
+0 8 0
+D3
+~
+~
+0 0 1953
+S
+#1955
+Chiffon Ward~
+Beautiful chiffon drapes frame one of the few windows that grace this
+institution.  Unfortunately, the window has been boarded up, quelling
+outside influences.  Bunk beds line the walls, and several have strings of
+white beads lying on their linen sheets.  The room has a feminine air about
+it, tidy and bright.  
+~
+0 8 0
+D2
+~
+~
+0 0 1953
+D3
+~
+~
+0 0 1956
+S
+#1956
+Chiffon Ward~
+The room is painted in a soft white hue, and several small cubic
+zirconium are embedded along the walls.  A low-quality tin chandelier
+wobbles precariously from its chain.  The floor has puddles of hardened wax
+that have collected beneath the chandelier.  An oak door is to the south.  
+~
+0 8 0
+D1
+~
+~
+0 0 1955
+D2
+~
+door~
+1 0 1957
+D3
+~
+~
+0 0 1958
+S
+#1957
+Detox~
+You enter a small waiting room.  A panel of glass divides the space, and
+behind the glass are rows of shelves with a variety of vials, bottles, and
+odd-shaped containers.  In the middle of the glass is a small window opening
+over a metal dispensement bin.  Shoddy metal chairs line the east and west
+walls.  
+~
+0 8 0
+D0
+~
+door~
+1 0 1956
+S
+#1958
+Chiffon Ward~
+Three over-sized mounds are strategically positioned in the room.  The
+mounds are covered with sewn-on leather and seem to contain a soft, pebbly
+substance that offers an incredibly comfortable seat.  Dried flowers have
+been crushed along the floor, the resulting dust tickling your nose.  A
+gilded birdcage hangs from the northwest corner of the ceiling.  Contained
+within is a beautiful partrice with ivory colored feathers and a brilliant
+orange beak.  
+~
+0 8 0
+E
+partrice~
+The partrice is a unique species of songbird found only in this world. 
+The Powers that Be deemed long ago that any resident of this land having
+slain a partrice would forfeit their grasp on this life.  
+~
+D1
+~
+~
+0 0 1956
+D2
+~
+~
+0 0 1959
+S
+#1959
+Chiffon Ward~
+The walls are oozing with gobs of tiny white soap bubbles and streams of
+water.  Sponges and scrub brushes have been discarded on the floor next to a
+large tub of soapy water.  The linens on the lines of bunk beds are soaked,
+as if freshly washed.  The air smells mountain fresh!  
+~
+0 8 0
+D0
+~
+~
+0 0 1958
+D2
+~
+~
+0 0 1961
+D3
+~
+~
+0 0 1960
+S
+#1960
+Bathing Area~
+This is where the ambulatory patients spruce themselves up after a long
+day of therapy.  Semi-private bathing stalls fill this immense room, and the
+cement floors are puddled with lukewarm water.  A pile of starched cloth
+towels rest next to a laundry bin of discolored linens.  
+~
+0 8 0
+D1
+~
+~
+0 0 1959
+S
+#1961
+Chiffon Ward~
+This dormitory style room is quite large and capable of housing numerous
+patients.  Each bed is uniform in look and covered with chiffon spreads. 
+The in-patients' items, not consisting of much, litter the beds haphazardly.
+The ward is alive with activity.  
+~
+0 8 0
+D0
+~
+~
+0 0 1959
+D1
+~
+~
+0 0 1951
+S
+#1962
+Spiraling Stairs~
+You find yourself at the foot of a narrow spiraling staircase.  Every
+inch of your body vibrates from the deafening music surrounding you, and
+bass tones rocket through your ears violently.  The steps stretch ominously
+upward.  
+~
+0 8 0
+D4
+~
+~
+0 0 1963
+S
+#1963
+Spiraling Stairs~
+You see no end to the stairs as round and round you go.  Every step you
+take sends violent vibrations up through your feet.  Incredibly loud caliope
+music beats painfully into your brain.  
+~
+0 8 0
+D4
+~
+~
+0 0 1964
+D5
+~
+~
+0 0 1962
+S
+#1964
+Spiraling Stairs~
+There appears to be a landing not far above.  Looking down, you see the
+expanse of stairs stretching away from you.  Your ears are aching from the
+onslaught of noise.  Mixed in with the booming music is the sound of
+grinding metal.  
+~
+0 8 0
+D4
+~
+~
+0 0 1965
+D5
+~
+~
+0 0 1963
+S
+#1965
+Spiraling Stairs~
+A massive painted carousel fills your sight.  You stand on a platform
+near the top of it, and peering down, you see it stretches several flights
+lower through the walls.  Immense horses grind slowly up and down as the
+carousel plays the warped caliope tune at unimagineable decibals.  You have
+discovered the source of the maddening music that has been chasing you
+through the institution.  
+~
+0 8 0
+D5
+~
+~
+0 0 1964
+S
+#0
+
+
+
+#SPECIALS
+M 1900 spec_executioner
+M 1906 spec_thief
+M 1910 spec_poison
+M 1914 spec_cast_mage
+M 1916 spec_nasty
+M 1920 spec_cast_mage
+M 1922 spec_cast_mage
+M 1923 spec_breath_gas
+M 1935 spec_nasty
+S
+
+
+
+#RESETS
+D 0 1900 4 1
+D 0 1901 0 1
+D 0 1901 1 1
+D 0 1901 3 1
+D 0 1901 5 1
+D 0 1902 2 1
+D 0 1902 5 1
+D 0 1903 4 1
+D 0 1904 3 1
+D 0 1905 0 1
+D 0 1906 2 1
+D 0 1906 4 1
+D 0 1907 3 1
+D 0 1908 1 1
+D 0 1909 1 1
+D 0 1910 3 1
+D 0 1911 3 1
+D 0 1912 1 1
+D 0 1912 3 1
+D 0 1913 1 1
+D 0 1914 3 1
+D 0 1915 1 1
+D 0 1916 1 1
+D 0 1916 2 1
+D 0 1917 2 1
+D 0 1917 3 1
+D 0 1918 1 1
+D 0 1919 0 1
+D 0 1920 2 1
+D 0 1920 4 1
+D 0 1921 3 1
+D 0 1922 1 1
+D 0 1923 1 1
+D 0 1924 3 1
+D 0 1925 3 1
+D 0 1926 1 1
+D 0 1926 3 1
+D 0 1927 1 1
+D 0 1928 3 1
+D 0 1929 1 1
+D 0 1930 1 1
+D 0 1930 2 1
+D 0 1931 3 1
+D 0 1933 0 1
+D 0 1934 2 1
+D 0 1935 1 1
+D 0 1935 3 1
+D 0 1936 1 1
+D 0 1937 3 1
+D 0 1941 1 1
+D 0 1942 3 1
+D 0 1944 2 1
+D 0 1945 0 1
+D 0 1947 3 1
+D 0 1948 0 2
+D 0 1948 1 1
+D 0 1956 2 1
+D 0 1957 0 1
+M 0 1902 1 1901 1
+M 0 1906 1 1903 1
+M 0 1931 6 1906 2
+M 0 1931 6 1906 2
+M 0 1931 6 1907 2
+M 0 1907 1 1908 1
+M 0 1910 1 1910 1
+M 0 1931 6 1911 1
+M 0 1911 1 1912 1
+M 0 1912 1 1912 1
+M 0 1931 6 1913 1
+M 0 1913 1 1915 1
+M 0 1931 6 1916 1
+M 0 1932 6 1920 2
+M 0 1932 6 1920 2
+M 0 1932 6 1921 1
+M 0 1919 1 1922 1
+M 0 1918 1 1924 1
+M 0 1932 6 1925 1
+M 0 1920 1 1926 1
+M 0 1921 3 1928 3
+M 0 1921 3 1928 3
+M 0 1921 3 1928 3
+M 0 1923 1 1929 1
+M 0 1932 6 1930 2
+M 0 1932 6 1930 2
+M 0 1903 1 1934 1
+M 0 1904 1 1936 1
+M 0 1905 1 1937 1
+M 0 1930 8 1939 2
+M 0 1930 8 1939 2
+M 0 1930 8 1940 1
+M 0 1914 1 1942 1
+M 0 1915 1 1942 1
+M 0 1930 8 1943 2
+M 0 1930 8 1943 2
+M 0 1916 1 1945 1
+M 0 1917 1 1945 1
+M 0 1930 8 1946 2
+M 0 1930 8 1946 2
+M 0 1930 8 1947 1
+M 0 1937 1 1948 1
+M 0 1936 6 1951 2
+M 0 1936 6 1951 2
+M 0 1936 6 1952 1
+M 0 1936 6 1953 1
+M 0 1929 1 1954 1
+M 0 1933 1 1954 1
+M 0 1934 1 1954 1
+M 0 1935 1 1954 1
+M 0 1928 1 1955 1
+M 0 1936 6 1956 1
+M 0 1926 1 1957 1
+M 0 1925 1 1958 1
+M 0 1927 1 1959 1
+M 0 1900 1 1960 1
+M 0 1901 1 1960 1
+M 0 1936 6 1961 1
+M 0 1922 1 1965 1
+M 0 1924 3 1965 3
+M 0 1924 3 1965 3
+M 0 1924 3 1965 3
+S
+
+
+
+#SHOPS
+1926 26 10 0 0 0 100 50 0 23
+0
+
+
+
+#$

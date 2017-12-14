@@ -1,0 +1,1561 @@
+#AREADATA
+Name Holy Grove~
+Builders Fluffy Halodar~
+VNUMs 8900 8999
+Credits {200 260} Alfa/Ali    The Holy Grove~
+Security 9
+Version 1
+End
+
+
+
+#MOBILES
+#8900
+hierophant~
+The Hierophant~
+The old Hierophant of the holy grove is here, gathering hollies.
+~
+He is a very old man, dressed in an old robe; but from the glint in his
+clear blue eyes you can see that He is aware of the world, and wise to its
+traps and pitfalls.
+~
+unique~
+AGHQ DHN 1000 0
+220 0 3d9+333 20d9+100 2d7+5 none
+-4 -4 -4 6
+EIKU 0 0 0
+stand stand male 2
+AHMV ABCDEFGHIJK medium 0
+#8901
+hierophant~
+The Hierophant~
+The old Hierophant of the holy grove is here, gathering ivy.
+~
+She is a very old woman, dressed in an old gown; but from the glint in her
+clear blue eyes you can see that She is aware of the world, and wise to its
+traps and pitfalls.
+~
+unique~
+AGHQ DHN 1000 0
+220 0 3d9+333 20d9+100 2d7+5 none
+-4 -4 -4 6
+EIKU 0 0 0
+stand stand female 2
+AHMV ABCDEFGHIJK medium 0
+#8902
+elder druid~
+an elder druid~
+An elder druid stands here, watching the local flora and wildlife.
+~
+He looks ageless, as do all druids.  His grey beard contrasts strongly with
+his lack of wrinkles.
+~
+unique~
+AGHQ N 1000 0
+213 0 2d10+170 13d9+100 1d10+3 none
+-1 -1 -1 7
+EIKU 0 0 0
+stand stand male 2
+AHMV ABCDEFGHIJK medium 0
+#8903
+elder druidess~
+an elder druidess~
+An elder druidess stands here, watching the local fauna and feeding rabbits.
+~
+She looks ageless, as do all druids.  She smiles a beautiful smile at you.
+~
+unique~
+AGHQ N 1000 0
+213 0 2d10+170 13d9+100 1d10+3 none
+-1 -1 -1 7
+EIKU 0 0 0
+stand stand female 2
+AHMV ABCDEFGHIJK medium 0
+#8904
+doe~
+a doe~
+A doe is here, munching on grass.
+~
+This peaceful creature looks at you with big dark eyes.  Her nose twitches as
+she sniffs at you, but she goes back to chewing some grass.
+~
+unique~
+AGH 0 0 0
+205 0 2d6+60 2d9+100 1d6+1 none
+5 5 5 9
+EFNU 0 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium 0
+#8905
+deer~
+a deer~
+A deer is here, staring back at you.
+~
+The deer looks angered at your intrusion.  He butts his head against you, 
+albeit ineffectively.
+~
+unique~
+AGH 0 0 0
+206 0 2d7+71 3d9+100 1d7+1 none
+4 4 4 9
+EFNU 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#8906
+stag deer large~
+a stag~
+A large deer stag is here, protecting his territory.
+~
+He eyes you with contained anger.  You'd better leave him alone!
+~
+unique~
+AFGH 0 0 0
+208 0 2d7+96 4d9+100 1d7+2 none
+3 3 3 9
+EFNU 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#8907
+small bunny~
+a small bunny~
+A small bunny is here, poking from bush to bush.
+~
+This bunny looks so adorable, you wished you had one just like this!
+~
+unique~
+AGH 0 0 0
+202 0 2d7+21 1d9+100 1d5+0 none
+8 8 8 10
+EFNU 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0
+#8908
+snake~
+a harmless snake~
+A small snake slithers between the grass.
+~
+Upon careful inspection, you are sure it is NOT a cobra!
+~
+unique~
+AFGH P 0 0
+204 0 2d7+46 2d9+100 1d5+1 none
+6 6 6 9
+EFNR 0 L I
+stand stand none 0
+AGXYc ADEFKLQVX medium 0
+#8909
+druid~
+a druid~
+A druid is here in meditation.
+~
+He doesn't like you bothering him, but is too polite to ask you to leave.
+~
+unique~
+AGHQ DN 1000 0
+210 0 2d7+121 10d9+100 1d7+2 none
+1 1 1 7
+EIKU 0 0 0
+stand stand male 2
+AHMV ABCDEFGHIJK medium 0
+#8910
+druidess~
+a druidess~
+A druidess is here, peering at you.
+~
+She wonders why you are staring at her, and how you got in here.
+~
+unique~
+AGHQ DN 1000 0
+210 0 2d7+121 10d9+100 1d7+2 none
+1 1 1 7
+EIKU 0 0 0
+stand stand female 2
+AHMV ABCDEFGHIJK medium 0
+#8911
+spirit doe~
+the spirit of a doe~
+{WA spirit of a doe peeks out from her hiding place.{X
+~
+A spirit of a doe peeks out from her hiding place, then seems to float
+away.  
+~
+unique~
+AGR Pc 1000 0
+225 0 0d0+0 0d0+0 0d0+0 charge
+0 0 0 0
+CFHIKW 0 0 S
+stand stand none 1
+AGV ACDEFHJK medium unknown
+#8912
+spirit bird~
+the spirit of a song bird~
+{WThe spirit of a song bird flits about the greyness.{X
+~
+The spirit of a song bird flits about the greyness, looking for it's nest.  
+~
+unique~
+AGR T 1000 0
+227 0 0d0+0 0d0+0 0d0+0 peckb
+0 0 0 0
+FHPW 0 0 0
+stand stand female 0
+AGW ACDEFHKP tiny unknown
+#8913
+spirit rabbit~
+the spirit of a rabbit~
+{WThe Spirit of a rabbit hops your way.{X
+~
+A ghostly bunny hops your way.
+~
+unique~
+ACGRU V 1000 0
+230 0 0d0+0 0d0+0 0d0+0 claw
+0 0 0 0
+CFHJPV 0 0 0
+stand stand male 1
+AGV ACDEFHJK small unknown
+#8914
+spirit graveyard keeper~
+the spirit of the graveyard keeper~
+{WThe Spirit of the Graveyard Keeper is here mourning over the stones.{X
+~
+{WThe Spirit of the Graveyard Keeper is here mourning over the stones. 
+He turns and lets out a silent wail.  {X 
+~
+unique~
+ABR DF 1000 0
+232 0 0d0+0 0d0+0 0d0+0 punch
+0 0 0 0
+CFIKNX 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#8915
+spirit girl small~
+the spirit of a small girl~
+{WThe spirit of a small girl just floats and stares your way.{X
+~
+She's got that vacant, doeish look to her eyes.
+~
+unique~
+AGRY NPQ 1000 0
+236 0 0d0+0 0d0+0 0d0+0 slap
+0 0 0 0
+FHJK 0 0 0
+stand stand female 1
+AHMV ABCDEFGHIJK small unknown
+#8916
+spirite small boy~
+the spirit of a small boy~
+{WThe spirit of a small boy darts in and about the room.{X
+~
+He looks rather carefree.
+~
+unique~
+AGR NPV 1000 0
+240 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+FHINVW 0 0 0
+stand stand male 1
+AHMVZ ABCDEFGHIJK medium unknown
+#8917
+spirit abbot~
+the spirit of the Abbot~
+{WThe spirit of the Abbot drifts about.{X
+~
+The Spirit of the Abbot drifts about with a lost look upon his eerie face.  
+~
+unique~
+AGR BDFHVc 1000 0
+260 0 0d0+0 0d0+0 0d0+0 pound
+0 0 0 0
+FIK 0 0 0
+stand stand male 1
+AHMV ABCDEFGHIJK medium unknown
+#8918
+spirit bellringer~
+the spirit of the bellringer~
+{WThe Spirit of the Bellringer looks lost.{X
+~
+He looks lost.
+~
+unique~
+ABGR BQ 1000 0
+242 0 0d0+0 0d0+0 0d0+0 punch
+0 0 0 0
+EF 0 0 N
+stand stand male 1
+AHMV ABCDEFGHIJK large unknown
+#8919
+spirit nun~
+the spirit of a nun~
+{WThe spirit of a nun floats about the room.{X
+~
+She prays silently in reverence.
+~
+unique~
+AGR c 1000 0
+255 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+FNVX 0 0 0
+stand stand female 1000
+AHMV ABCDEFGHIJK medium unknown
+#8920
+spirit abbess~
+The spirit of the abbess~
+{WThe spirit of the abbess dwells here for an eternity.{X
+~
+Bless her sweet dead soul.
+~
+unique~
+ABR HV 1000 0
+260 0 0d0+0 0d0+0 0d0+0 slap
+0 0 0 0
+FHIKN 0 0 0
+stand stand female 1
+AHMV ABCDEFGHIJK medium unknown
+#8921
+bat~
+a bat~
+A bat flaps frantically towards you!
+~
+Bats in the bellfry can be a frightening thing.
+~
+unique~
+AFGH TV -1000 0
+243 0 0d0+0 0d0+0 0d0+0 bite
+0 0 0 0
+FHKVW 0 0 0
+stand stand female 100
+AGV ACDEFHJKP tiny unknown
+#8922
+rat~
+a rat~
+A large furry rat with yellow teeth looks for food.
+~
+The rat looks up at you and runs off with food in its mouth.
+~
+unique~
+AG V -1000 0
+245 0 0d0+0 0d0+0 0d0+0 charge
+0 0 0 0
+FHMVW 0 E 0
+stand stand male 0
+AGV ACDEFHJKQ small unknown
+#8923
+spider~
+a spider~
+A large red spider is busy spinning in the corner.
+~
+The spider crawls past its egg sac and poisons a victim helplessly wrapped in webbing.
+~
+unique~
+ABFG Nc -1000 0
+247 0 0d0+0 0d0+0 0d0+0 bite
+0 0 0 0
+EFHN 0 0 0
+stand stand none 1
+GP ACKV small unknown
+#8924
+spirite parishioner confessing~
+the spirit of a confessing parishioner~
+The spirit of a parishioner flitters by.
+~
+Make your peace, confess your sins.
+~
+unique~
+ABGR 0 1000 0
+248 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+DFX 0 0 0
+stand stand either 1
+AHMV ABCDEFGHIJK medium unknown
+#8925
+spirite novice~
+the spirit of a novice~
+{WThe spirit of a novice weeps and wails her anguish as she floats about.{X
+~
+She cries for all eternity.
+~
+unique~
+AGR PQTc 1000 0
+251 0 0d0+0 0d0+0 0d0+0 slap
+0 0 0 0
+FHKVX 0 0 0
+stand stand female 1
+AHMV ABCDEFGHIJK medium unknown
+#8926
+roach~
+a roach~
+A large roach scurrys back into a crack in the wall.
+~
+The roach must be infested with many diseases, you wouldn't want to touch it..
+~
+unique~
+AGR Va -500 0
+253 0 0d0+0 0d0+0 0d0+0 charge
+0 0 0 0
+FHVW 0 0 0
+stand stand none 1
+ABGO ACK tiny unknown
+#8927
+mouse~
+a mouse~
+A mouse scurries under your feet.
+~
+Squeak squeak.
+~
+unique~
+AGTU V -1000 0
+255 0 0d0+0 0d0+0 0d0+0 bite
+0 0 0 0
+FHVW 0 0 0
+stand stand either 1
+AGV ACDEFHJKQUV tiny unknown
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#8901
+The holy grove~
+You are standing amidst the ancient oaks and poplars in the holy grove. 
+The fauna here seem to be at ease with their surrounding environment.  From
+here, paths lead east and south.  
+~
+0 0 3
+D1
+The path wind its way through the tall trees, disappearing out of sight.
+~
+~
+0 -1 8902
+D2
+The path wind its way through the tall trees, disappearing out of sight.
+~
+~
+0 -1 8904
+S
+#8902
+The holy grove~
+You continue along through the ancient oaks and poplars in the holy
+grove.  The path continues east, west, and south.  
+~
+0 0 3
+D1
+The path wind its way through the tall trees, towards a clearing faintly seen.
+~
+~
+0 -1 8903
+D2
+The path wind its way through the tall trees, towards an open area barely
+visible in the distance.
+~
+~
+0 -1 8905
+D3
+The path wind its way through the tall trees, disappearing out of sight.
+~
+~
+0 -1 8901
+S
+#8903
+A clearing in the woods~
+You are standing in a clearing in the light woods.  From the looks of
+this part of the forest, things look a bit different, as though something is
+severely straining the area physically.  There is a small tablet on one of
+the trees.  
+~
+0 4 3
+E
+tablet~
+This zone has been populated by Merc.  1993
+~
+D2
+There is a path winding its way south through the tall poplars, disappearing
+out of sight some 100 yds. away.
+~
+~
+0 -1 8906
+S
+#8904
+The holy grove~
+You are standing amidst the ancient oaks and poplars in the holy grove. 
+You feel calm and relaxed here, as if great burdens have been lifted from
+Your shoulders.  From here, pleasant-looking paths lead east, north and
+south.  To the west, through the trees, You can see a faint trail leading
+towards the eastern road.  
+~
+0 4 3
+D0
+The path wind its way through the tall trees, disappearing out of sight.
+~
+~
+0 -1 8901
+D1
+The path wind its way through the tall trees, towards a clearing faintly seen.
+~
+~
+0 -1 8905
+D2
+The path wind its way through the tall trees, into the grove.
+~
+~
+0 -1 8907
+D3
+You can barely see a path leading back towards the eastern road.
+~
+~
+0 -1 8951
+S
+#8905
+The sacred glade~
+You are standing in the middle of the sacred glades, where the citizens
+of Midgaard come to celebrate the spring, where farmers give thanks for
+bountiful harvest in the fall, and where lovers stroll in summer.  You feel
+seasons of remembered happiness and joy taking Your sorrows and worries away
+from You, leaving You calm and invigorated, ready for the world.  Paths lead
+into the holy grove to the east, north and west, while to the south a wide,
+sunny field slopes down to a sparkling lake.  Above you is a strange
+shimmering, almost like something from another world....  
+~
+0 0 3
+D0
+The path wind its way north, disappearing through the tall trees.
+~
+~
+0 -1 8902
+D1
+The path wind its way through the tall trees, disappearing out of sight.
+~
+~
+0 -1 8906
+D2
+To the south, a wide, sunny field stretch out, sloping down towards a brightly
+glittering lake.
+~
+~
+0 -1 8908
+D3
+The path wind its way west between stately poplars and oaks.
+~
+~
+0 -1 8904
+D4
+The shimmering grows in intensity as you look at it, beckoning you to reach
+upwards...
+~
+~
+0 -1 9000
+S
+#8906
+The holy grove~
+You are standing amidst the ancient oaks and poplars in the holy grove. 
+You can feel a strange sensation of joy and calm seeping through You, as if
+great burdens have been lifted from Your shoulders.  To the south, You
+glimpse an open area through the trees, while paths lead away north and
+west.  
+~
+0 0 3
+E
+mansion~
+The mansion is a sprawling, two-story affair with three wings, where the top
+of one wing serves as balcony. The walls look as marble would do, if marble
+changed color slowly, continuously, through the entire spectrum. There are
+large windows all over the house.
+~
+D0
+The path wind its way through the tall trees, disappearing out of sight.
+~
+~
+0 -1 8903
+D1
+~
+~
+0 0 8952
+D2
+To the south, just beyond the trees, you can see a wide green lawn, and past
+the lawn, a softly shimmering, rainbow-colored mansion.
+~
+~
+0 -1 8909
+D3
+The path wind its way through the tall trees, disappearing out of sight.
+~
+~
+0 -1 8905
+S
+#8907
+The holy grove~
+You are standing amidst the tall, majestic trees in the southern end of
+the holy grove.  Paths lead north and east.  To the east, You can see a
+wide, open field, sloping gently down towards a bright, glittering lake. 
+Somehow, here you feel an inexplicable happiness, as if the world's troubles
+no longer really matter to you.  
+~
+0 0 3
+E
+mansion~
+The mansion is a sprawling, two-story affair with three wings, where the top
+of one wing serves as balcony. The walls look as marble would do, if marble
+changed color slowly, continuously, through the entire spectrum. There are
+large windows all over the house.
+~
+D0
+The path leading north is soon lost out of sight amongst the ancient oaks and
+poplars.
+~
+~
+0 -1 8904
+D1
+To the east, the path leads out into a wide, sunny summer's field, sloping
+south towards a beautiful lake. Past the field You can see a stately mansion,
+shimmering gently in all the rainbow's colours.
+~
+~
+0 -1 8908
+S
+#8908
+The sunny field~
+You are standing in the middle of a wide, summery, sunlit field.  There
+is a fragrance of spring in the air, a sound of summer and a feeling of
+eternal Saturday afternoon.  To the south is a clear, sparkling lake, and to
+the north and west is the holy grove.  In the wood's edge, to the east, is a
+stately man- sion, shimmering softly through the colors of the rainbow.  You
+feel as if You could spend the rest of your life here, lying on your back
+and looking at the patterns of the clouds as they gently drift across the
+sky.  
+~
+0 8 2
+E
+mansion~
+The mansion is a sprawling, two-story affair with three wings, where the top
+of one wing serves as balcony. The walls look as marble would do, if marble
+changed color slowly, continuously, through the entire spectrum. There are
+large windows all over the house. There is a terrace in front of the house,
+next to the low wing, which is almost completely windows.
+~
+D0
+There is a path leading north towards the sacred glade.
+~
+~
+0 -1 8905
+D1
+To the east, You can see the rainbow-colored mansion, shimmering like some-
+thing out of this world.
+~
+~
+0 -1 8919
+D3
+There is a small path leading into the woods to the west.
+~
+~
+0 -1 8907
+S
+#8909
+The croquet lawn~
+You are standing on a immaculately manicured green lawn, the kind you
+only get after 200 years of meticulous work.  There is a winding stone path
+leading from the wood's edge to the north, to the softly shimmering,
+rainbow-colored mansion to the south.  This place enjoys a perpetual cool,
+sunny summers after- noon.  
+~
+0 4 2
+E
+mansion~
+The mansion is a sprawling, two-story affair with three wings, where the top
+of one wing serves as balcony. The walls look as marble would do, if marble
+changed color slowly, continuously, through the entire spectrum. There are
+large windows all over the house.
+~
+D0
+To the north, the winding stone path leads into the holy grove.
+~
+~
+0 -1 8906
+D2
+To the south, the path leads straight up to the front door of the mansion.
+~
+door~
+1 -1 8910
+S
+#8910
+The foyer~
+You are standing in the foyer of Dragon's mansion.  The wide double door
+to the croquet lawn is to the north, flanked by large windows.  The walls
+are panelled in oak and hung with strange paintings.  There is door in the
+south wall.  
+~
+0 12 0
+E
+painting paintings~
+They are strange indeed, works of breathtaking precision depicting obviously
+impossible motifs, like a sky filled with headless men, all dressed in some
+black costume (including hats), or a lady standing, blue from the waist up, or
+some pieces of plankwood that seems to be melting away like snow, or a night
+sky with a dove-shaped hole of bright day sky in the middle.
+~
+D0
+Through the windows next to the door you can see the croquet lawn, bathed in
+afternoon sunlight.
+~
+door~
+1 -1 8909
+D2
+~
+door~
+1 -1 8911
+S
+#8911
+The hallway~
+You are in the north end of a connecting hallway, tastefully decorated
+with oak paneling and the coat-of-arms of various famous nobles hung on the
+walls.  The hallway leads south, and there is a door in the eastern wall.  
+~
+0 8 0
+D0
+~
+door~
+1 -1 8910
+D1
+~
+door~
+1 -1 8912
+D2
+~
+~
+0 -1 8913
+S
+#8912
+The blue room~
+You are in the blue room, one of the guest rooms in Dragon's mansion. 
+The walls are (surprise!)  Blue, and the rest of the room is decorated in
+similar shades, producing a very nice, cool effect.  There is a large bed
+and a matching set of sofas, easy-chairs and a coffee table.  Through the
+venetian blinds in front of the large east window you can see the edge of
+the grove.  
+~
+0 520 0
+D3
+~
+door~
+1 -1 8911
+S
+#8913
+The hallway~
+You are standing in the south end of the hallway.  There are doors in the
+elegant oak-panelled walls to the south, east and west.  Many different
+coat-of-arms adorn the walls here.  
+~
+0 8 0
+D0
+~
+~
+0 -1 8911
+D1
+~
+door~
+1 -1 8914
+D2
+~
+door~
+1 -1 8915
+D3
+~
+door~
+1 -1 8916
+S
+#8914
+The red room~
+You are in the red room, one of the guest rooms in Dragon's mansion.  The
+walls are wallpapered a deep warm red, and dark mahogany panelling nicely
+com- plements them.  There is a large, warm waterbed and a sofa group in
+dark wood with leather upholstery, including a coffee table.  Heavy brown
+curtains are pulled away from the wide windows, to reveal a nice view
+towards the grove.  
+~
+0 520 0
+D3
+~
+door~
+1 -1 8913
+S
+#8915
+The kitchen~
+You are standing in the middle of Dragon's kitchen.  Contrary to popular
+belief, He *doesn't* eat virgins, which is amply demonstrated by the large
+variety of foodstuffs found here on the shelves.  There are numerous cans of
+tomatoes, peas, corn etc.  , vines of garlic, a *Huge* array of small spice
+jars along several shelves and a large combo refrigerator/freezer.  A big
+oven and stove is lurking in a corner.  There is some proof here that Dragon
+is a less than meticulous housekeeper...  There are doors to the north and
+west.  
+~
+0 8 0
+D0
+~
+door~
+1 -1 8913
+D3
+~
+door~
+1 -1 8918
+S
+#8916
+The ballroom~
+You are standing in the middle of a vast palisander floor.  This is where
+Dragon entertains large number of guests, but the cloth-covered chairs
+standing forlornly in a corner suggests that this does not happen often. 
+There are doors in the south and east walls, while to the west there is a
+short corridor to the greenhouse.  
+~
+0 8 0
+D1
+~
+door~
+1 -1 8913
+D2
+~
+door~
+1 -1 8918
+D3
+~
+~
+0 -1 8917
+S
+#8917
+The greenhouse~
+This is Dragons' greenhouse.  Green light filters in slantwise through
+the plants, giving the room a subtropical ambience.  It is not really hot in
+here, though, rather a pleasantly warm temperature.  The walls are all
+windows, except the eastern one joining the greenhouse to the main building,
+but it is hard to see out for all the greenery here.  There is a set of
+easy-chairs and a glass coffee table.  To the south, there is a wide double
+door out to a sunlit terrace.  
+~
+0 520 0
+D1
+~
+~
+0 -1 8916
+D2
+~
+door~
+1 -1 8919
+S
+#8918
+The dining hall~
+This is Dragons' dining hall.  There is a large long solid oak table,
+seating at least 24, with heavy, wooden chairs to match.  The oak panel
+walls are filled with paintings.  There are doors to the north and east, and
+to the west there is a wide double door opening out onto the sunlit terrace.
+~
+0 8 0
+E
+painting paintings~
+There are many, many beautiful paintings of famous dragons of history and
+literature. There is a big one of Smaug, a group picture of Cuspidorian Toxic
+Dragons, a rather fearsome picture of Norse Chaos incarnate, a grainy black-
+and-white photograph of Vorgulremik the Steel Dragon, a romantic picture of 
+Dalvenjah the Mindijaran and Allan the man become dragon. There are three
+empty frames labeled 'The Chimerical', 'The Mythical' and 'The Hypothetical',
+A panoramic picture of Strabo flying between the worlds dominate one wall, 
+while a dragons-eye view of Pern (with dragons in the foreground, of course) 
+fills another. There even are a few rare medieval renditions of the great 
+beast of the Revelation. Over the head of the table hangs a rather modest 
+portrait of a silver Dragon, sparkling with blue lightening, looking amused.
+~
+D0
+~
+door~
+1 -1 8916
+D1
+~
+door~
+1 -1 8915
+D3
+~
+wide door~
+1 -1 8919
+S
+#8919
+The terrace~
+You are standing on a sunlit terrace in front of Dragon's mansion.  To
+the west, there is a splendid view over the field down over the lake.  To
+the north is the greenhouse, its large windowpanes shimmering with weird and
+wonderful colors, while a double door leads into the house proper to the
+east.  It is warm and calm here.  There is a white-painted table with a
+parasol here, together with a matched set of chairs.  
+~
+0 12 0
+D0
+~
+door~
+1 -1 8917
+D1
+~
+double door~
+1 -1 8918
+D3
+~
+~
+0 -1 8908
+S
+#8950
+At the edge of the grove~
+You are standing at the entrace of a beautiful grove of trees, and your
+heart is filled with pure, peaceful thoughts.  This looks like a safe place
+to recover from the wounds of adventuring.  A faint path through the grove
+lies to the north, and you can see the eastern road to the south.  
+~
+0 0 3
+D0
+A faint trail leads deeper into the grove.
+~
+~
+0 -1 8951
+S
+#8951
+Inside the grove~
+As you walk among the stately oaks of this grove, you feel at peace and
+in harmony with this beautiful forest.  If only the rest of the lands were
+so tranquil.  The trail turns towards the east, leading into the secluded
+trees of the druids' holy grove, and a path back to the eastern road lies
+south.  
+~
+0 0 3
+D1
+You see the stately oaks and poplars of the holy grove.
+~
+~
+0 -1 8904
+D2
+A faint trail heads towards the eastern road.
+~
+~
+0 -1 8950
+S
+#8952
+A Path to the Abbey~
+{DLeaving the peacefulness of the Holy Grove one finds themselves on a
+strangely quiet path.  The dirt path looks almost scorched.  It is said if
+one follows the path to the north an old abandoned abbey sits hauntingly in
+it's charred remains.  Perhaps going back west to the grove would be a wise
+decision for the faint of heart.  
+~
+0 5 11
+D0
+~
+~
+0 0 8953
+D3
+~
+~
+0 0 8906
+S
+#8953
+A Path to the Abbey~
+{DAs this small path continues, a faint dark odor begins to permeate the
+air.  The stench of death clings to everything.  Grey is the only color that
+seems to be able to reside here.  The leaves, the grass, the flora of any
+kind all seem to be the dull dark hue.  The eerie silence of the stale air
+becomes almost deafening.  
+~
+0 1 11
+D0
+~
+~
+0 0 8954
+D2
+~
+~
+0 0 8952
+S
+#8954
+The Path Begins to Mist~
+{DA dreary mist begins to form like swirling fingers upon the dank cold
+ground.  To the east, barely visible from the thick heavy fog, are sorrowful
+headstones.  To the north one can almost make out what seems to be a flight
+of crumbling stairs.  
+~
+0 1 11
+D0
+~
+~
+0 0 8956
+D1
+~
+~
+0 0 8955
+D2
+~
+~
+0 0 8953
+S
+#8955
+A Small Misted Cemetary~
+{DHere lies a small forgotten cemetary.  The markers heavy with moss and
+crooked from decaying debris.  Soft whimpers of lonliness from the souls
+that reside here ripple ominously through the silence.  All seem to be
+abandoned, save one lone marker that is clean and upon its curved top lays a
+single perfect blood red rose {r@}{g-,-'-{X 
+~
+0 1 11
+D3
+~
+~
+0 0 8954
+S
+#8956
+Steps to the Abbey's Tattered Entrance~
+{DMist rolls up the stairs, almost inviting one to certain doom.  The
+once magestic granite steps now stands cracked and crumbling.  The huge
+oaken doors are filled with wormwood and rot.  A pentagram painted with a
+slick crimson liquid mocks the Abbeys doorway, the sweet sticky blood ever
+oozing from the hideous symbol.  
+~
+0 1 11
+D0
+~
+~
+1 0 8957
+D2
+~
+~
+0 0 8954
+S
+#8957
+The Abbey's Foyer~
+{DEntering the Abbey's foyer all one sees is destrution and desecration. 
+Vile paintings done in sacrifical blood adorn the walls.  The heaviness of
+oppressing evil cloaks every inch of this place.  One small humble plaque
+stands untouched, almost a silent plea for help, reading...  {y"All ye who
+enter these walls are promised peace and protection."  
+~
+0 5 0
+D0
+~
+~
+0 0 8958
+D2
+~
+~
+1 0 8956
+S
+#8958
+The Desecrated Sanctuary of the Abbey~
+{DEvil lives here now.  It came and ripped all thoughts of holiness and
+goodness from this place.  Pools of dried blood lie in testament to the
+deaths that were offered up to the Master of Darkness.  The pews lay askewed
+and overturned proving of the brute force that attacked this humble
+sanctuary.  The brass crucifix hangs upside done upon the blood splattered
+wall.  Giving praise to all that is unclean and demonic.  
+~
+0 1 0
+D1
+~
+~
+0 0 8959
+D2
+~
+~
+0 0 8957
+D3
+~
+~
+0 0 8965
+S
+#8959
+A Crumbling Stairwell~
+{DThe darkness ensnares those that try to master these crumbling stairs. 
+Each step a deathtrap in itself with its weakness.  A broken door to the
+north allows one to almost see into the room.  The small oak door almost
+compeletly ripped from its hinges.  
+~
+0 1 0
+D0
+~
+~
+0 0 8961
+D3
+~
+~
+0 0 8958
+D4
+~
+~
+0 0 8960
+S
+#8960
+A Crumbling Stairwell~
+{DThe darkness ensnares those that try to master these crumbling stairs. 
+Each step a deathtrap in itself with its weakness.  
+~
+0 1 0
+D4
+~
+~
+0 0 8962
+D5
+~
+~
+0 0 8959
+S
+#8961
+Prayer Room of Despair~
+{DThis tiny room is void of anything, with the exception of heart
+sickening despair.  
+~
+0 1 0
+D2
+~
+~
+0 0 8959
+S
+#8962
+A Crumbling Stairwell~
+{DThe darkness ensnares those that try to master these crumbling stairs. 
+Each step a deathtrap in itself with its weakness.  Another small room seems
+to be to the north.  
+~
+0 1 0
+D0
+~
+~
+0 0 8963
+D4
+~
+~
+0 0 8964
+D5
+~
+~
+0 0 8960
+S
+#8963
+The Bellringers Deserted Chambers~
+{DThis dark dank room used to house the bellringer.  A deaf mute with the
+mind of a simplton the sisters took in as just a babe.  His only love was to
+feel the vibrations of the ringing bells.  The small straw filled cot that
+was his lays in shreds, stained with innocent blood.  
+~
+0 1 0
+D2
+~
+~
+0 0 8962
+S
+#8964
+A Silent Belfry~
+{DThe brass bell that once peeled with happiness and joy now hangs silent
+and cracked.  From is dull clapper hangs a noose and the corpse that felt
+the harsh yank of the coiled death.  The four windowed openings that center
+each wall let one see all around the abbey's compound, witnessing the
+darkness that engulfs the surrounding lands like a hungry preditor.  
+~
+0 1 0
+D5
+~
+~
+0 0 8962
+S
+#8965
+A Small Stuffy Waiting Room~
+{DIt is here the abbot would sit and listen to the young sisters sing
+praises to their Lord, now its but a haunting reminder of what was lost when
+the Great Evil rained upon this small abbey.  The abbot's robes for worship
+still hang upon a small wooden peg.  As if waiting for the good man to be
+resurrected.  
+~
+0 1 0
+D0
+~
+~
+0 0 8966
+D1
+~
+~
+0 0 8958
+D3
+~
+~
+0 0 8978
+S
+#8966
+A Quiet Hallway~
+{DGoing north in this half burned up hallway takes one to the sleeping
+chambers of the abbey's lost residents.  One's steps sounding like small
+explosions with every footfall.  
+~
+0 5 0
+D0
+~
+~
+0 0 8968
+D2
+~
+~
+0 0 8965
+S
+#8967
+The Abbot's Chamber~
+{DThis room is a shambles, nothing has been left unmarred.  With the cot
+so destroyed and the small wardrobe in pieces one can still feel the rage
+that it took to do so much damage.  Pages of the holy man's bible lay
+scattered all about the room.  A single page is tacked to the wall with a
+human finger bone..  The scripture "Jesus wept" underlined in blood.  
+~
+0 1 0
+D3
+~
+~
+0 0 8968
+S
+#8968
+A Quiet Hallway~
+{DThe charred hallway drones on.  The abbots chambers are to the east of
+here, the thick wooden door laying flat upon the floor, making one wonder
+what kind of force it took to smash throught it.  
+~
+0 1 0
+D0
+~
+~
+0 0 8969
+D1
+~
+~
+0 0 8967
+D2
+~
+~
+0 0 8966
+S
+#8969
+A Quiet Hallway~
+{DThe hallway continues.  South leads one back to the Sanctuary and the
+way out of this god forsaken place.  North leads you further into the the
+destruction.  
+~
+0 1 0
+D0
+~
+~
+0 0 8971
+D1
+~
+~
+0 0 8977
+D2
+~
+~
+0 0 8968
+S
+#8970
+Novice Sleeping Chamber~
+{DThis once was a bright cheery room filled with hope and excitment, the
+young novices buzzed around this room asking eager questions about their
+lives at the Abbey.  Looking around one sees the remains of these young
+hopefuls, laying prostrate upon their beds, chained, abused and left to rot.
+What once was their place of future now is their tomb.  
+~
+0 1 0
+D1
+~
+~
+0 0 8971
+S
+#8971
+A Quiet Hallway~
+{DThe hallway continues.  South leads one back to the Sanctuary and the
+way out of this god forsaken place.  North leads you further into the the
+destruction.  
+~
+0 1 0
+D0
+~
+~
+0 0 8973
+D1
+~
+~
+0 0 8980
+D2
+~
+~
+0 0 8969
+D3
+~
+~
+0 0 8970
+S
+#8972
+A Small Neglected Garden~
+{DOnce upon a time this was a beautiful flourishing garden with roses
+that were the envy for miles around.  Now it grows only darkness that evil
+plucks for a centerpiece.  
+~
+0 1 0
+D3
+~
+~
+0 0 8973
+S
+#8973
+A Quiet Hallway~
+{DThe hallway continues.  South leads one back to the Sanctuary and the
+way out of this god forsaken place.  North leads you further into the the
+destruction.  The door to the west has been ripped from it's place leaving
+it opened for anyone to trespass.  To the east one sees an opening to a
+small garden that surely was most beautiful at one time.  
+~
+0 1 0
+D0
+~
+~
+0 0 8975
+D1
+~
+~
+0 0 8972
+D2
+~
+~
+0 0 8971
+D3
+~
+~
+0 0 8974
+S
+#8974
+Sleeping Chambers for Sisters of Peace~
+{DRows of neat tidy cots lay in a row here.  Wooden pegs filled with
+wimples and long robes line the south wall.  No blood, no destruction,
+nothing...  Untill one looks up and sees the naked rotting form of one of
+the virginal sisters pegged spread eagle upon the ceiling.  Her body drained
+of blood and in the center of her chest a pentagram has been carved into her
+leathery flesh.  
+~
+0 1 0
+D1
+~
+~
+0 0 8973
+S
+#8975
+The Hallway Ends~
+{DThis is where the hall ends.  The most tragic sacrilege is just to the
+west.  You have been warned.  
+~
+0 1 0
+D2
+~
+~
+0 0 8973
+D3
+~
+~
+0 0 8976
+S
+#8976
+The Orphan's Sleeping Quarters~
+{DIt is here the most morally depraved of tragedies took place.  They
+were but innocent childern, the only love they had ever know was that of the
+Sisters of Peace.  Then evil whispered to them, charmed them, gave them
+dreams of hope and family.  Then one by one they were slaughtered like sweet
+lambs.  Evil had never felt such pleasure.  Only the small made cots, each
+adorned with a small toy that belonged to each child, are evidence these
+lone childern ever exsisted at all.  
+~
+0 1 0
+D1
+~
+~
+0 0 8975
+S
+#8977
+Abbess' Sleeping Chamber~
+{DThis room seems to be almost untouched, except for the pool of dried
+blood in the very center of the abbess' cot and a single lock her long
+chestnut hair coiled up on her pillow.  
+~
+0 1 0
+D3
+~
+~
+0 0 8969
+S
+#8978
+A Battered Confessional~
+{DThe burnt and blackened remains of the abbot still sits upon his side
+of the confessional booth.  His jaw opened and dangling low, his silver
+cross hanging from his remaining teeth.  The sins here are much to great to
+confess to anyone, so shall remain a secret forevermore.  
+~
+0 1 0
+D1
+~
+~
+0 0 8965
+S
+#8980
+A Humble Dining Area~
+{DA long table centers this modest room.  The scattered remains of
+someone lays decaying upon its top.  Seems like evil had an extra serving
+for lunch today.  
+~
+0 1 0
+D1
+~
+~
+0 0 8981
+D3
+~
+~
+0 0 8971
+S
+#8981
+A Forgetten Store Room~
+{DThis room holds the supplies needed to run an abbey.  Foodstuffs,
+cleaning supplies, linens and such still are neatly stacked.  
+~
+0 1 0
+D3
+~
+~
+0 0 8980
+S
+#8999
+The fog~
+You are in a grey fog, falling, screaming in pain as you realize that you
+are being torn to nothing, atom by atom, falling and falling and falling
+.......  
+~
+0 4 0
+S
+#0
+
+
+
+#SPECIALS
+M 8900 spec_cast_cleric
+M 8901 spec_cast_cleric
+M 8902 spec_cast_cleric
+M 8903 spec_cast_cleric
+M 8908 spec_poison
+M 8909 spec_cast_cleric
+M 8910 spec_cast_cleric
+M 8915 spec_cast_mage
+M 8916 spec_cast_mage
+S
+
+
+
+#RESETS
+D 0 8909 2 1
+D 0 8910 0 1
+D 0 8910 2 1
+D 0 8911 0 1
+D 0 8911 1 1
+D 0 8912 3 1
+D 0 8913 1 1
+D 0 8913 2 1
+D 0 8913 3 1
+D 0 8914 3 1
+D 0 8915 0 1
+D 0 8915 3 1
+D 0 8916 1 1
+D 0 8916 2 1
+D 0 8917 2 1
+D 0 8918 0 1
+D 0 8918 1 1
+D 0 8918 3 1
+D 0 8919 0 1
+D 0 8919 1 1
+D 0 8956 0 1
+D 0 8957 2 1
+M 0 8901 1 8901 1
+M 0 8902 1 8902 1
+M 0 8907 4 8903 4
+M 0 8907 4 8903 4
+M 0 8903 1 8904 1
+M 0 8900 1 8905 1
+M 0 8904 2 8905 2
+M 0 8906 1 8905 1
+M 0 8905 2 8906 2
+M 0 8908 9 8906 9
+M 0 8909 2 8911 1
+M 0 8910 2 8914 1
+M 0 8910 2 8917 1
+M 0 8909 2 8918 1
+M 0 8913 6 8953 2
+M 0 8913 6 8953 2
+M 0 8912 6 8953 2
+M 0 8912 6 8953 2
+M 0 8911 6 8953 2
+M 0 8911 6 8953 2
+M 0 8911 6 8954 1
+M 0 8912 6 8954 1
+M 0 8913 6 8954 1
+M 0 8913 6 8955 1
+M 0 8912 6 8955 1
+M 0 8911 6 8955 1
+M 0 8914 1 8955 1
+M 0 8911 6 8956 1
+M 0 8912 6 8956 1
+M 0 8913 6 8956 1
+M 0 8917 1 8958 1
+M 0 8919 6 8958 2
+M 0 8919 6 8958 2
+M 0 8923 4 8959 1
+M 0 8915 4 8960 1
+M 0 8927 4 8960 1
+M 0 8924 2 8961 1
+M 0 8916 4 8962 1
+M 0 8923 4 8962 1
+M 0 8918 1 8963 1
+M 0 8921 4 8964 4
+M 0 8921 4 8964 4
+M 0 8921 4 8964 4
+M 0 8921 4 8964 4
+M 0 8922 4 8965 1
+M 0 8915 4 8969 1
+M 0 8925 4 8969 2
+M 0 8925 4 8969 2
+M 0 8925 4 8970 2
+M 0 8925 4 8970 2
+M 0 8923 4 8971 1
+M 0 8919 6 8972 1
+M 0 8923 4 8972 1
+M 0 8922 4 8972 2
+M 0 8922 4 8972 2
+M 0 8919 6 8973 1
+M 0 8919 6 8974 2
+M 0 8919 6 8974 2
+M 0 8916 4 8975 1
+M 0 8915 4 8975 1
+M 0 8915 4 8976 1
+M 0 8916 4 8976 1
+M 0 8920 1 8977 1
+M 0 8919 6 8978 1
+M 0 8924 2 8978 1
+M 0 8916 4 8980 1
+M 0 8927 4 8980 2
+M 0 8927 4 8980 2
+M 0 8919 6 8980 1
+M 0 8922 4 8981 1
+M 0 8926 2 8981 2
+M 0 8926 2 8981 2
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

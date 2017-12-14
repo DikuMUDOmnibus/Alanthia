@@ -1,0 +1,526 @@
+#AREADATA
+Name Forest of Llyr~
+Builders Pulsar Ali~
+VNUMs 25600 25799
+Credits {??? ???} Ali/Puls    AdventureForest~
+Security 9
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#MOBPROGS
+#0
+
+
+
+#OBJECTS
+#25600
+a birch tree~
+a huge birch tree~
+{WA gigantic white birch, leaved in {mr{Ga{Mi{Bn{Cb{Yo{bw {Mm{Ya{Cg{Wi{Gc, {Wrules this spot.{X~
+unknown~
+portal G P
+0 0 0 25608 0
+1 0 0 0 P
+#0
+
+
+
+#ROOMS
+#25600
+{GA {gFo{yr{ge{Gs{gt{y Path{X~
+{GHere the forest glade begins {yto thicken{g a bit.  The air becomes
+cooler and the {Gsounds of the animal {ylife begins{g to increase.  The
+combined odors of dying vegetation and new grow{yth drift in{g the breeze.  
+~
+0 4 3
+D0
+~
+~
+0 0 25601
+S
+#25601
+{GA{g Fo{yr{ge{Gs{gt {yPath{X~
+ The forest path continues.  Going north leads one in deeper into the
+thicket.  Taking the same path south will lead one away from the adventure. 
+~
+0 0 3
+D0
+~
+~
+0 0 25602
+D2
+~
+~
+0 0 25600
+S
+#25602
+{GA {gFo{yr{ge{Gs{Gt {yPath{X~
+ The forest path continues.  Going north leads one in deeper into the
+thicket.  Taking the same path south will lead one away from the adventure. 
+A whispered rustling sound comes from the west.  
+~
+0 0 3
+D0
+~
+~
+0 0 25604
+D2
+~
+~
+0 0 25601
+D3
+~
+~
+0 0 25603
+S
+#25603
+{GA {gFo{yr{ge{Gs{Gt {yPath{X~
+ This bit of the forest is almost like a tiny nook.  There is a small
+charred spot directly in the middle of this small spot.  It seems as though
+someone or something must of camped here for the night.  
+~
+0 0 3
+D1
+~
+~
+0 0 25602
+S
+#25604
+{GA {gFo{yr{ge{Gst {yPath{X~
+The small path continues.  Going north leads one in deeper into the
+thicket.  The lilting sounds of nature seem to begin to sing its way through
+this ancient forest.  
+~
+0 0 3
+D0
+~
+~
+0 0 25605
+D2
+~
+~
+0 0 25602
+S
+#25605
+{GA {gFo{yr{ge{Gst {yPath{X~
+ The small path continues.  Going north leads one in deeper into the
+thicket.  The lilting sounds of nature seem to begin to sing its way through
+this ancient forest.  
+~
+0 0 3
+D0
+~
+~
+0 0 25606
+D2
+~
+~
+0 0 25604
+S
+#25606
+{GA {gFo{yr{ge{Gst {yPath{X~
+ The trail widens here as one goes north.  The faint sound of rushing
+water can be heard if one stands perfectly still.  During the sunlit hours a
+glistening mist twinkles all about like tiny specks of magic floating in the
+air.  
+~
+0 0 3
+D0
+~
+~
+0 0 25607
+D2
+~
+~
+0 0 25605
+S
+#25607
+{GA {gFo{yr{ge{Gst {yPath{X~
+Branching off to the east and west, this leg of the path almost is hidden
+from the HUGE birch tree right in the middle of it.  This tree is obviously
+the home of some type of mystical creatures, seeing how it glows a swirl of
+rainbowed colors.  
+~
+0 0 3
+D2
+~
+~
+0 0 25606
+S
+#25608
+{WInside the Magic{X~
+Mystical forces allows one to become apart of this magical tree.  Up and
+up to its branches of colorful mysteries.  Tiny whispers and giggled
+laughter can be heard, seems someone knows they have company.  
+~
+0 0 0
+D4
+~
+~
+0 0 25609
+S
+#25609
+{WInside the Magic{X~
+Up and up to its branches of colorful mysteries.  Tiny whispers and
+giggled laughter can be heard, seems someone knows they have company.  A
+soft vibration runs in and about the wood of this anciet giant, the magic
+contained within has kept this tree safe and sound throughout the ages.  
+~
+0 0 11
+D4
+~
+~
+0 0 25610
+S
+#25610
+{WInside the Magic{X~
+Tiny knotholes in the white flesh of the wood seem to glow with a golden
+light.  They seem to be lit by tiny lanterns.  Making one wonder who could
+of put them there.  
+~
+0 0 0
+D4
+~
+~
+0 0 25611
+S
+#25611
+{WInside the Magic{X~
+~
+0 0 0
+D4
+~
+~
+0 0 25612
+S
+#25612
+{WThe Magic begins to branch off.{X~
+~
+0 0 0
+D0
+~
+~
+0 0 25613
+D1
+~
+~
+0 0 25615
+D2
+~
+~
+0 0 25614
+D3
+~
+~
+0 0 25616
+D4
+~
+~
+0 0 25631
+S
+#25613
+{WLeaved in Magic{X~
+~
+0 0 0
+D0
+~
+~
+0 0 25617
+D2
+~
+~
+0 0 25612
+S
+#25614
+{WLeaved in Magic{X~
+~
+0 0 0
+D0
+~
+~
+0 0 25612
+D2
+~
+~
+0 0 25620
+S
+#25615
+{WLeaved in Magic{X~
+~
+0 0 0
+D1
+~
+~
+0 0 25624
+D3
+~
+~
+0 0 25612
+S
+#25616
+{WLeaved in Magic{X~
+~
+0 0 0
+D1
+~
+~
+0 0 25612
+D3
+~
+~
+0 0 25627
+S
+#25617
+{WLeaved in Magic{X~
+~
+0 0 0
+D0
+~
+~
+0 0 25618
+D2
+~
+~
+0 0 25613
+S
+#25618
+{WLeaved in Magic{X~
+~
+0 0 0
+D0
+~
+~
+0 0 25619
+D2
+~
+~
+0 0 25617
+S
+#25619
+{WLeaved in Magic{X~
+~
+0 0 0
+D2
+~
+~
+0 0 25618
+S
+#25620
+{WLeaved in Magic{X~
+~
+0 0 0
+D0
+~
+~
+0 0 25614
+D2
+~
+~
+0 0 25621
+S
+#25621
+{WLeaved in Magic{X~
+~
+0 0 0
+D0
+~
+~
+0 0 25620
+D2
+~
+~
+0 0 25622
+S
+#25622
+{WLeaved in Magic{X~
+~
+0 0 0
+D0
+~
+~
+0 0 25621
+D2
+~
+~
+0 0 25623
+S
+#25623
+{WLeaved in Magic{X~
+~
+0 0 0
+D0
+~
+~
+0 0 25622
+S
+#25624
+{WLeaved in Magic{X~
+~
+0 0 0
+D1
+~
+~
+0 0 25625
+D3
+~
+~
+0 0 25615
+S
+#25625
+{WLeaved in Magic{X~
+~
+0 0 0
+D1
+~
+~
+0 0 25626
+D3
+~
+~
+0 0 25624
+S
+#25626
+{WLeaved in Magic{X~
+~
+0 0 0
+D3
+~
+~
+0 0 25625
+S
+#25627
+{WLeaved in Magic{X~
+~
+0 0 0
+D1
+~
+~
+0 0 25616
+D3
+~
+~
+0 0 25628
+S
+#25628
+{WLeaved in Magic{X~
+~
+0 0 0
+D1
+~
+~
+0 0 25627
+D3
+~
+~
+0 0 25629
+S
+#25629
+{WLeaved in Magic{X~
+~
+0 0 0
+D1
+~
+~
+0 0 25628
+D3
+~
+~
+0 0 25630
+S
+#25630
+{WLeaved in Magic{X~
+~
+0 0 0
+D1
+~
+~
+0 0 25629
+S
+#25631
+{WThe Magic begins to Branch off.{X~
+~
+0 0 0
+D4
+~
+~
+0 0 25632
+D5
+~
+~
+0 0 25612
+S
+#25632
+{WThe Magic begins to Branch off.{X~
+~
+0 0 0
+D4
+~
+~
+0 0 25633
+D5
+~
+~
+0 0 25631
+S
+#25633
+{WThe Magic begins to Branch off.{X~
+~
+0 0 0
+D4
+~
+~
+0 0 25634
+D5
+~
+~
+0 0 25632
+S
+#25634
+{WThe Magic begins to Branch off.{X~
+~
+0 0 0
+D4
+~
+~
+0 0 25635
+D5
+~
+~
+0 0 25633
+S
+#25635
+{WThe Tip Top of the Magic{X~
+~
+0 0 0
+D5
+~
+~
+0 0 25634
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+O 0 25600 0 25607
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

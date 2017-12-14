@@ -1,0 +1,1233 @@
+#AREADATA
+Name Infested Mausoleum~
+Builders Fluffy Halodar~
+VNUMs 4200 4299
+Credits { ?  ?  } Sorosi      Infsted Mausoleum~
+Security 9
+Version 1
+End
+
+
+
+#MOBILES
+#4200
+geef groundskeeper keeper~
+Geef the Groundskeeper~
+Geef the troll groundskeeper shivers with pathetic fear.
+~
+This creature is the epitamy of pathetic.  He is a hunched-over troll,
+dressed in grimy rags and permeated with the stench of death and rot.  He
+wears a band of cloth over a missing eye, and the other is almost completely
+covered by his greasy hair.  
+~
+unique~
+ABHS Le -400 0
+50 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+D L BEIM HK
+stand stand male 6000
+ABHMV ABCDEFGHIJKUV small unknown
+#4201
+brown recluse spider~
+a brown recluse spider~
+A brown recluse spider crouches in the corner, draining an unfortunate scarab.
+~
+~
+unique~
+ABF H 0 0
+58 0 0d0+0 0d0+0 0d0+0 bite
+0 0 0 0
+WX BL D CJ
+stand stand none 0
+BP ACDEFKU tiny unknown
+#4202
+mouldering corpse~
+A mouldering corpse~
+A mouldering corpse hangs from a rusty chain on the wall.
+~
+A stinking black fluid leaks from the bulging eyes and mouth of this
+decomposing corpse.  Tattered remnants of a black silk suit cling to the
+suspended cadaver.  Suddenly, the hideous object stirs, and begins to moan
+in pain and anger.  
+~
+unique~
+AB Z 0 0
+55 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+P LPQ F ENS
+stand stand none 5000
+ADMV ABCDEFGHIJK medium flesh
+#4203
+flickering being~
+a flickering being~
+A flickering being howls silently, wandering aimlessly.
+~
+This creature shivers between reality and unreality, gliding through the
+air.  Clothed in wisps of mist, its sex is indeterminate.  
+~
+unique~
+AR HT 0 0
+55 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+X L JQ FHN
+stand stand none 0
+AHKMV ABCDEFGHIJK medium fog
+#4204
+stinking cadaver corpse guard~
+a stinking cadaver~
+A stinking cadaver stands here dully, guarding the statue.
+~
+Dressed in the tattered remains of fine clothing, this is the corpse of a
+nobleman.  It has been risen from the dead by some powerful necromancy, and
+set to task guarding this island in the bowels of evil.  
+~
+unique~
+ABF H -1000 0
+60 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+U LQ F EG
+stand stand male 5000
+AHIMV ABCDEFGHIJK medium flesh
+#4205
+a living, squirming barrier~
+a living, squirming barrier~
+A living, squirming barrier seals the path like a cork in a bottle.
+~
+~
+unique~
+ABF H 0 0
+70 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 C 0 D
+stand stand none 0
+0 F medium sinew
+#4206
+no name~
+(no short description)~
+(no long description)
+~
+~
+unique~
+AM 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#4200
+Ancient Mausoleum Entrance~
+The crumbling, cracked twists and curves of an enourmous marble archway
+rises above a massive set of chipped obsidian doors hung on a pair of ornate
+iron hinges.  The shattered remains of a complex lock clings almost
+dejectedly to the center of the doors, warped and torn by some infernal
+power.  An almost entirely obliterated sign hangs at a tilt above the
+entrace, and a tiny shack is visible close by to the east.  
+~
+0 262156 1
+E
+sign~
+Welcome to our Mausoleum.
+Remember that this is
+a sacred place of
+interrment, so please
+keep a respectful tone
+at all times.
+ 
+  -Thank You
+~
+D0
+~
+~
+0 0 4201
+D1
+~
+~
+0 0 4203
+D2
+~
+~
+0 0 3655
+S
+#4201
+Echoing Vestibule~
+A fine mist hangs in the upper reaches of the air in this large room. 
+The top arch of the vaulted ceiling is concealed by the fog, but faded
+paintings and carvings can be seen from here.  An occasional tuft of grass
+clings to a crack in the black marble floor, adding a slight touch of life
+to these gloomy surroundings.  A cold, cracked pedestal resides in the
+center of the room, with words etched into a plaque near the top.  
+~
+0 8 0
+E
+pedestal plaque~
+Here burns our Mausoleum's Eternal Flame.
+May the Gods smile upon the dear departed,
+and welcome them into the sacred Hereafter.
+ 
+(The top of the pedestal appears scorched, but no flame burns here.)
+~
+D0
+~
+~
+0 0 4206
+D2
+~
+~
+0 0 4200
+S
+#4203
+A tiny, disheveled shack~
+You have entered a sparsely furnished, windowless hovel.  A cot covers
+the east wall, and a diminutive wood stove surrounded by kindling and dirt
+takes up a corner.  The floor is partially covered by a natty, lumpy rug.  
+~
+0 8 0
+D3
+~
+~
+0 0 4200
+D5
+~
+rug~
+1 0 4204
+S
+#4204
+{DA dark hidey-hole{x~
+The ground has been dug out here to make a slimy little hiding place.  
+~
+0 521 0
+D4
+~
+trapdoor~
+1 0 4203
+S
+#4206
+A muted intersection~
+This circular room is lit by several hooded torches, spaced evenly along
+the curved, tiled walls.  The ceiling seems to be a polished slab of black
+marble, with one long crack spidering across the center.  The corner made by
+the floor and walls is covered by a thick, soft layer of mold or moss, and a
+human-like form can almost be discerned amongst the fungus.  Exits lead
+north, east, and west to distinctly colored corridors, and south into an
+entrance hall.  
+~
+0 8 0
+D0
+~
+~
+0 0 4209
+D1
+~
+~
+0 0 4207
+D2
+~
+~
+0 0 4201
+D3
+~
+~
+0 0 4208
+S
+#4207
+An amethyst hall~
+A violet haze permeates this corridor, hiding most details.  Shapes form
+from the fog and dissolve just as quickly, and unidentifiable sounds echo
+through the..  Empty?  Space.  The mist thickens and swirls in more complex
+patterns to the east.  
+~
+0 8 0
+D3
+~
+~
+0 0 4206
+S
+#4208
+A topaz hall~
+
+~
+0 8 0
+D1
+~
+~
+0 0 4206
+S
+#4209
+An opal hall~
+The shimmering walls of this hall would normally blind a man, had all the
+torches in the holders been lit.  Now, though, there is but one light
+burning low, casting an eerie shifting glow in the stones used to tile the
+corridor.  This section of the Mausoleum seems to be void of any life,
+including plants or fungus, of any type.  Even the air has a dead, stale
+lack-of-smell to it..  The shining hall continues to the north, and an
+intersection is visible south.  
+~
+0 8 0
+D0
+~
+~
+0 0 4210
+D2
+~
+~
+0 0 4206
+S
+#4210
+The opal hall~
+The opal walls shimmer in a swirling pattern around an opening in the
+east wall, presumably meant to be covered by the pulverized marble block
+strewn across the floor.  Deep scratches mar the marble walk, and heavy
+cracks radiate outward from the smashed crypt entrance.  The claw marks on
+the floor and wall lead farther north.  
+~
+0 8 0
+D1
+~
+~
+0 0 4211
+D2
+~
+~
+0 0 4209
+S
+#4211
+A dismal crypt~
+This is a crypt of royalty, as shown by the epic carvings on the formerly
+gold-plated walls.  Sconces in each of the corners hold cold torches, and
+deep gouges in the stone on the floor suggest a creature of incredible power
+vacated this room in a hurry.  The lid of a large stone coffin is recessed
+into the floor.  An inlaid cat is carved into the middle of the marble lid. 
+~
+0 9 0
+D3
+~
+~
+0 0 4210
+D5
+~
+lid~
+4 4205 4215
+S
+#4212
+A filthy sandstone tunnel~
+This room is the beginning of a crudely carved tunnel in the underlying
+sandstone that the Mausoleum was built on.  Dust-covered spiderwebs shroud
+the way, not to mention the ground is littered in dead bugs and rodent
+skeletons.  The passage continues east into the dark.  
+~
+0 12 0
+D1
+~
+~
+0 0 4213
+S
+#4213
+A filthy sandstone tunnel~
+A humanoid skeleton slumps in a shallow alcove on the south wall, covered
+in dirt and cobwebs.  The walls are cracked, dry rock, thickly enveloped in
+a layer of dust.  Obviously, nobody has been here in a very, very long time,
+as the ground is undisturbed.  The tunnel leads east to utter blackness, and
+back west to a slight glow of light.  
+~
+0 0 0
+E
+skeleton~
+This dusty reminder of a past adventurer is a grim reminder of the
+dangers of stepping where one should not.  A little spider descends from the
+eye socket, and several worms wriggle between the teeth. 
+~
+D1
+~
+~
+0 0 4214
+D3
+~
+~
+0 0 4212
+S
+#4214
+A precarious ledge~
+This ledge seems to be almost clinging to the edge of the pit of
+eternity, so deep black that no light source can penetrate further than a
+man's height below you.  The way back up to the tunnel is unclimbable, so
+the only means off this edge seems to be to drop down, into the pit.  
+~
+0 0 0
+D5
+~
+~
+0 0 4216
+S
+#4215
+Inside the Stone Coffin~
+There is no way out of this cramped coffin, the heavy lid having been
+slammed tight.  Beetles skitter into the corners and grubs crawl around the
+floor of the granite box.  A golden coffin rests in the center, taking up
+most of the space.  The lid seems wrenched off, and the inside is a deep
+shadowy black.  
+~
+0 12 0
+S
+#4216
+Far down the tunnel~
+Far beneath the earth, the walls of this shaft are slick with a greenish,
+flowing slime emerging from crevices in the walls.  There is nothing to hold
+onto here except some sloped ledges and mossy cracks.  Drips of water rush
+past, to disappear into the blackness below.  
+~
+0 8 5
+D4
+~
+~
+0 0 4214
+D5
+~
+~
+0 0 4217
+S
+#4217
+An eerie, glowing tunnel~
+A layer of mist hangs several feet above the floor, shrouding the squishy
+ground from view.  A faint light is emitted from the fog, allowing the
+faintest bit of sight.  A large ragged hole in the ceiling leads up to a
+tunnel, dripping water and slime into the stinking passage below.  The smell
+of mold and death permeates the air in this foul pit, which leads east at a
+downward angle.  
+~
+0 8 0
+D1
+~
+~
+0 0 4218
+D4
+~
+~
+0 0 4216
+S
+#4218
+A twisting passage~
+Fang-like stalactites and stalagmites are spaced unevenly around this
+curved section of tunnel, some meeting in the middle to form glistening
+pillars.  The fog moves in eddies and currents, forming odd patterns in the
+air.  A stench rises from deeper, as the tunnel leads south and down at a
+steep angle.  
+~
+0 8 0
+D2
+~
+~
+0 0 4219
+D3
+~
+~
+0 0 4217
+S
+#4219
+A twisting downward passage~
+The slimy slope leads south to a dark void, moisture flowing freely
+between the formations on the floor.  Snakes and salamanders slide up the
+pillars and walls, and the smell of rotting death hangs amidst the haze in
+the air.  
+~
+0 8 0
+D0
+~
+~
+0 0 4218
+D2
+~
+~
+0 0 4220
+S
+#4220
+A corkscrew passage~
+From this point, the tunnel leads down and around, almost like being
+inside a massive corkscrew.  There are holes in the walls feeding in a
+steady stream of water and other liquids, causing the flow on the floor to
+strengthen.  The stream has an almost imperceptible reddish tint to it,
+getting stronger the deeper the passage goes.  
+~
+0 8 0
+D0
+~
+~
+0 0 4219
+D5
+~
+~
+0 0 4221
+S
+#4221
+Stone to flesh~
+At the higher eastern end of this section of tunnel, the walls are stone,
+albeit soaked.  As the conduit proceeds to the depths, though, the texture
+changes.  The sides gradually become paler, until to the west the slope is a
+raw, pinkish-red and the rushing stream on the floor is dark red and
+steaming..  The only footing from here seems to be chunks of rock and
+flooring that break the surface.  
+~
+0 8 0
+D3
+~
+~
+0 0 4222
+D4
+~
+~
+0 0 4220
+S
+#4222
+A pulsing conduit~
+The walls in this tunnel pulse with a rhythm, as if alive, as a rushing
+flow of blood traverses the floor.  Tentacles hang from the walls and
+ceilings, moving slowly, sometimes snatching up a small creature or two from
+the stream.  A humanoid corpse is half-embedded in the wall close by,
+holding a scrap of {yparchment{x in its dead grasp.  
+~
+0 8 0
+E
+parchment~
+{rI haven't a long time to live, I know that now.
+The dark has overtaken this formerly sacred Mausoleum,
+and I am powerless against Them.
+I have been wandering these depths for days, barely
+avoiding the creatures of the Evil.
+I believe that one of the Five has created these vile
+caverns, so beware, friend!
+I advise you to turn back, before you meet the same fate
+that lies in wait for me in the near future.
+ 
+As not to be forgotten, Ja{x(the message stops abruptly here,
+with a long smear of the reddish-brown 'ink' ending it.)
+~
+D1
+~
+~
+0 0 4221
+D3
+~
+~
+0 0 4223
+S
+#4223
+Down the living tunnel~
+The walls and floor of the conduit convulse and shudder to a steady,
+booming rhythm.  The blood is now flowing at half a man's height, and churns
+into waves as the corridor shakes.  Tentacles and other unidentifiable
+'appendages' hang from the ceiling and walls, some moving slowly and others
+flailing wildly.  The crimson flood continues to the north, down as liquid
+is bound to flow.  
+~
+0 8 0
+D0
+~
+~
+0 0 4224
+D1
+~
+~
+0 0 4222
+S
+#4224
+The crest of the crimson falls~
+Rushing blood boils past this spongy outcropping that splits the flow
+into the great crevasse below.  Bits of dead things rush past, slipping over
+the edge and disappearing into the spray.  There is no way to go upriver, as
+the debris in the strong current all flows this way.  The only exit from
+this precarious ledge is down, off the falls.  
+~
+0 8 5
+D5
+~
+~
+0 0 4225
+S
+#4225
+The roaring falls~
+Blood flows all around, engulfing all it falls upon.  This is the
+culmination of all the rivulets and trickles far up the tunnel.  Death and
+debris sweep by, as the pounding weight of the crimson liquid crashes to
+earth.  The single way out of this situation is down, to fall with the flow.
+~
+0 8 9
+D5
+~
+~
+0 0 4226
+S
+#4226
+The bottom of the falls~
+Steaming scarlet liquid pounds and thunders through the air, clashing
+into waves upon impact below.  Several rocks jut from the wall of blood,
+splitting the flow and churning it into bubbling froth.  The only viable
+exit from here is down, down into the lake of blood.  
+~
+0 8 9
+D4
+~
+~
+0 0 4225
+D5
+~
+~
+0 0 4227
+S
+#4227
+The base of the bloody falls~
+Warm blood splashes down onto the surface of a wide lake from a hole high
+above, in the pulsing fleshy ceiling.  This section of the lake seems to be
+near the edge of a massive, domed cavern.  Darkness shrouds the entire area,
+making it very hard to make out any major features.  
+~
+0 9 6
+D0
+~
+~
+0 0 4228
+D1
+~
+~
+0 0 4231
+D2
+~
+~
+0 0 4233
+D3
+~
+~
+0 0 4230
+D4
+~
+~
+0 0 4226
+S
+#4228
+North of the falls~
+
+~
+0 0 6
+D1
+~
+~
+0 0 4232
+D2
+~
+~
+0 0 4227
+D3
+~
+~
+0 0 4229
+S
+#4229
+Northwest of the falls~
+
+~
+0 0 6
+D1
+~
+~
+0 0 4228
+D2
+~
+~
+0 0 4230
+S
+#4230
+West of the falls~
+
+~
+0 0 6
+D0
+~
+~
+0 0 4229
+D1
+~
+~
+0 0 4227
+D2
+~
+~
+0 0 4235
+S
+#4231
+East of the falls~
+This blood-filled lake steams and burbles, as waves from the nearby falls
+disturb the calm.  Unseen horrors glide bare inches beneath the surface,
+mere shadows as the blood is almost entirely opaque.  Every once in a while,
+a creature breaches the surface and dives again, creating a great commotion
+and leaving a rippling ring.  
+~
+0 8 6
+D0
+~
+~
+0 0 4232
+D1
+~
+~
+0 0 4236
+D2
+~
+~
+0 0 4234
+D3
+~
+~
+0 0 4227
+S
+#4232
+Northeast of the falls~
+
+~
+0 0 6
+D1
+~
+~
+0 0 4237
+D2
+~
+~
+0 0 4231
+D3
+~
+~
+0 0 4228
+S
+#4233
+South of the falls~
+
+~
+0 0 6
+D0
+~
+~
+0 0 4227
+D1
+~
+~
+0 0 4234
+D3
+~
+~
+0 0 4235
+S
+#4234
+Southeast of the falls~
+
+~
+0 0 6
+D0
+~
+~
+0 0 4231
+D1
+~
+~
+0 0 4238
+D3
+~
+~
+0 0 4233
+S
+#4235
+Southwest of the falls~
+
+~
+0 0 6
+D0
+~
+~
+0 0 4230
+D1
+~
+~
+0 0 4233
+S
+#4236
+On the lake of blood~
+
+~
+0 0 0
+D0
+~
+~
+0 0 4237
+D1
+~
+~
+0 0 4242
+D2
+~
+~
+0 0 4238
+D3
+~
+~
+0 0 4231
+S
+#4237
+On the lake of blood~
+
+~
+0 0 0
+D0
+~
+~
+0 0 4239
+D1
+~
+~
+0 0 4240
+D2
+~
+~
+0 0 4236
+D3
+~
+~
+0 0 4232
+S
+#4238
+On the lake of blood~
+
+~
+0 0 0
+D0
+~
+~
+0 0 4236
+D1
+~
+~
+0 0 4243
+D2
+~
+~
+0 0 4244
+D3
+~
+~
+0 0 4234
+S
+#4239
+North shore of the lake~
+
+~
+0 0 0
+D1
+~
+~
+0 0 4241
+D2
+~
+~
+0 0 4237
+S
+#4240
+On the lake of blood~
+
+~
+0 0 0
+D0
+~
+~
+0 0 4241
+D2
+~
+~
+0 0 4242
+D3
+~
+~
+0 0 4237
+S
+#4241
+North shore of the lake~
+
+~
+0 0 0
+D2
+~
+~
+0 0 4240
+D3
+~
+~
+0 0 4239
+S
+#4242
+An idol in mid-lake~
+A slimy, fleshy island breaks the surface here, veins pumping vile fluids
+throughout.  An evil-looking figure is stuck into the center, crawling with
+worms.  The horrible stench of the blood-filled lake permeates the air,
+enough to cause a man to choke.  
+~
+0 0 0
+D0
+~
+~
+0 0 4240
+D1
+~
+~
+0 0 4251
+D2
+~
+~
+0 0 4243
+D3
+~
+~
+0 0 4236
+S
+#4243
+On the lake of blood~
+
+~
+0 0 0
+D0
+~
+~
+0 0 4242
+D1
+~
+~
+0 0 4249
+D2
+~
+~
+0 0 4245
+D3
+~
+~
+0 0 4238
+S
+#4244
+Southern wall of blood lake~
+A massive pulsating wall rises out of the boiling blood, creating a fjord
+on the edge of the lake.  Large fleshy pillars support the ceiling, plunging
+deep into the lake, disappearing from view.  Small and large clusters of
+dead debris float here and there, creating obstacles for any sort of
+navigation.  
+~
+0 8 6
+D0
+~
+~
+0 0 4238
+D1
+~
+~
+0 0 4245
+S
+#4245
+Southern wall of blood lake~
+A massive pulsating wall rises out of the boiling blood, creating a fjord
+on the edge of the lake.  Large fleshy pillars support the ceiling, plunging
+deep into the lake, disappearing from view.  Small and large clusters of
+dead debris float here and there, creating obstacles for any sort of
+navigation.  
+~
+0 0 0
+D0
+~
+~
+0 0 4243
+D1
+~
+~
+0 0 4246
+D3
+~
+~
+0 0 4244
+S
+#4246
+Southeastern blood lake~
+The wall that stops the lake curves from the west to the north, receding
+above into darkness.  The ceiling seems to be very concave, making this a
+huge domed cavern.  The disturbed blood laps up against the wall, almost as
+if it's alive and impatiently waiting for..  Something.  
+~
+0 0 0
+D0
+~
+~
+0 0 4249
+D1
+~
+~
+0 0 4247
+D3
+~
+~
+0 0 4245
+S
+#4247
+Southeast corner of the lake~
+
+~
+0 0 0
+D0
+~
+~
+0 0 4248
+D3
+~
+~
+0 0 4246
+S
+#4248
+Lake at the east wall~
+
+~
+0 0 0
+D0
+~
+~
+0 0 4250
+D2
+~
+~
+0 0 4247
+D3
+~
+~
+0 0 4249
+S
+#4249
+A forbidding tower in mid-lake~
+All the rest of the lake of blood has been steamy, slimy, and...  Alive. 
+What strikes the eye as different here is the large, shining pure black
+tower that shoots out of the boiling fluid at an extreme angle, like an
+ebony sword blade.  Holes drilled up the side of the unnatural formation may
+well serve as hand and footholds.  
+~
+0 8 6
+D0
+~
+~
+0 0 4251
+D1
+~
+~
+0 0 4248
+D2
+~
+~
+0 0 4246
+D3
+~
+~
+0 0 4243
+D4
+~
+~
+0 0 4254
+S
+#4250
+East wall of the cavern~
+
+~
+0 0 0
+D0
+~
+~
+0 0 4252
+D2
+~
+~
+0 0 4248
+D3
+~
+~
+0 0 4251
+S
+#4251
+On the lake of blood~
+
+~
+0 0 0
+D0
+~
+~
+0 0 4253
+D1
+~
+~
+0 0 4250
+D2
+~
+~
+0 0 4249
+D3
+~
+~
+0 0 4242
+S
+#4252
+~
+
+~
+0 0 0
+D2
+~
+~
+0 0 4250
+D3
+~
+~
+0 0 4253
+S
+#4253
+~
+
+~
+0 0 0
+D1
+~
+~
+0 0 4252
+D2
+~
+~
+0 0 4251
+S
+#4254
+First level of the tower~
+A thin black ledge runs around the sides of the black tower.  It is just
+wide enough for two men to walk side-by-side, but barely.  The strange thing
+about it is that is is spotless, even though filth and slime drip all
+around.  A dark doorway leads east into the tower, which seems to be the
+only way off this ledge besides back down.  
+~
+0 0 0
+D1
+~
+~
+0 0 4255
+D5
+~
+~
+0 0 4249
+S
+#4255
+Inside the ebony tower~
+
+~
+0 8 5
+D3
+~
+~
+0 0 4254
+D4
+~
+~
+0 0 4256
+S
+#4256
+Up the hollow tower~
+
+~
+0 8 0
+D4
+~
+stone-barrier barrier~
+4 4206 4257
+D5
+~
+~
+0 0 4255
+S
+#4257
+A slight landing~
+The tunnel below opens up to this square room, and then continues up
+through the ceiling and beyond.  
+~
+0 8 5
+D4
+~
+~
+0 0 4258
+D5
+~
+~
+4 0 4256
+S
+#4258
+A narrow, runged tunnel~
+
+~
+0 8 0
+D4
+~
+earthen-barrier barrier~
+4 0 4259
+D5
+~
+~
+0 0 4257
+S
+#4259
+A guardroom~
+The black walls of this room are coated in mud and silt, some rock
+showing through in places.  A pile of earth in the shape of stairs is
+against one wall, leading up to a blocked hole in the ceiling.  
+~
+0 8 0
+D5
+~
+~
+4 0 4258
+S
+#4260
+Ultimate Monster's Holding Room~
+
+~
+0 4 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 4203 5 1
+D 0 4204 4 1
+D 0 4211 5 2
+D 0 4256 4 2
+D 0 4257 5 2
+D 0 4258 4 2
+D 0 4259 5 2
+M 0 4202 1 4201 1
+M 0 4200 1 4203 1
+M 0 4201 1 4204 1
+M 0 4204 2 4242 2
+M 0 4205 2 4256 1
+M 0 4205 2 4258 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

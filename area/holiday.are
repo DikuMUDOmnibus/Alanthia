@@ -1,0 +1,1018 @@
+#AREADATA
+Name Holiday Area~
+Builders Skull~
+VNUMs 200 299
+Credits {1   150} Staff       Holiday Area~
+Security 0
+Version 1
+End
+
+
+
+#MOBILES
+#200
+demon~
+the demon~
+A giant demon rises before you!
+~
+A giant demon erupts from the altar.  Its wings spread wide as the blood
+of those sacrificed fill its once cold body.  With demonic laughter and a
+giant swoop of his massive hand, he scoops up the body parts around him and
+devours them greedily.  He turns his glistening eyes toward you.  
+~
+unique~
+ABCR DFGOTZ -1000 0
+60 6 50d5+3050 30d9+100 8d6+28 wrath
+-30 -30 -30 -30
+CEFKVX AB HLQ IKNS
+stand stand male 600
+AHMV ABCDEFGHIJKUVW huge unknown
+#201
+dancing witch~
+the dancing witch~
+A witch is dancing around a bonfire.
+~
+The witch circles the fire burning high and throws rocks and everything
+else she can get her hands upon at the burning figures.  She jabbers at her
+victims, "How do you like being burned to death...  HMMM?!"  
+~
+unique~
+ABCR EFGJZ -800 0
+40 4 15d10+1850 20d9+100 4d8+13 none
+-13 -13 -13 0
+FIKV AQ L HNS
+stand stand female 400
+AHMVZ ABCDEFGHIJKLOPQUVWXY medium unknown
+#202
+warlock man~
+the warlock~
+A striking man is baptising witches here.
+~
+Hair the color of midnight forms into a widow's peak atop this handsome
+man's head.  He is dressed in black satin robes and wearing several symbols
+of power.  The man is waving his arms in cryptic ways, conjuring unspeakable
+images to race through your mind.  
+~
+unique~
+ABCR EFG -800 0
+50 5 50d10+4000 50d9+100 6d6+17 blast
+-19 -19 -19 -4
+EKV AB CI N
+stand stand male 800
+AHMV ABCDEFGHIJK medium unknown
+#203
+flying witch~
+the witch~
+A witch is trying out her broomstick.
+~
+Dripping with a foul black liquid, the witch rides atop a broom and
+cackles with insane glee.  She wears a pointed hat that flops over at the
+top, and an ebony robe covers her entire body.  
+~
+unique~
+ABR FGJT -600 0
+45 5 25d10+3000 22d9+100 8d4+16 none
+-15 -15 -15 0
+FHV A B Z
+stand stand female 600
+AHMV ABCDEFGHIJK medium unknown
+#204
+ethynus merchant~
+Ethynus~
+A merchant looks a little worse for wear.
+~
+Looking bored out of his mind and trying hard to sell his merchandise to
+the witches, Ethynus looks you over with glazed eyes.  A barely audible
+mutter comes from his lips, "What do you want?"  
+~
+unique~
+ABCM Z -500 0
+300 2 4d10+360 10d9+100 4d4+5 punch
+-5 -5 -5 7
+KV AB 0 0
+stand stand male 100000
+AHMV ABCDEFGHIJK medium unknown
+#205
+orphaned girl ~
+an orphaned girl~
+A small girl sits along the wall, moaning and wailing.
+~
+Here sits a small girl, vacant eyed and slack jawed.  She is dormant in a
+foul pool of her making, clothed in a tattered spider-ridden smock that
+barely covers her soot dark skin.  She is an orphaned child, her parents
+lost to some vile plague long ago.  She looks to you and moans incoherently.
+~
+unique~
+AB X 0 0
+5 0 2d6+60 1d1+99 1d6+1 slap
+7 5 5 10
+I A 0 0
+sit sit female 5
+AHMV ABCDEFGHIJK medium flesh
+#206
+man plagued sickly~
+a plagued man~
+Shivering in one corner huddles a sickly man.
+~
+The face of this man wrenches your soul tight.  The skin on the left side
+of his face has deteriorated into a rotten pulp of puss that sags off his
+near visible skull.  He is infected with some malicious plague that eats its
+victim slowly, rotting it over a slow period of many years.  
+~
+unique~
+AB X 0 0
+12 0 2d10+150 6d9+100 1d10+3 punch
+0 0 0 8
+FI A 0 0
+sit sit male 5
+AHMV ABCDEFGHIJK medium flesh
+#207
+decaying old lady~
+the decaying old lady~
+A decaying old lady sits up in the bathtub and reaches toward you.
+~
+She is nude, and her wizened body is covered with deep black burns and
+puncture wounds.  What little hair remains on her head is wispy and grey. 
+Her fingernails are long and yellow and beginning to curl at the ends.  
+~
+unique~
+AB DFUZ -900 0
+32 3 10d10+1000 16d9+100 6d4+9 none
+-10 -10 -10 0
+DKV ALQ JQ DHNS
+stand stand female 1600
+AHMV ABCDEFGHIJK medium unknown
+#208
+makrin creature~
+Makrin~
+An enormous hulking clawed creature stands here.
+~
+The hulking form before you is encased in a hard ichorous shell, slick
+with mortal blood and gore.  Its massive claws drips crimson waste that
+puddles to the floor.  It growls mightily and stomps upon the ground as it
+moves about impatiently.  
+~
+unique~
+ABCT DFGLTZ -900 0
+78 8 380d5+5900 1d1+499 17d5+5 claw
+-38 -38 -38 -13
+FKORVX AB HLQ IKNS
+stand stand none 7800
+AHMV ABCDEFGHIJKUVW medium unknown
+#209
+caretaker man gaunt~
+the Caretaker~
+A shadow-garbed gaunt man sneers at you.
+~
+His face bears the horrors cultivated from the nightmares of children,
+pale and thin.  His grin has been cut into his face by his own hand, the
+scars thick and red.  His white hair hangs in a tangled mess underneath his
+large brimmed hat.  The Caretaker is a master of the macabre, quick with a
+razor and the inevitably delicious pain that it brings.  
+~
+unique~
+ABCR DFGHZ -1000 0
+130 140 10d130+11000 1d1+999 25d20+50 punch
+-70 -70 -70 -70
+FKRVX AB C N
+stand stand male 1300
+AHMV ABCDEFGHIJK medium flesh
+#210
+pupiless white eyes monster wolf-man~
+the monster under the bed~
+Two pupilless white eyes glare balefully at you from beneath the bed.
+~
+A bizarre, hairless wolf-man with milky white eyes and florid red skin
+crouches beneath the bed, ready to drag under any creature unfortunate
+enough to come too close.  Thick, oozing saliva drips from a snarling mouth
+bristling with pointed yellow fangs, and you can feel its hot, fetid breath
+as it exhales with a sharp, rasping sound.  
+~
+unique~
+AB GTZ -750 0
+40 2 100d3+1100 1d1+499 10d4+10 bite
+-27 -27 -27 -13
+F AB HLQ IKNS
+stand stand male 0
+AHMV ABCDEFGHIJKUVW medium flesh
+#211
+you me~
+your bloated corpse~
+You are hanging suspended in mid-air from a short noose.
+~
+A short noose holds you suspended in mid-air.  Your body is horribly
+bloated, and your skin is a purplish-blue color.  Your black tongue
+protrudes from your half-open mouth, and your sightless eyes stare straight
+ahead.  
+~
+unique~
+ABT X 0 0
+10 1 2d8+134 5d9+100 2d4+2 punch
+1 1 1 8
+0 A 0 H
+stand stand none 80
+AHMV ABCDEFGHIJK medium unknown
+#212
+greatest fear~
+your greatest fear~
+Your greatest fear awaits you.
+~
+Your greatest fear is ever-changing.  One nightmare after another is
+portrayed, never settling on one, never slowing the desperate rhythm of
+change.  
+~
+unique~
+ABR DFNOc 0 0
+150 150 10d200+5000 10d100+1000 25d40+50 wrath
+-70 -70 -70 -25
+DEFKV AB 0 0
+stand stand none 5000
+AHMV ABCDEFGHIJK medium unknown
+#213
+voice~
+a voice~
+A voice whispers softly to you.
+~
+Nothing is visible, but a low voice is barely audible.  It seems to come
+from everywhere all at once, and it whispers of evil and mischievous notions
+that are simultaneously appealing and disgusting.  
+~
+unique~
+AB BDF -666 0
+8 1 2d7+96 4d9+100 1d7+2 blast
+3 3 3 9
+0 AB FG 0
+stand stand none 500
+AHMV ABCDEFGHIJK medium unknown
+#214
+ghost young girl spirit~
+a young ghost~
+The ghost of a young girl weeps over her corpse.
+~
+The spirit of a young child hovers before you, with tears rolling down
+her ghostly face.  She looks quite lost and frightened, and calls out for
+her mommy in between shuddering sobs.  Despite the fact that she is dead,
+she seems unable to completely free herself from her corpse and depart from
+this world.  
+~
+unique~
+AB TUZ 0 0
+13 0 13d5+65 1d1+499 2d6+12 chill
+-9 -9 -9 -4
+G ABLQ EFGJQ DHNS
+stand stand female 0
+ADHIJMV ABCDEFGHIJK medium ectoplasm
+#215
+roget undead master~
+Roget~
+The undead master of the house welcomes you with bared fangs.
+~
+Roget has been dead for several centuries, though his body has not aged a
+moment from the day he was embraced.  An elder among his kind, he is not
+adverse to welcoming you into his fold in order to propogate his species.  A
+nice chalice of blood may distract him from his growing hunger, though only
+a fool would rely upon such petty tactics.  
+~
+unique~
+ABCOR BGQTZac -1000 0
+80 8 100d5+7500 1d1+600 10d6+30 frbite
+-40 -40 -40 -30
+EFHKVX ALQ EQ HNS
+stand stand male 4500
+AHMV ABCDEFGHIJK medium unknown
+#216
+memories~
+memories~
+Memories fill the room with longing and regret.
+~
+The memories have been gathering for so long, they have a tangible
+quality to them.  As you try to look at them, you are filled with visions of
+your own moments of regret and despair.  Your body involuntarily reacts and
+your mind begins to distract you from your explorations.  
+~
+unique~
+ABQ HTU 0 0
+19 2 3d9+308 9d9+100 2d7+5 blast
+-4 -4 -4 0
+F AB 0 C
+stand stand none 500
+ADHKMV ABCDEFGHIJK medium unknown
+#217
+embalmed man corpse~
+the embalmed man~
+Shambling towards you is a slime-covered corpse.
+~
+Groaning incoherently through lips sewn shut, this man stumbles about the
+tub, refusing Death the chance to claim him.  A powerful wizard in his day,
+this man has outstepped his demise time and again, channeling arcane magic
+and infusing it with his dark will.  He claims life through death,
+destroying others so that he may yet survive.  
+~
+unique~
+ABO e 0 0
+26 3 5d10+600 13d9+100 3d7+7 punch
+-7 -7 -7 0
+CV AB CE H
+stand stand male 1600
+AHMV ABCDEFGHIJK medium flesh
+#218
+buzzelbub corpse demon~
+Buzzelbub~
+Buzzelbub, Lord of the Flies, dangles above you.
+~
+Hanging from the meat hooks dangling from the ceiling, this rotting demon
+constantly drips maggots to the floor.  His head slowly turns toward you
+before he beckons the flies around him to attack!  
+~
+unique~
+AB GHJLOTZd -1000 0
+100 100 10d120+7000 1d100+10000 17d4+14 drain
+-70 -70 -70 -68
+EFKV AB HLQ IKNS
+stand stand male 6500
+AHMV ABCDEFGHIJKUVW medium unknown
+#219
+swarm flies~
+a swarm of flies~
+A swarm of flies defend their Lord!
+~
+BzzzzZZzzZZzZzZzzzzZZzttt!  
+~
+unique~
+ABF Tb 0 0
+5 0 2d6+60 1d1+99 1d6+1 bite
+5 5 5 9
+FH A FR E
+stand stand none 50
+AGW ACDEFHKP medium unknown
+#220
+wall bone~
+a wall of bone~
+A wall of bone appears to be moving.
+~
+A huge section of the wall moves toward you and attacks with a score of
+skeletal arms, feet, and hooves.  
+~
+unique~
+ABT c -300 0
+25 3 5d10+550 12d9+100 2d10+7 charge
+-7 -7 -7 6
+CEF AB F H
+stand stand none 100
+AHJMV ABCDEFGHIJK medium bone
+#221
+skeleton bones body~
+a skeleton~
+The bones around the room begin to lift off of the ground.
+~
+The scattering of bones rise from the cavern ground and slowly begin to
+form a skeletal body.  
+~
+unique~
+AG c -800 0
+0 0 3d9+233 8d9+100 2d6+4 none
+-2 -2 -2 7
+CEK AB F H
+stand stand none 800
+AHMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#200
+Beginning of the Madness~
+Thick tangles of deformed trees seem to grasp at you.  In the distance
+you hear mixed screams of agony and cackles of delight.  A dim light of a
+bonfire can be seen dancing between the tree limbs to the south.  The path
+you are travelling upon stretches north toward a dark structure, and south
+toward the bonfire.  You catch a glimpse of a grey structure to the west.  
+~
+0 0 3
+D0
+~
+~
+0 0 205
+D2
+~
+~
+0 0 201
+D3
+~
+~
+0 0 220
+S
+#201
+At the Stake~
+In the center of a clearing is a large stake surrounded by a roaring
+fire.  Secured to the stake is a bishop screaming and writhing in pain. 
+Black smoke billows from the fire and reeks of sulfur and burning flesh. 
+Within the fire itself are the half-charred bodies of little altar boys
+being burnt to death.  The forest ground surrounding the bonfire is trampled
+down where various creatures have danced around the fire.  The splashing of
+water can be heard to the east.  
+~
+0 0 3
+D0
+~
+~
+0 0 200
+D1
+~
+~
+0 0 202
+D2
+~
+~
+0 0 203
+S
+#202
+Baptismal~
+A large pool of water bubbles up from the center of the clearing you are
+in.  Surrounding the pool are several copper vases that contain a foul black
+liquid that you realize was gathered from the pond itself.  An odor of
+sulfur and stench lingers in the air.  Several brooms lean against a
+malformed oak tree along the edge of the clearing.  Inside the pool, a man
+adorned in a black satin robe dunks witches, baptising them with the putrid
+muck.  As each witch is baptised, they snatch a broom from the oak tree and
+soar into the sky.  
+~
+0 0 3
+D3
+~
+~
+0 0 201
+S
+#203
+Wicked Carnival~
+You have stumbled upon a carnival in the woods, but this is no ordinary
+carnival.  Each booth has some demonic purpose.  The first one you see has
+little children throwing balls at a box, trying to release a demon.  Another
+has six nuns standing upon each other in a pyramid shape while contestants
+throw huge balls at them, attempting to knock them into a huge vat of
+boiling mud.  
+~
+0 0 3
+D0
+~
+~
+0 0 201
+D1
+~
+~
+0 0 204
+S
+#204
+The Summoning~
+A large dias rises from the ground.  Upon it is carved an inverted
+pentagram with small piles of sulfur placed at each of its corners.  An
+altar rising from the center of the pentagram is stained red, and several
+entrails and body parts surround it.  
+~
+0 0 3
+D3
+~
+~
+0 0 203
+S
+#205
+End of the Forest Path~
+A chilled wind gusts across your path, swirling around you with icy
+fingers.  Dead leaves deposited by the surrounding trees billow up and dance
+along the gust.  Deep throated growls seem to be aimed at you from the
+tangled forest, and you become acutely aware of the lack of any other signs
+of life.  A delapidated structure rises up from the end of the path.  Its
+turrets are intact, but the outer walls are peeling with weathered grey
+paint.  
+~
+0 0 3
+D0
+~
+door~
+1 0 206
+D2
+~
+~
+0 0 200
+S
+#206
+The Parlor~
+The floor is made from long planks of pine that appear to still carry a
+sheen beneath the thick coating of dust.  An ornate chandelier made of
+crystal prisms dangles precariously from the ceiling, and you can hear a
+soft tinkling sound as a draft brushes the prisms together.  A harpsichord
+rests in the center of the large room upon a round rug detailed with fine
+needlework.  Several pieces of tasteful furniture are scattered about the
+room, though it appears they have not been rested upon for several years.  A
+soft glow illuminates the open doorway to the east, and a staircase rises up
+from the northwest corner of the room.  You spy what seems to be an
+especially loose floorboard.  
+~
+0 9 0
+D0
+~
+~
+0 0 223
+D1
+~
+~
+0 0 207
+D2
+~
+~
+1 0 205
+D3
+~
+~
+0 0 209
+D4
+~
+~
+0 0 210
+D5
+~
+floorboard~
+1 0 216
+S
+#207
+Chamber of Tortures~
+You enter a vile smelling vast room darkened to the eye.  What light
+dares shatter the darkness comes from glowing braziers lining the walls. 
+Hanging along the top of the walls are figures pinned with thorned hooks and
+other implements of terror.  Some moan at you, barely alive, writhing in
+place, held fast to the wall which dribbles their blood in long rivulets to
+puddle onto the floor.  Tables are set periodically across the room, each
+covered with a thin crimson layer of leather and holding an array of
+wickedly sharp instruments, all caked with innocent blood.  
+~
+0 8 0
+D0
+~
+~
+0 0 208
+D3
+~
+~
+0 0 206
+S
+#208
+The Infirmary~
+Long bloodied white tables line the crimson splattered walls in this
+small and vile smelling room.  Some of the tables are occupied with writhing
+bodies wracked with immense pain from hooks and needles embedded within
+their frames.  Moans of agony and pain have made the air thick and barely
+breathable.  Puddles of bodily fluids dot the floor; traversing the length
+of the room may prove difficult.  
+~
+0 8 0
+D2
+~
+~
+0 0 207
+S
+#209
+Lavatory~
+The moment you enter the room, a soft red glow appears, giving the walls
+and fixtures a bloody hue.  A bathtub is built into the western wall and is
+shallowly filled with lukewarm water.  You hear a rhythmic metallic pound,
+as if someone or something is methodically pounding against the water pipes
+feeding this lavatory.  
+~
+0 8 0
+D1
+~
+~
+0 0 206
+S
+#210
+Stairway~
+A wispy blanket of blue-gray mist creeps its way along the stairs,
+lending a soft dim glow to the stairwell.  Each step you take causes the
+stairs to groan with resistance.  The walls along the stairwell hold a
+number of portraits, each one depicting scenes of torture and bloodletting
+under the guise of night.  
+~
+0 8 0
+D4
+~
+~
+0 0 211
+D5
+~
+~
+0 0 206
+S
+#211
+Landing~
+You have come to the head of the stairwell leading to the first level of
+the structure.  A wide hallway lined with a crimson runner stretches to the
+north.  Large torches mounted along the hall flicker in and out,
+extinguished and relit by an unseen source.  The floorboards and walls creak
+loudly as the wind outside beats against the house.  
+~
+0 8 0
+D0
+~
+~
+0 0 212
+D5
+~
+~
+0 0 210
+S
+#212
+Hallway~
+The hallway ends here at two heavy wooden doors, while a grime-covered
+window to the north lets in very little light.  The window rattles as though
+someone or something were trying to get in.  The air here feels cold and
+almost alive, and countless voices whisper tales of fear and hatred in your
+ear.  Although you cannot make out the source of these voices, you sense the
+presence of shadowy beings flitting just beyond your line of sight.  A
+section of the ceiling is outlined as if it could be opened.  
+~
+0 8 0
+E
+window~
+Peering out the window, you find yourself staring straight into the
+grinning face of a black-furred, manlike abomination.  Hanging onto the
+ledge with the long, filthy claws of one hand while attempting to break the
+window with the other, it does not look as though it intends to spend the
+night outside.  Cruelly intelligent red eyes glare back at you with the
+promise of a slow, painful death once the creature breaks through the
+window.  
+~
+D1
+~
+door~
+1 0 213
+D2
+~
+~
+0 0 211
+D3
+~
+door~
+1 0 214
+D4
+~
+ceiling~
+1 0 219
+S
+#213
+Bedroom~
+This appears to have once been the bedroom of a young child.  Cracked,
+peeling paint, formerly a sunny yellow hue but now faded to a sickly pale
+green, flakes away from the walls in large chips.  Mutilated dolls and
+dismembered teddy bears lie along the dusty rows of toy shelves lining one
+wall.  In the center of the room stands a rickety old bed, crawling with
+roaches and topped with the tattered, moldy remnants of a pink canopy.  A
+strong odor of decaying flesh seems to originate in the closet along the
+north wall.  
+~
+0 8 0
+E
+canopy bed~
+Pink, mildewed sheets are tangled up in a pile at the foot of this bed,
+while huge black roaches crawl in and out of holes that have been chewed
+into the mattress.  Moth-riddled shreds of fabric hang limply from the tops
+of four wooden posts, all that remains of the bed's canopy cover.  You
+notice a series of five long gashes extending from the top of the mattress
+and running down along its side, ending in rips in the frilly skirt of the
+bed.  Trailing alongside these gashes is a rust-red stain.  
+~
+D0
+~
+closet~
+1 0 215
+D3
+~
+door~
+1 0 212
+S
+#214
+Master Bedroom~
+An open window on the west wall allows a constant breeze to flow through
+the room, ruffling the satin coverlet that has been spread across an immense
+four poster bed.  The shutters of the window rattle loudly.  A rocking chair
+next to the window is rocking rhythmically back and forth, whether from the
+energy of the breeze or not is uncertain.  You notice a large indentation
+along the satin coverlet as if it is supporting a heavy form, though it is
+difficult to discern any strangers in the room with you.  
+~
+0 8 0
+D1
+~
+door~
+1 0 212
+S
+#215
+Closet~
+Your eyes water and your throat constricts as you are confronted with the
+overpowering stench of rotten flesh.  The faint glow given off by some sort
+of phosphorescent fungus growing on the walls provides just enough light for
+you to make out the source of the odor.  
+~
+0 8 0
+D2
+~
+closet~
+1 0 213
+M 50 H 50
+S
+#216
+Death~
+Silence dominates the room.  It is completely black, and the air seems
+heavy and suffocating.  The room is amorphous, lacking any form, and
+distance is unjudgeable.  
+~
+0 9 0
+D0
+~
+~
+0 0 217
+D4
+~
+floorboard~
+1 0 206
+S
+#217
+Fear~
+Visual noise flashes bright and fast like a strobe.  Images fly through:
+water, falling, spiders, blood, and tight places present themselves in quick
+succession, and the images continue their mad race onward.  
+~
+0 8 0
+D2
+~
+~
+0 0 216
+D5
+~
+~
+0 0 218
+S
+#218
+Insanity~
+Four walls of steep concrete lead upwards toward light and warmth, or so
+it appears.  The air is freezing and thin here at the base, and the ground
+underfoot is soft and spongy.  A low mumbling or humming is audible.  
+~
+0 8 0
+D4
+~
+~
+0 0 217
+S
+#219
+Attic~
+After making your way through the crawl space, you find yourself covered
+in a thick layer of age old dust and silken webs.  In all directions you see
+piles of discarded belongings that no longer have owners to claim them. 
+Crumbling boxes with bits of clothing bursting from their seams, an old baby
+carriage holding tattered baby blankets, faded toys jumbled amongst the
+boxes, and sturdy chests holding treasures from long ago are all nestled
+within this attic space.  
+~
+0 9 0
+D5
+~
+ceiling~
+1 0 212
+M 150 H 150
+S
+#220
+Grey Structure~
+A pebbled path ends at a set of doors that await your opening.  You find
+yourself before a wide structure colored a dingy grey and hosting no obvious
+windows.  A carving of a winking gargoyle is propped above the doors,
+melding well with the structure of the premises.  A hoot owl is perched upon
+the roof, its head spinning around slowly, taking in its surroundings.  
+~
+0 0 3
+D1
+~
+~
+0 0 200
+D3
+~
+doors~
+1 0 221
+S
+#221
+Mortuary~
+The stank scent of cold death permeates this darkened room.  Long wooden
+tubs filled with thick embalming fluids line the walls to the east and west,
+the liquids bubbling and churning within.  As you near one of the tanks, you
+can make out what appears to be a hand straining to rise up from the bottom.
+It clutches feebly at the air, jerks, and slowly sinks back down.  From
+within another of the tubs you can make out the sound of draining waters.  
+~
+0 8 0
+D1
+~
+doors~
+1 0 220
+S
+#222
+The Embalming Tub~
+The wet wooden walls are slick with oozing fluids, giving off a clinical
+odor.  The bottom of the tub is dominated by a large, slotted drain which
+has but recently clinked shut.  Just before the dank liquid embraces your
+feet, you notice small holes lining the bottom of the walls, belching out
+more death-preserving fluids.  
+~
+0 8 0
+D4
+~
+~
+0 0 221
+S
+#223
+Kitchen~
+Metal shelves and counters adorn the expansive kitchen.  Several pots and
+pans and cutlery devises are hovering above you on deteriorating racks.  A
+foul odor lingers in the air, and strung along the floor are the rotten
+corpses of those who have been foolish enough to enter this room.  A steady
+buzzing tickles your ears.  Circling all of the corpses is a swarm of flies
+while little maggots crawl in and out of the deceased.  
+~
+0 8 0
+D0
+~
+door~
+1 0 224
+D2
+~
+~
+0 0 206
+S
+#224
+Beyond the Mansion~
+Thick brambles and sprawling branches form a natural tunnel through this
+section of the woods.  The mansion rises behind you, a sentinel of darkness.
+A slightly cleared path extends from beneath your feet northward. 
+Glittering eyes blink at you from beyond the brambles, and you can almost
+detect the feel of hot breath against your skin.  
+~
+0 1 3
+D0
+~
+~
+0 0 225
+D2
+~
+door~
+1 0 223
+S
+#225
+Cave Entrance~
+The brambled canopy continues overhead and ends at a stony formation.  A
+darkened cave opening yawns before you to the north.  Large bones and teeth
+are set into the perimeter of the cave opening, forming what appears to be a
+large mouth.  A cold wind blows out of the cave, and a faint odor of
+decomposing flesh lingers in the air.  
+~
+0 5 3
+D0
+~
+~
+0 0 226
+D2
+~
+~
+0 0 224
+S
+#226
+Cavernous Room~
+The cave opens up to a large room in the cavern with exits leading east,
+west, and south.  An assortment of bones are scattered around the room, some
+still retaining bits of rotten flesh.  A steady wind blows from the east,
+and a gnawing sound comes from the west.  
+~
+0 9 0
+D1
+~
+~
+0 0 227
+D2
+~
+~
+0 0 225
+D3
+~
+~
+0 0 229
+S
+#227
+Bone Door~
+The cavern ceiling slopes down sharply to the east.  Connected to the
+ceiling and the floor is a large door constructed from the femurs of a
+variety of creatures.  The darkened cavern is chilled and you can hear
+rustles of movement from within the walls.  
+~
+0 9 0
+D1
+~
+bones~
+1 0 228
+D3
+~
+~
+0 0 226
+S
+#228
+Cavernous Pit~
+The mass pile of bones rolling beneath your feet gives way and you
+plummet into a large pit.  The walls are smooth and contain no footholds nor
+hand grips to facilitate escape.  You discover you have companions within
+this darkened pit, though their lives were snuffed out eons ago.  
+~
+0 13 0
+S
+#229
+Wall of Bones~
+Aged bones and grinning skulls have been stacked and entwined together to
+form a giant wall.  Bits of tattered flesh is strewn along the cavern floor,
+mixed with splatterings of dried blood.  The sound of grinding bone fills
+your ears.  
+~
+0 9 0
+D1
+~
+~
+0 0 226
+S
+#0
+
+
+
+#SPECIALS
+M 200 spec_cast_mage
+M 202 spec_cast_mage
+M 209 spec_cast_mage
+M 212 spec_cast_mage
+M 215 spec_cast_mage
+M 217 spec_cast_mage
+S
+
+
+
+#RESETS
+D 0 205 0 1
+D 0 206 2 1
+D 0 206 5 1
+D 0 212 1 1
+D 0 212 3 1
+D 0 212 4 1
+D 0 213 0 1
+D 0 213 3 1
+D 0 214 1 1
+D 0 215 2 1
+D 0 216 4 1
+D 0 219 5 1
+D 0 220 3 1
+D 0 221 1 1
+D 0 223 0 1
+D 0 224 2 1
+D 0 227 1 1
+M 0 202 1 202 1
+M 0 203 1 202 1
+M 0 204 1 203 1
+M 0 200 1 204 1
+M 0 208 1 207 1
+M 0 209 1 207 1
+M 0 205 1 208 1
+M 0 206 1 208 1
+M 0 207 1 209 1
+M 0 210 1 213 1
+M 0 215 1 214 1
+M 0 214 1 215 1
+M 0 211 1 216 1
+M 0 212 1 217 1
+M 0 213 1 218 1
+M 0 216 1 219 1
+M 0 217 1 222 1
+M 0 218 1 223 1
+M 0 219 2 223 2
+M 0 219 2 223 2
+M 0 221 4 226 2
+M 0 221 4 226 2
+M 0 221 4 227 2
+M 0 221 4 227 2
+M 0 220 1 229 1
+S
+
+
+
+#SHOPS
+204 9 19 0 0 0 100 50 0 23
+0
+
+
+
+#$

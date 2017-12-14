@@ -1,0 +1,1565 @@
+#AREADATA
+Name Cloud Tower~
+Builders Halodar~
+VNUMs 21000 21099
+Credits {120 180} Haldorn     Cloud Tower~
+Security 9
+Version 1
+End
+
+
+
+#MOBILES
+#21000
+massive huge fruity stone giant~
+a huge stone giant~
+A huge stone giant stands waist-deep in the river, watching you.
+~
+Before you stands a massive stone giant, tall enough that the raging
+waves only lap at its waist.  It has the shape of a human, but without any
+real external features.  Its face has been worn smooth from countless years
+in the storm.  
+~
+unique~
+ABM 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 giant unknown
+#21001
+griffin wrangler~
+the griffin wrangler~
+The griffin wrangler leans against a cage, eyeing you.
+~
+~
+unique~
+AB 0 300 0
+1 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand male 100000
+AHMV ABCDEFGHIJK medium unknown
+#21002
+large proud griffin~
+a large proud griffin~
+A large proud griffin stands here, ruffling its wings and looking at you.
+~
+~
+unique~
+AI T 0 0
+150 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+CDEO 0 EI 0
+stand stand either 0
+AGV ABCDEFHJKUV medium unknown
+#21003
+near naked near-naked soldier~
+a near-naked soldier~
+A near-naked soldier awaits the casual indignities of military life.
+~
+~
+unique~
+ABH 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+#21004
+soldier guard~
+the soldier~
+A soldier is on watch here, guarding the tower entrance.
+~
+A weary guard stands before you, keeping a close eye on all the
+surrounding activity.  
+~
+unique~
+ABT 0 2500 0
+115 0 0d0+0 0d0+0 0d0+0 pierce
+0 0 0 0
+N 0 0 0
+stand stand none 763
+M ABCDEFGHIJK medium flesh
+#21005
+inspections officer~
+the Inspections Officer~
+The Inspections Officer peers around looking for violations.
+~
+You see before you a small, nasty-looking man with a greasy moustache. 
+He carries a notepad and a quill to mark down any soldier he sees doing
+anything against regulations.  Clipped to his belt is a large ring of keys
+that he uses to inspect personal rooms whenever he can.  
+~
+unique~
+AH 0 100 0
+120 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand male 0
+0 0 medium unknown
+#21006
+creature eyes observer~
+the Observer~
+A creature made of eyes stares in every direction.
+~
+This being resembles a giant eye, but it appears to be made from
+thousands of smaller eyes staring in every direction in a spheroid
+formation.  Not a single eye blinks, as several swivel to take view of you. 
+~
+unique~
+ABR HT 0 0
+160 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+FX BT 0 FS
+stand stand none 3200
+A K medium eyes
+M death 21000 100~
+#21007
+golem~
+a golem~
+A golem stands here dully, guarding the turret stairs.
+~
+A nearly featureless biped made from granite stands here blocking your
+way.  Its only job consists of guarding the turret above.  A brass sign
+bolted to its chest reads, "Attention: NO personnel other than officers on
+official business are to enter.  You will know who you are as you will have
+been issued a pass."
+~
+unique~
+ABT DFHcd 0 0
+190 0 0d0+0 0d0+0 0d0+0 smash
+0 0 0 0
+C AEHQ B I
+stand stand none 0
+J ABC large granite
+M exall 21001 4~
+#21008
+scribe~
+the Observer's Scribe~
+The Observer's Scribe stands here recording what he hears.
+~
+Standing before you is a bent old man, dressed in grey robes.  His eyes
+stare out sightlessly, pure white globes.  He holds a book which he
+scribbles in periodically, seeming to listen to something only he can hear. 
+~
+unique~
+ABQ 0 750 0
+155 0 0d0+0 0d0+0 0d0+0 divine
+0 0 0 0
+0 0 0 0
+stand stand male 5000
+AV 0 medium unknown
+#21009
+@@@@@~
+doormob in 21054~
+{
+~
+~
+unique~
+ABM 0 0 0
+309 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 ABCDEFGHIJKLMNOPQRSTa 0 0
+stand stand none 0
+0 0 medium unknown
+M exall 21002 n~
+#21010
+electrical elemental~
+an Electrical Elemental~
+(no long description)
+~
+~
+unique~
+A 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 shock
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+#21011
+unseen force~
+an unseen force~
+{
+~
+~
+unique~
+A U 0 0
+90 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+GX 0 0 0
+stand stand none 0
+AHZ 0 medium unknown
+#21012
+unseen force~
+the Observer~
+{
+~
+~
+unique~
+A 0 0 0
+90 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 K medium eyes
+#21013
+general ederek~
+General Ederek~
+General Ederek sits at his desk skimming through a thick book.
+~
+Here sits General Ederek, commanding officer of this human outpost.  This
+man is in charge of policy decisions and reports back to the coastal camp of
+Midgaard.  A little pudgy from lack of any recent action, he is still
+capable of putting up a fight.  
+~
+unique~
+AB Hd 800 0
+145 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+CNO 0 0 0
+sit sit male 10000
+AHMV ABCDEFGHIJK medium unknown
+#21014
+chaplain pelahan~
+Chaplain Pelahan~
+A chaplain dressed in blue robes waits here to distribute blessings and holy counsel.
+~
+Here stands a priest of the god Qalethiel, dressed in flowing blue robes. 
+He is surrounded by an aura of serenity, and holds a slightly glowing
+scroll.  
+~
+unique~
+ABQR H 0 0
+140 0 0d0+0 0d0+0 0d0+0 divine
+0 0 0 0
+0 N S 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#21021
+no name~
+(no short description)~
+(no long description)
+~
+~
+unique~
+A 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+#21022
+cargo thrower~
+a cargo thrower~
+A cargo thrower works diligently here, grabbing crates and stacking them in neat piles.
+~
+This large, muscled civilian works in the bowels of Cloud Tower,
+maneuvering the crates and barrels of weapons and supplies that come in from
+below in large periodic shipments.  He is dressed in a simple leather smock
+and gloves, so as not to get splinters from the rough wooden boxes.  
+~
+unique~
+A 0 0 0
+100 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium flesh
+#21023
+tower guard~
+a Tower Guard~
+A Tower Guard sits here glancing at the entrance and reading a scroll.
+~
+~
+unique~
+AT Dad 500 0
+125 0 0d0+0 0d0+0 0d0+0 sting
+0 0 0 0
+NR AN E F
+sit sit male 0
+AHMV ABCDEFGHIJK medium unknown
+#21024
+ballisteer~
+a Ballisteer~
+A bored ballisteer waits out his shift here.
+~
+Before you stands a lightly armored soldier leaning on a massive
+crossbow-like ballista.  Chewing on a toothpick, he peers out into the
+distance, ready to use his war machine in an emergency.  
+~
+unique~
+A H 600 0
+150 0 0d0+0 0d0+0 0d0+0 thrust
+0 0 0 0
+HN ABE I F
+stand stand male 2000
+AHMV ABCDEFGHI medium unknown
+#21025
+drunk soldier~
+a drunk soldier~
+A drunk soldier snores away peacefully.
+~
+~
+unique~
+ABHS ad 200 0
+145 0 0d0+0 0d0+0 0d0+0 smash
+0 0 0 0
+VX 0 E F
+sleep sleep male 5000
+AHMV 0 medium unknown
+#21026
+gambling guard~
+a gambling guard~
+A guard sits here gambling with his comrades.
+~
+This man, a member of the elite Griffin Guard, appears to have abused his
+position as a hero to the lower soldiers living in this fortress by becoming
+a bookie and cheat.  If you were to watch him play, you would notice he only
+loses enough to throw off any suspicions.  
+~
+unique~
+ABS 0 0 0
+140 0 0d0+0 0d0+0 0d0+0 stab
+0 0 0 0
+BJY 0 B C
+sit sit male 0
+AHMV ABCDEFGHIJK medium unknown
+#21027
+sergeant~
+a Sergeant~
+A Sergeant sits on his bunk cleaning his armor.
+~
+This soldier, a Sergeant by the insignia on his shirt, sits here
+polishing his armor.  He glares at you momentarily, then goes back to his
+work.  
+~
+unique~
+ABT Vad 500 0
+148 0 0d0+0 0d0+0 0d0+0 punch
+0 0 0 0
+CN 0 L H
+sit sit male 1800
+AHMV ABCDEFGHIJK medium unknown
+#21028
+captain~
+a Captain~
+A Captain lies here snoring away the hours.
+~
+This officer appears to be catching up on his sleep in his off-duty time.  
+~
+unique~
+ABT He 600 0
+149 0 0d0+0 0d0+0 0d0+0 slap
+0 0 0 0
+CVX 0 C H
+stand stand male 3000
+AHMV ABCDEFGHIJK medium unknown
+#21029
+Telard aide~
+Telard~
+Telard, the aide to the General, stands here ready for orders.
+~
+Before you stands a burly, heavily muscled man wearing a thick steel
+breastplate.  Tall and bald, he guards the General and carries out his
+orders.  Intricate tattoos ring his neck and arms, and there is a set of
+eerie eyes tattooed into the back of his head.  
+~
+unique~
+ABT 0 200 0
+150 0 0d0+0 0d0+0 0d0+0 thrust
+0 0 0 0
+CFHNOW G 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#21000
+The Screaming Vortex~
+Frothing waves rage in circles on the water as the vortex pulls
+unrelentingly at the river's surface.  The violent rushing of air over water
+creates a deafening roar that permeates this place with the unending
+cacophany of clashing elements.  Water streams into the sky like a reverse
+rain, flying upward into the funnel cloud.  High above through the mist and
+rain a massive dark shape looms at the edge of sight.  The only way to go
+from here is up, into the pull of the wind, for the whirlpool makes retreat
+impossible.  
+~
+0 0 0
+D4
+~
+~
+0 0 21001
+S
+#21001
+The Base of the Screaming Winds~
+The wind whips mercilessly, throwing you here and there like a rag doll. 
+Mist and rain circle about like huge amorphous spirits, forming wheeling
+shapes and dispersing just as quickly.  Small bits of flotsam fly by, and
+occasionally a confused fish passes, looking very much out of place.  The
+upward pull of the wind is a strong force, making downward travel quite out
+of the question.  Looking upward, the huge dark shape is becoming more
+square and defined.  
+~
+0 0 0
+D4
+~
+~
+0 0 21002
+S
+#21002
+The Screaming Winds~
+You appear to be about midway between the river below and what now
+appears to be a tower, suspended above you on naught but the air itself. 
+The structure is monolithic to say the least, and externally shows no sign
+of how it stays aloft.  The surrounding air has cleared of all smaller junk,
+leaving you alone among the roiling clouds of the funnel.  
+~
+0 0 0
+D4
+~
+~
+0 0 21003
+S
+#21003
+The Top of the Funnel~
+Beneath you is the main body of the funnel cloud, and you can see the
+boiling clouds cavorting and spinning in the wind.  The air is clearer up
+here, and you can see the land for miles around.  To the north and south lie
+towering mountains capped with snow, their feet clothed in green grassland
+and forests which stretch away to the east.  The river below flows from the
+wide, sandy desert in the west, travelling eastward and passing a barely
+visible Midgaard far to the east.  You are now in the shadow of the huge,
+stone tower above you, which takes up most of the sky.  There is a large
+square opening cut into the masonry above, and several large cargo nets
+trailing from it are within reach to climb up.  
+~
+0 4 0
+D4
+~
+~
+0 0 21004
+S
+#21004
+Cloud Tower Receiving Station~
+You find yourself in a cavernous room, not unlike the hold of a large
+ship.  There is a large square opening in the floor wide enough to allow
+passage of massive loads of cargo or personnel.  Lined up by the opening are
+countless coils of rope, and dozens of enormous cargo nets.  Several massive
+nets are attached at the side of the hole and hang out into the screaming
+wind below.  Stacked neatly along the walls here and there are large piles
+of boxes and crates, and parts of arcane equipment.  You are in the middle
+of the hold, but the room spreads out in all directions.  
+~
+0 8 0
+D0
+~
+~
+0 0 21008
+D1
+~
+~
+0 0 21005
+D2
+~
+~
+0 0 21006
+D3
+~
+~
+0 0 21007
+D5
+~
+~
+0 0 21003
+S
+#21005
+East Wall of Receiving Room~
+You are in the eastern section of this huge room, with a doorway leading
+to the east and the rest of the room opening out to the west.  Cargo and
+equipment fill much of the space, and defense stations made of low walls and
+arrow ammunition face the large hole in the middle of the floor to the west.
+A massive slab of stone hangs above the doorway, large enough to seal it
+from any assault, and there is no obvious means of keeping it in place.  
+~
+0 8204 0
+D0
+~
+~
+0 0 21009
+D1
+~
+~
+0 0 21021
+D2
+~
+~
+0 0 21012
+D3
+~
+~
+0 0 21004
+S
+#21006
+Southern Receiving Hold~
+You are in the southern end of this huge room, with a doorway leading
+further south and the rest of the room opening out to the north.  Cargo and
+equipment fill much of the space, and defense stations made of low walls and
+stacks of arrow ammunition face the large hole in the middle of the floor to
+the west.  A massive slab of stone hangs above the doorway, ready to slam
+down and seal the entrance in case of an attack.  
+~
+0 8 0
+D0
+~
+~
+0 0 21004
+D1
+~
+~
+0 0 21012
+D2
+~
+~
+0 0 21017
+D3
+~
+~
+0 0 21011
+S
+#21007
+Western Receiving Hold~
+You are in the western quarter of this huge room, next to a doorway cut
+into the west wall.  The rest of the room opens out to the east, and you can
+see cargo and equipment filling much of the space.  Defense stations made of
+low walls and stacks of arrow ammunition face the large hole in the middle
+of the floor to the west.  A massive slab of stone hangs above the doorway,
+ready to slam down and seal the entrance in case of an attack.  
+~
+0 8 0
+D0
+~
+~
+0 0 21010
+D1
+~
+~
+0 0 21004
+D2
+~
+~
+0 0 21011
+D3
+~
+~
+0 0 21013
+S
+#21008
+Northern Cargo Recieving~
+You are near the northern wall of this huge room, next to a set of double
+doors leading north.  The rest of the room opens out to the south and you
+can see cargo and equipment filling much of the space.  Defense stations
+made of low walls and stacks of arrow ammunition face the large hole in the
+middle of the floor to the west.  A massive slab of stone hangs above the
+doorway, ready to slam down and seal the entrance in case of an attack.  
+~
+0 8 0
+D0
+~
+~
+0 0 21022
+D1
+~
+~
+0 0 21009
+D2
+~
+~
+0 0 21004
+D3
+~
+~
+0 0 21010
+S
+#21009
+Cargo Room, Northeast Corner~
+Around you stand high piles of crates, barrels, and sacks.  You are in
+the northeast corner of the cargo and receiving hold.  
+~
+0 8 0
+D2
+~
+~
+0 0 21005
+D3
+~
+~
+0 0 21008
+S
+#21010
+Cargo Room, Northwest Corner~
+This corner of the cargo hold is covered in piles of spiked iron balls
+and rocks the size of a bear's head.  Stacks of crates and boxes rest
+against the walls, some covered with sheets of canvas.  
+~
+0 8 0
+D1
+~
+~
+0 0 21008
+D2
+~
+~
+0 0 21007
+S
+#21011
+Cargo Room, Southwest Corner~
+The southwest corner of the cavernous hold contains several large stacks
+of crates and chests, and a line of standard infantry armour is bolted to a
+wall.  
+~
+0 8 0
+D0
+~
+~
+0 0 21007
+D1
+~
+~
+0 0 21006
+S
+#21012
+Cargo Room, Southeast Corner~
+Parts of arcane machinery and stacks of ballista ammunition take up most
+of the space in this corner of the cargo and receiving hold.  
+~
+0 8 0
+D0
+~
+~
+0 0 21005
+D3
+~
+~
+0 0 21006
+S
+#21013
+Hallway Intersection~
+This hallway runs north and south along the westernmost edge of the Cloud
+Tower.  Arrow slots from floor to ceiling offer complete coverage of the
+outside, be it ground or sky.  There is a doorway to the east, and through
+it you can see a cargo area.  To the west through an opening lies an outer
+platform.  
+~
+0 12 0
+D0
+~
+~
+0 0 21029
+D1
+~
+~
+0 0 21007
+D2
+~
+~
+0 0 21014
+D3
+~
+~
+0 0 21031
+S
+#21014
+Hallway~
+This hallway runs north from the barracks, and leads further north along
+the western edge of the tower's base.  Floor-to-ceiling arrow slots are cut
+into the outside wall every few paces, allowing full coverage by archers.  
+~
+0 8 0
+D0
+~
+~
+0 0 21013
+D2
+~
+~
+0 0 21015
+S
+#21015
+Southwest Barracks~
+Triple bunks line the walls of this regulation military barracks, which
+could easily sleep 200 men at a time.  Facilities are minimal, consisting of
+curtains with buckets behind them aside large basins of water.  
+~
+0 8 0
+D0
+~
+~
+0 0 21014
+D1
+~
+~
+0 0 21016
+S
+#21016
+Hallway~
+This hall continues east and west, with barracks to the west and an
+intersection to the east.  Many arrow slots run from floor to ceiling,
+allowing archers access to a large shooting area.  
+~
+0 8 0
+D1
+~
+~
+0 0 21017
+D3
+~
+~
+0 0 21015
+S
+#21017
+Hallway Intersection~
+The hallway runs east and west.  There is a door to the north leading to
+a massive cargo room, and an opening to the south appears to connect to a
+large outside platform.  
+~
+0 12 0
+D0
+~
+~
+0 0 21006
+D1
+~
+~
+0 0 21018
+D2
+~
+~
+0 0 21030
+D3
+~
+~
+0 0 21016
+S
+#21018
+Hallway~
+This hall traverses the southern edge of Cloud Tower.  There is an
+intersection to the west and you you can hear splashing and shouting to the
+east.  Oddly, the floor is damp.  Many arrow slots run from floor to ceiling
+on the outer wall in between the iron torch holders, allowing superb archery
+coverage of the outside.  
+~
+0 8 0
+D1
+~
+~
+0 0 21019
+D3
+~
+~
+0 0 21017
+S
+#21019
+General Staff Showers~
+Frigid water is everywhere in this chamber!  Chest-high curtains
+partition off the wall-space in this wide, low-ceilinged room.  Sluices run
+along the wall at ceiling height, and pour water on the heads of hapless
+soldiers when they pull the rope.  Brushes and towels are strewn about
+haphazardly, and occasionally a janitor comes through with a cart to gather
+as many as he can.  
+~
+0 8 0
+D0
+~
+~
+0 0 21020
+D3
+~
+~
+0 0 21018
+S
+#21020
+Hallway~
+This hall travels north and south along the easternmost edge of the
+fortress.  Iron torch holders dot the walls between tall arrow slots on the
+outer wall, which give archers a superb view when shooting outside.  
+~
+0 8 0
+D0
+~
+~
+0 0 21021
+D2
+~
+~
+0 0 21019
+S
+#21021
+Hallway~
+The hallway runs north and south.  There is a door to the west leading to
+a massive cargo room, and an opening to the east appears to connect to a
+large outside platform.  
+~
+0 12 0
+D0
+~
+~
+0 0 21024
+D1
+~
+~
+0 0 21032
+D2
+~
+~
+0 0 21020
+D3
+~
+~
+0 0 21005
+S
+#21022
+The Base of the Stairs~
+You are at the base of a tall shaft leading away upward into the heights
+of the tower.  A staircase built into the wall spirals around the circular
+chamber leading up, with doors connecting to the upper levels.  There are
+also smaller doorways in the north, east, and west walls.  To the south is a
+large double door opening into the cargo and receiving bay.  
+~
+0 12 0
+D0
+~
+~
+0 0 21023
+D1
+~
+~
+0 0 21036
+D2
+~
+~
+0 0 21008
+D3
+~
+~
+0 0 21027
+D4
+~
+~
+0 0 21033
+S
+#21023
+Ballista Station 1A~
+You stand on a wide windy ledge, jutting out from the north wall of the
+floating fortress.  Three huge ballista, spaced out along the ledge, point
+outward threateningly, daring an attack from the air or earth.  Tall racks
+bolted to the stone wall cradle dozens of massive, heavy-tipped arrows,
+ready to be loaded at a moment's notice.  Soaring upward further into the
+air is the rest of the tower, blocking out most of the southern sky.  
+~
+0 0 0
+D2
+~
+~
+0 0 21022
+S
+#21024
+Hallway~
+This hall travels north and south along the easternmost edge of the
+fortress.  Iron torch holders dot the walls between tall arrow slots on the
+outer wall, which give archers a superb view when shooting outside.  
+~
+0 8 0
+D0
+~
+~
+0 0 21025
+D2
+~
+~
+0 0 21021
+S
+#21025
+Griffin Stables~
+This vaulted room contains several large stables held shut by massive
+oaken beams.  Each stable is occupied by a large powerful creature
+resembling the spawn of a lion and an eagle, some resting, some pacing about
+proudly.  Several grisly horse carcasses lie half-eaten in the stalls, and
+many more hang from large hooks on the north wall.  Riding tackle in strange
+shapes and sizes is carefully organized on benches and pegs, and nearby are
+large, wicked-looking riding whips.  There is no east wall in this chamber,
+but rather a gigantic portcullis that opens out into the windy void.  
+~
+0 266248 0
+D2
+~
+~
+0 0 21024
+D3
+~
+~
+0 0 21036
+S
+#21026
+Griffin Cage~
+The north wall of this hallway is broken up every few paces by
+floor-to-ceiling arrow slots opening into the outer sky.  The hall runs
+parallel with the outer edge, leading east to a large room that smells
+strongly of animals.  
+~
+0 262156 0
+S
+#21027
+Hallway~
+This small stone hallway runs along the outer edge of the tower's base. 
+To the west is a corner barracks, and to the east you can see a vast cargo
+area.  Floor-to-ceiling arrow slots allow coverage of the ground and sky if
+need be.  
+~
+0 8 0
+D1
+~
+~
+0 0 21022
+D3
+~
+~
+0 0 21028
+S
+#21028
+Northwest Barracks~
+Rows of triple bunks line the walls of this long barracks room.  Locked
+chests at the foot of each bunk hold the soldiers' personal things, and wash
+stations consisting of water basins and towels appear every few beds.  Other
+than that, the room is bare.  
+~
+0 8 0
+D1
+~
+~
+0 0 21027
+D2
+~
+~
+0 0 21029
+S
+#21029
+Hallway~
+This hallway runs south from the barracks, and leads further south along
+the western edge of the tower's base.  Floor-to-ceiling arrow slots are cut
+into the wall every few paces, allowing full coverage by archers.  
+~
+0 8 0
+D0
+~
+~
+0 0 21028
+D2
+~
+~
+0 0 21013
+S
+#21030
+Ballista Station 1B~
+You stand on a wide windy ledge, jutting out from the south wall of the
+floating fortress.  Three huge ballista, spaced out along the ledge, point
+outward threateningly, daring an attack from the air or earth.  Tall racks
+bolted to the stone wall cradle dozens of massive, heavy-tipped arrows,
+ready to be loaded at a moment's notice.  Soaring upward further into the
+air is the rest of the tower, blocking out most of the northern sky.  
+~
+0 0 0
+D0
+~
+~
+0 0 21017
+S
+#21031
+Ballista Station 1C~
+You stand on a wide windy ledge, jutting out from the west wall of the
+floating fortress.  Three huge ballista, spaced out along the ledge, aim
+threateningly into the west, daring an attack from the air or earth.  Tall
+racks bolted to the stone wall cradle dozens of massive, heavy-tipped
+arrows, ready to be loaded at a moment's notice.  Soaring upward further
+into the air is the rest of the tower, blocking out most of the eastern sky.
+~
+0 0 0
+D1
+~
+~
+0 0 21013
+S
+#21032
+Ballista Station 1D~
+You stand on a wide windy ledge, jutting out from the east wall of the
+floating fortress.  Three huge ballista, spaced out along the ledge, point
+outward threateningly, daring an attack from the air or earth.  Tall racks
+bolted to the stone wall cradle dozens of massive, heavy-tipped arrows,
+ready to be loaded at a moment's notice.  Soaring upward further into the
+air is the rest of the tower, blocking out most of the western sky.  
+~
+0 0 0
+D3
+~
+~
+0 0 21021
+S
+#21033
+Spiral Stair, Second Floor~
+You are on a section of spiral staircase that winds its way up from the
+floor below and disappears twisting into the shaft above.  A big window on
+the north wall shows a breathtaking vista of mountains and snow.  A large
+oaken door leads south into the second floor of the tower.  
+~
+0 8 0
+D2
+~
+~
+0 0 21037
+D4
+~
+~
+0 0 21034
+D5
+~
+~
+0 0 21022
+S
+#21034
+Spiral Stair, Third Floor~
+You are next to a large grey stone door leading south into the third
+floor of Cloud Tower.  A spiral stair winds its way around the narrowing
+shaft, leading down to the lower floors and up into the shaft above.  A
+large window cut into the northern wall offers a spectacular vista of the
+surrounding geography.  
+~
+0 8 0
+D2
+~
+~
+0 0 21048
+D4
+~
+~
+0 0 21035
+D5
+~
+~
+0 0 21033
+S
+#21035
+Spiral Stair, Fourth Floor~
+You find yourself on a steep spiral staircase winding around this
+circular shaft.  Looking down, the stair plunges several stories to the
+bottom floor, narrowing as it rises.  Above, the stair narrows and meets in
+the middle, obscuring your view further up the tower.  Directly to the south
+is a steel door, and to the north a window offers a view of the landscape
+and the base of the tower hovering over the clouds below.  
+~
+0 8 0
+D4
+~
+~
+0 0 21052
+D5
+~
+~
+0 0 21034
+S
+#21036
+Hallway~
+The north wall of this hallway is broken up every few paces by
+floor-to-ceiling arrow slots opening into the outer sky.  The hall runs
+parallel with the outer edge, leading east to a large room that smells
+strongly of animals.  
+~
+0 0 0
+D1
+~
+~
+0 0 21025
+D3
+~
+~
+0 0 21022
+S
+#21037
+Hallway, 2F~
+You stand at the beginning of a long straight hallway running south from
+the door on the north wall.  Torches rest in iron sconces, lighting the way.
+There are oak doors on the east and west walls, and the corridor continues
+south to more doors.  
+~
+0 8 0
+D0
+~
+~
+0 0 21033
+D1
+~
+door~
+1 0 21043
+D2
+~
+~
+0 0 21038
+D3
+~
+door~
+0 0 21042
+S
+#21038
+Hallway, 2F~
+You are midway down a long hall leading north and south.  Torches light
+the way next to a door on each side of you to the east and west.  Paintings
+of famous generals decorate the walls in places.  
+~
+0 8 0
+D0
+~
+~
+0 0 21037
+D1
+~
+door~
+0 0 21044
+D2
+~
+~
+0 0 21039
+D3
+~
+~
+0 0 21045
+S
+#21039
+Hallway, 2F~
+You are at the end of a long hall leading north.  To the south the hall
+ends in a large archway, emblazoned with the words "General Mess."  There
+are doors on the east and west walls.  
+~
+0 8 0
+D0
+~
+~
+0 0 21038
+D1
+~
+~
+1 0 21047
+D2
+~
+~
+0 0 21040
+D3
+~
+~
+0 0 21046
+S
+#21040
+Mess Hall~
+You find yourself in a large chamber filled with rows of rough wooden
+tables and benches.  This is the mess hall, where the regular soldiers take
+their meals.  A long counter near the east wall holds buckets and trays of
+different coarse foodstuffs, just enough to keep a soldier alive and
+healthy.  A tall archway on the north wall leads to a hallway, and a smaller
+door leads west.  
+~
+0 8 0
+D0
+~
+~
+0 0 21039
+D3
+~
+~
+0 0 21041
+S
+#21041
+Officers' Mess~
+This medium-sized, comfortable room is the Officers' Mess.  This is where
+the commanders of Cloud Tower's troops eat their meals.  There is a long
+table in the middle of the room, with enough chairs to easily seat the
+officers and any important guests as well.  Candles and lamps fill the room
+with an ambient glow, lighting the room well.  There is a well-stocked bar
+in the corner, and several comfortable chairs nearby.  
+~
+0 0 0
+D1
+~
+~
+0 0 21040
+S
+#21042
+Junior Officers' Quarters~
+This carpeted room contains a double bunk bed against one wall.  Two
+empty armor stands rest in the corner beneath two sword hooks.  The room is
+lit by a lamp hanging from a chain in the center of the ceiling.  The only
+exit is a door on the east wall.  
+~
+0 8 0
+D1
+~
+door~
+0 0 21037
+S
+#21043
+Junior Officers' Quarters~
+This carpeted room contains a double bunk bed against one wall.  Two
+empty armor stands rest in the corner beneath two sword hooks.  The room is
+lit by a lamp hanging from a chain in the center of the ceiling.  The only
+exit is a door on the west wall.  
+~
+0 8 0
+D3
+~
+door~
+1 0 21037
+S
+#21044
+Junior Officers' Quarters~
+This carpeted room contains a double bunk bed against one wall.  Two
+empty armor stands rest in the corner beneath two sword hooks.  The room is
+lit by a lamp hanging from a chain in the center of the ceiling.  The only
+exit is a door on the west wall.  
+~
+0 8 0
+D3
+~
+~
+0 0 21038
+S
+#21045
+Junior Officers' Quarters~
+This carpeted room contains a double bunk bed against one wall.  Two
+empty armor stands rest in the corner beneath two sword hooks.  The room is
+lit by a lamp hanging from a chain in the center of the ceiling.  The only
+exit is a door on the east wall.  
+~
+0 8 0
+D1
+~
+~
+0 0 21038
+S
+#21046
+The General's Office~
+The walls of this office are covered in smooth, fine marble.  Your feet
+sink into the thick woolen carpet on the floor.  A massive wooden desk takes
+up most of the space in half of the room, and behind the desk sits a tall
+oak chair.  Paintings of the General's forebears decorate the walls, and oil
+lamps in each corner illuminate the surroundings.  There is a large door
+leading out to the east, and a smaller door in the west wall beyond the
+desk.  
+~
+0 8 0
+D1
+~
+~
+0 0 21039
+D3
+~
+door~
+0 0 21049
+S
+#21047
+The Chaplain's Room~
+This small yet comfortable room is carpeted with tightly woven wool, dyed
+a dark brown.  Several lamps throw light on the bookcases lining the walls,
+and a large {gtriple-circle symbol{x dominates the east wall behind a wooden
+desk.  A neatly made bed rests in the corner, the edges squared away and
+smoothed precisely.  
+~
+0 8 0
+E
+triple~
+{B         _________
+{B        / _______ \
+{B       / /       \ \
+{B      | |         | |
+{B      | |         | |
+{B      | |         | |
+{B      | |{r__     {W__{B| |
+{r     / {B\ \ {r\{B___{W/ {B/ / {W\
+{r    / /'{B\_{r\ \{B_{W/ /{B_/{W'\ \
+{r   | |     | {W| |     | |
+{r   | |     | {W| |     | |
+{r    \ \___/ / {W\ \___/ /
+{r     \_____/   {W\_____/{x
+~
+E
+circle~
+{B         _________
+{B        / _______ \
+{B       / /       \ \
+{B      | |         | |
+{B      | |         | |
+{B      | |         | |
+{B      | |{r__     {W__{B| |
+{r     / {B\ \ {r\{B___{W/ {B/ / {W\
+{r    / /'{B\_{r\ \{B_{W/ /{B_/{W'\ \
+{r   | |     | {W| |     | |
+{r   | |     | {W| |     | |
+{r    \ \___/ / {W\ \___/ /
+{r     \_____/   {W\_____/{x
+~
+E
+symbol~
+{B         _________
+{B        / _______ \
+{B       / /       \ \
+{B      | |         | |
+{B      | |         | |
+{B      | |         | |
+{B      | |{r__     {W__{B| |
+{r     / {B\ \ {r\{B___{W/ {B/ / {W\
+{r    / /'{B\_{r\ \{B_{W/ /{B_/{W'\ \
+{r   | |     | {W| |     | |
+{r   | |     | {W| |     | |
+{r    \ \___/ / {W\ \___/ /
+{r     \_____/   {W\_____/{x
+~
+D3
+~
+~
+1 0 21039
+S
+#21048
+An obsidian corridor~
+The walls, floor and ceiling in this narrow walkway have been fused into
+dully shining black glass.  It ends to the north at a stone door, and
+continues south where it appears to become a chamber.  
+~
+0 8 0
+D0
+~
+~
+0 0 21034
+D2
+~
+~
+0 0 21050
+S
+#21049
+The General's Quarters~
+This richly-furnished room is the General's private quarters.  There is a
+large feather bed with soft furs and thick pillows on it in one corner.  The
+walls are adorned with grimacing paintings of the General's parents, and
+there is a portrait of the General and his wife hung over the bed.  
+~
+0 8 0
+D1
+~
+door~
+0 0 21046
+S
+#21050
+Chambers of the CloudMagi~
+You stand in a circular room, ringed with tall windows except to the
+north where a hall leads out.  The floor and ceiling are polished obsidian,
+causing the illusion of standing in a void with thousands of copies of
+yourself stretching out to infinity.  A metal catwalk leads out of the tower
+to the south.  
+~
+0 8 0
+D0
+~
+~
+0 0 21048
+D2
+~
+~
+0 0 21051
+S
+#21051
+The Elemental Cage~
+Iron bars make up a large cage floating several meters away from the
+stone wall of the tower.  Metal mesh fills in the space between the bars,
+and a humming sound fills the air.  Crackling energy causes small bolts of
+lightning to leap from surface to surface, creating the smell of burnt air
+and ozone.  
+~
+0 0 0
+D0
+~
+~
+0 0 21050
+S
+#21052
+Turret Stairway~
+The grey stone blocks of the walls curve closely around you, and the
+spiral stairway winds up above your head.  Narrow slots stepped up a few
+feet from each other let in shafts of light from the outside, illuminating
+the richly carved post running up the center of the tower, holding the
+stairs up.  
+~
+0 8 0
+D4
+~
+~
+0 0 21053
+D5
+~
+~
+0 0 21035
+S
+#21053
+Midway up the Turret~
+The grey stone blocks of the walls curve closely around you, and the
+spiral stairway winds up above your head.  Narrow slots stepped up a few
+feet from each other let in shafts of light from the outside, illuminating
+the richly carved post running up the center of the tower, holding the
+stairs up.  
+~
+0 8 0
+D4
+~
+~
+0 0 21054
+D5
+~
+~
+0 0 21052
+S
+#21054
+The Top of the Turret Stairs~
+The spiral stair ends suddenly at a blank wall.  Several small windows
+let in light from outside, casting rays on some footprints in the dust that
+end abruptly at the {ynorth wall...  {x{X{X{X{X{X{X{X{X{X{X{X{X{X{X{X
+{/There is a {Dsign{x posted on the wall here.  
+~
+0 8 0
+E
+sign~
+Attention: No admittance without the General's {cseal {xof approval.  
+~
+D5
+~
+~
+0 0 21053
+S
+#21055
+A Small Entry~
+You find yourself in a small round chamber, with a large open doorway
+leading south to some downward stairs.  A steel ladder bolted to the wall
+leads up to a steel hatch in the ceiling.  
+~
+0 8 0
+D2
+~
+~
+0 0 21054
+D4
+~
+hatch~
+1 0 21056
+S
+#21056
+Room of Beholding~
+This room is made up of a huge bubble of glass or crystal affixed to the
+sharp tip of the tower.  The platform on which you stand is set down a few
+steps from the middle of the room, and the floor around you is taken up by
+tables covered with strange texts and instruments.  A set of 5 large
+polished stone steps leads south to a dais in the center of the room,
+elevated to the heart of the sphere for unbroken viewing of the world for
+leagues around.  
+~
+0 8 0
+D2
+~
+~
+0 0 21057
+D5
+~
+~
+1 0 21055
+S
+#21057
+Beholder's Throne~
+You stand upon a mirrored circle of floor raised above the surrounding
+area.  No amount of scuffing could even mark the polished surface beneath
+you.  Miles upon miles of earth stretch away in all directions, and the
+details of the ground are strangely clear without seeming any closer.  You
+can see everything from sailors swabbing decks in Aachen to a sandmouse
+gathering food far to the west.  Come to think of it, the sky seems a little
+unnaturally clear from in here...  
+~
+0 8 0
+D0
+~
+~
+0 0 21056
+S
+#0
+
+
+
+#SPECIALS
+M 21006 spec_cast_mage
+M 21008 spec_cast_cleric
+M 21014 spec_cast_adept
+S
+
+
+
+#RESETS
+D 0 21055 4 1
+D 0 21056 5 1
+M 0 21000 1 21000 1
+M 0 21004 1 21004 1
+M 0 21022 1 21005 1
+M 0 21023 4 21005 1
+M 0 21022 15 21006 1
+M 0 21023 4 21006 1
+M 0 21023 4 21007 1
+M 0 21023 4 21008 1
+M 0 21022 15 21009 1
+M 0 21022 15 21010 2
+M 0 21022 15 21010 2
+M 0 21022 15 21011 2
+M 0 21022 15 21011 2
+M 0 21022 15 21012 2
+M 0 21022 15 21012 2
+M 0 21025 3 21015 2
+M 0 21025 3 21015 2
+M 0 21026 2 21015 1
+M 0 21003 3 21019 3
+M 0 21003 3 21019 3
+M 0 21003 3 21019 3
+M 0 21024 4 21023 1
+M 0 21001 1 21025 1
+M 0 21002 1 21026 1
+M 0 21025 3 21028 1
+M 0 21024 4 21030 1
+M 0 21024 4 21031 1
+M 0 21024 4 21032 1
+M 0 21007 1 21035 1
+M 0 21027 2 21042 1
+M 0 21027 2 21043 1
+M 0 21028 2 21044 1
+M 0 21028 2 21045 1
+M 0 21029 1 21046 1
+M 0 21013 1 21046 1
+M 0 21014 1 21047 1
+M 0 21009 1 21054 1
+M 0 21008 1 21056 1
+M 0 21006 1 21057 1
+S
+
+
+
+#SHOPS
+21001 0 0 0 0 0 100 50 0 23
+0
+
+
+
+#$

@@ -1,0 +1,1890 @@
+#AREADATA
+Name Ye Olde Faire~
+Builders Fluffy Halodar~
+VNUMs 2100 2199
+Credits {1    15} Glory       Ye Olde Faire~
+Security 9
+Version 1
+End
+
+
+
+#MOBILES
+#2101
+inquisitive faire goer~
+an inquisitive faire goer~
+An inquisitive faire goer is here.
+~
+He appears to be a simple man enjoying the pleasures of the faire.  
+~
+unique~
+ACEG 0 -100 2100
+5 0 2d6+60 1d1+99 1d6+1 punch
+5 5 5 9
+DFNU 0 0 0
+stand stand male 10
+AHMV ABCDEFGHIJK medium 0
+#2102
+commoner~
+a commoner~
+A commoner is brushing dust off his clothing.
+~
+He must spend a large portion of the day here.  He is covered with bits
+of hay and dust from the road.  
+~
+unique~
+ACEG 0 100 2101
+5 0 2d6+60 1d1+99 1d6+1 punch
+5 5 5 9
+FJNR 0 0 0
+stand stand male 10
+AHMV ABCDEFGHIJK medium 0
+#2103
+rat king~
+the Rat King~
+The Rat King crouches upon a pile of dung.
+~
+He is quite plump after a day of feasting.  His beady little eyes glare
+at you.  
+~
+unique~
+ABFGT 0 0 2100
+13 0 2d20+170 1d1+99 2d5+5 punch
+-1 -1 -1 8
+CDEKU 0 E 0
+stand stand male 100
+AHMV ABCDEFGHIJK medium 0
+#2104
+gallant knight~
+a gallant knight~
+A gallant knight is looking for his lady fair.
+~
+He stands bravely before you, ready to smite you with one mighty blow if
+need be.  
+~
+unique~
+ACGHT D 0 2100
+11 0 4d8+134 1d1+99 1d10+3 punch
+1 1 1 8
+CDKU 0 C 0
+stand stand male 75
+AHMV ABCDEFGHIJK medium 0
+#2105
+lovely lady~
+a lovely lady~
+A lovely lady stands elegantly before you.
+~
+She awaits her knight in shining armor.  
+~
+unique~
+ACGH 0 500 0
+7 0 2d6+85 1d1+99 1d8+1 slap
+4 4 4 9
+FHNU 0 0 0
+stand stand female 50
+AHMV ABCDEFGHIJK medium 0
+#2106
+faire administrator~
+a faire administrator~
+A faire administrator gazes about.
+~
+He takes his profession very seriously as is obvious from the quality of
+entertainment provided at this faire.  
+~
+unique~
+AGT 0 700 0
+8 0 2d7+115 1d1+99 1d7+2 punch
+3 3 3 9
+CKLU 0 0 0
+stand stand male 350
+AHMV ABCDEFGHIJK medium 0
+#2107
+wandering bard~
+a wandering bard~
+A wandering bard is dreaming about someone.
+~
+His lute is slung over his shoulder, and pages of poetry hang out of his
+backpack.  
+~
+unique~
+AGHT D 0 2101
+10 0 2d7+121 1d1+99 2d4+2 punch
+1 1 1 8
+FHJNU B 0 0
+stand stand male 25
+AHMV ABCDEFGHIJK medium 0
+#2108
+plump rat~
+a plump rat~
+A plump rat charges at you.
+~
+You should never disturb animals while they're eating.  
+~
+unique~
+ABFG DQ -100 0
+5 2 4d6+60 2d9+100 1d8+1 bite
+5 5 5 9
+CEGHQR 0 0 0
+stand stand male 0
+AGV ACDEFHJKUV small 0
+#2109
+pickpocket~
+a pickpocket~
+A pickpocket grabs for your gold.
+~
+You see a wiry young man, swift on his feet.  His eyes gleam at the
+prospect of a new victim.  
+~
+unique~
+AFHS P -400 2100
+10 0 2d7+121 1d1+99 2d4+2 punch
+1 1 1 8
+CDFJU 0 0 0
+stand stand male 25
+AHMV ABCDEFGHIJK medium 0
+#2110
+rat queen~
+the Rat Queen~
+The Rat Queen is breeding here.
+~
+She breeds little rats uncontrollably.  Must be her active lifestyle.  
+~
+unique~
+ABFGS 0 0 2101
+13 0 2d10+160 1d1+99 2d5+3 punch
+-1 -1 -1 8
+EFHJKNU 0 G 0
+stand stand female 100
+AHMV ABCDEFGHIJK medium 0
+#2111
+meditating monk~
+a meditating monk~
+A meditating monk wanders by slowly.
+~
+He is contemplating his God.  
+~
+unique~
+AGHQ D 0 2101
+11 0 2d8+134 1d1+99 1d10+2 punch
+1 1 1 8
+JKNU 0 C 0
+stand stand male 75
+AHMV ABCDEFGHIJK medium 0
+#2112
+chocolatier~
+the chocolatier~
+The chocolatier is licking the bowl.
+~
+A stout gnome is enjoying the spoils of his career.  
+~
+unique~
+AB J 600 0
+200 0 4d10+360 10d9+100 4d4+5 none
+-5 -5 -5 7
+FN CD LQ 0
+stand stand male 100000
+AHMV ABCDEFGHIJKY medium unknown
+#2113
+orc orland~
+Orland~
+An orc is picking meat from his teeth.
+~
+Disgusting.  That is the first word that comes to mind as you view this
+creature.  His personal hygiene habits leave much to be desired.  
+~
+unique~
+AB J -600 0
+200 0 4d10+360 10d9+100 4d4+5 none
+-5 -5 -5 7
+FN CD Q S
+stand stand male 100000
+AHMV ABCDEFGHIJK medium unknown
+#2114
+shalina human svelt~
+Shalina~
+Shalina is waiting to fulfill your desires.
+~
+This lovely young woman has emerald green eyes framed by long dark
+eyelashes.  She wears a peasant's dress with a deep V neckline.  An aura of
+innocence surrounds her.  
+~
+unique~
+AB J 600 0
+200 0 4d10+360 10d9+100 4d4+5 none
+-5 -5 -5 7
+FN CD 0 0
+stand stand female 100000
+AHMV ABCDEFGHIJK medium unknown
+#2115
+human boris~
+Boris~
+A tall stocky human with sticky hands awaits your order.
+~
+Boris has a paunch that is barely coverable by his apron.  
+~
+unique~
+AB J 0 0
+200 0 4d10+360 10d9+100 4d4+5 none
+-5 -5 -5 7
+FN D 0 0
+stand stand male 100000
+AHMV ABCDEFGHIJK medium unknown
+#2116
+lyra tailor~
+Lyra~
+Lyra awaits your purchase.
+~
+A rotund human woman stands before you, calluses upon her hands.  
+~
+unique~
+AB J 600 0
+200 0 4d10+360 10d9+100 4d4+5 none
+-5 -5 -5 7
+FN CD LQ 0
+stand stand female 100000
+AHMV ABCDEFGHIJK medium unknown
+#2117
+lowly beggar~
+a lowly beggar~
+A lowly beggar is resting here.
+~
+Though outwardly he appears to be no different from the poverty stricken
+citizens of the city, there is something odd about him.  
+~
+unique~
+ABT DFJZ 750 0
+10 0 2d7+121 5d9+100 2d4+2 none
+1 1 1 8
+FIJN 0 C 0
+rest rest male 15
+AHMV ABCDEFGHIJK medium flesh
+M death 2101 100~
+#2118
+lanaska ~
+Lanaska~
+Lanaska reaches for your palm.
+~
+An elderly half-elf woman is before you, her hair white as freshly fallen
+snow.  Her skin is leathery from the sun, and she wears a warm, toothless
+smile.  
+~
+unique~
+ABM J 0 0
+21 0 4d10+360 10d9+100 4d4+5 punch
+-5 -5 -5 7
+FN CD B Z
+stand stand female 600
+AHMV ABCDEFGHIJK medium unknown
+M bribe 2102 100~
+#2119
+skylan~
+Skylan~
+Skylan awaits your inquiries.
+~
+Skylan is dressed in long robes and wears a mystical symbol on leather
+twine around his neck.  
+~
+unique~
+ABMR J 0 0
+21 0 4d10+360 10d9+100 4d4+5 punch
+-5 -5 -5 7
+FN CD 0 0
+stand stand male 600
+AHMV ABCDEFGHIJK medium unknown
+M bribe 2104 100~
+#2120
+kestral~
+a kestral~
+A kestral is here.
+~
+~
+unique~
+ABIU Tb 0 0
+45 0 1d1+675 22d9+100 8d4+16 none
+-15 -15 -15 4
+FK 0 R C
+stand stand none 0
+AGW ACDEFHKP medium unknown
+#2121
+red-winged hawk red winged~
+a red-winged hawk~
+A red-winged hawk is here.
+~
+~
+unique~
+ABIU Tb 0 0
+50 0 1d1+750 25d9+100 5d8+18 none
+-20 -20 -20 3
+FK 0 R C
+stand stand none 0
+AGW ACDEFHKP medium unknown
+#2122
+falcon~
+a falcon~
+A falcon is here.
+~
+~
+unique~
+ABIU Tb 0 0
+60 0 1d1+900 30d9+100 8d6+25 none
+-30 -30 -30 0
+FK 0 R C
+stand stand none 0
+AGW ACDEFHKP medium unknown
+#2123
+morland man falconer~
+Morland~
+The falconer stands before you.
+~
+Morland is a master of his profession.  
+~
+unique~
+ABM J 0 0
+23 0 5d10+450 11d9+100 3d6+6 punch
+-6 -6 -6 6
+FK ABCD 0 0
+stand stand male 1000
+AHMV ABCDEFGHIJK medium unknown
+#2124
+phyllo retrophrenologist~
+Phyllo~
+The resident retrophrenologist is here.
+~
+A large, mucous draining troll is here, fingering the mallet on the table.  
+~
+unique~
+ABMR FJc 0 0
+21 0 4d10+360 10d9+100 4d4+5 punch
+-5 -5 -5 7
+D CD BE HK
+stand stand male 500
+ABHMV ABCDEFGHIJKUV medium unknown
+M bribe 2106 100~
+#2125
+rooster~
+an obnoxious rooster~
+An obnoxious rooster is trapped behind the fence.
+~
+His crowing is ear-piercing.  
+~
+unique~
+ABM Tb -600 0
+8 0 2d7+96 4d9+100 1d7+2 peckb
+3 3 3 9
+0 A R 0
+stand stand none 500
+AGW ACDEFHKP medium unknown
+M grall 2108 30~
+#2126
+accused witch~
+an accused witch~
+An accused witch perches precariously above a deep bin of water.
+~
+She eyes the crowd in disbelief, and you can see her disgust at the
+idiocy.  
+~
+unique~
+ABM 0 0 0
+21 0 4d10+360 10d9+100 4d4+5 none
+-5 -5 -5 7
+0 AB 0 0
+stand stand female 50
+AHMV ABCDEFGHIJK medium flesh
+#0
+
+
+
+#OBJECTS
+#2116
+opal pendant~
+an opal pendant~
+An opal pendant is twisted on the ground.~
+opal~
+jewelry 0 AC
+0 0 0 0 0
+1 2 100 0 G
+E
+opal pendant~
+A small circular emblem is carved from opal and dangles from a fine
+silver chain.  
+~
+#0
+
+
+
+#ROOMS
+#2101
+Entrance to the Faire~
+A hawk lets out a piercing cry as it circles high above you, and jovial
+voices flow in on a breeze from the east.  Two sturdy wooden posts rise
+about 10 feet into the air, topped with billowing cloth flags.  
+~
+0 4 1
+D1
+~
+~
+0 -1 2102
+D2
+~
+~
+0 0 8122
+S
+#2102
+Northern Faire Road~
+You travel a dirt road wide enough to allow wagons and pedestrians alike.
+It is firmly packed from usage, and the formations in the middle of the road
+indicate horses have passed through recently.  The warm smell of hay drifts
+in from the south.  
+~
+0 0 1
+D1
+~
+~
+0 -1 2103
+D2
+~
+~
+0 0 2171
+D3
+~
+~
+0 -1 2101
+S
+#2103
+Open Plot of Land~
+Northern Faire Road opens into a wide plot of barren land.  Several open
+wagons have been abandoned by faire goers along the edges of this section. 
+Giggling children are playing hide-and-seek around the wagon wheels.  
+~
+0 0 1
+D1
+~
+~
+0 -1 2104
+D2
+~
+~
+0 -1 2110
+D3
+~
+~
+0 -1 2102
+S
+#2104
+Northern Faire Road~
+A small circle of shabbily dressed women rest here, small children
+running around them and occasionally tugging their sleeves.  The children's
+faces are smeared with dirt and their noses drip.  You are certain you see
+lice jumping around on their heads.  
+~
+0 0 1
+D1
+~
+~
+0 -1 2105
+D2
+~
+~
+0 -1 2111
+D3
+~
+~
+0 -1 2103
+S
+#2105
+Northern Faire Road~
+A lady dressed in finery rides side saddle upon an Arabian steed.  Her
+long brown hair is draped over her shoulder in a thick braid entwined with
+golden ribbons.  She gazes north across the open land that remains untouched
+by the construction of the faire.  
+~
+0 0 1
+D1
+~
+~
+0 -1 2106
+D3
+~
+~
+0 -1 2104
+S
+#2106
+Garden Path~
+You find yourself at the beginning of a beautiful garden path that
+stretches south.  A young girl in a long flowing white dress has wandered
+off the path to pick a handful of violets.  Northern Faire Road continues
+east and west.  
+~
+0 0 1
+D1
+~
+~
+0 -1 2107
+D2
+~
+~
+0 -1 2113
+D3
+~
+~
+0 -1 2105
+S
+#2107
+Birds of Prey~
+Within a large wire cage, perched upon a wooden stand, is a red-winged
+hawk.  A long metal chain ends with a small band clamped around the hawk's
+leg.  Its eyes have an intelligence to them.  It holds your gaze before
+stretching its wings and crying a high-pitched screech.  
+~
+0 0 1
+D1
+~
+~
+0 -1 2108
+D2
+~
+~
+0 0 2114
+D3
+~
+~
+0 -1 2106
+S
+#2108
+Falconer~
+A small crowd is seated in front of a slender man.  His arm is
+outstretched and covered with leather arm guards.  Perched proudly upon his
+arm is a large hooded falcon.  The man is explaining his techniques to the
+awed spectators.  
+~
+0 4096 1
+D2
+~
+~
+0 -1 2115
+D3
+~
+~
+0 -1 2107
+S
+#2109
+Pet Shop Storage~
+{RAlways Place This After The Pet Shop!  {x 
+~
+0 4 2
+S
+#2110
+Water Trough~
+The stable lies to the west, and an occasional neigh of a horse can be
+heard.  The dirt around you is riddled with prints from hooves and feet.  A
+large metal bin contains cool refreshing water.  You will have to shove past
+the horses if you wish to partake.  
+~
+0 0 2
+D0
+~
+~
+0 -1 2103
+D2
+~
+~
+0 -1 2116
+D3
+~
+~
+0 0 2171
+S
+#2111
+Punch 'n Judy~
+A large puppet show is being performed.  A shakey looking booth is
+positioned along the edge of the road, draped with thin cheap curtains.  Two
+little puppets perform their antics in the open window of the booth.  One is
+adorned with a spiked hat, the other wields a rolling pin.  Both puppets are
+given voice by a man's falsetto.  The spectators laugh heartily as Judy
+beats Punch over the head repeatedly.  
+~
+0 8 1
+D0
+~
+~
+0 -1 2104
+D2
+~
+~
+0 -1 2117
+S
+#2112
+Garden Path~
+The caretakers of the faire have painstakingly created a beautiful floral
+and herbal display to surround the meandering footpath you travel.  A stone
+bench sits among the flowers.  A young man is seated upon it, lute in hand. 
+His light music has a soothing air to it.  
+~
+0 0 1
+D1
+~
+~
+0 -1 2113
+D2
+~
+~
+0 -1 2118
+S
+#2113
+Garden Path~
+Amazing how the surrounding garden carries your troubles away, almost as
+if by magic.  These flowers and herbs were planted with loving creativity,
+drawing colorful patterns along the ground.  Butterflies explore the petals
+and grasses as bumble bees gather pollen.  The garden continues north and
+west, and a small path leads east.  
+~
+0 0 1
+D0
+~
+~
+0 -1 2106
+D1
+~
+~
+0 -1 2114
+D3
+~
+~
+0 -1 2112
+S
+#2114
+Birds of Prey~
+A kestral, smaller cousin to the hawk, is contained within a holding
+cage.  It preens its brown feathers carefully as if knowing its performance
+time is approaching.  Small rodent bones litter the bottom of the cage.  The
+main road leads north and east while a smaller path extends west.  
+~
+0 8 1
+D0
+~
+~
+0 0 2107
+D1
+~
+~
+0 -1 2115
+D3
+~
+~
+0 -1 2113
+S
+#2115
+Birds of Prey~
+Three tall shade trees fill this section of road, cooling your skin.  As
+you gaze around, a rustling of leaves catch your attention.  A snowy white
+owl rests upon a tree bough draping over the road.  It spins its head in a
+circle and blinks one eye at a time.  A small group appears to have gathered
+to the north of you.  
+~
+0 0 1
+D0
+~
+~
+0 -1 2108
+D2
+~
+~
+0 -1 2120
+D3
+~
+~
+0 -1 2114
+S
+#2116
+West of the Commons~
+Faire goers bustle past you, anxious to view all the sites.  Those
+entering from the east are engrossed in animated conversation. 
+Unfortunately, you are not near enough to hear what they speak of.  The dirt
+road leads north and east.  
+~
+0 0 2
+D0
+~
+~
+0 -1 2110
+D1
+~
+~
+0 -1 2117
+S
+#2117
+Northwest Commons~
+A number of spectators gather here, everyone seeming to speak at once.  A
+shame though, you can't seem to follow any one of the conversations. 
+Occasional words reach your ears.  Accused?  Drown her?  Tests?  The crowds
+are thick to the east and south.  The northern road seems a bit quieter.  
+~
+0 0 1
+D0
+~
+~
+0 -1 2111
+D1
+~
+~
+0 0 2118
+D2
+~
+~
+0 -1 2121
+D3
+~
+~
+0 -1 2116
+S
+#2118
+Northern Commons~
+A lovely floral scent, entering from the north, combines with what smells
+like rotten vegetables nearby.  An occasional stone lands near your feet,
+having been vollied from the central commons to the south.  The bickering of
+the crowd buzzes around you.  
+~
+0 0 1
+D0
+~
+~
+0 -1 2112
+D1
+~
+~
+0 -1 2119
+D2
+~
+~
+0 -1 2122
+D3
+~
+~
+0 0 2117
+S
+#2119
+Northeast Commons~
+A number of merchants have abandoned their booths for a bit and are in
+the process of setting up chairs around the Commons area.  You notice that
+all of the chairs face southwest.  A woman has spread a blanket on the
+ground and is unpacking a picnic lunch for her family.  
+~
+0 8 1
+E
+picnic~
+You see grapes, cheeses, and tasty looking sandwiches.  
+~
+D2
+~
+~
+0 -1 2123
+D3
+~
+~
+0 -1 2118
+S
+#2120
+Eastern Faire Road~
+You are wandering a quieter section of the faire.  On either side of the
+road lie small patches of hayfields.  A dozen or so cattle munch lazily in
+the fields and turn large, sleepy eyes toward you.  You see shade trees to
+the north, and Eastern Faire Road continues south.  
+~
+0 0 1
+D0
+~
+~
+0 -1 2115
+D2
+~
+~
+0 -1 2125
+S
+#2121
+Western Commons~
+As you enter this area of the commons, you step into a large puddle of
+cloudy water.  The mud sucks at your footwear as you step out of the puddle.
+You strain to see past the bodies surrounding you.  The majority of the
+gazes are focused east toward what appears to be quite a ruckus.  
+~
+0 0 1
+D0
+~
+~
+0 -1 2117
+D1
+~
+~
+0 -1 2122
+D2
+~
+~
+0 0 2126
+S
+#2122
+Central Commons~
+You push your way through the throngs of observers and discover an
+attractive woman strapped to a wooden swing.  The swing is suspended above a
+deep basin of water on a raised platform.  Stones and rotten vegetables fly
+at the woman from the crowd.  Various yells rise above the undercurrent of
+jeers.  "See if she floats!"  "No, burn her!  Burn the witch!"  
+~
+0 0 1
+D0
+~
+~
+0 -1 2118
+D1
+~
+~
+0 0 2123
+D2
+~
+~
+0 -1 2127
+D3
+~
+~
+0 -1 2121
+S
+#2123
+Eastern Commons~
+Two men dressed in commoner's clothing are gathering bundles of branches
+and twigs.  There is quite a collection deposited in a pile already.  A
+woman with a shawl draped around her head is seated near the woodpile.  She
+rocks back and forth muttering prayers over her clasped hands.  
+~
+0 8 1
+E
+pile~
+It is a growing mound of dry, brittle wood.  
+~
+D0
+~
+~
+0 -1 2119
+D2
+~
+~
+0 -1 2128
+D3
+~
+~
+0 0 2122
+S
+#2124
+Grain Storage~
+Piles of grain press tightly against the sides of the storage building. 
+Thin trails seem to have been dug here and there amongst the grain.  The
+stockpile is fit only for consumption by livestock.  There is a rickety door
+hanging by its hinges to the east.  
+~
+0 9 1
+D1
+~
+wooden door east~
+1 -1 2125
+S
+#2125
+Eastern Faire Road~
+A shack stands abandoned to the east.  The owner must have relocated to a
+more central location of the faire.  The road is abandoned by all but you
+and the insects scurrying across the dirt.  Eastern Faire Road stretches to
+the north and south.  A large wooden structure settles into itself to the
+west.  
+~
+0 0 1
+D0
+~
+~
+0 -1 2120
+D2
+~
+~
+0 -1 2130
+D3
+~
+wooden door west~
+1 -1 2124
+S
+#2126
+Southwest Commons~
+Several deep wicker baskets are piled together along the road, and rotten
+vegetables have been discarded on the ground around them.  Apparently, the
+best produce has already been picked over.  You hear shouting to the
+northeast.  
+~
+0 0 1
+D0
+~
+~
+0 0 2121
+D1
+~
+~
+0 -1 2127
+D2
+~
+~
+0 -1 2131
+S
+#2127
+Southern Commons~
+Little children weave in and out of the loitering adults.  You notice one
+child in particular taking a lump of clay and shaping it into a long pointy
+nose.  She covers her own little button nose with it and lets out a childish
+cackle.  The other children laugh and run as the adults eye the child
+suspiciously.  
+~
+0 0 1
+D0
+~
+~
+0 -1 2122
+D1
+~
+~
+0 -1 2128
+D3
+~
+~
+0 -1 2126
+S
+#2128
+Southeast Commons~
+A deteriorating well is in the center of this section of the Commons. 
+Thin wooden slabs have been placed haphazardly over the mouth of the well. 
+This was done for posturing really, to silence complaints of danger.  The
+slabs would prevent nothing but large creatures from tumbling to the depths.
+You hear a ruckus to the northwest.  
+~
+0 0 1
+D0
+~
+~
+0 -1 2123
+D1
+~
+~
+0 -1 2129
+D2
+~
+~
+0 -1 2133
+D3
+~
+~
+0 -1 2127
+S
+#2129
+Eastern Faire Road~
+A heavy-set monk dressed in simple brown robes is offering blessings to a
+supplicant kneeling before him.  The monk's holy symbol catches in the
+light, blinding you briefly.  The Commons lies to the west.  Eastern Fair
+Road stretches back to the east.  
+~
+0 0 1
+E
+window~
+Looking through the window, you see a gang leader plotting the demise of
+the ogres.
+~
+D1
+~
+~
+0 -1 2130
+D3
+~
+~
+0 -1 2128
+S
+#2130
+Eastern Faire Road~
+Lovers have decided to take advantage of this quiet road.  They hold each
+other close, whispering caring words.  A gust of wind blows dust into your
+nose, causing you to sneeze loudly.  Your outburst disturbs the lovers, and
+they gaze at you a bit disgruntled.  The road leads north and west.  
+~
+0 0 1
+D0
+~
+~
+0 -1 2125
+D3
+~
+~
+0 -1 2129
+S
+#2131
+Order of the Rose~
+A large tented area stretches to the east, providing shade and meditation
+to weary wanderers.  Robed monks are hard at work preparing large kettles of
+a delicious smelling soup.  Upon a thin pole is a white banner embroidered
+with a beautiful rose clutched in the outstretched claw of a lion.  There is
+a small path to the south.  
+~
+0 0 5
+D0
+~
+~
+0 -1 2126
+D1
+~
+~
+0 -1 2132
+D2
+~
+~
+0 -1 2136
+S
+#2132
+Order of the Rose~
+Along the northern edge of the tented area are five cots covered with
+stark white sheets.  The monks are tending to minor injuries of unlucky
+travellers.  Scraped knees, small cuts, and pulled muscles are the extent of
+the injuries the monks are mending.  
+~
+0 0 5
+D1
+~
+~
+0 -1 2133
+D3
+~
+~
+0 -1 2131
+S
+#2133
+Order of the Rose~
+You are wandering through the large tent owned by the Order of the Rose. 
+A quiet man dressed in monk's robes turns to greet you with a warm smile. 
+He beckons you to come rest and join him in quiet musings of his God.  The
+tent continues east and west, and mouth-watering smells tickle your nose
+from the south.  
+~
+0 0 5
+D0
+~
+~
+0 -1 2128
+D1
+~
+~
+0 -1 2134
+D3
+~
+~
+0 -1 2132
+S
+#2134
+Order of the Rose~
+It appears you have disturbed a private conversation.  Huddled at a table
+are two dignitaries and the Bishop of the Order.  The moment they become
+aware of your presence, their dealings cease.  There is a brief tension in
+the air before the Bishop plasters a smile on his face and welcomes you.  
+~
+0 0 5
+D1
+~
+~
+0 -1 2135
+D3
+~
+~
+0 -1 2133
+S
+#2135
+Order of the Rose~
+You see three soldiers entering into the tented structure from the east. 
+They have just finished tethering their horses outside the tent and are
+removing their gauntlets.  Their countenance tells you they are not here for
+pleasure.  The tent stretches to the west and a path leads south.  
+~
+0 0 5
+D2
+~
+~
+0 -1 2140
+D3
+~
+~
+0 -1 2134
+S
+#2136
+Chocolatier~
+You fall into a chocolate reverie as you approach the booth.  Images of
+chocolate rivers and fields of fudge invade your mind.  You notice two
+gnomes wearing not-so-white aprons hard at work in the back of the booth.  A
+path to the south leads to the main food court road.  
+~
+0 0 5
+D0
+~
+~
+0 -1 2131
+D2
+~
+~
+0 -1 2141
+S
+#2137
+A Hankering for a Feast~
+A snarling orc is slobbering over an open grill as grease spits onto his
+face.  Various hunks of meat sizzle loudly as he reaches down to turn them
+with his tongs.  A thin haze of greasy smoke hangs in the air, carrying with
+it a scent of mouth-watering delights.  
+~
+0 0 1
+D2
+~
+~
+0 0 2142
+S
+#2138
+Garren's Gourmet~
+The owner of this shop has gone to the trouble of constructing cedar
+shelves covered with beautifully packaged goods.  A rather grumpy-looking
+gnome woman is sweeping the dirt floor and mumbling.  A lithe beauty stands
+behind a counter, a warm smile upon her face.  
+~
+0 0 5
+D2
+~
+~
+0 -1 2143
+S
+#2139
+Luscious Libations~
+The dirt floor is covered with dark patches where patrons have spilled
+their refreshments carelessly.  A wooden barrel overflows with lemons in the
+northwest corner of the booth, and boxes of wooden cups are stacked behind
+the counter.  A cold beverage might just hit the spot.  
+~
+0 0 5
+D2
+~
+~
+0 0 2144
+S
+#2140
+Eastern Faire Road~
+The din of the faire is muted here, blown away by the light breezes.  In
+the field to the east you notice two archers practicing their aim at targets
+tacked onto hay bales.  The road is quite narrow and intended for travel by
+foot only.  
+~
+0 0 5
+D0
+~
+~
+0 -1 2135
+D2
+~
+~
+0 -1 2145
+S
+#2141
+Food Court~
+A gravel road stretches to the east, small weeds interspersed among the
+tiny rocks.  Blackbirds lounge along the road, pecking at the bits of food
+left behind by hungry travellers.  The air is filled with delicious scents. 
+~
+0 0 1
+D0
+~
+~
+0 -1 2136
+D1
+~
+~
+0 -1 2142
+D2
+~
+~
+0 -1 2146
+S
+#2142
+Food Court~
+You hear the clanking of dishes from the north and animal-like grunts. 
+Faire goers wander out of the tented booth to the north, licking their
+fingers and smiling contentedly.  A leprechaun wearing a small tam is
+darting about, clearing the debris from around the tent.  
+~
+0 0 1
+D0
+~
+~
+0 0 2137
+D1
+~
+~
+0 -1 2143
+D3
+~
+~
+0 -1 2141
+S
+#2143
+Food Court~
+Travellers donning clothing of the finest materials wander in and out of
+the tented booth to the north.  Several carry picnic baskets and whisper
+amongst themselves before looking up and snickering.  They look down their
+noses at you as they meander past.  
+~
+0 0 1
+D0
+~
+~
+0 -1 2138
+D1
+~
+~
+0 -1 2144
+D2
+~
+~
+0 -1 2147
+D3
+~
+~
+0 -1 2142
+S
+#2144
+Food Court~
+A young grey elf child tries carefully not to spill her drink as she
+arrives from the north, and she fails miserably.  She tips her hand to lick
+the sticky liquid off and in doing so manages to spill the rest out of her
+cup.  The food court extends to the west, and a broken path leads east.  
+~
+0 0 1
+D0
+~
+~
+0 0 2139
+D1
+~
+~
+0 -1 2145
+D3
+~
+~
+0 -1 2143
+S
+#2145
+Eastern Faire Road~
+There is a beautiful view of the wide open sky as you enter this portion
+of the road.  Looking up you see cottony cumulous clouds molding themselves
+in a slow intricate dance.  A serenity blankets you, and daydreams skirt
+along the edges of your mind.  
+~
+0 0 1
+D0
+~
+~
+0 -1 2140
+D2
+~
+~
+0 -1 2149
+D3
+~
+~
+0 -1 2144
+S
+#2146
+Petting Zoo~
+A sharp breeze from the south brings with it a smell laden with furs and
+hides.  You hear merry quacking to the east and look over to find two
+mallards bobbing along a small pond.  The path is laden with travellers
+wandering between the petting zoo and the food court.  
+~
+0 0 1
+D0
+~
+~
+0 -1 2141
+D2
+~
+~
+0 -1 2150
+S
+#2147
+Petting Zoo~
+Short picket fences trace along each side of the dirt path.  To the east
+you see a handful of cattle in a corral mooing plaintively.  To the west a
+small pond rests, twinkling against the light.  Two mallard ducks quack
+noisily as they bob in the water.  The path extends north and south.  
+~
+0 0 1
+D0
+~
+~
+0 -1 2143
+D2
+~
+~
+0 -1 2152
+S
+#2148
+Storage Bin~
+Produce seems to have been long forgotten here, its rancid smells making
+it uncomfortable to breathe.  A system of ventilation would be a blessed
+relief from the suffocating stillness.  Disturbing rustlings causes your
+adrenaline to surge.  
+~
+0 9 1
+D1
+~
+door~
+1 -1 2149
+S
+#2149
+Petting Zoo~
+Small brown picket fences border each side of the path you now travel. 
+The path has not been graded for some time and is filled with small holes
+and cracks.  The heady scent of animals flows from the south.  A wooden
+storage facility stands to the west.  
+~
+0 0 1
+D0
+~
+~
+0 -1 2145
+D2
+~
+~
+0 -1 2154
+D3
+~
+door~
+1 -1 2148
+S
+#2150
+Petting Zoo~
+A chicken coop has been thrown together and stuffed with a variety of
+fowl.  A very large, very obnoxious rooster struts proudly amongst his hens.
+He eyes you curiously before darting at you, aiming his sharp peck at your
+fingers.  Good thing chicken-wire separates you from the coop.  
+~
+0 0 1
+D0
+~
+~
+0 -1 2146
+D1
+~
+~
+0 -1 2151
+S
+#2151
+Petting Zoo~
+A fluffy white sheep trots up and nuzzles at your hand.  Charlene, the
+sheep farmer's daughter, is feeding a young sheep with a bottle of milk. 
+There is a small shed-like structure set back from the path.  You glimpse
+inside and find Tryst shearing an unlucky ewe.  
+~
+0 0 1
+D1
+~
+~
+0 -1 2152
+D3
+~
+~
+0 -1 2150
+S
+#2152
+Petting Zoo~
+Little moppets of soft fur fill an enclosed pen.  The creatures range
+from guinea pigs to jackrabbits and many cuddly creatures in between.  You
+are taken back to the simple pleasures of your childhood.  The jingling of a
+tambourine can be heard in the distance.  
+~
+0 0 1
+D0
+~
+~
+0 -1 2147
+D1
+~
+~
+0 0 2153
+D2
+~
+~
+0 -1 2157
+D3
+~
+~
+0 -1 2151
+S
+#2153
+Petting Zoo~
+Shetland ponies are tethered to a solid steel pole.  Their harnesses are
+decorated with long metallic ribbons that sparkle gaily in the light. 
+Several of their manes have been decorated with wild flowers.  The
+attendants are busy shuttling children on and off the creatures as waiting
+parents converse amongst themselves.  
+~
+0 8 0
+D1
+~
+~
+0 -1 2154
+D3
+~
+~
+0 0 2152
+S
+#2154
+Petting Zoo~
+Tall grasses surround a man-made pool of water in the center of the
+square.  Giant tortoises hide in the shade, occasionally shuffling towards
+the water to dip a leg or two within.  They stay within reach, tolerating
+the on-lookers.  Their eyes carry a kindness rarely seen this day in age. 
+Light music can be heard in the distance.  
+~
+0 0 1
+D0
+~
+~
+0 -1 2149
+D2
+~
+~
+0 -1 2159
+D3
+~
+~
+0 -1 2153
+S
+#2155
+Soothsayers~
+A rickety booth has been constructed at the northwest corner of the path
+you travel.  It is quickly becoming overgrown with grasses and weeds.  A
+variety of charts have been tacked to the walls of the booth.  They
+illustrate outstretched palms with each of the creases labelled in a
+language that is unrecognizable to you.  
+~
+0 0 2
+D1
+~
+~
+0 0 2156
+D2
+~
+~
+0 0 2162
+S
+#2156
+Soothsayers~
+An embroidered rug has been lain upon the ground here.  Ivory candles
+mark the four corners of the rug, and a blue velvet pouch rests on the
+middle of the ground covering.  A small wagon has been abandoned in the
+northern field.  
+~
+0 0 1
+D2
+~
+~
+0 -1 2163
+D3
+~
+~
+0 0 2155
+S
+#2157
+Dance Court~
+Several dancers twirl in and out of the crowd.  The driving beat of the
+nearby drum gets your blood flowing and your toes tapping.  The merriment
+surrounding you is contagious.  
+~
+0 0 1
+D0
+~
+~
+0 -1 2152
+D1
+~
+~
+0 -1 2158
+D2
+~
+~
+0 -1 2164
+S
+#2158
+Dance Court~
+Three maidens are attired in uniform dance costumes and appear to be
+practicing for their performance.  A young boy carrying a bucket of water
+and a ladel is keeping them refreshed.  Nearby, you hear the merry tune of
+pipes and the muffled pound of a skin-covered drum.  
+~
+0 0 1
+E
+costumes~
+The skirts are knee-length and straight, overlaid with a sheer material
+that flares as the dancers spin.  The bodices are tightly laced, and the
+sleeves stretch to their wrists.  
+~
+D1
+~
+~
+0 -1 2159
+D2
+~
+~
+0 -1 2165
+D3
+~
+~
+0 -1 2157
+S
+#2159
+Lyra's Liveries~
+You see an open booth with racks of fine clothing dangling from wooden
+hangers.  A seamstress rests in a rocking chair creating intricate
+embroidered patterns upon a satin bodice.  A faire goer is fingering the
+fabrics under the shopkeeper's watchful eye.  
+~
+0 0 1
+D0
+~
+~
+0 -1 2154
+D3
+~
+~
+0 -1 2158
+S
+#2161
+Southern Faire Road~
+Various distant sounds tumble through the air.  Voices, bartering, and
+the almost distinguishable clear jangle of a tambourine.  
+~
+0 0 1
+D1
+~
+~
+0 -1 2162
+S
+#2162
+Southern Faire Road~
+A scruffy looking man rests at the side of the road, a tin coffer by his
+side.  It is apparent he has not partaken of a full meal for quite some
+time.  He busies himself with a carving he chips away at with a small knife.
+Southern Faire Road extends south and west.  A less travelled path leads
+north.  
+~
+0 0 1
+D0
+~
+~
+0 0 2155
+D2
+~
+~
+0 -1 2166
+D3
+~
+~
+0 -1 2161
+S
+#2163
+Soothsayers~
+A faire goer is gathering up his belongings and rubbing his head.  You
+notice a small wooden mallet lying on a low-standing table along the western
+edge of the path.  A tent is positioned behind the table, sparkling
+windchimes dangling from the fabric.  
+~
+0 0 1
+D0
+~
+~
+0 -1 2156
+D2
+~
+~
+0 -1 2167
+S
+#2164
+Dance Court~
+The music surrounds you in whirling strains of violins and pipes.  The
+tunes emanate from the east, calling you into the flow of syncopation.  A
+dancer takes your hand and leads you in a merry dance.  
+~
+0 0 1
+D0
+~
+~
+0 -1 2157
+D1
+~
+~
+0 0 2165
+D2
+~
+~
+0 -1 2169
+S
+#2165
+Dance Court~
+Upon a low open stage you see a percussionist, two pipers, and a lute
+player.  The music fills the air, and dancing forms brush past you.  The
+musicians are beginning to tire but are enjoying themselves too much to even
+consider stopping.  
+~
+0 8 0
+D0
+~
+~
+0 -1 2158
+D2
+~
+~
+0 -1 2170
+D3
+~
+~
+0 0 2164
+S
+#2166
+Southern Faire Road~
+You travel a wide dirt road leading into the depths of the faire.  A
+sharp wind gusts, gathering dust into its grasp and depositing it on you. 
+Southern Faire Road extends to the north and east.  
+~
+0 0 1
+D0
+~
+~
+0 -1 2162
+D1
+~
+~
+0 -1 2167
+S
+#2167
+Southern Faire Road~
+The road is riveted with wagon tracks and debris that has fallen from
+passing transports.  Several travellers pass by, eager to arrive at their
+next destination.  You see what appears to be a small marketplace to the
+north.  Southern Faire Road continues north and east.  
+~
+0 0 1
+D0
+~
+~
+0 -1 2163
+D1
+~
+~
+0 -1 2168
+D3
+~
+~
+0 -1 2166
+S
+#2168
+Southern Faire Road~
+A merchant has guided his wagon to this space, the horses pawing at the
+ground and snorting.  The merchant is busy unpacking his worldly
+possessions, hoping to find a willing buyer.  The dance court lies to the
+east, and Southern Faire Road extends west.  
+~
+0 0 1
+D1
+~
+~
+0 -1 2169
+D3
+~
+~
+0 -1 2167
+S
+#2169
+Dance Court~
+Professional dancers clasp hands with passers-by and teach them basic
+steps as the music from the northwest fills the air.  Irresistable laughter
+rises up from the crowd, and your spirits are lifted.  The dance court
+continues north and east, and a wide path leads west.  
+~
+0 0 1
+D0
+~
+~
+0 -1 2164
+D1
+~
+~
+0 -1 2170
+D3
+~
+~
+0 -1 2168
+S
+#2170
+Dance Court~
+Several tables have been placed here, all with a number of chairs
+surrounding them.  Weary dancers rest here, still within earshot of the
+lively music.  The dance court continues north and west.  
+~
+0 9 0
+D0
+~
+~
+0 -1 2165
+D3
+~
+~
+0 -1 2169
+S
+#2171
+Makeshift Stable~
+A wooden structure has been hastily constructed here.  A cover is
+supported upon several sturdy posts.  A wooden bar stretches the length of
+the structure, and a number of horses have been tethered here.  Large bags
+of feed rest near the edge of the stable.  
+~
+0 0 0
+D0
+~
+~
+0 0 2102
+D1
+~
+~
+0 0 2110
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 2124 1 1
+D 0 2125 3 1
+M 0 2109 3 2102 1
+M 0 2101 25 2102 1
+M 0 2101 25 2103 1
+M 0 2101 25 2104 1
+M 0 2101 25 2105 1
+M 0 2101 25 2106 1
+M 0 2101 25 2107 1
+M 0 2123 1 2108 1
+M 0 2120 1 2109 1
+M 0 2121 1 2109 1
+M 0 2122 1 2109 1
+M 0 2101 25 2110 1
+M 0 2101 25 2111 1
+M 0 2101 25 2112 1
+M 0 2101 25 2113 1
+M 0 2104 5 2114 1
+M 0 2109 3 2114 1
+M 0 2101 25 2114 1
+M 0 2101 25 2115 1
+M 0 2104 5 2116 1
+M 0 2101 25 2116 1
+M 0 2101 25 2117 1
+M 0 2101 25 2118 1
+M 0 2101 25 2119 1
+M 0 2101 25 2120 1
+M 0 2101 25 2121 1
+M 0 2101 25 2122 1
+M 0 2126 1 2122 1
+M 0 2104 5 2123 1
+M 0 2105 10 2123 2
+M 0 2103 1 2124 1
+M 0 2108 12 2124 6
+M 0 2108 12 2124 6
+M 0 2108 12 2124 6
+M 0 2108 12 2124 6
+M 0 2105 10 2125 2
+M 0 2117 1 2125 1
+M 0 2109 3 2128 1
+M 0 2101 25 2128 1
+M 0 2104 5 2129 1
+M 0 2109 3 2129 1
+M 0 2101 25 2129 1
+M 0 2101 25 2130 1
+M 0 2101 25 2131 1
+M 0 2106 10 2131 1
+M 0 2105 10 2132 2
+M 0 2106 10 2132 1
+M 0 2106 10 2133 1
+M 0 2101 25 2134 1
+M 0 2106 10 2134 1
+M 0 2104 5 2135 1
+M 0 2106 10 2135 1
+M 0 2106 10 2136 1
+M 0 2112 1 2136 1
+M 0 2102 25 2137 1
+M 0 2106 10 2137 1
+M 0 2113 1 2137 1
+M 0 2111 5 2138 1
+M 0 2106 10 2138 1
+M 0 2114 1 2138 1
+M 0 2106 10 2139 1
+M 0 2115 1 2139 1
+M 0 2102 25 2140 1
+M 0 2106 10 2140 1
+M 0 2102 25 2142 1
+M 0 2107 3 2143 1
+M 0 2102 25 2145 1
+M 0 2102 25 2146 1
+M 0 2111 5 2147 1
+M 0 2110 1 2148 1
+M 0 2108 12 2148 6
+M 0 2108 12 2148 6
+M 0 2108 12 2148 6
+M 0 2108 12 2148 6
+M 0 2105 10 2149 2
+M 0 2102 25 2150 1
+M 0 2125 1 2150 1
+M 0 2102 25 2151 1
+M 0 2102 25 2152 1
+M 0 2105 10 2152 2
+M 0 2111 5 2153 1
+M 0 2102 25 2154 1
+M 0 2111 5 2155 1
+M 0 2102 25 2155 1
+M 0 2118 1 2155 1
+M 0 2102 25 2156 1
+M 0 2119 1 2156 1
+M 0 2102 25 2157 1
+M 0 2102 25 2158 1
+M 0 2102 25 2159 1
+M 0 2116 1 2159 1
+M 0 2107 3 2161 1
+M 0 2102 25 2161 1
+M 0 2102 25 2162 1
+M 0 2102 25 2163 1
+M 0 2124 1 2163 1
+M 0 2102 25 2164 1
+M 0 2107 3 2165 1
+M 0 2102 25 2165 1
+M 0 2102 25 2166 1
+M 0 2102 25 2167 1
+M 0 2102 25 2169 1
+M 0 2111 5 2170 1
+M 0 2102 25 2170 1
+M 0 2101 25 2171 1
+S
+
+
+
+#SHOPS
+2112 19 0 0 0 0 100 50 0 23
+2113 19 0 0 0 0 100 50 0 23
+2114 19 0 0 0 0 100 50 0 23
+2115 17 0 0 0 0 100 50 0 23
+2116 33 0 0 0 0 100 50 0 23
+0
+
+
+
+#$

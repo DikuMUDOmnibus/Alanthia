@@ -1,0 +1,1195 @@
+#AREADATA
+Name Vorax's lair~
+Builders Fluffy Halodar~
+VNUMs 5700 5799
+Credits {200 225} Gotha       Vorax's Lair~
+Security 9
+Version 1
+End
+
+
+
+#MOBILES
+#5700
+hatchling dragon baby gold~
+the gold dragon hatchling~
+A baby gold dragon lies here, getting some rest.
+~
+It is a truly beautiful creature.  Stretched out about thirty feet long,
+it's golden scales glitter wonderfully in the light.  On the end of each of
+its legs is a set of razor-sharp claws, which could probably rend through
+most armor, despite the creature's age.  
+~
+unique~
+ABGY CFNTZ 1000 0
+200 62 0d0+0 0d0+0 0d0+0 bite
+0 0 0 0
+CHMT H ES 0
+sleep rest male 0
+AHZ ACDEFHJKLOPQUVWXY huge gold
+#5701
+man chef~
+the chef~
+A man is here, preparing vast quantities of food.
+~
+He is a relatively short man, only about five and a half feet tall. 
+Though not particularly handsome, he radiates a certain charm which endears
+him to you.  Atop his head is a large chef's hat and he is wearing a stained
+apron to protect his grubby clothes from food.  
+~
+unique~
+ABG 0 800 0
+201 0 0d0+0 0d0+0 0d0+0 punch
+0 0 0 0
+CFINV 0 0 0
+stand stand male 800
+AHMV ABCDEFGHIJK medium unknown
+#5702
+cloud giant artist painter~
+a cloud giant artist~
+A cloud giant is doing some touch-ups on the painted walls.
+~
+Standing well over seventeen feet tall, this cloud giant looks like he
+could snap most people like a twig, yet he holds his enormous paintbrush
+with delicate grace.  His long, grey beard dangles down as he moves and
+seems to dip ever so lightly into the paint on his palatte, making the tip
+an icky brown colour from the mixed paint on it.  
+~
+unique~
+ABGT G 0 0
+204 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+CDOT 0 LQX 0
+stand stand male 1000
+AHMV ABCDEFGHIJK huge unknown
+#5703
+Vorax gold dragon ancient~
+{YVorax{X~
+An ancient gold dragon is sleeping here.
+~
+This gold dragon is truly enormous, stretched out it would probably reach
+three hundred and eighty feet in length.  It's head alone would be easily
+large enough to swallow the largest of giants in one bite.  The scales of
+this creature glitter beautifully golden in the light and you can see that
+they are shaped like feathers, even though they are probably harder than
+mithril.  At the end of each toe is a ten foot long, razor-sharp claw and
+its mouth bears many, many fangs of great size and similar sharpness.  
+~
+unique~
+AFGQRY CDFHNTVZc 1000 0
+225 100 0d0+0 0d0+0 0d0+0 flame
+0 0 0 0
+ACHKMOT BHL CEQS 0
+sleep stand female 22500
+AHZ ACDEFHJKLOPQUVWXY giant gold
+#5704
+dragon gold young son~
+Vorax's son~
+A young gold dragon plays here happily.
+~
+This beautiful gold dragon, even though he is only young, is quite an
+impressive creature.  About seventy five feet in length and of considerable
+girth, he moves his glittering, golden, body about with amazing grace,
+twisting and turning happily about the place.  Despite the carefree look to
+this young dragon, though, you can see that his claws and teeth are sharp
+and he probably knows how to use them well.  
+~
+unique~
+ABGT CDFJTZ 950 0
+206 50 0d0+0 0d0+0 0d0+0 flame
+0 0 0 0
+CDHIMT HL BEQSX FI
+stand stand male 0
+AHZc ACDEFHJKLOPQUVWXY huge gold
+#5705
+dragon gold daughter young~
+Vorax's daughter~
+A young gold dragon is playing happily here.
+~
+As this gold dragon weaves her eighty foot, winged form gracefully about
+the place, her golden scales glitter amazingly in the light and silvery
+flashes of light glint of her razor-sharp claws and teeth, showing that the
+graceful display is not only one of beauty, but deadly as well.  
+~
+unique~
+ABGRT CDNTVZ 950 0
+207 51 0d0+0 0d0+0 0d0+0 flame
+0 0 0 0
+CDHIMT HL BCEQ 0
+stand stand female 0
+AHZ ACDEFHJKLOPQUVWXY huge gold
+#5706
+stormgiant giant playmate~
+a storm giant playmate~
+A storm giant is here, playing games.
+~
+Standing well over twenty five feet in height, this pale-skinned giant
+looks somewhat comical as he cavorts about the place, playing strange games.
+The normally serious face of a storm giant has been transformed into a
+smiling cheerful visage as he peers about the room for his playmate.  
+~
+unique~
+ABGTY N 850 0
+210 0 0d0+0 0d0+0 0d0+0 punch
+0 0 0 0
+CDIO J EILP 0
+stand stand male 0
+AHMV ABCDEFGHIJK giant unknown
+#5707
+stormgiant giant worker~
+a storm giant worker~
+A storm giant is working hard here.
+~
+He is almost twenty six feet in height and very well-mmuscled, making
+him a very formidable sight hammering away at the rock walls.  His pale
+green skin glistens slightly with the sweat which is dripping off his thick
+beard, from his hard work.  
+ 
+~
+unique~
+AGTY N 750 0
+212 0 0d0+0 0d0+0 0d0+0 punch
+0 0 0 0
+CDIO J EILP 0
+stand stand male 0
+AHMV ABCDEFGHIJK giant unknown
+#5708
+stormgiant forman giant official~
+the storm giant foreman~
+An official-looking storm giant stands here.
+~
+This pale violet skinned storm giant is almost twentyseven feet in height
+and has a determined set to his face.  His well-muscled body is clothed in
+large, thick robes with some official-looking badge on them.  His thick,
+green beard has been braided with ribbons of the same colors as his badge.  
+~
+unique~
+AGTY CN 900 0
+214 0 0d0+0 0d0+0 0d0+0 punch
+0 0 0 0
+CDHOT J EILP 0
+stand stand male 0
+AHMV ABCDEFGHIJK giant unknown
+#5709
+man protectorate gambling gambler~
+a protectorate~
+A man in golden armor gambles over cards.
+~
+This man is resplendant in his shining, golden armor.  Even while he
+gambles with his friends, you can see the noble set to his face.  Dark hair
+cascades down over his shoulder-plates, freed from the confines of his
+helmet.  Were he to stand, he would be almost six and a half feet in height.
+~
+unique~
+ABGTY N 850 0
+216 0 0d0+0 0d0+0 0d0+0 punch
+0 0 0 0
+CFHTX B NQ 0
+sit sit male 0
+AHMV ABCDEFGHIJK medium unknown
+#5710
+protectorate man sleeping~
+a protectorate~
+A tall man is sleeping here.
+~
+This man is obviously tired from hours of work.  Dark circles are under
+his eyes and his thick, dark hair is ruffled.  His noble countenance is
+showing definite signs of weariness, but it does not seem like it would
+affect this seasoned warrior overly adversly.  
+~
+unique~
+ABGT N 850 0
+217 0 0d0+0 0d0+0 0d0+0 punch
+0 0 0 0
+CFHTX B NQ 0
+sleep sleep male 0
+AHMV ABCDEFGHIJK medium unknown
+#5711
+protectorate man eating~
+a protectorate~
+A man is here, eating voraciously.
+~
+Almost six and a half feet in height, this dark-haired man has a noble
+look about him.  His obviously strong body is encased in a partial uit of
+golden armor even as he eats his food hungrily.  Although he is taking time
+out to eat, this man's sword arm seems to hover constantly about his weapon,
+as if he is expecting to be called for help.  
+~
+unique~
+ABGTY N 850 0
+218 0 0d0+0 0d0+0 0d0+0 punch
+0 0 0 0
+CFHILTX B NQ 0
+sit sit male 0
+AHMV ABCDEFGHIJK medium unknown
+#5712
+armored man protectorate~
+a protectorate~
+A tall, heavily armored man watches carefully.
+~
+Resplendant in his gleaming, golden armor, this man stands proudly some
+six and a half feet in height.  Constantly alert, he holds his golden
+longsword easily and is constantly watching into the dark corners of this
+area for any possible threats to his charge.  
+~
+unique~
+AGT CNV 850 0
+220 0 0d0+0 0d0+0 0d0+0 punch
+0 0 0 0
+CFHITVX B NQ 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#5700
+{RAnother cave entrance{x~
+This is another entrance to what looks like another cave.  The walls are
+probably about sixty feet apart and it is well over seventy feet in height. 
+Vines grow over the front of the cave, allowing little light to the already
+pitch-black cave to enter.  The new cave extends a long way south from here.
+~
+0 9 5
+D0
+~
+~
+0 0 4044
+D2
+~
+~
+0 0 5701
+S
+#5701
+Back of the cave~
+This is the back end of an extremely large cave.  The walls on either
+side are about sixty or so feet apart and the roof is well over seventy feet
+from the floor.  The floor is quite smooth here and deep gouges can be seen
+to the side of a huge boulder which lies at the very back of the cave.  
+~
+0 9 5
+E
+boulder~
+It's probably about sixty feet in diameter and very heavy, but the gouges
+near it provide an easy place to roll it.  
+~
+D0
+~
+~
+0 0 5700
+D2
+~
+boulder south door~
+1 0 5702
+S
+#5702
+North end of a long tunnel~
+The long tunnel is certainly an unnatural structure, with the walls and
+being unbelievably smooth.  Around fifty feet in width and just over that in
+height, the tunnel leads south and ends at a large boulder to the north.  
+~
+0 9 5
+E
+boulder~
+It is an enormous boulder, probably about sixty feet in height.  There
+are a number of stone pegs hammered into the boulder, probably to aid in
+moving it across.  
+~
+D0
+~
+boulder north door~
+1 0 5701
+D2
+~
+~
+0 0 5703
+S
+#5703
+A tunnel intersection~
+This is a four-way intersection in this unusual tunnel.  The smooth floor
+and ceiling of the tunnel are about fifty feet apart and the walls are a
+similar distance.  From the east and west, lights can be seen, but the north
+and south routes are dark.  
+~
+0 9 5
+D0
+~
+~
+0 0 5702
+D1
+~
+~
+0 0 5706
+D2
+~
+~
+0 0 5710
+D3
+~
+~
+0 0 5704
+S
+#5704
+Sleeping quarters~
+This room is some sleeping quaters.  The bunks on the wall seem to have
+been carved out of the stone itself, but have very thick-looking mattresses
+on them.  In the centre of the room is a large card table with seven seats
+around it.  The west end of the room leads out into the mess-hall and the
+east leads out into darkness.  
+~
+0 8 5
+D1
+~
+~
+0 0 5703
+D3
+~
+~
+0 0 5705
+M 125 H 125
+S
+#5705
+The mess-hall~
+This is a long mess-hall carved smoothly from stone, with a stove and
+oven on the west side and several cupboards hewn from the northern side.  In
+the centre of the room is a very long table, designed to seat about twenty
+people.  East some sleeping quarters can bee seen.  
+~
+0 8 5
+D1
+~
+~
+0 0 5704
+S
+#5706
+Eastern tunnel~
+Torches line the walls further to the eastern end of this tunnel,
+allowing the slightly scorched, smooth walls that run east and west to be
+easily seen.  From the west light also emanates, though this is somewhat
+dimmer than the light to the east.  
+~
+0 8 5
+D1
+~
+~
+0 0 5707
+D3
+~
+~
+0 0 5703
+S
+#5707
+The creche~
+This room is a rather large one, extending both north and south.  There
+are many scorch marks and small cracks in the otherwise smooth walls, and
+the floor is covered in claw marks.  To the north some form of strange
+obstacle course can be made out, and a pair of large stone mats lie to the
+south.  
+~
+0 8 5
+D0
+~
+~
+0 0 5708
+D2
+~
+~
+0 0 5709
+D3
+~
+~
+0 0 5706
+S
+#5708
+The obstacle course~
+The walls and floor of this room have carved rock coming out at all
+angles to make a large obstacle course.  There are ten foot high bridges and
+low bars at about five feet off the ground as well as large poles, reaching
+to the ceiling.  From here, the well lit, rather large room extends south to
+a somewhat scorched area.  
+~
+0 8 5
+D2
+~
+~
+0 0 5707
+D4
+~
+~
+0 0 5741
+S
+#5709
+The nursery~
+Two large stone mats dominate the middle of this room, each is around
+fifteen feet in length and six feet wide.  The surfaces of each mat has been
+carved so as to resemble the texture and look of a bed of coins.  Each wall
+in this room has been etched with beautiful scenery and is part way through
+being painted.  
+~
+0 8 5
+D0
+~
+~
+0 0 5707
+M 130 H 130
+S
+#5710
+A long tunnel~
+Leading north and south, this very long tunnel has its smooth walls set
+around fifty feet apart, and the ceiling is a similar distance from the
+floor.  A small amount of light seems to be coming from the north.  
+~
+0 9 5
+D0
+~
+~
+0 0 5703
+D2
+~
+~
+0 0 5711
+S
+#5711
+Cavern entrance~
+To the south, this large tunnel opens out into a cavern of enormous
+dimensions, within which there can be seen many signs of hard work; tools
+and large chunks of rubble litter the floor and there is a copious amount of
+complex scaffolding.  
+~
+0 8 5
+D0
+~
+~
+0 0 5710
+D2
+~
+~
+0 0 5712
+S
+#5712
+An enormous cavern~
+A vast, open cavern extends out from the southern side of a long, smooth
+tunnel.  The otherwise unmarred floor of this area is covered in bits and
+pieces of rubble and big chunks of rock about the bases of copious amount of
+scaffolding.  
+~
+0 8 5
+D0
+~
+~
+0 0 5711
+D1
+~
+~
+0 0 5716
+D2
+~
+~
+0 0 5722
+D3
+~
+~
+0 0 5713
+S
+#5713
+An enormous cavern~
+Extending east, west and south the smooth cavern floor is littered with
+various large tools and chunks of rock.  Scaffolding is also all about the
+place, leading up through the cool cavern air to almost touch the smooth
+ceiling.  
+~
+0 8 5
+D1
+~
+~
+0 0 5712
+D2
+~
+~
+0 0 5723
+D3
+~
+~
+0 0 5714
+S
+#5714
+An enormous cavern~
+The northern wall of a HUGE cavern is just to the north, the cavern
+itself extending enormous distances in all other directions with its smooth
+walls, floor and ceiling.  Large chunks of rock and many artisans tools
+litter the ground about the base of many pieces of large scaffolding.  
+~
+0 8 5
+D1
+~
+~
+0 0 5713
+D2
+~
+~
+0 0 5724
+D3
+~
+~
+0 0 5715
+S
+#5715
+Northwestern corner of the cavern~
+This is the northwestern corner of a really large cavern.  The smooth
+floors, which stretch around three hundred yards to the east and some one
+hundred to the south, are covered in rubble and very large tools of various
+types.  Here and there is some scaffolding which reaches high up to the
+ceiling, well over forty yards above the ground.  
+~
+0 8 5
+D1
+~
+~
+0 0 5714
+D2
+~
+~
+0 0 5725
+S
+#5716
+An enormous cavern~
+This is the northern wall of an incredibly large cavern.  The walls and
+floor have been nicely smoothed, though there is a large amount of rubble
+lying on the floor along with a variety of tools.  Scaffolding is all about
+the place, leading up to the fifty yard high ceiling.  To the east and
+south, the cavern extends around one hundred yards.  
+~
+0 8 5
+D1
+~
+~
+0 0 5717
+D2
+~
+~
+0 0 5721
+D3
+~
+~
+0 0 5712
+S
+#5717
+An enormous cavern~
+The cool cavern air extends its boundaries freely about the place
+unhibited by rock walls for many, many yards in all directions bar north. 
+Large chunks of rock and many artisans tools litter the ground about the
+base of many pieces of large scaffolding.  
+~
+0 8 5
+D1
+~
+~
+0 0 5718
+D2
+~
+~
+0 0 5720
+D3
+~
+~
+0 0 5716
+S
+#5718
+Northeastern corner of the cavern~
+This is the northwestern corner of an enormous cavern.  From here it
+extends to the west about three hundred yards and to the south about one
+hundred.  The ground is covered in chunks of rock and a number of very large
+tools.  Scaffolding is all over the place, reaching almost the entire fifty
+yards to the cavern ceiling.  
+~
+0 8 5
+D2
+~
+~
+0 0 5719
+D3
+~
+~
+0 0 5717
+S
+#5719
+Eastern cavern wall~
+This is the far eastern wall of this enormous cavern.  The otherwise
+smooth floors have been covered in rubble and large rocks, but the walls
+seem to have been recently smoothed out.  There is a vast array of
+scaffolding leading up to about seven or eight yards from the fifty yard
+high ceiling.  The cavern itself extends around fifty yards to the north and
+south and around three hundred yards to the west.  
+~
+0 8 5
+D0
+~
+~
+0 0 5718
+D2
+~
+~
+0 0 5732
+D3
+~
+~
+0 0 5720
+S
+#5720
+An enormous cavern~
+The floor of this very large cavern would be incredibly smooth, but for
+the vast amounts of rubble and fallen rocks.  Various tools lie about the
+feet of enormous pieces of scaffolding whic reach right up to the fifty yard
+ceiling.  The cavern itself extends around fifty yards to the north east and
+south, but about five times that distance to the west.  
+~
+0 8 5
+D0
+~
+~
+0 0 5717
+D1
+~
+~
+0 0 5719
+D2
+~
+~
+0 0 5731
+D3
+~
+~
+0 0 5721
+S
+#5721
+An enormous cavern~
+The smooth floor of this area, fifty yards from the middle of this huge
+cavern, can be seen to have cavern, has been marred only by fallen rocks and
+a variety of large tools lying about the place.  Scaffolding rests easily on
+the ground, reaching way into the fifty yard heights of the cavern.  
+~
+0 8 5
+D0
+~
+~
+0 0 5716
+D1
+~
+~
+0 0 5720
+D2
+~
+~
+0 0 5730
+D3
+~
+~
+0 0 5722
+S
+#5722
+Middle of the cavern~
+Extending east and west over one hundred yards, the smooth floor is
+incredibly smooth but for the presence of rubble and several large tools. 
+North and south about fifty yards off a tunnel breaches the smoothed,
+painted walls of the cavern, both directions.  Scattered all over the place
+are huge pieces of scaffolding, leading up to around eight yards from the
+fifty yard high ceiling.  
+~
+0 8 5
+D0
+~
+~
+0 0 5712
+D1
+~
+~
+0 0 5721
+D2
+~
+~
+0 0 5729
+D3
+~
+~
+0 0 5723
+S
+#5723
+An enormous cavern~
+Large rocks and tools are scattered all over the otherwise smooth cavern
+floor, around fifty yards from the centre of the cavern.  All the way to the
+enormously high walls of the cavern, various pieces of scaffolding can be
+seen leading up to within eight yards of the fifty yard ceiling.  
+~
+0 8 5
+D0
+~
+~
+0 0 5713
+D1
+~
+~
+0 0 5722
+D2
+~
+~
+0 0 5728
+D3
+~
+~
+0 0 5724
+S
+#5724
+An enormous cavern~
+Were it not for the sever amounts of rubble and large tools littering the
+place, the cavern floor would be incrediblThe smooth, painted cavern walls
+are around fifty yards away, to the north, west and south, but almost five
+times that distance to the east.  Following the walls upward to stop
+approximately eight yards from the fifty yard high ceiling, are enormous
+pieces of scaffolding.  
+~
+0 8 5
+D0
+~
+~
+0 0 5714
+D1
+~
+~
+0 0 5723
+D2
+~
+~
+0 0 5727
+D3
+~
+~
+0 0 5725
+S
+#5725
+Western cavern wall~
+The far western cavern wall reaches up a full fifty yards to the ceiling,
+followed closely by the ever-present scaffolding throughout the cavern.  The
+otherwise smooth floors have been covered in rubble, large rocks and tools. 
+The cavern itself extends outward fifty yards to the north and south, and
+well over five times that distance to the east.  
+~
+0 8 5
+D0
+~
+~
+0 0 5715
+D1
+~
+~
+0 0 5724
+D2
+~
+~
+0 0 5726
+S
+#5726
+Southwestern corner of the cavern~
+The southwestern corner of this enormous cavern has had it's smooth floor
+covered in rubble, large rocks and tool-covered scaffolding.  The
+scaffolding is all throughout the cavern and leads up about fourty two
+yards, leaving around eight yards between it's top and the cavern ceiling. 
+The cavern itself extends around one hundred yards to the north and three
+hundred to the east.  
+~
+0 8 5
+D0
+~
+~
+0 0 5725
+D1
+~
+~
+0 0 5727
+S
+#5727
+An enormous cavern~
+This is the southern wall of a HUGE cavern which extends large distances
+in all directions, except for south.  The floor has been smoothed out
+extremely well and would stay that way were it not for the large chunks of
+rock lying on it.  Amongst the rock and rubble, can be seen various large
+tools, each of which is about three times the normal size.  Also there is
+enromous scaffolding about the place, reaching to about seven or eight yards
+from the ceiling, which is itself fifty yards from the ground.  
+~
+0 8 5
+D0
+~
+~
+0 0 5724
+D1
+~
+~
+0 0 5728
+D3
+~
+~
+0 0 5726
+S
+#5728
+An enormous cavern~
+From the southern wall of a really big cavern, the smooth floor extends
+out in all directions quite a distance.  Tools, three times the size of the
+normal equivalents, and large rocks litter the bases of many pieces of
+scaffolding, which leads to within eight yards of the very high ceiling.  
+~
+0 8 5
+D0
+~
+~
+0 0 5723
+D1
+~
+~
+0 0 5729
+D3
+~
+~
+0 0 5727
+S
+#5729
+An enormous cavern~
+This is the southern side of a totally HUGE cavern.  It extends east and
+west from here, over two hundred yards each way.  The otherwise smooth floor
+is covered in bits of rubble and large chunks of rock, but the ceiling is
+incredibly smooth, what you can see of it well over fifty yards above the
+floor.  All around large scaffolding can be seen leading to the roof with
+various artisans tools scattered around, each tool, though, is about three
+times as large as any human would use.  To the north, the cavern seems to
+end a lot sooner than east or west, it's probably only one hundred yards
+away.  A rather wide opening in the wall here, leads south into a smaller
+cavern.  
+~
+0 8 5
+D0
+~
+~
+0 0 5722
+D1
+~
+~
+0 0 5730
+D2
+~
+~
+0 0 5733
+D3
+~
+~
+0 0 5728
+S
+#5730
+An enormous cavern~
+This is the southern wall of an incredibly large cavern.  The walls and
+floor have been nicely smoothed, though there is a large amount of rubble
+lying on the floor along with a variety of tools.  Scaffolding is all about
+the place leading up to the fifty yard high ceiling.  To the east and north,
+the cavern extends around one hundred yards.  
+~
+0 8 5
+D0
+~
+~
+0 0 5721
+D1
+~
+~
+0 0 5731
+D3
+~
+~
+0 0 5729
+S
+#5731
+An enormous cavern~
+This HUGE cavern extends large distances in all directions from here, bar
+south.  The floor has been expertly smoothed and would stay looking like
+that, but for the large chunks of rock lying on it.  Amongst the rocks and
+rubble, cane be seen various tools of great size.  Enormous scaffolding is
+all about the place, reaching to about seven or eight yards from the fifty
+yard high ceiling.  
+~
+0 8 5
+D0
+~
+~
+0 0 5720
+D1
+~
+~
+0 0 5732
+D3
+~
+~
+0 0 5730
+S
+#5732
+Southeastern corner of the cavern~
+This is the southeastern corner of a very large cavern, the smooth walls
+and floor extend about one hundred yards to the north and approximately
+three hundred to the west.  The floor is covered in large chunks of rock and
+a variety of large tools.  Scaffolding is scattered about the place,
+reaching up almost the entire fifty yards to the ceiling.  
+~
+0 8 5
+D0
+~
+~
+0 0 5719
+D3
+~
+~
+0 0 5731
+S
+#5733
+{YVorax's{R lair{X~
+You are standing in a cavern which leads around one hundred yards in each
+direction except north, where there is a wide tunnel leading out of here. 
+The walls and ceiling are all very smooth, with beautiful scenes of forests
+and mountainsides painted on them.  The floor has many claw marks on it. 
+The air in here has an odd feeling about it, as if you are not wanted here. 
+~
+0 8 5
+D0
+~
+~
+0 0 5729
+D1
+~
+~
+0 0 5736
+D2
+~
+~
+0 0 5737
+D3
+~
+~
+0 0 5735
+S
+#5734
+~
+
+~
+0 0 0
+D0
+~
+~
+0 0 5733
+S
+#5735
+{YVorax's{R lair{X~
+This is a reasonably large cavern, extending east around one hundred and
+fifty yards and south, about one hundred.  The smooth walls and ceiling are
+covered in various nature scenes, which seem to have been painted by some
+very impressive artist as the quality of them is incredibly high.  The huge
+claw marks on the floor add to the odd feeling of not being wanted here that
+you have.  
+~
+0 8 5
+D1
+~
+~
+0 0 5733
+D2
+~
+~
+0 0 5738
+S
+#5736
+{YVorax's{R lair{X~
+This is the northeastern corner of a large cavern, which extends one
+hundred and fifty yards to the west and only one hundred to the south. 
+Despite the beautiful scenery painted on the smooth walls and ceiling, the
+air in here gives you a distinct feeling that you are REALLY not wanted
+here.  
+~
+0 8 5
+D2
+~
+~
+0 0 5739
+D3
+~
+~
+0 0 5733
+S
+#5737
+{YVorax's{R lair{X~
+This is the far southern side of a large cavern.  The smooth walls and
+ceiling here are covered in paintings of nature scenes obviously by an
+experts hand.  There is a strange feeling to the air.  That, combined with
+the large claw marks on the floor, gives you the distinct feeling that you
+are not wanted here.  A large tunnel leads out to the south from here.  
+~
+0 8 5
+D0
+~
+~
+0 0 5733
+D1
+~
+~
+0 0 5739
+D2
+~
+~
+0 0 5740
+D3
+~
+~
+0 0 5738
+S
+#5738
+{YVorax's{R lair{X~
+This is the southwestern corner of what a relatively large cavern, which
+leads about one hundred yards to the north and fifty more than that to the
+east.  The smooth walls and ceiling have been expertly painted with nature
+scenes of extreme beauty.  The air in here has a strange feel to it, as if
+you are not wanted in here, there are also rather big claw marks on the
+floor which add to the feeling.  
+~
+0 8 5
+D0
+~
+~
+0 0 5735
+D1
+~
+~
+0 0 5737
+S
+#5739
+{YVorax's{R lair{X~
+You are standing in the southeastern corner of a relatively large cavern.
+The smooth, beautifully painted, walls extend around one hundred yards to
+the north and about one hundred and fifty yards to the west.  The ceiling,
+painted as beautifully as the walls are, is around two hundred feet up. 
+There is an awkward feeling in the air, which compounds with the very big
+claw marks on the floor to give you a definite feeling of unwantedness.  
+~
+0 8 5
+D0
+~
+~
+0 0 5736
+D3
+~
+~
+0 0 5737
+S
+#5740
+The hatchery~
+This carved room has a slight golden glow about it, which seems to be
+coming from the very stone it has been carved from.  The floor has been
+covered in a thick layer of red feathers, which seem to be emitting some
+heat.  Each of the walls has been smoothed nicely and painted with beautiful
+forest scenes.  
+~
+0 8 5
+D0
+~
+~
+0 0 5737
+M 150 H 150
+S
+#5741
+The obstacle course~
+A ten foot high bridge is the centrepiece of the obstacle course, from it
+there are several poles leading up into the air or down to the floor of the
+obstacle course itself.  Below, there are many low, horizontal poles
+designed to make forward progress hard without ducking or jumping some of
+them.  
+~
+0 8 0
+D5
+~
+~
+0 0 5708
+S
+#0
+
+
+
+#SPECIALS
+M 5700 spec_breath_fire
+M 5703 spec_cast_mage
+M 5704 spec_cast_mage
+M 5705 spec_cast_mage
+M 5708 spec_cast_cleric
+S
+
+
+
+#RESETS
+D 0 5701 2 1
+D 0 5702 0 1
+M 0 5712 11 5702 2
+M 0 5712 11 5702 2
+M 0 5712 11 5703 1
+M 0 5710 2 5704 2
+M 0 5710 2 5704 2
+M 0 5709 3 5704 3
+M 0 5709 3 5704 3
+M 0 5709 3 5704 3
+M 0 5711 4 5705 4
+M 0 5711 4 5705 4
+M 0 5711 4 5705 4
+M 0 5711 4 5705 4
+M 0 5701 1 5705 1
+M 0 5712 11 5706 1
+M 0 5712 11 5707 1
+M 0 5702 5 5707 1
+M 0 5704 1 5708 1
+M 0 5706 2 5708 1
+M 0 5706 2 5709 1
+M 0 5705 1 5709 1
+M 0 5712 11 5710 1
+M 0 5707 11 5711 1
+M 0 5707 11 5715 1
+M 0 5707 11 5716 1
+M 0 5707 11 5717 1
+M 0 5707 11 5718 1
+M 0 5707 11 5719 1
+M 0 5707 11 5720 1
+M 0 5707 11 5721 1
+M 0 5712 11 5722 1
+M 0 5707 11 5722 1
+M 0 5708 1 5722 1
+M 0 5707 11 5724 1
+M 0 5707 11 5726 1
+M 0 5707 11 5729 1
+M 0 5707 11 5730 1
+M 0 5707 11 5731 1
+M 0 5707 11 5732 1
+M 0 5712 11 5733 1
+M 0 5712 11 5733 1
+M 0 5707 11 5733 1
+M 0 5702 5 5735 1
+M 0 5712 11 5737 1
+M 0 5703 1 5737 1
+M 0 5702 5 5739 1
+M 0 5712 11 5740 1
+M 0 5700 1 5740 1
+M 0 5702 5 5740 2
+M 0 5702 5 5740 2
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

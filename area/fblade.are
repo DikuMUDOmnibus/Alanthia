@@ -1,0 +1,48 @@
+#AREADATA
+Name New area~
+Builders Fireblade~
+VNUMs 26900 26999
+Credits {  ALL  } Fireblade   Qwest Area~
+Security 0
+Version 1
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#26900
+Entrance into the Cavern~
+26900-26999 
+~
+0 4 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

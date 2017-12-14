@@ -1,0 +1,3260 @@
+#AREADATA
+Name Trioloseum~
+Builders Halodar Fluffy~
+VNUMs 2400 2599
+Credits {  ALL  } Ku          Trioloseum~
+Security 9
+Version 1
+End
+
+
+
+#MOBILES
+#2400
+fred iguana~
+Fred~
+Fred, the Iguana, peaks his head out from around a rock.
+~
+With a sly sense of humor and a small top hat, this little lizard is here
+to enjoy the festivities!  In fact, he's the Trioloseum official mascot!  
+~
+unique~
+AHT Pc 0 0
+15 2 3d9+208 7d9+100 2d6+3 bite
+-10 -10 -10 -5
+FM A L I
+stand stand male 750
+AGXc ACDEFHKQV small scales
+#2401
+slot machine~
+the slot next to the gate~
+A slot is located next to the gate, waiting for your money.
+~
+Please place 500 gold in the slot.  And you will recieve admission to the
+Trioloseum.  
+ 
+For example: give 500 gold slot
+~
+unique~
+ABGMT 0 0 0
+100 0 5d10+10000 5d10+1000 1d1+0 peckb
+0 0 0 0
+0 ABCDILMNPQR 0 0
+stand stand none 0
+AEHJMVc ABCDEFGHIJK medium metal
+M bribe 2400 500~
+#2402
+barrel keeper~
+The BarrelKeeper~
+A loud, jovial BarrelKeeper is ready serve you.
+~
+With a giant, fuzzy, brown beard, the BarrelKeeper is the stereotypes
+lumberjack.  His huge overalls are not stained from the outdoors, but rather
+the massive amount of beer that his been spilled.  A warm smile always
+prevails from his lips.  
+~
+unique~
+ABGM DF 1000 0
+200 50 10d10+1000 10d10+1000 1d1+1 pound
+-66 -66 -66 -33
+0 ABCD 0 0
+stand stand male 100000
+AHMV ABCDEFGHIJK large flesh
+#2403
+sven waiter buff~
+Sven~
+Clad in only a small loincloth, Sven delivers with stamina and agility.
+~
+Huge muscles buldge from Sven's arms as he balances many dishes into each
+hand.  Women drool over him, and men hate him for it.  
+~
+unique~
+ABGMT 0 -500 0
+200 50 10d10+9000 10d10+9000 5d5+0 punch
+-66 -66 -66 -33
+0 ABCD 0 0
+stand stand none 100000
+AHMV ABCDEFGHIJK large flesh
+#2404
+old lady~
+an old lady~
+An old lady waits patiently for you to purchase something.
+~
+Long, white hair lays stiff and straight on her hunched back.  Still, her
+bright blue eyes seem to be those of a teenager.  With a subtle smile, she
+appears to enjoy her job.  
+~
+unique~
+ABGMR 0 0 0
+200 50 10d8+1000 10d4+500 1d1+0 peckb
+-66 -66 -66 -33
+0 ABCD 0 0
+stand stand female 100000
+AHMV ABCDEFGHIJK medium flesh
+#2405
+dark figure~
+A Dark Figure~
+A dark, hooded figure slouches in the shadows.
+~
+Covered in a black cloak, you cannot see his eyes.  The dealer of death,
+he is possibly the only soul in the Trioloseum without a small smile on his
+face.  
+~
+unique~
+ABMT 0 -900 0
+200 50 10d4+10000 10d4+10000 4d4+0 smash
+-66 -66 -66 -33
+0 ABCD 0 0
+stand stand none 100000
+AHMV ABCDEFGHIJK medium flesh
+#2406
+trinky girl~
+Trinky~
+Trinky, the peppy sales woman and cheerleader squeals loudly at you.
+~
+"HOOOOOOOOORAY!!!"  screams Trinky, the cheerleader / sales woman.  Of
+course, she makes most of her sales by jumping up in the air and landing
+gracefully on the ground while doing the splits.  Rumor has it that Sven and
+Trinky are..  Well..  Use your imagination.  
+~
+unique~
+ABGM V 500 0
+200 50 100d10+9000 100d10+9000 1d1+1 bite
+-66 -66 -66 -33
+0 ABCD 0 0
+stand stand female 100000
+AHMV ABCDEFGHIJK medium flesh
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#2400
+On the Path~
+The terrain around you quickly changes as you look to the horizon.  Far
+ahead you can see the gigantic outline of the Trioloseum, home to Alanthia's
+most prestigious duels, battles, contests, and entertainment.  Barely, you
+hear the screams of the many patrons as they root on their favorite
+competitors in one of the three main arenas.  A {Gsign{X crafted of the
+finest wood calls out your attention.  
+~
+0 0 2
+E
+sign~
+Welcome! You are on the road to the Trioloseum!
+ 
+Please follow these simple rules:
+  1) NO FIGHTING outside of the arenas!
+  2) Heckling IS allowed and encouraged.
+  3) Have fun.
+ 
+(signed) The Managment
+~
+D0
+~
+~
+0 0 2401
+D2
+~
+~
+0 0 8157
+S
+#2401
+Before the Outer Gates~
+After walking the long road, you finally arrive at the outer gates.  A
+large, stone wall rises from the ground to surround the mighty arenas.  Two
+guard posts are positioned at either side of the outer gate, but there seems
+to be very little security.  As opposed to the road, the cheers of the crowd
+are much louder.  The gates are wide open as if inviting you to join the
+busy bustle inside.  You try to head into the fray, when you bump into an
+invisible security wall.  The wall shimmers gold with magic, and you gain
+the attention of one of the guards who turns and says, "{CPlease read the
+{Csign.  {X{X" and then turns back without worry.  
+~
+0 0 1
+E
+post~
+Two very unprotected guard posts are all the security the giant structure
+appears to require.  Even the guards on duty are staring back into the crowd
+in good spirits.  
+~
+E
+sign~
+To enter the Trioloseum complex, you are required to pay admisson.
+ 
+Admisson is good for all events within the complex.
+   - This includes the world famous Trilogy Pub
+ 
+Admisson is not valid once you exit the complex.
+Please place 500 gold in the slot next to the gate.
+ 
+~
+D2
+~
+~
+0 0 2400
+S
+#2402
+Entering the Market Place~
+The swarm of people engulf you and draw you into the tides of color,
+scents, and good spirits.  One cannot help but feel full of happiness in
+such an exciting place!  To your west you see a large sign that appears to
+be boasting delicious food, while, to your east, you see many people with
+ale in hand.  Still more activity appears to be to the north.  Above you
+appears to be a hidden trapdoor.  
+~
+0 262144 1
+D0
+~
+~
+0 0 2403
+D1
+~
+~
+0 0 2408
+D2
+~
+~
+0 0 2401
+D3
+~
+~
+0 0 2409
+D4
+~
+trapdoor~
+5 0 2575
+S
+#2403
+Middle Market~
+Forced into barely enough room to breath, you begin to prespire from the
+massive amount of body heat being generated.  Amazingly, the crowd is still
+in a jubilant mood.  Many are piling into the building to the east, and
+shoving their way back out with varied supplies in their sweaty palms.  Much
+more traffic is heading north towards the rest of the market, and some are
+even streaming back south.  Oddly, no one is going into the large building
+to the west.  
+~
+0 262144 1
+D0
+~
+~
+0 0 2404
+D1
+~
+~
+0 0 2411
+D2
+~
+~
+0 0 2402
+D3
+~
+~
+0 0 2410
+S
+#2404
+Northern Market~
+With no break in the density of the crowd, you hop on your toes to see
+what sites surround you.  To the east, you see a bright, frilly store. 
+West, you see the Gallery.  The crowd thins, if only a little, to the north.
+~
+0 262144 0
+D0
+~
+~
+0 0 2405
+D1
+~
+~
+0 0 2413
+D2
+~
+~
+0 0 2403
+D3
+~
+~
+0 0 2412
+S
+#2405
+Before the Grand Gates~
+Unlike the marketplace, the gates here are intricatly carved.  Made of
+hollowed ivory, they seem to radiate the sun's energy into the crowds that
+stand before them in awe.  Observing, you notice that the doors, while
+large, swing gently open automatically as you approach them.  
+~
+0 262144 1
+D0
+~
+~
+0 0 2406
+D2
+~
+~
+0 0 2404
+S
+#2406
+The Grand Foyer~
+Slipping through the ivory gates, you enter a very beautiful room. 
+Murals of the Moons grace the ceiling from which elaborate staircases seem
+to dangle down in semi-circular patterns.  It is said that only the
+immortals can travel up the stairs to guide the events.  Any mortal who
+tries runs the risk of crushing the delicate ivory steps, and as a result,
+bringing the wrath of the immortals upon them.  Around the room, giant,
+plush, red couches wait for someone to feel their comfort.  A sign has been
+engraved into the far wall.  
+~
+0 262144 1
+E
+sign~
+<----- The War Arena and Viewing Room
+The Tag Arena and Viewing Room ----->
+ 
+Dueling Arena and Multi-Purpose Arena Directly North
+~
+D0
+~
+~
+0 0 2407
+D1
+~
+~
+0 0 2416
+D2
+~
+~
+0 0 2405
+D3
+~
+~
+0 0 2415
+D4
+~
+~
+0 0 2508
+S
+#2407
+Tunnel to the Duel and Multi Arena~
+With only a few lights, this short tunnel will take you to the duel and
+multi-purpose arenas.  
+~
+0 263169 0
+D0
+~
+arena portcullis~
+4 0 2422
+D2
+~
+~
+0 0 2406
+S
+#2408
+The Trilogy Pub~
+As you enter this pub, you quickly realize that there isn't a bar! 
+Instead, many barrels of ale line the walls, each with its freely flowing
+tap.  The patrons merely empty their mug and then walk to one of the vast
+selection of barrels and fills it up: free of charge.  The only exchange of
+money here is for a special mug, offered by the BarrelKeeper.  
+~
+0 262144 0
+D3
+~
+~
+0 0 2402
+S
+#2409
+The Gladiator Grill~
+Some of the best smells reach your nose the instant you enter.  Your
+mouth begins to water as you stare at the patrons who are ripping their way
+through a wide variety of exotic foods.  Running to and fro, many buff,
+loincloth clad gladiators wait on the jam packed tables.  Perhaps you can
+find a seat and flag one down for a quick bite to eat.  
+~
+0 262144 0
+D1
+~
+~
+0 0 2402
+S
+#2410
+The Underground~
+Quiet and still, this shop gives you the creeps.  Apparently rarely
+visited, the dark, damp interior's depressing decor is matched only by the
+deadly array of weapons and armor displayed on the walls.  Seen nowhere else
+in the world, the weapons are meant only for the fiercest of competitors. 
+To buy one, means you're a mean machine, looking for the fight of your life.
+Thus, the majority of the sane world stays away from this unhappy shop.  
+~
+0 262152 0
+D1
+~
+~
+0 0 2403
+S
+#2411
+The Event Supplier~
+In this smaller shop, you see everything you could imagine needing for a
+day at the Trioloseum.  Many patrons are here buying their supplies before
+the events begin.  
+~
+0 262144 0
+D3
+~
+~
+0 0 2403
+S
+#2412
+The Gallery~
+An awe-inspriring building, you feel as if you've entered a temple. 
+Around this giant, single-roomed building, you see pedastals, plaques,
+pictures, and statues that are placed here to remember and commemorate the
+past accomplishments of the brave souls who have competed in the Trioloseum.
+~
+0 0 0
+D1
+~
+~
+0 0 2404
+S
+#2413
+The Sizzling Souvenir Shop~
+Magical flames light this shop in a dazzling array of colors.  Kids
+surround you while playing with gizmos and gadgets galore.  Obviously,
+you've stumbled into the shop of useless, yet fun, items.  Wether you're
+looking for a souvenir, a toy to keep a child happy, or a trinket for
+yourself, you're bound to find it in all of this chaos.  
+~
+0 0 0
+D3
+~
+~
+0 0 2404
+S
+#2414
+The War Arena~
+Much different than the Tag Arena, there is no beauty to this arena. 
+Simply, this arena is made to test the war skills of clans.  With this in
+mind, the terrain is not uniform, the walls are not painted nicely, and the
+ground is not even.  The grandstands of the other arenas is instead a large
+observation tower from which all observers can view the war games.  Of
+course, they aren't all games, many are for blood.  
+~
+0 262144 1
+D0
+~
+~
+0 0 2420
+D1
+~
+~
+0 0 2415
+S
+#2415
+Tunnel to War Arena~
+A simple, short tunnel leads you to the War Arena.  
+~
+0 262145 0
+D1
+~
+~
+0 0 2406
+D3
+~
+~
+0 0 2414
+S
+#2416
+Tunnel to Tag Arena~
+A dimmly lit, short tunnel appears to take you directly to the Tag Arena.
+The crowd around you chatter in anticipation.  
+~
+0 262145 0
+D1
+~
+~
+0 0 2417
+D3
+~
+~
+0 0 2406
+S
+#2417
+The Tag Arena~
+Blinded momentarily from the lighting change, you focus upon the most
+amazing sight.  The crowd is no longer chatting because the arena that lay
+before them is beoynd description.  High arching sides swoop up, high into
+the air, to give a birds-eye view to a larger crowd.  The entire outer arena
+appears to be crafted from a single slab of ivory.  Looking down to the
+arena floor, you can see rows and rows of enormous bushes.  The bushes,
+woven into a maze, form a small labyrinth where in the participents compete.
+Perhaps the viewing area will give you a better shot at the action.  
+~
+0 262144 1
+D2
+~
+~
+0 0 2418
+D3
+~
+~
+0 0 2416
+S
+#2418
+The Grandstand~
+From this position, you are able to see all of the action that occurs on
+the arena floor.  Some people cannot handle the extreme action and gore.  
+~
+0 262144 0
+D0
+~
+~
+0 0 2417
+S
+#2419
+~
+
+~
+0 4 0
+S
+#2420
+The Observation Tower~
+After climbing countless stairs, you arrive to a magnificent view of the
+blood and gore below.  Most times, this isn't a game.  The participents here
+are out for pride, glory, and life.  Those who win in these proving grounds
+are sure to be remembered in history.  
+~
+0 262144 1
+D2
+~
+~
+0 0 2414
+S
+#2421
+South-West Duel Room~
+Fairly clean compared to the rest of the arena, the smell here is almost
+tolerable.  
+~
+0 532484 2
+D0
+~
+~
+0 0 2424
+D1
+~
+~
+0 0 2422
+M 0 H 0
+S
+#2422
+Southern Duel Room~
+Rotten smells of decomposing flesh fill your nose.  This room, while
+quite empty, is one of the rooms of the dueling arena.  As evident by the
+mass of bones and flesh laying along the walls, many brave, or foolish,
+warriors fight to the death within' this small arena's walls.  However, due
+to the open ceiling and natural fertilizer, many beautiful flowers thrive in
+full bloom.  If dueling, please go down for further instructions.  
+~
+0 532485 2
+D0
+~
+~
+0 0 2425
+D1
+~
+~
+0 0 2423
+D3
+~
+~
+0 0 2421
+M 0 H 0
+S
+#2423
+South-East Duel Room~
+A bleeding corpse lays here in a mound of flesh, apparently a recent kill.  
+~
+0 532484 2
+D0
+~
+~
+0 0 2426
+D3
+~
+~
+0 0 2422
+M 0 H 0
+S
+#2424
+Western Duel Room~
+Filled with more bones than the rest of the arena, you can't help but
+notice the large amounts of flesh still dangling from many of the bones.  As
+a result of the large quantity, the smell nauseates you.  
+~
+0 532485 2
+D0
+~
+~
+0 0 2427
+D1
+~
+~
+0 0 2425
+D2
+~
+~
+0 0 2421
+M 0 H 0
+S
+#2425
+The Middle Duel Room~
+Mostly dirt, this area of the arena seems to be the most used.  Rotten
+smells and bones still prevail in this area.  
+~
+0 532492 2
+D0
+~
+~
+0 0 2428
+D1
+~
+~
+0 0 2426
+D2
+~
+~
+0 0 2422
+D3
+~
+~
+0 0 2424
+M 0 H 0
+S
+#2426
+Eastern Duel Room~
+Full of cut marks, this wall appears to have taken quite the beating in a
+past duel.  
+~
+0 532485 2
+D0
+~
+~
+0 0 2429
+D2
+~
+~
+0 0 2423
+D3
+~
+~
+0 0 2425
+M 0 H 0
+S
+#2427
+North-West Duel Room~
+A small man sits in the corner with a long dagger in his stomach.  Since
+both of his hands hold the dagger, the impression is left that he committed
+suicide, which was probably much cleaner than his alternative.  
+~
+0 532484 2
+D1
+~
+~
+0 0 2428
+D2
+~
+~
+0 0 2424
+M 0 H 0
+S
+#2428
+Northern Duel Room~
+More blood and gore, this room's only distinguishing feature is the large
+sign that reads, "{RBLOOD BLOOD BLOOD!!!  {X" 
+~
+0 532485 2
+D1
+~
+~
+0 0 2429
+D2
+~
+~
+0 0 2425
+D3
+~
+~
+0 0 2427
+M 0 H 0
+S
+#2429
+North-East Duel Room~
+Yet another room filled with bones and the terrible smell of death.  
+~
+0 532484 2
+D2
+~
+~
+0 0 2426
+D3
+~
+~
+0 0 2428
+M 0 H 0
+S
+#2430
+The Conference Room~
+With a decor consisting of decapitated heads, sliced fingers, and removed
+hearts, all nailed to the walls, some find it difficult to plan a duel here.
+Yet, it is the accepted location.  Here, dualists are expected to work to an
+agreement of the rules.  There are very few predefined rules, and are posted
+on a small {Csign{X.  Except for those, anything goes.  
+~
+0 263168 0
+E
+sign~
+Rules for the Self-Service Duel Arena
+ 
+1) Do NOT leave the Duel Area after fighting has commenced.
+2) Unless agreed upon before hand, only one-on-one.
+3) Take defeat like a true warrior, don't whine.
+ 
+(signed) The Duelists Commitee
+~
+D4
+~
+~
+0 0 2422
+S
+#2431
+Tunnel to the Multi-Purpose Arena~
+This short tunnel leads directly to the Multi-Purpose Arena.  
+~
+0 262145 0
+D0
+~
+~
+0 0 2432
+D2
+~
+~
+0 0 2508
+S
+#2432
+The Multi-Purpose Arena~
+Smaller than the other two arenas, the Multi-Purpose is used for many
+different events.  The most frequent event is the morph qwest.  As a matter
+of fact, that very event is currently being held in the arena.  Looking
+down, you see many odd shapes engaging each other in battle.  Perhaps a
+better view could be attained by heading east.  
+~
+0 263168 0
+D1
+~
+~
+0 0 2433
+D2
+~
+~
+0 0 2431
+S
+#2433
+The Viewing Box~
+From these seats, you can see all of the action on the arena floor.  What
+event you may see is left up in the air, but rumor has it that the immortals
+like to hold morph qwests here.  
+~
+0 263168 0
+D3
+~
+~
+0 0 2432
+S
+#2434
+South-West Mutli-Purpose Arena~
+
+~
+0 0 0
+D0
+~
+~
+0 0 2439
+D1
+~
+~
+0 0 2435
+S
+#2435
+A Multi-Purpose Room~
+
+~
+0 0 0
+D0
+~
+~
+0 0 2440
+D1
+~
+~
+0 0 2436
+D3
+~
+~
+0 0 2434
+S
+#2436
+A Multi-Purpose Room~
+
+~
+0 0 0
+D0
+~
+~
+0 0 2441
+D1
+~
+~
+0 0 2437
+D3
+~
+~
+0 0 2435
+S
+#2437
+A Multi-Purpose Room~
+
+~
+0 0 0
+D0
+~
+~
+0 0 2442
+D1
+~
+~
+0 0 2438
+D3
+~
+~
+0 0 2436
+S
+#2438
+South-East Multi-Purpose Arena~
+
+~
+0 0 0
+D0
+~
+~
+0 0 2443
+D3
+~
+~
+0 0 2437
+S
+#2439
+A Multi-Purpose Room~
+
+~
+0 0 0
+D0
+~
+~
+0 0 2444
+D1
+~
+~
+0 0 2440
+D2
+~
+~
+0 0 2434
+S
+#2440
+A Multi-Purpose Room~
+
+~
+0 0 0
+D0
+~
+~
+0 0 2445
+D1
+~
+~
+0 0 2441
+D2
+~
+~
+0 0 2435
+D3
+~
+~
+0 0 2439
+S
+#2441
+A Multi-Purpose Room~
+
+~
+0 0 0
+D1
+~
+~
+0 0 2442
+D2
+~
+~
+0 0 2436
+D3
+~
+~
+0 0 2440
+S
+#2442
+A Multi-Purpose Room~
+
+~
+0 0 0
+D0
+~
+~
+0 0 2446
+D1
+~
+~
+0 0 2443
+D2
+~
+~
+0 0 2437
+D3
+~
+~
+0 0 2441
+S
+#2443
+A Multi-Purpose Room~
+
+~
+0 0 0
+D0
+~
+~
+0 0 2447
+D2
+~
+~
+0 0 2438
+D3
+~
+~
+0 0 2442
+S
+#2444
+A Multi-Purpose Room~
+
+~
+0 0 0
+D0
+~
+~
+0 0 2448
+D1
+~
+~
+0 0 2445
+D2
+~
+~
+0 0 2439
+S
+#2445
+A Multi-Purpose Room~
+
+~
+0 0 0
+D0
+~
+~
+0 0 2449
+D2
+~
+~
+0 0 2440
+D3
+~
+~
+0 0 2444
+S
+#2446
+A Multi-Purpose Room~
+
+~
+0 0 0
+D0
+~
+~
+0 0 2451
+D1
+~
+~
+0 0 2447
+D2
+~
+~
+0 0 2442
+S
+#2447
+A Multi-Purpose Room~
+
+~
+0 0 0
+D0
+~
+~
+0 0 2452
+D2
+~
+~
+0 0 2443
+D3
+~
+~
+0 0 2446
+S
+#2448
+A Multi-Purpose Room~
+
+~
+0 0 0
+D0
+~
+~
+0 0 2453
+D1
+~
+~
+0 0 2449
+D2
+~
+~
+0 0 2444
+S
+#2449
+A Multi-Purpose Room~
+
+~
+0 0 0
+D0
+~
+~
+0 0 2454
+D1
+~
+~
+0 0 2450
+D2
+~
+~
+0 0 2445
+D3
+~
+~
+0 0 2448
+S
+#2450
+A Multi-Purpose Room~
+
+~
+0 0 0
+D0
+~
+~
+0 0 2455
+D1
+~
+~
+0 0 2451
+D3
+~
+~
+0 0 2449
+S
+#2451
+A Multi-Purpose Room~
+
+~
+0 0 0
+D0
+~
+~
+0 0 2456
+D1
+~
+~
+0 0 2452
+D2
+~
+~
+0 0 2446
+D3
+~
+~
+0 0 2450
+S
+#2452
+A Multi-Purpose Room~
+
+~
+0 0 0
+D0
+~
+~
+0 0 2457
+D2
+~
+~
+0 0 2447
+D3
+~
+~
+0 0 2451
+S
+#2453
+North-West Multi-Purpose Arena~
+
+~
+0 0 0
+D1
+~
+~
+0 0 2454
+D2
+~
+~
+0 0 2448
+S
+#2454
+A Multi-Purpose Room~
+
+~
+0 0 0
+D1
+~
+~
+0 0 2455
+D2
+~
+~
+0 0 2449
+D3
+~
+~
+0 0 2453
+S
+#2455
+A Multi-Purpose Room~
+
+~
+0 0 0
+D1
+~
+~
+0 0 2456
+D2
+~
+~
+0 0 2450
+D3
+~
+~
+0 0 2454
+S
+#2456
+A Multi-Purpose Room~
+
+~
+0 0 0
+D1
+~
+~
+0 0 2457
+D2
+~
+~
+0 0 2451
+D3
+~
+~
+0 0 2455
+S
+#2457
+North-East Multi-Purpose Arena~
+
+~
+0 0 0
+D2
+~
+~
+0 0 2452
+D3
+~
+~
+0 0 2456
+S
+#2458
+The Holding Room~
+This very plain room serves the purpose of holding empty mortal bodies
+while they are competing in a morph qwest, or other similar qwest.  
+~
+0 787468 0
+S
+#2459
+North-West Tag Arena Corner~
+
+~
+0 0 0
+D1
+~
+~
+0 0 2460
+D2
+~
+~
+0 0 2466
+S
+#2460
+A Tag Arena Room~
+
+~
+0 0 0
+D1
+~
+~
+0 0 2461
+D3
+~
+~
+0 0 2459
+S
+#2461
+A Tag Arena Room~
+
+~
+0 0 0
+D1
+~
+~
+0 0 2462
+D2
+~
+~
+0 0 2468
+D3
+~
+~
+0 0 2460
+S
+#2462
+A Tag Arena Room~
+
+~
+0 0 0
+D1
+~
+~
+0 0 2463
+D3
+~
+~
+0 0 2461
+S
+#2463
+A Tag Arena Room~
+
+~
+0 0 0
+D1
+~
+~
+0 0 2464
+D2
+~
+~
+0 0 2470
+D3
+~
+~
+0 0 2462
+S
+#2464
+A Tag Arena Room~
+
+~
+0 0 0
+D1
+~
+~
+0 0 2465
+D3
+~
+~
+0 0 2463
+S
+#2465
+North-East Corner of the Tag Arena~
+
+~
+0 0 0
+D2
+~
+~
+0 0 2472
+D3
+~
+~
+0 0 2464
+S
+#2466
+A Tag Arena Room~
+
+~
+0 0 0
+D0
+~
+~
+0 0 2459
+D2
+~
+~
+0 0 2473
+S
+#2467
+A Tag Arena Room~
+
+~
+0 0 0
+D1
+~
+~
+0 0 2468
+D2
+~
+~
+0 0 2474
+S
+#2468
+A Tag Arena Room~
+
+~
+0 0 0
+D0
+~
+~
+0 0 2461
+D1
+~
+~
+0 0 2469
+D2
+~
+~
+0 0 2475
+D3
+~
+~
+0 0 2467
+S
+#2469
+A Tag Arena Room~
+
+~
+0 0 0
+D1
+~
+~
+0 0 2470
+D3
+~
+~
+0 0 2468
+S
+#2470
+A Tag Arena Room~
+
+~
+0 0 0
+D0
+~
+~
+0 0 2463
+D1
+~
+~
+0 0 2471
+D2
+~
+~
+0 0 2477
+D3
+~
+~
+0 0 2469
+S
+#2471
+A Tag Arena Room~
+
+~
+0 0 0
+D2
+~
+~
+0 0 2478
+D3
+~
+~
+0 0 2470
+S
+#2472
+A Tag Arena Room~
+
+~
+0 0 0
+D0
+~
+~
+0 0 2465
+D2
+~
+~
+0 0 2479
+S
+#2473
+A Tag Arena Room~
+
+~
+0 0 0
+D0
+~
+~
+0 0 2466
+D1
+~
+~
+0 0 2474
+D2
+~
+~
+0 0 2480
+S
+#2474
+A Tag Arena Room~
+
+~
+0 0 0
+D0
+~
+~
+0 0 2467
+D1
+~
+~
+0 0 2475
+D2
+~
+~
+0 0 2481
+D3
+~
+~
+0 0 2473
+S
+#2475
+A Tag Arena Room~
+
+~
+0 0 0
+D0
+~
+~
+0 0 2468
+D1
+~
+~
+0 0 2476
+D3
+~
+~
+0 0 2474
+S
+#2476
+A Tag Arena Room~
+
+~
+0 0 0
+D2
+~
+~
+0 0 2483
+D3
+~
+~
+0 0 2475
+S
+#2477
+A Tag Arena Room~
+
+~
+0 0 0
+D0
+~
+~
+0 0 2470
+D1
+~
+~
+0 0 2478
+D2
+~
+~
+0 0 2484
+S
+#2478
+A Tag Arena Room~
+
+~
+0 0 0
+D0
+~
+~
+0 0 2471
+D1
+~
+~
+0 0 2479
+D2
+~
+~
+0 0 2485
+D3
+~
+~
+0 0 2477
+S
+#2479
+A Tag Arena Room~
+
+~
+0 0 0
+D0
+~
+~
+0 0 2472
+D2
+~
+~
+0 0 2486
+D3
+~
+~
+0 0 2478
+S
+#2480
+A Tag Arena Room~
+
+~
+0 0 0
+D0
+~
+~
+0 0 2473
+D2
+~
+~
+0 0 2487
+S
+#2481
+A Tag Arena Room~
+
+~
+0 0 0
+D0
+~
+~
+0 0 2474
+D2
+~
+~
+0 0 2488
+S
+#2482
+A Tag Arena Room~
+
+~
+0 0 0
+D1
+~
+~
+0 0 2483
+D2
+~
+~
+0 0 2489
+S
+#2483
+The Center Tag Arena Room~
+
+~
+0 0 0
+D0
+~
+~
+0 0 2476
+D1
+~
+~
+0 0 2484
+D2
+~
+~
+0 0 2490
+D3
+~
+~
+0 0 2482
+S
+#2484
+A Tag Arena Room~
+
+~
+0 0 0
+D0
+~
+~
+0 0 2477
+D3
+~
+~
+0 0 2483
+S
+#2485
+A Tag Arena Room~
+
+~
+0 0 0
+D0
+~
+~
+0 0 2478
+D2
+~
+~
+0 0 2492
+S
+#2486
+A Tag Arena Room~
+
+~
+0 0 0
+D0
+~
+~
+0 0 2479
+D2
+~
+~
+0 0 2493
+S
+#2487
+A Tag Arena Room~
+
+~
+0 0 0
+D0
+~
+~
+0 0 2480
+D1
+~
+~
+0 0 2488
+D2
+~
+~
+0 0 2494
+S
+#2488
+A Tag Arena Room~
+
+~
+0 0 0
+D0
+~
+~
+0 0 2481
+D1
+~
+~
+0 0 2489
+D2
+~
+~
+0 0 2495
+D3
+~
+~
+0 0 2487
+S
+#2489
+A Tag Arena Room~
+
+~
+0 0 0
+D0
+~
+~
+0 0 2482
+D2
+~
+~
+0 0 2496
+D3
+~
+~
+0 0 2488
+S
+#2490
+A Tag Arena Room~
+
+~
+0 0 0
+D0
+~
+~
+0 0 2483
+D1
+~
+~
+0 0 2491
+S
+#2491
+A Tag Arena Room~
+
+~
+0 0 0
+D1
+~
+~
+0 0 2492
+D2
+~
+~
+0 0 2498
+D3
+~
+~
+0 0 2490
+S
+#2492
+A Tag Arena Room~
+
+~
+0 0 0
+D0
+~
+~
+0 0 2485
+D1
+~
+~
+0 0 2493
+D2
+~
+~
+0 0 2499
+D3
+~
+~
+0 0 2491
+S
+#2493
+A Tag Arena Room~
+
+~
+0 0 0
+D0
+~
+~
+0 0 2486
+D2
+~
+~
+0 0 2500
+D3
+~
+~
+0 0 2492
+S
+#2494
+A Tag Arena Room~
+
+~
+0 0 0
+D0
+~
+~
+0 0 2487
+D2
+~
+~
+0 0 2501
+S
+#2495
+A Tag Arena Room~
+
+~
+0 0 0
+D0
+~
+~
+0 0 2488
+D1
+~
+~
+0 0 2496
+S
+#2496
+A Tag Arena Room~
+
+~
+0 0 0
+D0
+~
+~
+0 0 2489
+D1
+~
+~
+0 0 2497
+D2
+~
+~
+0 0 2503
+D3
+~
+~
+0 0 2495
+S
+#2497
+A Tag Arena Room~
+
+~
+0 0 0
+D1
+~
+~
+0 0 2498
+D3
+~
+~
+0 0 2496
+S
+#2498
+A Tag Arena Room~
+
+~
+0 0 0
+D0
+~
+~
+0 0 2491
+D1
+~
+~
+0 0 2499
+D2
+~
+~
+0 0 2505
+D3
+~
+~
+0 0 2497
+S
+#2499
+A Tag Arena Room~
+
+~
+0 0 0
+D0
+~
+~
+0 0 2492
+D3
+~
+~
+0 0 2498
+S
+#2500
+A Tag Arena Room~
+
+~
+0 0 0
+D0
+~
+~
+0 0 2493
+D2
+~
+~
+0 0 2507
+S
+#2501
+South-West Tag Arena Room~
+
+~
+0 0 0
+D0
+~
+~
+0 0 2494
+D1
+~
+~
+0 0 2502
+S
+#2502
+A Tag Arena Room~
+
+~
+0 0 0
+D1
+~
+~
+0 0 2503
+D3
+~
+~
+0 0 2501
+S
+#2503
+A Tag Arena Room~
+
+~
+0 0 0
+D0
+~
+~
+0 0 2496
+D1
+~
+~
+0 0 2504
+D3
+~
+~
+0 0 2502
+S
+#2504
+A Tag Arena Room~
+
+~
+0 0 0
+D1
+~
+~
+0 0 2505
+D3
+~
+~
+0 0 2503
+S
+#2505
+A Tag Arena Room~
+
+~
+0 0 0
+D0
+~
+~
+0 0 2498
+D1
+~
+~
+0 0 2506
+D3
+~
+~
+0 0 2504
+S
+#2506
+A Tag Arena Room~
+
+~
+0 0 0
+D1
+~
+~
+0 0 2507
+D3
+~
+~
+0 0 2505
+S
+#2507
+South-East Corner Tag Arena Room~
+
+~
+0 0 0
+D0
+~
+~
+0 0 2500
+D3
+~
+~
+0 0 2506
+S
+#2508
+The Planning Room of the Immortals~
+Unlike the rest of the complex, this room is fairly simple.  With a few 
+~
+0 786440 0
+D0
+~
+~
+0 0 2431
+D5
+~
+~
+0 0 2406
+S
+#2509
+The War Mountains~
+High and cold, these mountains are bare of almost all life.  The
+exception: you.  
+~
+0 0 5
+D0
+~
+~
+0 0 2516
+D1
+~
+~
+0 0 2510
+S
+#2510
+Foot of the Mountain~
+The terrain under foot begins to change as you approach the War Moutains.
+Instead of annoying underbrush, large rocks threaten to bang your shins.  
+~
+0 0 5
+D0
+~
+~
+0 0 2517
+D1
+~
+~
+0 0 2511
+D3
+~
+~
+0 0 2509
+D5
+~
+snow~
+2 0 2552
+S
+#2511
+On the West Bank~
+The reminants of past campfires, stones, sticks, and ashes, litter this
+bank.  Small patches of grass, and large trees that provide a multitude of
+shade, make this a prime camp ground.  
+~
+0 0 2
+D1
+~
+~
+0 0 2512
+D3
+~
+~
+0 0 2510
+S
+#2512
+The End of the Stream~
+With increasing speed, the strem plummets off of a giant cliff.  Looking
+over, you cannot see the bottom.  Ocassionaly, you see a helpless fish get
+swept over into a violent dive.  Many large rocks protrude from the
+surrounding, and you assume anything that goes over dies even before it hits
+this bottom.  
+~
+0 0 6
+D0
+~
+~
+0 0 2518
+D1
+~
+~
+0 0 2513
+D3
+~
+~
+0 0 2511
+S
+#2513
+Along the Bank~
+A fine place to make camp, the banks are plush with high grasses and
+fragrent berries.  Small rings of stones show proof of past inhabitants.  
+~
+0 0 2
+D1
+~
+~
+0 0 2514
+D3
+~
+~
+0 0 2512
+S
+#2514
+Dark Jungle~
+The high humidity threatens to drown you.  Soft mud squiches beneath your
+feet as you wind your way through the massive green undergrowth.  
+~
+0 1 3
+D0
+~
+~
+0 0 2519
+D1
+~
+~
+0 0 2515
+D3
+~
+~
+0 0 2513
+S
+#2515
+Into the Fray~
+Tropical trees surround the small clearing you now stand upon.  In all
+directions, the trees are so dense that a machette might be needed to
+continue further.  It does appear that the north and west already have a
+path cut through them.  
+~
+0 0 0
+D0
+~
+~
+0 0 2520
+D3
+~
+~
+0 0 2514
+S
+#2516
+The War Mountains~
+White snow fills the horizon with momentary glimpses of the brown rock
+below the ice.  The mountains appear to coming to an end.  
+~
+0 0 5
+D0
+~
+~
+0 0 2521
+D1
+~
+~
+0 0 2517
+D2
+~
+~
+0 0 2509
+S
+#2517
+The Crater~
+After scaling a large, icy cliff, you come atop a large peak.  The peak
+is indented by a large crater that descends deep into the ground.  
+~
+0 0 0
+D2
+~
+~
+0 0 2510
+D3
+~
+~
+0 0 2516
+D5
+~
+~
+0 0 2563
+S
+#2518
+The Rapids~
+Fed by more underground streams emerging, the water here quickly gets
+deep.  Rapids begin to form and the current tries to suck you under in giant
+gulps.  Fish insult you by easily jumping up stream.  
+~
+0 0 6
+D0
+~
+~
+0 0 2523
+D2
+~
+~
+0 0 2512
+S
+#2519
+The Sink Hole~
+With a loud slosh of the mud nearby, a giant sinkhole tears open the
+earth.  Luckily, you weren't standing on top of it, and now there appears to
+be a large cavern or cave below the surface.  
+~
+0 1 3
+D1
+~
+~
+0 0 2520
+D2
+~
+~
+0 0 2514
+D5
+~
+~
+0 0 2567
+S
+#2520
+Dark Jungle~
+The high humidity threatens to drown you.  Soft mud squiches beneath your
+feet as you wind your way through the massive green undergrowth.  
+~
+0 1 3
+D0
+~
+~
+0 0 2525
+D2
+~
+~
+0 0 2515
+D3
+~
+~
+0 0 2519
+S
+#2521
+The War Mountains~
+As far as the eye can see, mountains of great height and extremly low
+temperatures threaten your life.  No end is in sight.  
+~
+0 0 5
+D0
+~
+~
+0 0 2526
+D2
+~
+~
+0 0 2516
+D3
+~
+boulder~
+2 0 2553
+S
+#2522
+Before a Tower~
+One of the four watch towers of the temple, this one is in fair
+condition.  Small scars from swords and maces blemish the fine marble walls.
+The dry ground and solid walls lend to the assumption that the structure is
+safe to enter.  
+~
+0 0 2
+D0
+~
+~
+0 0 2528
+D1
+~
+~
+0 0 2523
+D4
+~
+~
+0 0 2555
+S
+#2523
+The Stream Emerges~
+The stream to the north that had taken to the underground emerges in a
+brilliant geyser.  A small rainbow can be seen shimmering through the many
+water droplets.  Quickly, the geyser forms the continuence of the northrly
+stream.  
+~
+0 0 6
+D0
+~
+~
+0 0 2529
+D1
+~
+~
+0 0 2524
+D2
+~
+~
+0 0 2518
+D3
+~
+~
+0 0 2522
+S
+#2524
+Before the Hanging Tower~
+Desc Once white, this tall tower is now stained red with the blood of the
+executioned.  From almost every inch of the outer wall hangs the bones of
+many races.  Where there isn't a body, there once was a body, hung around
+the neck by its own intestines.  The litter of bones surrounding the tower
+in giant heaps is testament to the great torment that this tower of pain
+stands to display.  
+~
+0 0 2
+D0
+~
+~
+0 0 2530
+D3
+~
+~
+0 0 2523
+D4
+~
+~
+0 0 2556
+S
+#2525
+Dark Jungle~
+The high humidity threatens to drown you.  Soft mud squiches beneath your
+feet as you wind your way through the massive green undergrowth.  
+~
+0 1 3
+D0
+~
+~
+0 0 2532
+D2
+~
+~
+0 0 2520
+S
+#2526
+The War Mountains~
+As far as the eye can see, mountains of great height and extremly low
+temperatures threaten your life.  No end is in sight.  
+~
+0 0 5
+D0
+~
+~
+0 0 2533
+D1
+~
+~
+0 0 2527
+D2
+~
+~
+0 0 2521
+S
+#2527
+Mountains~
+The large mountains to the west wind down into these mediocre mountains. 
+While still large in their own right, the War Mountains dwarf them.  
+~
+0 0 0
+D1
+~
+~
+0 0 2528
+D3
+~
+~
+0 0 2526
+S
+#2528
+Dense Jungle~
+Dark and dense, it is hard to see anything, and nearly as hard to breath
+the humid air.  Ocassionaly, a cold breath of air wisps through the trees
+from the west.  
+~
+0 0 3
+D0
+~
+~
+0 0 2534
+D1
+~
+~
+0 0 2529
+D2
+~
+~
+0 0 2522
+D3
+~
+~
+0 0 2527
+S
+#2529
+A Decaying Temple~
+Destroyed by the many wars, this poor temple is now in ruins.  Once a
+large and prestigious temple, it was left here when the Trioloseum was built
+for religious reasons.  It is rumored that many clans made their last stand
+here in hope that the Moons would aid them in their time of need.  The pews
+and the east wall still stand, though they are charred black and covered in
+dried blood.  Far in the distance, you can see the four watch towers that
+served as protection to the temple.  
+~
+0 0 2
+D0
+~
+~
+0 0 2535
+D2
+~
+~
+0 0 2523
+D3
+~
+~
+0 0 2528
+S
+#2530
+The Side of the Temple~
+Charred and black, the final wall of this temple barely stands.  Once
+large and holy, the years and the wars have worn it down to a joke of what
+it once stood for.  Many battles were fought within this temple, and even
+more blood was shed.  
+~
+0 0 2
+D0
+~
+~
+0 0 2536
+D1
+~
+~
+0 0 2531
+D2
+~
+~
+0 0 2524
+S
+#2531
+Dense Jungle~
+The trees are almost grown together.  Almost tripping you, the
+undergrowth is even more out of control than the trees that block all the
+light.  
+~
+0 0 3
+D1
+~
+~
+0 0 2532
+D3
+~
+~
+0 0 2530
+S
+#2532
+Dark Jungle~
+The high humidity threatens to drown you.  Soft mud squiches beneath your
+feet as you wind your way through the massive green undergrowth.  
+~
+0 1 3
+D0
+~
+~
+0 0 2537
+D2
+~
+~
+0 0 2525
+D3
+~
+~
+0 0 2531
+S
+#2533
+The War Mountains~
+As far as the eye can see, mountains of great height and extremly low
+temperatures threaten your life.  No end is in sight.  
+~
+0 0 5
+D0
+~
+~
+0 0 2538
+D2
+~
+~
+0 0 2526
+S
+#2534
+The Foot of a Tower~
+The sun beats down on you through the high humidity of the jungle. 
+Consequently, the land is much drier than most of the surrounding areas.  In
+the middle of this clearing, you see a large, white tower.  
+~
+0 0 0
+D1
+~
+~
+0 0 2535
+D2
+~
+~
+0 0 2528
+D4
+~
+~
+0 0 2558
+S
+#2535
+The Stream Submerges~
+Treading through the stream, a strong downward begins to develop.  Up
+ahead, the stream appers to go subterrainian.  The swampy lands that
+surround this odd phenomenon could the only refuge.  
+~
+0 0 6
+D0
+~
+~
+0 0 2540
+D1
+~
+~
+0 0 2536
+D2
+~
+~
+0 0 2529
+D3
+~
+~
+0 0 2534
+S
+#2536
+The Foot of a Tower~
+Muddy, this swamp ridden terrain boasts a once tall tower.  It has since
+begun to sink into the ground.  The saturated soil can no longer support the
+massive weight of the stone tower.  
+~
+0 0 2
+D2
+~
+~
+0 0 2530
+D3
+~
+~
+0 0 2535
+D4
+~
+~
+0 0 2557
+S
+#2537
+Dark Jungle~
+The high humidity threatens to drown you.  Soft mud squiches beneath your
+feet as you wind your way through the massive green undergrowth.  
+~
+0 1 3
+D0
+~
+~
+0 0 2542
+D2
+~
+~
+0 0 2532
+S
+#2538
+The War Mountains~
+White snow fills the horizon with momentary glimpses of the brown rock
+below the ice.  The mountains appear to coming to an end.  
+~
+0 0 5
+D0
+~
+~
+0 0 2543
+D1
+~
+~
+0 0 2539
+D2
+~
+~
+0 0 2533
+S
+#2539
+A Cave~
+In the side of one cliff, you spot the dark shadows of a cave.  Peer
+inside, a small path appears to wind steeply down into the ground.  
+~
+0 0 0
+D0
+~
+~
+0 0 2544
+D3
+~
+~
+0 0 2538
+D5
+~
+~
+0 0 2559
+S
+#2540
+Following the Stream~
+Waist deep in the stream, small fish begin to circle your legs.  The sun
+hits penetrates the crystal clear water and reflects brilliantly off of the
+razor sharp teeth of the fish.  Quickly assesing the situation, you find the
+only options are to go back, or hurry to the south.  
+~
+0 0 6
+D0
+~
+~
+0 0 2546
+D2
+~
+~
+0 0 2535
+S
+#2541
+A Sink Hole~
+With a loud slosh of the mud nearby, a giant sinkhole tears open the
+earth.  Luckily, you weren't standing on top of it, and now there appears to
+be a large cavern or cave below the surface.  
+~
+0 0 0
+D0
+~
+~
+0 0 2548
+D1
+~
+~
+0 0 2542
+D5
+~
+~
+0 0 2571
+S
+#2542
+Dark Jungle~
+The high humidity threatens to drown you.  Soft mud squiches beneath your
+feet as you wind your way through the massive green undergrowth.  
+~
+0 1 0
+D0
+~
+~
+0 0 2549
+D2
+~
+~
+0 0 2537
+D3
+~
+~
+0 0 2541
+S
+#2543
+The War Mountains~
+High and cold, these mountains are bare of almost all life.  The
+exception: you.  
+~
+0 0 5
+D1
+~
+~
+0 0 2544
+D2
+~
+~
+0 0 2538
+S
+#2544
+Foot of the Mountains~
+Standing at the base of the great War Mountains, your heart pounds with
+fear.  Not of your enemy, for now, but of the great risks taken by entering
+the great mountains.  
+~
+0 0 5
+D1
+~
+~
+0 0 2545
+D2
+~
+~
+0 0 2539
+D3
+~
+~
+0 0 2543
+S
+#2545
+Approching the Waterfall~
+The soft rumble of an approaching waterfall slips through your ears as
+the mountains to your west rise in great majesty.  
+~
+0 0 2
+D1
+~
+~
+0 0 2546
+D3
+~
+~
+0 0 2544
+S
+#2546
+The Waterfall~
+From the sheer cliff to the north, a giant stream of water cascades
+downward into the pond a few feet from you.  The noise is very loud, and may
+drown out the sound of attacking foe.  The pond pours into a wide stream
+that you could follow south.  
+~
+0 0 6
+E
+waterfall~
+Below the pond's surface, you open your eyes to see an odd boulder. 
+Swimming closer, you think you may be able to move it.  
+~
+D0
+~
+boulder~
+2 0 2554
+D1
+~
+~
+0 0 2547
+D2
+~
+~
+0 0 2540
+D3
+~
+~
+0 0 2545
+S
+#2547
+Near the Waterfall~
+A shear cliff rises to the north of you, dwarfing all of the trees that
+are now less populated.  You hear the soft runble of a waterfall to the
+west.  Small trickles of water cascade lightly down the moss covered cliff. 
+Also, you can hear the calls of some sort of wild bird.  
+~
+0 0 2
+D1
+~
+~
+0 0 2548
+D3
+~
+~
+0 0 2546
+S
+#2548
+Dense Jungle~
+The trees are almost grown together.  Almost tripping you, the
+undergrowth is even more out of control than the trees that block all the
+light.  
+~
+0 0 3
+D1
+~
+~
+0 0 2549
+D2
+~
+~
+0 0 2541
+D3
+~
+~
+0 0 2547
+S
+#2549
+Into the Fray~
+Tropical trees surround the small clearing you now stand upon.  In all
+directions, the trees are so dense that a machette might be needed to
+continue further.  It does appear however, the the west and south have a
+path already cut through them.  
+~
+0 0 3
+D2
+~
+~
+0 0 2542
+D3
+~
+~
+0 0 2548
+S
+#2550
+Team War Room #1~
+With maps lining the walls and manuals of war setting on top of many
+tables, this room is the planning room of competeing clans.  On one wall,
+there is a small sign.  Good luck brave clan.  May Nikos bless you and make
+you victorious.  
+~
+0 787464 0
+E
+sign~
+Please remember:
+1) Once you leave this room, you cannot get back in.
+2) There are NO safe areas outside of this room. 
+3) Prepare well.
+4) Do not start the war until instructed to do so.
+~
+D3
+~
+~
+0 0 2549
+M 200 H 200
+S
+#2551
+Team War Room #2~
+With maps lining the walls and manuals of war setting on top of many
+tables, this room is the planning room of competeing clans.  On one wall,
+there is a small sign.  Good luck brave clan.  May Nikos bless you and make
+you victorious.  
+~
+0 787464 0
+E
+sign~
+Please remember:
+1) Once you leave this room, you cannot get back in.
+2) There are NO safe areas outside of this room.
+3) Prepare well.
+4) Do not start the war until instructed to do so.
+~
+D3
+~
+~
+0 0 2515
+M 200 H 200
+S
+#2552
+Avalanche~
+The snows all around you come tumbling down in a giant crash upon your
+head.  After the chaos, small traces of light still penetrate the snow
+ceiling above, giving hope for escape.  
+~
+0 524289 0
+D4
+~
+snow~
+2 0 2510
+S
+#2553
+A Hidden Cave~
+Small and much warmer from the snow that insulates it, this hidden cave
+appears untouched.  
+~
+0 524289 0
+D1
+~
+boulder~
+2 0 2521
+S
+#2554
+Behind the Waterfall~
+Breaking the water surface, dazzling gems including diamonds and emeralds
+send refracted light into your eyes.  This secret chamber was created by the
+Moons as a sacred, natural temple!  
+~
+0 524289 0
+D2
+~
+boulder~
+2 0 2546
+S
+#2555
+The South-West Tower~
+Empty except for some food crumbs and broken weapons, the tower interior
+is very plain.  
+~
+0 0 0
+D5
+~
+~
+0 0 2522
+S
+#2556
+Inside the Hanging Tower~
+Heads.  Heads everywhere.  Some near perfect, stores in chemicals look
+directly into your eyes.  Others, no near as pretty with slashed out tounges
+or bashed in craniums couldn't look at you if they desired.  This is what
+you would expect inside the Tower of Trophies.  
+~
+0 1 0
+D5
+~
+~
+0 0 2524
+S
+#2557
+The Swamped Tower~
+The walls of the tower begin to rumble!  You fall to your knees as the
+shaking becomes more violent.  Looking out on the small windows, you see the
+outer swamp growing closer to you.  The tower is sinking!  The shaking slows
+as the tower submerges under the ground.  Soil begins to pour in all the
+windows.  
+~
+0 5 0
+S
+#2558
+The Perfect Tower~
+Not a single scar violates the inner walls of this tower.  Judging from
+the multitude of the blood on the outer walls, many wars were won in this
+tower.  Small windows lay on every side of this tower so that one could be
+aware of all that occurs nearby.  In the distance, you see a destroyed
+temple and three other towers.  
+~
+0 0 0
+D5
+~
+~
+0 0 2534
+S
+#2559
+Path from the Cave~
+Very dark and twice as muddy, you can't see much of anything.  
+~
+0 1 0
+D1
+~
+~
+0 0 2574
+D2
+~
+~
+0 0 2560
+D4
+~
+~
+0 0 2539
+S
+#2560
+Underground~
+Possibly on a small trail, your eyes can barely distinguish where the
+muddy floor turn to walls.  
+~
+0 1 0
+D0
+~
+~
+0 0 2559
+D2
+~
+~
+0 0 2561
+S
+#2561
+Underground~
+Possibly on a small trail, your eyes can barely distinguish where the
+muddy floor turn to walls.  
+~
+0 1 0
+D0
+~
+~
+0 0 2560
+D2
+~
+~
+0 0 2562
+S
+#2562
+Underground~
+Possibly on a small trail, your eyes can barely distinguish where the
+muddy floor turn to walls.  
+~
+0 1 5
+D0
+~
+~
+0 0 2561
+D2
+~
+~
+0 0 2563
+S
+#2563
+First Room in Crater~
+Standing at the bottom of a large crater, small tunnels appear to lead to
+the east and north even further into the ground.  
+~
+0 1 0
+D0
+~
+~
+0 0 2562
+D1
+~
+~
+0 0 2564
+D4
+~
+~
+0 0 2517
+S
+#2564
+A Small Tunnel~
+Incredibly tight, this tunnel is a miracle, in that it shuold have
+collapsed upon itself long ago.  Mud slides easily into your mouth as your
+forced to lay belly down and wiggle to proceed.  
+~
+0 1 0
+D1
+~
+~
+0 0 2565
+D3
+~
+~
+0 0 2563
+S
+#2565
+A Small Tunnel~
+Incredibly tight, this tunnel is a miracle, in that it shuold have
+collapsed upon itself long ago.  Mud slides easily into your mouth as your
+forced to lay belly down and wiggle to proceed.  
+~
+0 1 0
+D1
+~
+~
+0 0 2566
+D3
+~
+~
+0 0 2564
+S
+#2566
+A Small Tunnel~
+Incredibly tight, this tunnel is a miracle, in that it shuold have
+collapsed upon itself long ago.  Mud slides easily into your mouth as your
+forced to lay belly down and wiggle to proceed.  
+~
+0 1 0
+D1
+~
+~
+0 0 2567
+D3
+~
+~
+0 0 2565
+S
+#2567
+In the Sink Hole~
+High above you, small rays of light penetrate the sink hole and luminate
+your surroundings enough to see a small tunnel to the west and the water
+that flows from the north.  
+~
+0 0 6
+D0
+~
+~
+0 0 2568
+D3
+~
+~
+0 0 2566
+D4
+~
+~
+0 0 2519
+S
+#2568
+Underground River~
+Without a hint of light, the cold waters rapidly flow along between the
+cold, clay walls that serve as your only guide.  
+~
+0 9 6
+D0
+~
+~
+0 0 2569
+D2
+~
+~
+0 0 2567
+S
+#2569
+Underground River~
+Without a hint of light, the cold waters rapidly flow along between the
+cold, clay walls that are your only guide.  
+~
+0 9 6
+D0
+~
+~
+0 0 2570
+D2
+~
+~
+0 0 2568
+S
+#2570
+Underground River~
+Without a hint of light, the cold waters rapidly flow along between the
+cold, clay walls that are your only guide.  
+~
+0 9 6
+D0
+~
+~
+0 0 2571
+D2
+~
+~
+0 0 2569
+S
+#2571
+Underground River~
+Now inside the sinkhole, the cold waters of a swiftly flowing river suck
+your body temperature away from you.  The river continues to the south while
+a large mine shaft opens to the west.  
+~
+0 8 6
+D2
+~
+~
+0 0 2570
+D3
+~
+~
+0 0 2572
+D4
+~
+~
+0 0 2541
+S
+#2572
+Mine Shaft~
+Dark and long, only cobwebs and tips of broken pick axes add slight
+excitement.  
+~
+0 1 0
+D1
+~
+~
+0 0 2571
+D3
+~
+~
+0 0 2573
+S
+#2573
+Mine Shaft~
+A steel mine cart is tipped on its side just inches from the tracks it
+once called home.  The torches on the walls have been extingished, and the
+tunnel appears infinite in both directions.  
+~
+0 1 0
+D1
+~
+~
+0 0 2572
+D3
+~
+~
+0 0 2574
+S
+#2574
+Mine Shaft~
+Small, magical torches on the walls light this entrance to a long, dark
+mine shaft.  
+~
+0 0 0
+D1
+~
+~
+0 0 2573
+D3
+~
+~
+0 0 2559
+S
+#2575
+Hidden Room~
+The small room is slightly dusty and dark but the portal on the opposite
+side of the room is giving off enough light for you to see.  
+~
+0 0 0
+D5
+~
+trapdoor~
+5 0 2402
+S
+#0
+
+
+
+#SPECIALS
+M 2400 spec_poison
+S
+
+
+
+#RESETS
+D 0 2402 4 1
+D 0 2407 0 2
+D 0 2510 5 1
+D 0 2521 3 1
+D 0 2546 0 1
+D 0 2552 4 1
+D 0 2553 1 1
+D 0 2554 2 1
+D 0 2575 5 1
+M 0 2400 1 2400 1
+M 0 2401 1 2401 1
+M 0 2402 1 2408 1
+M 0 2403 1 2409 1
+M 0 2405 1 2410 1
+M 0 2404 1 2411 1
+M 0 2406 1 2413 1
+S
+
+
+
+#SHOPS
+2402 0 0 0 0 0 100 50 0 23
+2403 0 0 0 0 0 100 50 0 23
+2404 0 0 0 0 0 100 50 0 23
+2405 0 0 0 0 0 100 50 0 23
+2406 0 0 0 0 0 100 50 0 23
+0
+
+
+
+#$

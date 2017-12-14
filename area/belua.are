@@ -1,0 +1,862 @@
+#AREADATA
+Name Belua~
+Builders Jared~
+VNUMs 200 299
+Credits (null)~
+Security 3
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#MOBPROGS
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#200
+The Entrance to Belua~
+~
+0 0 1
+D0
+~
+~
+0 0 201
+S
+#201
+Stone of Atonement~
+~
+0 0 0
+D0
+~
+gate~
+1 0 246
+D1
+~
+~
+0 0 202
+D2
+~
+~
+0 0 200
+D3
+~
+~
+0 0 203
+S
+#202
+Clamor Street~
+~
+0 0 0
+D1
+~
+~
+0 0 204
+D3
+~
+~
+0 0 201
+S
+#203
+Clamor Street~
+~
+0 0 0
+D1
+~
+~
+0 0 201
+D3
+~
+~
+0 0 205
+S
+#204
+Clamor Street~
+~
+0 0 0
+D0
+~
+~
+0 0 244
+D1
+~
+~
+0 0 206
+D3
+~
+~
+0 0 202
+S
+#205
+Clamor Street~
+~
+0 0 0
+D0
+~
+~
+0 0 245
+D1
+~
+~
+0 0 203
+D3
+~
+~
+0 0 207
+S
+#206
+Clamor Street~
+~
+0 0 0
+D1
+~
+~
+0 0 208
+D3
+~
+~
+0 0 204
+S
+#207
+Clamor Street~
+~
+0 0 0
+D1
+~
+~
+0 0 205
+D3
+~
+~
+0 0 209
+S
+#208
+At the Corner of Clamor and Gannio~
+~
+0 0 0
+D0
+~
+~
+0 0 210
+D3
+~
+~
+0 0 206
+S
+#209
+At the Corner of Clamor and Sibilo~
+~
+0 0 0
+D0
+~
+~
+0 0 211
+D1
+~
+~
+0 0 207
+S
+#210
+Path of Gannio~
+~
+0 0 0
+D0
+~
+~
+0 0 212
+D2
+~
+~
+0 0 208
+S
+#211
+Path of Sibilo~
+~
+0 0 0
+D0
+~
+~
+0 0 213
+D2
+~
+~
+0 0 209
+S
+#212
+Path of Gannio~
+~
+0 0 0
+D0
+~
+~
+0 0 214
+D2
+~
+~
+0 0 210
+S
+#213
+Path of Sibilo~
+~
+0 0 0
+D0
+~
+~
+0 0 215
+D2
+~
+~
+0 0 211
+S
+#214
+Path of Gannio~
+~
+0 0 0
+D0
+~
+~
+0 0 216
+D2
+~
+~
+0 0 212
+S
+#215
+Path of Sibilo~
+~
+0 0 0
+D0
+~
+~
+0 0 217
+D2
+~
+~
+0 0 213
+S
+#216
+At the Intersection of Murmuro and Gannio~
+~
+0 0 0
+D0
+~
+~
+0 0 218
+D2
+~
+~
+0 0 214
+D3
+~
+~
+0 0 238
+S
+#217
+At the Intersection of Murmuro and Sibilo~
+~
+0 0 0
+D0
+~
+~
+0 0 219
+D1
+~
+~
+0 0 239
+D2
+~
+~
+0 0 215
+S
+#218
+Path of Gannio~
+~
+0 0 0
+D0
+~
+~
+0 0 220
+D2
+~
+~
+0 0 216
+S
+#219
+Path of Sibilo~
+~
+0 0 0
+D0
+~
+~
+0 0 221
+D2
+~
+~
+0 0 217
+S
+#220
+Path of Gannio~
+~
+0 0 0
+D0
+~
+~
+0 0 222
+D2
+~
+~
+0 0 218
+S
+#221
+Path of Sibilo~
+~
+0 0 0
+D0
+~
+~
+0 0 223
+D2
+~
+~
+0 0 219
+S
+#222
+At the Corner of Gannio and Ululo~
+~
+0 0 0
+D2
+~
+~
+0 0 220
+D3
+~
+~
+0 0 224
+S
+#223
+At the Corner of Sibilo and Ululo~
+~
+0 0 0
+D1
+~
+~
+0 0 225
+D2
+~
+~
+0 0 221
+S
+#224
+Ululo Street~
+~
+0 0 0
+D1
+~
+~
+0 0 222
+D3
+~
+~
+0 0 226
+S
+#225
+Ululo Street~
+~
+0 0 0
+D1
+~
+~
+0 0 227
+D3
+~
+~
+0 0 223
+S
+#226
+Ululo Street~
+~
+0 0 0
+D1
+~
+~
+0 0 224
+D3
+~
+~
+0 0 228
+S
+#227
+Ululo Street~
+~
+0 0 0
+D1
+~
+~
+0 0 229
+D3
+~
+~
+0 0 225
+S
+#228
+Ululo Street~
+~
+0 0 0
+D1
+~
+~
+0 0 226
+D3
+~
+~
+0 0 230
+S
+#229
+Ululo Street~
+~
+0 0 0
+D1
+~
+~
+0 0 230
+D3
+~
+~
+0 0 227
+S
+#230
+Stone of Rebuke~
+~
+0 0 0
+D1
+~
+~
+0 0 228
+D2
+~
+~
+0 0 231
+D3
+~
+~
+0 0 229
+D5
+~
+stone~
+1 0 253
+S
+#231
+RECALL place...~
+~
+0 0 0
+D0
+~
+~
+0 0 230
+D2
+~
+~
+0 0 232
+S
+#232
+Before the Shrine~
+Staute of CeleDi in the room desc somewhere 
+~
+0 0 0
+D0
+~
+~
+0 0 231
+D2
+~
+~
+0 0 233
+S
+#233
+The Shrine Beneath the Skies~
+Statues of CeleDi, Kazimain and Nikos INC.  Sahma 
+~
+0 0 0
+D0
+~
+~
+0 0 232
+D1
+~
+~
+0 0 234
+D3
+~
+~
+0 0 235
+S
+#234
+Before the Shrine~
+~
+0 0 0
+D1
+~
+~
+0 0 236
+D3
+~
+~
+0 0 233
+S
+#235
+Before the Shrine~
+~
+0 0 0
+D1
+~
+~
+0 0 233
+D3
+~
+~
+0 0 237
+S
+#236
+Murmuro Way~
+~
+0 0 0
+D1
+~
+~
+0 0 238
+D2
+~
+~
+0 0 240
+D3
+~
+~
+0 0 234
+S
+#237
+Murmuro Way~
+~
+0 0 0
+D1
+~
+~
+0 0 235
+D2
+~
+~
+0 0 241
+D3
+~
+~
+0 0 239
+S
+#238
+Murmuro Way~
+~
+0 0 0
+D1
+~
+~
+0 0 216
+D3
+~
+~
+0 0 236
+S
+#239
+Murmuro Way~
+~
+0 0 0
+D1
+~
+~
+0 0 237
+D3
+~
+~
+0 0 217
+S
+#240
+Iecur Road~
+~
+0 0 0
+D0
+~
+~
+0 0 236
+D2
+~
+~
+0 0 242
+S
+#241
+Latro Road~
+~
+0 0 0
+D0
+~
+~
+0 0 237
+D2
+~
+~
+0 0 243
+S
+#242
+Iecur Road~
+~
+0 0 0
+D0
+~
+~
+0 0 240
+D2
+~
+~
+0 0 244
+S
+#243
+Latro Road~
+~
+0 0 0
+D0
+~
+~
+0 0 241
+D2
+~
+~
+0 0 245
+S
+#244
+Iecur Road~
+~
+0 0 0
+D0
+~
+~
+0 0 242
+D2
+~
+~
+0 0 204
+S
+#245
+Latro Road~
+~
+0 0 0
+D0
+~
+~
+0 0 243
+D2
+~
+~
+0 0 205
+S
+#246
+The Guard Tower~
+~
+0 0 0
+D0
+~
+iron~
+1 0 250
+D1
+~
+wooden~
+1 0 248
+D2
+~
+gate~
+1 0 201
+D3
+~
+~
+0 0 249
+D4
+~
+~
+0 0 247
+S
+#247
+The Top of the Tower~
+~
+0 0 0
+D5
+~
+~
+0 0 246
+S
+#248
+The Commander's Dwelling~
+~
+0 0 0
+D3
+~
+~
+1 0 246
+S
+#249
+Barracks~
+~
+0 0 0
+D1
+~
+~
+0 0 246
+S
+#250
+A Hidden Path~
+~
+0 0 0
+D0
+~
+door~
+1 0 251
+D2
+~
+iron maiden~
+1 0 246
+S
+#251
+The Mayor's Cottage~
+~
+0 0 0
+D2
+~
+door~
+1 0 250
+D5
+~
+trapdoor~
+3 0 252
+S
+#252
+Padded Cell~
+Where the mayor's brother is.  Unfortunately, he became a little bit too
+feral and the mayor was forced to hide him here in addition, key to door up
+is on the mayor 
+~
+0 0 0
+D4
+~
+trapdoor~
+3 0 251
+S
+#253
+Newbie area blah blah~
+~
+0 0 0
+D0
+~
+~
+0 0 254
+D1
+~
+~
+0 0 255
+D2
+~
+~
+0 0 256
+D3
+~
+~
+0 0 257
+D4
+~
+stone~
+1 0 230
+D5
+~
+~
+0 0 258
+S
+#254
+~
+~
+0 0 0
+D2
+~
+~
+0 0 253
+S
+#255
+~
+~
+0 0 0
+D3
+~
+~
+0 0 253
+S
+#256
+~
+~
+0 0 0
+D0
+~
+~
+0 0 253
+S
+#257
+~
+~
+0 0 0
+D1
+~
+~
+0 0 253
+S
+#258
+~
+~
+0 0 0
+D4
+~
+~
+0 0 253
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 201 0 1
+D 0 230 5 1
+D 0 246 0 1
+D 0 246 1 1
+D 0 246 2 1
+D 0 248 3 1
+D 0 250 0 1
+D 0 250 2 1
+D 0 251 2 1
+D 0 251 5 2
+D 0 252 4 2
+D 0 253 4 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

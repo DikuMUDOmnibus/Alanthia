@@ -1,0 +1,281 @@
+#AREADATA
+Name Mount Runak~
+Builders Halodar~
+VNUMs 21700 21799
+Credits (null)~
+Security 9
+Version 1
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#21700
+Steaming Jungle Path~
+You are on a packed-dirt path running beneath the towering canopy of this
+lush tropical jungle.  Dense undergrowth borders the path, hemming it in and
+making it quite impossible to deviate from the east-west direction this
+trail runs.  The heady smell of exotic flowers wafts on the warm, sluggish
+breeze, blowing at you from the east.  
+~
+0 0 0
+D1
+~
+~
+0 0 21701
+S
+#21701
+Steaming Jungle Path~
+The trees above and the undergrowth below seem to be creeping closer
+together as the path progresses to the East.  Great twisted vines reach from
+the jungle floor to the treetops, giving this trail the appearance of a
+great organic tunnel.  To the west you can see more light, and to the east
+the jungle closes in to darkness.  
+~
+0 0 0
+D1
+~
+~
+0 0 21702
+D3
+~
+~
+0 0 21700
+S
+#21702
+Tunnel Through The Jungle~
+The vines and tree trunks on both sides of the path have come together as
+one great mass, arching over the path and joining in the middle to seal the
+ground away from the sunlight.  Strange fungi sprout from the wood and bark
+walls of the tunnel, some emitting a diffuse green glow.  The path leads
+west to light and east to darkness.  
+~
+0 8 0
+D1
+~
+~
+0 0 21703
+D3
+~
+~
+0 0 21701
+S
+#21703
+Tunnel in the Trees~
+You are in a tunnel of living wood, leading sharply up to the east and
+down to the west.  Even the floor of the tunnel is made up of branches and
+vines, grown tightly together to form a solid walkway.  A few fungi grow on
+the walls and ceiling, glowing enough to light the way.  The smell of smoke
+and hot rock comes down the tunnel from the east, blown along by a very warm
+breeze.  
+~
+0 8 0
+D1
+~
+~
+0 0 21704
+D3
+~
+~
+0 0 21702
+S
+#21704
+The Mouth of the Treetop Tunnel~
+You are standing at the mouth of a dark tunnel leading west into the
+living canopy of the forest.  To the east is a long, swaying rope bridge,
+spanning a gap between the treetops and a huge vertical cliff.  Towering
+above that are the rocky slopes of a huge volcano, ringed at the top with
+clouds and smoke.  At the end of the bridge you can make out a deeply
+shadowed rectangular opening, about midway up the tall cliff face.  
+~
+0 0 0
+D1
+~
+~
+0 0 21705
+D3
+~
+~
+0 0 21703
+S
+#21705
+The Swinging Bridge~
+This rope bridge connects the jungle canopy to the west to an entrance
+midway up a sheer cliff in the mountain to the east.  A steady breeze
+whistles through the tall stakes that make up a sort of wall to either side.
+Atop the taller stakes are many heads, some human and some distinctly
+non-human.  
+~
+0 0 0
+D1
+~
+~
+0 0 21706
+D3
+~
+~
+0 0 21704
+S
+#21706
+The Middle of the Swinging Bridge~
+The bridge sways in the wind, slowly creaking back and forth.  Though it
+is well-built, there is no way to judge how long this bridge has stood in
+the elements.  There are occasional gaps in the boards underfoot, allowing a
+glimpse at the thunderous drop to a boulder field far below.  To the west,
+the bridge meets up with the forest canopy and disappears into the
+vegetation.  To the east, you can see a tall opening in the cliff face, too
+dark to see within.  
+~
+0 0 0
+D1
+~
+~
+0 0 21707
+D3
+~
+~
+0 0 21705
+S
+#21707
+Runak Gate~
+You are standing before a tall granite doorway hewn into the solid rock
+of the cliff that towers above you and drops away below.  Carved into the
+stone above the opening are the letters: {DR U N A K{x.  The only sound here
+is the creaking of the bridge spanning the gap to the west, and the whistle
+of the hot breeze.  It stinks of sulphur and smoke.  
+~
+0 0 0
+D1
+~
+~
+0 0 21708
+D3
+~
+~
+0 0 21706
+S
+#21708
+A Deep Granite Shaft~
+Hot air gusts up from the dark depths of this stone shaft.  An ancient
+staircase, hewn into the wall of the shaft, appears to have crumbled beyond
+use.  The remains of a massive metal gate lie twisted on the floor of the
+platform before the tall doorway to the west.  The strong smell of sulphur
+and burning rock rides the warm, steady wind from the pit below.  
+~
+0 0 0
+D3
+~
+~
+0 0 21707
+D5
+~
+~
+0 0 21709
+S
+#21709
+The Stairway Ends~
+The stairway cut into the shaft wall ends here in a crumbling dropoff,
+leading down to a cataclysmic fall into the glowing depths below.  The walls
+of the shaft appear unclimbable.  The only way out is up the stairs that
+spiral above you.  
+~
+0 0 0
+D4
+~
+~
+0 0 21708
+S
+#21710
+Floating Up the Granite Shaft~
+The walls of the rock shaft drift slowly past as the wicker gondola
+floats lazily up on the warm breeze.  There is a halo of light visible above
+you, mostly blocked by the balloon.  Every so often you see the remains of
+the ancient stairway.  Some crumbling ledges are home to the unkempt nests
+of some cave-dwelling creature.  Bright eyes peer at you from the shadows.  
+~
+0 0 0
+D4
+~
+~
+0 0 21711
+S
+#21711
+Near the Top of the Shaft~
+The balloon is gaining speed as it nears the circle of sky above.  The
+walls here are worn down by weather, grooved in some areas by eons of water
+flowing down from above.  You can smell fresh air and greenery from above,
+but the smell of sulfur and heat from below is much stronger.  
+~
+0 0 0
+D4
+~
+~
+0 0 21712
+S
+#21712
+Top of the Shaft~
+The balloon bobs to a gentle stop.  A net, stretched horizontally between
+four tall posts, covers the shaft opening to catch the balloon.  A length of
+wooden plank slowly extends from the edge of the shaft and bangs down on the
+edge of the basket, anchoring it to the rocky ground of the crater rim. 
+Some stone ruins can be seen to the east, some still partially intact.  
+~
+0 0 0
+D1
+~
+~
+0 0 21713
+S
+#21713
+~
+
+~
+0 0 0
+D3
+~
+~
+0 0 21714
+S
+#21714
+A Balloon Gondola~
+Straining slightly against a large strong net, a balloon hangs in the air
+directly above this gondola.  There is a deep shaft below, leading far down
+into darkness.  A thin wooden plank bridges the gap to the east, where some
+buildings and ruins can be seen.  
+~
+0 0 0
+D1
+~
+~
+0 0 21713
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

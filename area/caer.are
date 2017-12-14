@@ -1,0 +1,2313 @@
+#AREADATA
+Name Caer Naefon~
+Builders Skull~
+VNUMs 8400 8499
+Credits {  ALL  } Skull       Caer Naefon~
+Security 1
+Version 1
+End
+
+
+
+#MOBILES
+#8400
+Donara~
+Donara, a grey-elf regent~
+Donara, a grey-elf regent.
+~
+Radiating from behind raven locks of whisping hair are two shining eyes
+of moon sparkled silver.  Below her dainty nose a smile is formed by two
+glistening rows of perfect white teeth which are enveloped by two pink full
+lips.  Donara is a graceful and demure elven woman, full of stately pride
+and regal bearing.  She is wrapped in an elegant sleeveless gown of
+moonstruck blue that hangs loose from her lithe frame.  
+~
+unique~
+A 0 0 0
+75 0 0d0+0 0d0+0 0d0+0 crush
+0 0 0 0
+0 0 0 0
+stand stand none 0
+A ABCDEFGHIJK large unknown
+#8401
+Araneid wizard~
+Araneid the wizard~
+Araneid the wizard.
+~
+Araneid is an emaciated elf, bones nearly visible through a covering of
+thin skin that is stretched tight over his hollowed frame.  His eyes have
+sunk into dark pits that reflect his gnawed out soul.  At every breath,
+Araneid's entire body heaves and shivers as if each intake of air is the
+deadliest poison to him.  A faintly glowing magical nimbus surrounds his
+pale form, perhaps a ward against death or perhaps a ward against the
+living.  His wraith-thin arms yet move with a certain mystical elegance; as
+he slowly trods about they sway in time to an archaic chant that seeps from
+his thin lips.  
+~
+unique~
+A 0 0 0
+75 0 0d0+0 0d0+0 0d0+0 crush
+0 0 0 0
+0 0 0 0
+stand stand none 0
+A ABCDEFGHIJK large unknown
+#8402
+Korelleus wizard~
+Korelleus, the grey-elf wizard~
+Korelleus, the grey-elf wizard.
+~
+A dark shadow given form and life lurches as it slowly walks, the being's
+face ensconced behind a black hood that cloaks it from view.  Korelleus is a
+victim of the knowledge he so craves: the dark magicks of Alanthia.  They
+have twisted his frame and tainted his soul beyond recognition.  Yet to this
+elf, no price is too great to pay for power.  For his sacrifice, Korelleus
+holds a high place within the Aku'rhaie.  
+~
+unique~
+A 0 0 0
+75 0 0d0+0 0d0+0 0d0+0 crush
+0 0 0 0
+0 0 0 0
+stand stand none 0
+A ABCDEFGHIJK large unknown
+#8403
+Rael wizard~
+grey elf wizard~
+Rael, the grey-elf wizard.
+~
+Rael stares blankly, as if she could peer into the herats and souls of
+every being, ripping out painful secrets with but a glare.  Her eyes are
+always distant, and others whisper that she gazes into distant realms
+unimagined and unknown to mortal beings.  Rael is a student of Rejuvination
+Magicks, having the ability to bring back that which has ceased to be.  
+~
+unique~
+A 0 0 0
+75 0 0d0+0 0d0+0 0d0+0 crush
+0 0 0 0
+0 0 0 0
+stand stand none 0
+A ABCDEFGHIJK large unknown
+#8404
+form victim~
+human citizen~
+A human citizen.
+~
+Sitting in a corner twitching uncontrollably is the trunk and head of
+what was once a female of some bipedal race, thoroughly mutilated and nearly
+unidentifiable.  The arms and legs are missing from the quivering form, its
+flesh alive with the crawl of millions of tiny maggots, flesh gnawing
+centipedes, and diseased fleas.  The thing senses that something is near and
+opens her mouth, ready to scream until a flood of insects belches out.  Her
+eyes reflect her soul-deep and unwavering fear.  
+~
+unique~
+A 0 0 0
+75 0 0d0+0 0d0+0 0d0+0 crush
+0 0 0 0
+0 0 0 0
+stand stand none 0
+A ABCDEFGHIJK large unknown
+#8405
+flesh puddle~
+abomination monster~
+An abomination monster.
+~
+Pooled upon on the floor is a quivering mass of half rotten putrid flesh
+complete with a face distorted as much by pain as by distance.  Here a
+half-melted mouth cries out in a deep, wrenching wail of pain, there an eye
+floats without its mate.  The disturbing mass of skin slimes its way about,
+leaving a trail of vomitous digestion behind as it slithers slowly about.  
+~
+unique~
+A 0 0 0
+75 0 0d0+0 0d0+0 0d0+0 crush
+0 0 0 0
+0 0 0 0
+stand stand none 0
+A ABCDEFGHIJK large unknown
+#8406
+Acrisius~
+grey elf diplomat~
+Acrisius.
+~
+Acrisius regards those about him with wise eyes and a bright,
+intellectual smile.  A solemn elf, Acrisius spends much of his life
+listening to the troubles of those about him, often suggesting simple
+solutions with a dramatic flare that only one of his years could muster.  He
+is devoted to two things in life: his equal of many ages and the city
+itself.  
+~
+unique~
+A 0 0 0
+75 0 0d0+0 0d0+0 0d0+0 crush
+0 0 0 0
+0 0 0 0
+stand stand none 0
+A ABCDEFGHIJK large unknown
+#8407
+Keyaira~
+grey elf diplomat~
+Keyaira.
+~
+Flowing silver locks of long hair spiral down to her bare shoulders,
+resting just atop her favored dress of brilliant jade.  Keyaira is the most
+vocal of the city's council, often speaking on behalf of those who stand
+accused before her associates.  Her favorite pastime is engaging in long
+philosophical discussions with her mate of many ages, in which both usually
+talk and listen for hours at a time.  
+~
+unique~
+A 0 0 0
+75 0 0d0+0 0d0+0 0d0+0 crush
+0 0 0 0
+0 0 0 0
+stand stand none 0
+A ABCDEFGHIJK large unknown
+#8408
+Belisama~
+grey elf priest~
+Belisama.
+~
+Beyond the flowering pearl robes lie startling silver-white eyes resting
+below arched eyebrows.  Her lips are pinched shut with but a hint of an
+alluring smile.  Belisama is the High Priest of Caer Naefon; the one most
+attuned to the magicks that dwell within the city.  She leads the citizens
+in arcane rituals of spiritualistic magicks that rejuvenate the people and
+glorify her soul.  
+~
+unique~
+A 0 0 0
+75 0 0d0+0 0d0+0 0d0+0 crush
+0 0 0 0
+0 0 0 0
+stand stand none 0
+A ABCDEFGHIJK large unknown
+#8409
+Pactolus~
+grey elf cartographer~
+Pactolus.
+~
+Meager Pactolus garbs himself in simple clothes of cotton and wool.  He
+mostly paces about his shop, worrying how he will afford his child's next
+meal, for all of his life's worth rests within the walls of his map shoppe. 
+Yet remarkably the elder elf's pots are always full and his child well fed,
+as if some spectral guardian kept watch over the pair, lending its aid when
+needed.  
+~
+unique~
+A 0 0 0
+75 0 0d0+0 0d0+0 0d0+0 crush
+0 0 0 0
+0 0 0 0
+stand stand none 0
+A ABCDEFGHIJK large unknown
+#8410
+Anverin~
+grey elf banker~
+Anverin.
+~
+A crisp short beard of white adorns this elf's chin under a hearty smile.
+Anverin is a stocky elf who'd rather not miss a meal and never passes up a
+chance to tell a long and boisterous tale of his youth.  When he was young,
+Anverin journeyed the world over, and was even bold enough to voyage into
+the bowels of despised Zzir.  
+~
+unique~
+A 0 0 0
+75 0 0d0+0 0d0+0 0d0+0 crush
+0 0 0 0
+0 0 0 0
+stand stand none 0
+A ABCDEFGHIJK large unknown
+#8411
+Marsilius~
+grey elf scribe~
+Marsilius.
+~
+Below the madly spiralled erratic grey hair and a set of wire-framed
+glasses is a wise elf who spends his days scribbling scrolls of minor
+magical power to sell to those who patronize his humble shoppe.  Marsilius'
+hands often ache from the hours of holding the small quill and his nose is
+constantly a-drip from years of smelling the acrid ink.  
+~
+unique~
+A 0 0 0
+75 0 0d0+0 0d0+0 0d0+0 crush
+0 0 0 0
+0 0 0 0
+stand stand none 0
+A ABCDEFGHIJK large unknown
+#8412
+Nepenthe~
+grey elf bulk merchant~
+Nepenthe.
+~
+Short curls of midnight black hair hang loosely from Nepenthe's slender
+head, her sharp-featured face alive with a quick smile and sly eyes.  Her
+radiant skin is often said to glow faintly; whether it be a trick of the sun
+or some minor magical power, no one can be certain.  Nepenthe runs her
+ailing uncle's shoppe with subtle ease, the business of selling wares
+running deep within her family's blood.  
+~
+unique~
+A 0 0 0
+75 0 0d0+0 0d0+0 0d0+0 crush
+0 0 0 0
+0 0 0 0
+stand stand none 0
+A ABCDEFGHIJK large unknown
+#8413
+Hesperia~
+grey elf cook~
+Hesperia.
+~
+With many pots set to boil at once and three large ovens a-flame, one is
+sometimes baffled with the ease in which Hesperia runs shoppe; yet she
+always seems to keep everything under her thumb.  No pot ever overflows and
+no loaf of soft bread ever burns under Hesperia's watchful eye.  Perhaps her
+years spent living with the faeriefolk taught her some subtle magicks that
+no one has been able to detect.  
+~
+unique~
+A 0 0 0
+75 0 0d0+0 0d0+0 0d0+0 crush
+0 0 0 0
+0 0 0 0
+stand stand none 0
+A ABCDEFGHIJK large unknown
+#8414
+Oromasdes~
+grey elf blacksmith~
+Oromasdes.
+~
+Once a brilliant general with a sharp mind that specializes in
+extraordinary tactics, Oromasdes has settled in his homeland and has taken
+up the tools of a weaponsmith.  His arms are renowned the world over, each
+finely balanced and set with edges as sharp as a young elf's wit.  Oromasdes
+clearly enjoys his work, often equipping young adventurers for a quest and
+arming soldiers for battle.  
+~
+unique~
+A 0 0 0
+75 0 0d0+0 0d0+0 0d0+0 crush
+0 0 0 0
+0 0 0 0
+stand stand none 0
+A ABCDEFGHIJK large unknown
+#8415
+Lausus~
+grey elf armorsmith~
+Lausus.
+~
+Like his brother Oromasdes, Lausus was a field operative before settling
+down to the life of an armorer.  But unlike his elder brother, Lausus
+doesn't speak much of his military past as he prefers to keep his skeletons
+safely secured in a locked closet.  Lausus has spent much of his adult life
+trying to forget the past.  
+~
+unique~
+A 0 0 0
+75 0 0d0+0 0d0+0 0d0+0 crush
+0 0 0 0
+0 0 0 0
+stand stand none 0
+A ABCDEFGHIJK large unknown
+#8416
+Gallahent~
+grey elf beastmaster~
+Gallahent.
+~
+Gallahent is the kind master and thorough trainer of the animals that
+become pets to the city's adventurers.  All the animals in his care are
+treated well, fed twice a day and left to their own accord in a room behind
+the storefront.  They are well behaved animals for the most part, but there
+is the occasional mess to clean.  
+~
+unique~
+A 0 0 0
+75 0 0d0+0 0d0+0 0d0+0 crush
+0 0 0 0
+0 0 0 0
+stand stand none 0
+A ABCDEFGHIJK large unknown
+#8417
+Iphitus~
+grey elf priest~
+Iphitus.
+~
+An elf of advanced years, Iphitus has devoted his latter life to the
+church.  He aids High Priest Belisama by channeling the great magicks raised
+in religious rituals.  Iphitus' hair has turned snow white and his face has
+developed its share of deep wrinkles.  His steps may have slowed over the
+years, but his mind is still quite sharp.  
+~
+unique~
+A 0 0 0
+75 0 0d0+0 0d0+0 0d0+0 crush
+0 0 0 0
+0 0 0 0
+stand stand none 0
+A ABCDEFGHIJK large unknown
+#8418
+Kadyriath~
+grey elf wizard~
+Kadyriath.
+~
+Standing demurely with gold flecked eyes and radiant blonde hair us a
+slender elven woman young in years and sharp in features.  Kadyriath is
+wrapped in a long silken dress of crimson and azure; her feet are gently
+held by soft leather sandals.  She smiles brightly to those she sees and
+bestows a minor benediction upon others with a gentle wave of her hand.  
+~
+unique~
+A 0 0 0
+75 0 0d0+0 0d0+0 0d0+0 crush
+0 0 0 0
+0 0 0 0
+stand stand none 0
+A ABCDEFGHIJK large unknown
+#8419
+Melisseus~
+grey elf soldier officer~
+Melisseus.
+~
+A noble and proud Grey Elf stands proud and tall, his face a finely
+chiseled statue of regal bearing.  His fine dark hair is pulled straight
+back from his brow, highlighting his dark yet brilliant eyes.  Melisseus
+prides himself on his intellect, reading any tome he can get his hands on
+and constantly revising the city's policing system.  
+~
+unique~
+A 0 0 0
+75 0 0d0+0 0d0+0 0d0+0 crush
+0 0 0 0
+0 0 0 0
+stand stand none 0
+A ABCDEFGHIJK large unknown
+#8420
+Erebus~
+grey elf soldier officer~
+Erebus.
+~
+A large brawny elf strides about, his tight rippled chest barely covered
+by a dark silk shirt that leaves his sinewy arms bare.  Erebus' jaw is
+clenched tight and his face held in a mask of emotionlessness.  His steely
+eyes regard everyone with a chilling glare.  
+~
+unique~
+A 0 0 0
+75 0 0d0+0 0d0+0 0d0+0 crush
+0 0 0 0
+0 0 0 0
+stand stand none 0
+A ABCDEFGHIJK large unknown
+#8421
+Hyale sentry~
+grey elf town guard~
+Hyale sentry.
+~
+Hyale towers above the heads of all other grey elves, making him the
+perfect candidate to patrol the streets.  Not many are foolish enough to
+cross the large elf, for the tales of his might have been widely spread
+throughout the city.  Hyale follows all his orders to the letter, carrying
+out the edicts of the council and the commands of his captain without
+question.  
+~
+unique~
+A 0 0 0
+75 0 0d0+0 0d0+0 0d0+0 crush
+0 0 0 0
+0 0 0 0
+stand stand none 0
+A ABCDEFGHIJK large unknown
+#8422
+Caelindre sentry~
+grey elf town guard~
+Caelindre sentry.
+~
+An unseeming elf stands to the wayside, her face pulled back into a
+slight wry smile and her eyes sparkling with a devious fire.  Her small form
+seems to betray her talents as a sentry, but Caelindre is quick to enforce
+the laws of the city often disabling wrongdoers with a quick slash of her
+favored quarterstaff.  
+~
+unique~
+A 0 0 0
+75 0 0d0+0 0d0+0 0d0+0 crush
+0 0 0 0
+0 0 0 0
+stand stand none 0
+A ABCDEFGHIJK large unknown
+#8423
+Ganelon~
+grey elf thief~
+Ganelon.
+~
+An elderly grey elf darts about, his wizened eyes gauging passersby,
+judging their worth both physically and financially.  Although officially
+retired from thieving, Ganelon is not above gouging potential buyers or
+perhaps pilfering a thick coin from an unsuspecting bystander just to keep
+in practice.  Ganelon prefers to keep a low profile, dressing in common
+clothes even though he is certainly wealthy enough to afford all the best
+that life has to offer.  
+~
+unique~
+A 0 0 0
+75 0 0d0+0 0d0+0 0d0+0 crush
+0 0 0 0
+0 0 0 0
+stand stand none 0
+A ABCDEFGHIJK large unknown
+#8424
+kitten~
+cat domestic animal~
+Kitten.
+~
+Lying upon the flooris a sickening display of cruelty and hideousness.  A
+small kitten with pleading eyes lets out soft mewls as you approach, her
+empty chest heaving slightly.  The poor creature is held together by magicks
+that keep her alive despite the fact that her intestines have burst through
+her stomach and her fur has fallen out in clumps, leaving patches of dry,
+flaking skin.  The kitten tries to crawl away to hide in the shadows,
+dragging her guts along and she claws at the floor.  
+~
+unique~
+A 0 0 0
+75 0 0d0+0 0d0+0 0d0+0 crush
+0 0 0 0
+0 0 0 0
+stand stand none 0
+A ABCDEFGHIJK large unknown
+#8425
+Boloderus legionnaire~
+grey elf legionnaire~
+Boloderus legionnaire.
+~
+A small and thin male grey elf struts about in the shining armor of the
+Legion.  What he lacks in size he more than makes up for in speed and
+prowess.  Boloderus gladly takes on any enemy no matter the size or the
+strength, near-gleefully charging headlong into battle.  Although he has
+only seen true combat twice in his life, Boloderus believes a great battle
+lies ahead, and that he must keep himself ready.  
+~
+unique~
+A 0 0 0
+75 0 0d0+0 0d0+0 0d0+0 crush
+0 0 0 0
+0 0 0 0
+stand stand none 0
+A ABCDEFGHIJK large unknown
+#8426
+Kiltras legionnaire~
+grey elf legionnaire~
+Kiltras legionnaire.
+~
+Much like his brother Boloderus, Kiltras is small but extremely agile. 
+He has forever been in his brother's shadow but doesn't mind one bit, for
+blood is stronger than steel.  Kiltras always keeps an eye upon his elder
+brother, always watchful for Boloderus' recklessness.  While not training
+for war, Kiltras prefers to spend his days in the West Merchant Eatery,
+visiting friends and the occasional lover.  
+~
+unique~
+A 0 0 0
+75 0 0d0+0 0d0+0 0d0+0 crush
+0 0 0 0
+0 0 0 0
+stand stand none 0
+A ABCDEFGHIJK large unknown
+#8427
+Palomides legionnaire~
+grey elf legionnaire~
+Palomides legionnaire.
+~
+Palomides is a quiet, resourceful grey elf.  He is known for the numerous
+books kept in his family home and for the bizarre tactics he uses on the
+battlefield.  Having never been defeated, no one thinks to question
+Palomides' odd ways; they suspect they wouldn't get an answer out of them
+even if they did happen to put a question to him.  
+~
+unique~
+A 0 0 0
+75 0 0d0+0 0d0+0 0d0+0 crush
+0 0 0 0
+0 0 0 0
+stand stand none 0
+A ABCDEFGHIJK large unknown
+#8428
+Salmira sentry~
+grey elf town guard~
+Salmira sentry.
+~
+Salmira is amongst the most feared of the town's sentries, not for her
+cruelty but for her bravado.  She eagerly accepts any challenge placed
+before her and has never been seen to lose.  She has bested Hyale is a feat
+of strength and has often argued philosophy with her captain, leaving him
+befuddled and confused.  
+~
+unique~
+A 0 0 0
+75 0 0d0+0 0d0+0 0d0+0 crush
+0 0 0 0
+0 0 0 0
+stand stand none 0
+A ABCDEFGHIJK large unknown
+#8429
+Spider Monkey~
+human domestic animal~
+Spider Monkey.
+~
+A large dark-furred monkey with a lengthy tail squats here, its head
+darting about, looking for some food to fill its ever-empty stomach.  Spider
+monkeys only have 4 fingers as opposed to other species of monkeys and
+primarily moves through trees with the use of its curled tail.  
+~
+unique~
+A 0 0 0
+75 0 0d0+0 0d0+0 0d0+0 crush
+0 0 0 0
+0 0 0 0
+stand stand none 0
+A ABCDEFGHIJK large unknown
+#8430
+Margay~
+margay~
+Marygay.
+~
+The margay is a wild cat that remains the size and weight of its
+domesticated cousin.  Its reddish fur is maked by a series of black spots
+and streaks.  Even though small, the margay is an excellent hunter,
+ferocious of claw and devastating with its bite.  
+~
+unique~
+A 0 0 0
+75 0 0d0+0 0d0+0 0d0+0 crush
+0 0 0 0
+0 0 0 0
+stand stand none 0
+A ABCDEFGHIJK large unknown
+#8431
+King Owl~
+bird domestic animal~
+King Owl.
+~
+This large regal bird is covered in alternating layers of grey and white
+feathers.  Its eyes are large circular globes that peer about constantly. 
+Its hooked beak and protracted talons are dagger sharp.  Atop is feathered
+brow are two cupped ear tufts.  Its wings are many fingers long, enabling
+the King Owl to glide with ease through the skies which is indeed its
+favorite pastime.  
+~
+unique~
+A 0 0 0
+75 0 0d0+0 0d0+0 0d0+0 crush
+0 0 0 0
+0 0 0 0
+stand stand none 0
+A ABCDEFGHIJK large unknown
+#8432
+Chinchilla~
+chinchilla~
+Chinchilla.
+~
+Barely more than a small tuft of grey-white fur, the chinchilla is one of
+the most favored pets of the grey elves.  Aside from its adorable whiskered
+face and it's two small ears, the chinchilla has miniscule paws and a tiny
+tuft of a tail.  Its miniature black eyes are constantly alive with mischief
+and its favorite pastime is to run about causing as much havoc as possible. 
+Thankfully most chinchillas are fast enough to flee from even the best of
+hunters.  
+~
+unique~
+A 0 0 0
+75 0 0d0+0 0d0+0 0d0+0 crush
+0 0 0 0
+0 0 0 0
+stand stand none 0
+A ABCDEFGHIJK large unknown
+#8433
+Tuk~
+grey elf child~
+Tuk.
+~
+Tuk is a young lad who is growing to be as strong and tall as his father,
+Hyale.  The boy already wishes to become a sentry to patrol the streets and
+right any wrongs.  He spends many a day travelling about the city with his
+father, keeping an eye out for crime.  
+~
+unique~
+A 0 0 0
+75 0 0d0+0 0d0+0 0d0+0 crush
+0 0 0 0
+0 0 0 0
+stand stand none 0
+A ABCDEFGHIJK large unknown
+#8434
+Rasselora~
+grey elf child~
+Rasselora.
+~
+A bright young child full of energy and questions, Rasselora is just
+beginning to learn While he doesn't know it quite yet (and Elera better not
+tell him!)  Rasselora has a deep-felt crush on hapless Tuk and she often
+watches him from across the street with a lazy smile on her face.  
+~
+unique~
+A 0 0 0
+75 0 0d0+0 0d0+0 0d0+0 crush
+0 0 0 0
+0 0 0 0
+stand stand none 0
+A ABCDEFGHIJK large unknown
+#8435
+Elera~
+grey elf child~
+Elera.
+~
+A bright smile filters out from behind tussled locks of raven-dark hair
+that has spilled across her cherubic face.  With just as much energy as her
+bestest friend in the world, Elera prides herself on being able to keep up
+with all of the town's gossip, often running clear across town to follow up
+on a rumor she's just heard.  
+~
+unique~
+A 0 0 0
+75 0 0d0+0 0d0+0 0d0+0 crush
+0 0 0 0
+0 0 0 0
+stand stand none 0
+A ABCDEFGHIJK large unknown
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#8400
+The Grand Southern Gate of Caer Naefon~
+An enormous arch of glistening marble presents the mountain city of Caer
+Naefon to the world.  The gate set into the gleaming arch is constructed of
+bright steel magically bonded and protected from the elements.  The archway
+stands five elves high and seven deep, the well-constructed and superbly
+guarded entrance to the city beyond.  
+~
+0 8 1
+D0
+~
+~
+0 0 8401
+S
+#8401
+South Gate Road ~
+The stately cobblestone road lying underfoot is near seamless in its
+construction, each stone magically smoothed and shaped to perfection.  The
+towering inner wall to the north is one smooth uncut face of densest
+pearlescent marble thousands of fingers thick, a magically infused barrier
+dividing the outer city from that within.  
+~
+0 8 1
+D1
+~
+~
+0 0 8440
+D2
+~
+~
+0 0 8400
+D3
+~
+~
+0 0 8402
+S
+#8402
+South Gate Road ~
+The tantalizing aromatic mountain air is abundant here, fresh as a crisp
+young day.  A run of carefully clipped grass lines the inner wall to the
+north of South Gate Road while thick leafy bushes sit squat along the outer
+wall to the south.  
+~
+0 8 1
+D1
+~
+~
+0 0 8401
+D3
+~
+~
+0 0 8403
+S
+#8403
+South Gate Road ~
+Set within the thick outer wall just to the south is a gigantic wooden
+door that leads to the home of Melisseus, the Captain of the Sentry.  Unlike
+other buildings within the city, this small home has no windows and the door
+seems to lack any sort of handle or grip with which it could easily be
+opened or closed.  
+~
+0 8 1
+D1
+~
+~
+0 0 8402
+D2
+~
+~
+0 0 8404
+D3
+~
+~
+0 0 8405
+S
+#8404
+The Abode of the Sentry Captain~
+Long beautiful tapestries filled with gorgeous pictoral scenes hang on
+each wall here, granting the room a blessing of calm serenity.  A large
+cabinet of immaculate pearlescent marble stands to the south beside a large
+canopied bed.  To the other side of the bed along the western wall is a long
+shelf filled to capacity with ancient tomes.  
+~
+0 8 1
+D0
+~
+~
+0 0 8403
+S
+#8405
+The Southeast Intersection ~
+Here South Gate Road and West Merchant Way meet, the intersection marked
+by two towering posts topped with brilliant balls of magical luminescence. 
+The posts stand to the west and the south of the intersection, brightly
+lighting the area.  
+~
+0 8 1
+D0
+~
+~
+0 0 8406
+D1
+~
+~
+0 0 8403
+S
+#8406
+West Merchant Way~
+The streets holding the shops of Caer Naefon are often filled with Grey
+Elves buying, trading, and selling with one another.  The carefully crafted
+cobblestone road has held up well under the might of many a merchant's foot.
+To the west stands the West Merchant Eatery, from which a symphony of
+scintillating smells pours forth.  
+~
+0 8 1
+D0
+~
+~
+0 0 8408
+D2
+~
+~
+0 0 8405
+D3
+~
+~
+0 0 8407
+S
+#8407
+The West Merchant Eatery ~
+A large brew-pot dominates the rear of the shoppe, fired by a large pit
+set into the ground that glows smokeless and burns without wood.  A small
+oven of thick iron also benefits from the flameless fire, its interior often
+used to bake fresh loaves of bread and other meals.  
+~
+0 8 1
+D1
+~
+~
+0 0 8406
+S
+#8408
+West Merchant Way~
+Lining both sides of this street is a series of tall marble columns, each
+topped with a shimmering ball of light.  Beyond those lights stands the
+inner wall of the city, a bright expanse of pearl white marble.  To the west
+is a large shop housing all manner of adventuring needs.  
+~
+0 8 1
+D0
+~
+~
+0 0 8410
+D2
+~
+~
+0 0 8406
+D3
+~
+~
+0 0 8409
+S
+#8409
+The Shoppe of Supplies ~
+Long thick planks of heavy, dark oak are stacked along the northern wall,
+the scent from the lumber blending with that of the bushels of fresh-picked
+fruit that line the southern wall.  The shoppe is constantly warmed by
+magical wards and spells, their glyphs a-glow along the top of every wall.  
+~
+0 8 0
+D1
+~
+~
+0 0 8408
+S
+#8410
+West Merchant Way~
+The white cobblestone road that runs to the north and south is remarkably
+smooth and well maintained with no visible scuff marks nor loose stones in
+sight.  A bright tall sign in the shape of an unfurled piece of parchment
+hangs above the Scroll Shoppe, a small store just to the west.  
+~
+0 8 1
+D0
+~
+~
+0 0 8412
+D2
+~
+~
+0 0 8408
+D3
+~
+~
+0 0 8411
+S
+#8411
+The Scroll Shoppe~
+Pigeon-holed into rows of tiny caches carved into every wall of the
+shoppe are hundreds of magic-laden scrolls of deep brown parchment.  The
+shoppe is well tended, meticulously devoid of dirt and magically tidied. 
+Neither muddied footprint nor speck of listless dust lingers within the
+walls of the shoppe of scrolls.  
+~
+0 8 1
+D1
+~
+~
+0 0 8410
+S
+#8412
+West Merchant Way~
+Full, green bushes with ever-blossoming flowers season the land to either
+side of the road, sitting in clusters of two and three between the shops and
+light posts.  Their fresh fragrance fills the air.  Two remarkable bushes
+with rainbow-ringed flowers mark the entrance to the Bank of Caer Naefon
+that sits to the west.  
+~
+0 8 1
+D0
+~
+~
+0 0 8414
+D2
+~
+~
+0 0 8410
+D3
+~
+~
+0 0 8413
+S
+#8413
+The Bank of Caer Naefon~
+The walls of the small room seem plain: painted to a dull gray and
+unadorned by neither picture nor painting.  A closer inspection of the walls
+reveals hundreds of small nodules that when properly pressed reveal tiny
+caches stuffed with coins and valuable trinkets of precious gold and
+shimmering silver.  
+~
+0 8 1
+D1
+~
+~
+0 0 8412
+S
+#8414
+West Merchant Way~
+Here the flowery bushes that are thick in the south give way to short,
+thick limbed trees with bright leaves of sun-ripened green.  Small forms
+constantly dart from view along the road here, tantalizing passersby with
+little but a brief glimpse.  To the west is an uncharacteristically plain
+shop deorated only by a thin coat of dull white paint.  
+~
+0 8 1
+D0
+~
+~
+0 0 8416
+D2
+~
+~
+0 0 8412
+D3
+~
+~
+0 0 8415
+S
+#8415
+The Map Shoppe~
+Stacked upon sturdy oak shelves that line the walls to the north and
+south are piles of paper and many furled scrolls.  Given closer inspection,
+each map appears to be thoroughly detailed and cleanly copied from the
+original.  A light, fresh scent of newly pressed papyrus lingers within the
+shoppe.  
+~
+0 8 1
+D1
+~
+~
+0 0 8414
+S
+#8416
+The Northwest Intersection~
+The intersection where West Merchant Way and North Gate Road meet is
+accompanied by two towering columns topped by balls of bright light.  The
+light shimmers and swirls, a rainbow of colors splashing and intertwining,
+circling within the ball.  
+~
+0 8 1
+D1
+~
+~
+0 0 8417
+D2
+~
+~
+0 0 8414
+S
+#8417
+North Gate Road~
+Along the northern outer wall lie large sectioned plots of carefully
+cultivated grass, well-tended squares that rest just to the north of the
+cobblestone road.  Each section is roughly fifteen fingers wide and ten
+deep.  A small walkway runs between each patch.  
+~
+0 8 1
+D1
+~
+~
+0 0 8418
+D3
+~
+~
+0 0 8416
+S
+#8418
+North Gate Road~
+Painted along the inner wall here are magnificent runes of sunstruck
+gold, rich blue, and phosphorescent silver.  The paintings are comprised of
+minor wards against the weather and glyphs of luck and prosperity.  
+~
+0 8 1
+D1
+~
+~
+0 0 8419
+D3
+~
+~
+0 0 8417
+S
+#8419
+North Gate Road~
+Here a small lawn-lined cobblestone path meets with North Gate Road, the
+other end leading to the city's public fountain set within a large alcove
+within the outer wall.  The soft rippling sound of fresh water bubbles in
+from the north.  To the south looms an enormous gate marking the entrance to
+the inner part of the city.  The gate is constructed of thick steel beams
+magically enhanced and warded against intrusion.  
+~
+0 8 1
+D0
+~
+~
+0 0 8420
+D1
+~
+~
+0 0 8421
+D2
+~
+~
+0 0 8441
+D3
+~
+~
+0 0 8418
+S
+#8420
+The Fountain of Caer Naefon~
+Within the alcove north of the Inner Gate of Caer Naefon sits a massive
+pool of crisp water walled in by dark marble and shaded by a large extension
+of the wall looming above.  The water is magically pure and freshly
+delivered from a nearby mountain stream.  
+~
+0 8 1
+D2
+~
+~
+0 0 8419
+S
+#8421
+North Gate Road~
+Small clumps of clovers and fragrant batches of wildflowers of gold,
+azure and magenta line North Gate Road, growing in carefully cultivated rows
+tended by the merchant class of Caer Naefon.  
+~
+0 8 1
+D1
+~
+~
+0 0 8422
+D3
+~
+~
+0 0 8419
+S
+#8422
+North Gate Road~
+Here along the road and sandwiched between the two walls of the city are
+small merchant homes that are uniform in construction and color.  Each small
+building contains two rooms - a common room and a small bedroom.  The houses
+are lined in perfect rows, sitting along pearl white cobblestone paths.  
+~
+0 8 1
+D1
+~
+~
+0 0 8423
+D3
+~
+~
+0 0 8421
+S
+#8423
+The Northwest Intersection~
+Swirls of light glide along the ground in ever-changing patterns, flowing
+from the light-topped posts that line each side of the intersection.  A
+bright glyph seems permanently etched into the very road, being a protective
+sigil that wards against plagues and illnesses.  
+~
+0 8 1
+D2
+~
+~
+0 0 8424
+D3
+~
+~
+0 0 8422
+S
+#8424
+East Merchant Way~
+Here a wall of immense heat billows out from the east the twin forges of
+Caer Naefon are worked all hours of the day.  The distinct, heavy scent of
+searingly hot metal grips passersby tight in its claws.  To the east the
+enormous Forge of Oromasdes towers, masking the sky beyond it.  
+~
+0 8 1
+D0
+~
+~
+0 0 8423
+D1
+~
+~
+0 0 8425
+D2
+~
+~
+0 0 8426
+S
+#8425
+The Forge of Oromasdes ~
+Given the friendly commerce-driven competition between the city's two
+chief blacksmiths, the forge here is constantly a-glow and steel is tempered
+both day and night.  No sound rings out from this forge nor the one directly
+south, for fair magicks mask the din and provide peace for the rest of the
+city.  
+~
+0 8 1
+D3
+~
+~
+0 0 8424
+S
+#8426
+East Merchant Way~
+Along the length of East Merchant Way sit small stout trees that are
+perched in a long row beside the well traveled road.  The trunks are thick
+and knotted, alive with an age unbeknownst to most of the elves who now live
+within the walls of the city.  
+~
+0 8 1
+D0
+~
+~
+0 0 8424
+D1
+~
+~
+0 0 8427
+D2
+~
+~
+0 0 8428
+S
+#8427
+The Forge of Lausus ~
+Many-mawed and constantly fired, this forge is worked through both day
+and night, constantly setting metal a-glow, softening it to be tempered by
+hammer and anvil.  Suits of armor line the ground, the quality-assured
+product of the forge sitting at the rear of the shop.  
+~
+0 8 1
+D3
+~
+~
+0 0 8426
+S
+#8428
+East Merchant Way~
+Amidst the flowering bushes sit small cages and pens containing trained
+animals available to purchase within the shop that lies to the east.  The
+animals look docile enough, being well behaved and mild mannered.  
+~
+0 8 1
+D0
+~
+~
+0 0 8426
+D1
+~
+~
+0 0 8429
+D2
+~
+~
+0 0 8431
+S
+#8429
+The Kennels of Caer Naefon~
+Small cages and large, ground level pens house a menagerie of squabbling
+animals.  The room seems alive with their calls and cries as if a hundred
+conversations were taking place at once.  
+~
+0 8 1
+D3
+~
+~
+0 0 8428
+S
+#8430
+PET AREA~
+
+~
+0 4 0
+S
+#8431
+East Merchant Way~
+Off to the east sits a strangely decorated monstrosity of a shop that
+looks completely out of place in the city of Grey Elves.  The entire outside
+of the building is wrapped with thick, dark leather which tends to trap both
+darkness and heat within.  
+~
+0 8 1
+D0
+~
+~
+0 0 8428
+D1
+~
+~
+0 0 8432
+D2
+~
+~
+0 0 8433
+S
+#8432
+Rogue Wares ~
+The walls of this shoppe are covered in coarse dark leather, masking the
+interior from the lights of the city.  Hanging on dark hooks and resting
+upon thin blackened oak shelves are the various and sundry accouterments of
+the life of a rogue.  
+~
+0 8 1
+D3
+~
+~
+0 0 8431
+S
+#8433
+East Merchant Way~
+Sitting majestically to the east is a large building constructed entirely
+of purple-tinged crystal.  The walls of the shoppe sparkle in the sunlight
+and faintly glow under the watchful eye of the moon.  
+~
+0 8 1
+D0
+~
+~
+0 0 8431
+D1
+~
+~
+0 0 8434
+D2
+~
+~
+0 0 8435
+S
+#8434
+The Shoppe of Minor Magicks ~
+Multifaceted crystalline walls radiate under the brilliant flickering
+candles strategically placed about the room.  Rays of gold, azure,
+chrysanthemum and violet dance to and fro, sparkling above the small magical
+wares displayed along the walls.  
+~
+0 8 1
+D3
+~
+~
+0 0 8433
+S
+#8435
+The Southeast Intersection~
+The corner where South Gate Road meets East Merchant Way is marked with
+towering light posts and thick, flowered bushes.  The intersection is
+further marked with an ancient inscription painted upon the cobblestone
+road, a protective glyph safeguarding the citizens of Caer Naefon.  
+~
+0 8 1
+D0
+~
+~
+0 0 8433
+D3
+~
+~
+0 0 8436
+S
+#8436
+South Gate Road ~
+An enormous steel gate with gold inlays stands to the south, marking the
+entrance to the Grey Elf Legion.  When opened, the gate withdraws upward
+into the outer wall to allow passage to and from the Legion hall.  It is
+within this area that the Legion trains its recruits and prepares itself for
+conflict.  
+~
+0 8 1
+D1
+~
+~
+0 0 8435
+D2
+~
+~
+0 0 8438
+D3
+~
+~
+0 0 8440
+S
+#8437
+The Legion Barracks~
+Bundles of floor mats and rows of empty cots fill this room where the
+legionnaires of the city rest when not on active duty.  The area is kept
+pristinely beautiful and free of dirt and dust.  A large rack along the
+northern wall holds a vast array of deadly weaponry, each finely crafted and
+ready for war.  
+~
+0 8 1
+D1
+~
+~
+0 0 8438
+S
+#8438
+Entrance to the Legion~
+Bright banners depticting scenes of revered elders and statesmen adorn
+every wall of this room.  Without them, the grand city of Caer Naefon would
+have surely vanished from this world under the onslaught of many a foe.  
+~
+0 8 1
+D0
+~
+~
+0 0 8436
+D1
+~
+~
+0 0 8439
+D3
+~
+~
+0 0 8437
+S
+#8439
+The Training Room~
+Placed haphazardly along the hardwood floor are a series of dueling posts
+and obstacles.  It is in this room that the Legion of Caer Naefon is trained
+in the arts of war, should ever a need arise.  Scrolled on a large sheet of
+parchment on the northern wall are the names of the Legion's most famed
+students, all given a place of honor within the annals of the Legion.  
+~
+0 8 1
+D3
+~
+~
+0 0 8438
+S
+#8440
+South Gate Road ~
+The imposing inner wall towering to the north is remarkably warm to the
+touch, as if a large fire heated it from within.  When daylight fails
+throughout the city, the very walls spark aglow with a subtle light.  
+~
+0 8 1
+D1
+~
+~
+0 0 8436
+D3
+~
+~
+0 0 8401
+S
+#8441
+The Grand Northern Gate of Caer Naefon~
+An enormous grand archway built of magically enhanced steel a full five
+elves high towers to the sky, bisecting the inner city from the outer.  The
+grandeur that lies to the south of the gate erupts vividly, the inner city
+of Caer Naefon full of grace and nobility.  
+~
+0 8 1
+D0
+~
+~
+0 0 8419
+D2
+~
+~
+0 0 8444
+S
+#8442
+Redalia Way~
+The finely placed cobbledstone path ends here before a large hall that
+opens just to the south.  The entrance is marked by two tall marble pillars
+on top of which sits a small archway into which is inscribed, "The Hall of
+Aylin."  
+~
+0 8 1
+D1
+~
+~
+0 0 8443
+D2
+~
+~
+0 0 8447
+S
+#8443
+Redalia Way~
+Brilliant short spruces and full blooming stout firs line the thin
+cobblestone path.  Trees are abundant throughout the inner part of the city,
+growing tall despite the long shadows often cast by the wondrous buildings. 
+The air even seems fresher near the trees, more fragrant and more
+fulfilling.  
+~
+0 8 1
+D1
+~
+~
+0 0 8444
+D3
+~
+~
+0 0 8442
+S
+#8444
+Redalia Way~
+A Small path crosses Redalia Way here, leading north to the Grand
+Northern Gate and leading south to the Temple of Caer Naefon.  Small roses
+and lilacs grow abundantly near the path here, their stems well tended and
+their roots cared for with a daily sprinkle of fresh water.  
+~
+0 8 1
+D0
+~
+~
+0 0 8441
+D1
+~
+~
+0 0 8445
+D2
+~
+~
+0 0 8484
+D3
+~
+~
+0 0 8443
+S
+#8445
+Redalia Way~
+Beautiful trees adorned with leaves of green, gold, and yellow line the
+cobblestone path.  Some of the leaves lie on the ground to each side of the
+path, but it remarkably remains clear of any nature-birthed refuse.  
+~
+0 8 1
+D1
+~
+~
+0 0 8446
+D3
+~
+~
+0 0 8444
+S
+#8446
+Redalia Way~
+Redalia Way ends here before a stately hall to the south.  Two massive
+pillars mark the hall's entrance, and atop the pillars rests a small marble
+arch.  The arch was carved from the purest white marble, chiseled and worn
+smooth by hundreds of hands.  
+~
+0 8 1
+D2
+~
+~
+0 0 8451
+D3
+~
+~
+0 0 8445
+S
+#8447
+The Hall of Aylin~
+Along the white marble walls hang vast paintings depicting a time ages
+ago when the Grey Elves left their brethren to travel to the mountains.  One
+elf seems to lead them all, and she later bacame the first leader to the
+Grey Elves.  She served as their spiritual mentor and their guide into the
+realm of magick and mystery.  All Grey Elves hold Aylin deep within their
+hearts.  
+~
+0 8 1
+D0
+~
+~
+0 0 8442
+D2
+~
+~
+0 0 8452
+S
+#8448
+The Donations~
+Light filters in from the magically blown panes of glass set into the
+ceiling above.  No matter the hour, this room remains lit by the gentle
+magicks of the Grey Elves.  It is here where travelers are encouraged to
+take what they need and to leave what they like.  
+~
+0 8 1
+D1
+~
+~
+0 0 8449
+S
+#8449
+The Temple of Caer Naefon~
+Immense towering pillars of grey-tinged basalt line the length of the
+great hall that opens up from the entranceway.  The tiled floor shines
+underfoot, the grey marble reflecting all it sees.  Long pews of
+dark-stained wood line the hall, providing a path down the middle that leads
+to a large, ivory altar trimmed with gold and silver.  To the west is a room
+for donations to be kept and to the east is the High Priest's private
+chamber.  
+~
+0 8 1
+D0
+~
+~
+0 0 8444
+D1
+~
+~
+0 0 8450
+D3
+~
+~
+0 0 8448
+S
+#8450
+The Sanctum Of Belisama~
+Bright curtains adorn each wall, lovely embroidered tapestries of rich
+red and vibrant gold.  A small table stands alone in the center of the room,
+it's top filled with the various trappings of the life of a priest.  Long
+white robes hang on hooks along the southern wall that peer out from between
+the flowing curtains.  
+~
+0 8 1
+D3
+~
+~
+0 0 8449
+S
+#8451
+The Hall of Lianna~
+The walls here are a bright pearlescent marble, and each holds a number
+of large paintings.  Within these paintings, they Grey Elves make ready for
+way, their Legions standing ready, the townsfolk safeguarding the city.  
+~
+0 8 1
+D0
+~
+~
+0 0 8446
+D2
+~
+~
+0 0 8456
+S
+#8452
+The Hall of Aylin~
+Within the paintings here, Aylin commands the constrcution of Caer
+Naefon, utilizing all labor, both magical and mundane.  The Grey Elves
+worked tirelessly alongside their leader, straining both their bodies and
+the magicks that rest within the mountains.  
+~
+0 8 1
+D0
+~
+~
+0 0 8447
+D1
+~
+~
+0 0 8453
+S
+#8453
+The Hall of Aylin~
+The grand city of Caer Naefon stands completed within these paintings, a
+tribute to the hard work and effort of all the elves who constructed it. 
+The city is nestled in the mountainside, its heart sitting upon a source of
+strong magicks.  
+~
+0 8 1
+D1
+~
+~
+0 0 8454
+D3
+~
+~
+0 0 8452
+S
+#8454
+The Grand Court of Caer Naefon~
+Thick tiles of polished marble make up the extensive floor of the Grand
+Court of Caer Naefon.  The room is vast, pillars lining the room to the east
+and west and adorning the wall behind them are broad embroidered tapestries
+of shimmering silver, bright red and vibrant gold.  Far to the south of the
+entrance sit three large chairs sitting behind a long oaken table on a
+raised dias.  
+~
+0 8 1
+D1
+~
+~
+0 0 8455
+D2
+~
+~
+0 0 8459
+D3
+~
+~
+0 0 8453
+S
+#8455
+The Hall of Lianna~
+The paintings here show a terrible scene of bloody death, the Legions
+gathering around their fallen Commander in mourning.  A last rally to
+extermintate the Drow had failed and the price the Grey Elves paid was the
+loss of their best legionnaires.  Other paintings depict the funeral
+ceremonies and the deep sorrow felt by every citizen of Caer Naefon.  
+~
+0 8 1
+D1
+~
+~
+0 0 8456
+D3
+~
+~
+0 0 8454
+S
+#8456
+The Hall of Lianna~
+Within the paintings here, the Commander of the Legions leads her forces
+to battle the invading dark legions of the Drow.  The Commander is shown
+outflanking and thwarting the Drow in every scene, leading the Legions to a
+decisive victory over the Drow.  
+~
+0 8 1
+D0
+~
+~
+0 0 8451
+D3
+~
+~
+0 0 8455
+S
+#8457
+The Home of Acrisius and Keyaira~
+The crackling of vaporous fire sifts from the great fireplace housed
+within the wall to the north.  Curiously, the bright flames of green burn
+without a visible source and give off no smoke.  The magical flames that
+warm the room burn brightly, casting a pale green light upon the walls.  
+~
+0 8 1
+D1
+~
+~
+0 0 8458
+D2
+~
+~
+0 0 8462
+S
+#8458
+The Home of Acrisius and Keyaira~
+A lush, thick crimson carpet covers the floor of this small but well
+furnished room.  Large couch and two small yet comfortable chairs surround a
+short-legged table of sweetly scented pine.  A painting hanging on the
+northern wall shows the council members at a young age, each face alive with
+a bright smile as their hands clutch at one another lovingly.  
+~
+0 8 1
+D1
+~
+~
+0 0 8459
+D3
+~
+~
+0 0 8457
+S
+#8459
+The Judgement Chambers~
+Splendid paintings and embroidered tapestries hang upon each gleaming
+marble wall, the floor carpeted in thick azure.  Many papers and quills line
+a large circular table that rests within the middle of the room and three
+plush chairs surround its oaken body.  It is within this room that the
+council of Caer Naefon comes to discuss town issues and decide the fate of
+any wrongdoer.  
+~
+0 8 1
+D0
+~
+~
+0 0 8454
+D1
+~
+~
+0 0 8460
+D2
+~
+~
+0 0 8464
+D3
+~
+~
+0 0 8458
+S
+#8460
+The Manor of Donara~
+This room is alive with tapestries of cyan, carpeting of turquoise and
+walls of a soft teal.  A small settee sits near a large couch that sits
+under a dark blue draping of pure silk.  A slender painting of the town
+leader rests on the southern wall, her smiling face seems to welcome all who
+enter her home.  
+~
+0 8 1
+D1
+~
+~
+0 0 8461
+D3
+~
+~
+0 0 8459
+S
+#8461
+The Manor of Donara~
+A long rectangular table of dark stained oak sitting just to the north is
+clumsily strewn with all manner of official documents and personal writings.
+A heavy chair of thick maple rests just north of the table.  This is
+Donara's private study, a place where she comes to contemplate her city's
+future.  
+~
+0 8 1
+D2
+~
+~
+0 0 8466
+D3
+~
+~
+0 0 8460
+S
+#8462
+The Bedroom of Acrisius and Keyaira~
+The only small object within the room is the nightstand of dark oak that
+stands at the foot of the enormous canopied bed.  Panes of magicked glass
+shine brightly in the room and a set of curtains sit on either side, waiting
+to be closed.  The light shines lovingly upon the purple silk canopy and
+filters in to rest softly upon the thick blue blankets of soft cotton.  
+~
+0 8 1
+D0
+~
+~
+0 0 8457
+D1
+~
+~
+0 0 8463
+S
+#8463
+The Private Bath of Acrisius and Keyaira~
+Two stately brass tubs lie here, each filled to capacity with hot water. 
+Small curls of warm steam arise from each magically heated tub as the water
+churns and purifies itself continually.  A strongs force of magic is at work
+here and indeed throughout the entirety of Caer Naefon.  
+~
+0 8 1
+D3
+~
+~
+0 0 8462
+S
+#8464
+The Council Chambers~
+This simple marble-encircled room is home to numerous tomes of law and
+volumes of Grey Elf literature dating back ages.  The books rest upon sturdy
+shelves of dark oak magically crafted and bound against the elements and
+time itself.  Every word written by every Grey Elf scribe is kept here so
+that the knowledge from the past may guide those who sit upon the council.  
+~
+0 8 1
+D0
+~
+~
+0 0 8459
+S
+#8465
+The Private Bath of Donara~
+One regal tub brimming with hot water rests in the middle of this room,
+steam twirling slowly from its interior.  The tub is constantly full of
+magically pure water that slowly sifts within the large tub.  
+~
+0 8 1
+D1
+~
+~
+0 0 8466
+S
+#8466
+The Bedroom of Donara~
+A simple bed and nightstand sit along the southern wall, the bed covered
+in a thick quilt of blue and the nightstand's face covered by a soft teal
+embroidered cloth.  A small portrait of a young male elf hangs on the
+western wall, a single eternal rose sitting upon the pane just below the
+picture.  
+~
+0 8 1
+D0
+~
+~
+0 0 8461
+D3
+~
+~
+0 0 8465
+S
+#8467
+The Mosque of the Aku'rhaie~
+Large mirrors of reflective glass stand all about, creating a
+disorienting and discombobulating maze.  Hundreds of reflections bounce
+about, hounding all who walk within the glass maze.  What is reality and
+what is illusion is left for those who trespass here to decide.  
+~
+0 12 0
+D2
+~
+~
+0 0 8469
+S
+#8468
+The Mosque of the Aku'rhaie~
+Large mirrors of reflective glass stand all about, creating a
+disorienting and discombobulating maze.  Hundreds of reflections bounce
+about, hounding all who walk within the glass maze.  What is reality and
+what is illusion is left for those who trespass here to decide.  
+~
+0 8 0
+D0
+~
+~
+0 0 8476
+D1
+~
+~
+0 0 8469
+D2
+~
+~
+0 0 8472
+D3
+~
+~
+0 0 8470
+S
+#8469
+The Mosque of the Aku'rhaie~
+Large mirrors of reflective glass stand all about, creating a
+disorienting and discombobulating maze.  Hundreds of reflections bounce
+about, hounding all who walk within the glass maze.  What is reality and
+what is illusion is left for those who trespass here to decide.  
+~
+0 8 0
+D0
+~
+~
+0 0 8467
+D1
+~
+~
+0 0 8470
+D2
+~
+~
+0 0 8473
+D3
+~
+~
+0 0 8468
+S
+#8470
+The Mosque of the Aku'rhaie~
+Large mirrors of reflective glass stand all about, creating a
+disorienting and discombobulating maze.  Hundreds of reflections bounce
+about, hounding all who walk within the glass maze.  What is reality and
+what is illusion is left for those who trespass here to decide..  F 
+~
+0 8 0
+D0
+~
+~
+0 0 8478
+D1
+~
+~
+0 0 8468
+D2
+~
+~
+0 0 8474
+D3
+~
+~
+0 0 8469
+S
+#8471
+The Mosque of the Aku'rhaie~
+Large mirrors of reflective glass stand all about, creating a
+disorienting and discombobulating maze.  Hundreds of reflections bounce
+about, hounding all who walk within the glass maze.  What is reality and
+what is illusion is left for those who trespass here to decide.  
+~
+0 8 0
+D1
+~
+~
+0 0 8472
+D3
+~
+~
+0 0 8475
+S
+#8472
+The Mosque of the Aku'rhaie~
+Large mirrors of reflective glass stand all about, creating a
+disorienting and discombobulating maze.  Hundreds of reflections bounce
+about, hounding all who walk within the glass maze.  What is reality and
+what is illusion is left for those who trespass here to decide.  
+~
+0 8 0
+D0
+~
+~
+0 0 8468
+D1
+~
+~
+0 0 8473
+D2
+~
+~
+0 0 8476
+D3
+~
+~
+0 0 8471
+S
+#8473
+The Mosque of the Aku'rhaie~
+Large mirrors of reflective glass stand all about, creating a
+disorienting and discombobulating maze.  Hundreds of reflections bounce
+about, hounding all who walk within the glass maze.  What is reality and
+what is illusion is left for those who trespass here to decide.  
+~
+0 8 0
+D0
+~
+~
+0 0 8469
+D1
+~
+~
+0 0 8474
+D2
+~
+~
+0 0 8477
+D3
+~
+~
+0 0 8472
+D4
+~
+~
+0 0 8482
+S
+#8474
+The Mosque of the Aku'rhaie~
+Large mirrors of reflective glass stand all about, creating a
+disorienting and discombobulating maze.  Hundreds of reflections bounce
+about, hounding all who walk within the glass maze.  What is reality and
+what is illusion is left for those who trespass here to decide.  
+~
+0 8 0
+D0
+~
+~
+0 0 8470
+D1
+~
+~
+0 0 8475
+D2
+~
+~
+0 0 8478
+D3
+~
+~
+0 0 8473
+S
+#8475
+The Mosque of the Aku'rhaie~
+Large mirrors of reflective glass stand all about, creating a
+disorienting and discombobulating maze.  Hundreds of reflections bounce
+about, hounding all who walk within the glass maze.  What is reality and
+what is illusion is left for those who trespass here to decide.  
+~
+0 8 0
+D1
+~
+~
+0 0 8471
+D3
+~
+~
+0 0 8474
+S
+#8476
+The Mosque of the Aku'rhaie~
+
+~
+0 8 0
+D0
+~
+~
+0 0 8472
+D1
+~
+~
+0 0 8477
+D2
+~
+~
+0 0 8468
+D3
+~
+~
+0 0 8478
+S
+#8477
+The Mosque of the Aku'rhaie~
+Large mirrors of reflective glass stand all about, creating a
+disorienting and discombobulating maze.  Hundreds of reflections bounce
+about, hounding all who walk within the glass maze.  What is reality and
+what is illusion is left for those who trespass here to decide.  
+~
+0 8 0
+D0
+~
+~
+0 0 8473
+D1
+~
+~
+0 0 8478
+D2
+~
+~
+0 0 8479
+D3
+~
+~
+0 0 8476
+S
+#8478
+The Mosque of the Aku'rhaie~
+Large mirrors of reflective glass stand all about, creating a
+disorienting and discombobulating maze.  Hundreds of reflections bounce
+about, hounding all who walk within the glass maze.  What is reality and
+what is illusion is left for those who trespass here to decide.  
+~
+0 8 0
+D0
+~
+~
+0 0 8474
+D1
+~
+~
+0 0 8476
+D2
+~
+~
+0 0 8470
+D3
+~
+~
+0 0 8477
+S
+#8479
+The Mosque of the Aku'rhaie~
+Large mirrors of reflective glass stand all about, creating a
+disorienting and discombobulating maze.  Hundreds of reflections bounce
+about, hounding all who walk within the glass maze.  What is reality and
+what is illusion is left for those who trespass here to decide.  
+~
+0 8 0
+D0
+~
+~
+0 0 8477
+S
+#8480
+The Mosque of the Aku'rhaie~
+Large mirrors of reflective glass stand all about, creating a
+disorienting and discombobulating maze.  The seamless walls throw
+reflections back upon themselves and the mirrored floor seeks to misguide
+everyone who moves about the Mosque of the Aku'rhaie.  Baffling magicks are
+at work here, twisting fragile minds and misleading feeble feet.  
+~
+0 8 0
+D0
+~
+~
+0 0 8484
+D2
+~
+~
+0 0 8482
+S
+#8481
+The Mosque of the Aku'rhaie~
+Large mirrors of reflective glass stand all about, creating a
+disorienting and discombobulating maze.  The seamless walls throw
+reflections back upon themselves and the mirrored floor seeks to misguide
+everyone who moves about the Mosque of the Aku'rhaie.  Baffling magicks are
+at work here, twisting fragile minds and misleading feeble feet.  
+~
+0 8 0
+D1
+~
+~
+0 0 8482
+D3
+~
+~
+0 0 8483
+S
+#8482
+The Mosque of the Aku'rhaie~
+Large mirrors of reflective glass stand all about, creating a
+disorienting and discombobulating maze.  The seamless walls throw
+reflections back upon themselves and the mirrored floor seeks to misguide
+everyone who moves about the Mosque of the Aku'rhaie.  Baffling magicks are
+at work here, twisting fragile minds and misleading feeble feet.  
+~
+0 8 0
+D0
+~
+~
+0 0 8480
+D1
+~
+~
+0 0 8483
+D2
+~
+~
+0 0 8484
+D3
+~
+~
+0 0 8481
+D4
+~
+~
+0 0 8485
+D5
+~
+~
+0 0 8473
+S
+#8483
+The Mosque of the Aku'rhaie~
+Large mirrors of reflective glass stand all about, creating a
+disorienting and discombobulating maze.  The seamless walls throw
+reflections back upon themselves and the mirrored floor seeks to misguide
+everyone who moves about the Mosque of the Aku'rhaie.  Baffling magicks are
+at work here, twisting fragile minds and misleading feeble feet.  
+~
+0 8 0
+D1
+~
+~
+0 0 8481
+D3
+~
+~
+0 0 8482
+S
+#8484
+The Mosque of the Aku'rhaie~
+Large mirrors of reflective glass stand all about, creating a
+disorienting and discombobulating maze.  The seamless walls throw
+reflections back upon themselves and the mirrored floor seeks to misguide
+everyone who moves about the Mosque of the Aku'rhaie.  Baffling magicks are
+at work here, twisting fragile minds and misleading feeble feet.  
+~
+0 8 0
+D0
+~
+~
+0 0 8482
+D2
+~
+~
+0 0 8480
+S
+#8485
+The Mosque of the Aku'rhaie~
+Large mirrors of reflective glass stand all about, creating a
+disorienting and discombobulating maze.  A single crystalline table stands
+in the center of an otherwise vacant room.  Its surface shines just as
+brightly as any of the walls within the Mosque.  
+~
+0 8 0
+D5
+~
+~
+0 0 8482
+S
+#0
+
+
+
+#SPECIALS
+M 8421 spec_guard
+M 8422 spec_guard
+S
+
+
+
+#RESETS
+M 0 8421 1 8401 1
+M 0 8419 1 8404 1
+M 0 8422 1 8405 1
+M 0 8413 1 8407 1
+M 0 8412 1 8409 1
+M 0 8433 1 8410 1
+M 0 8411 1 8411 1
+M 0 8434 1 8412 1
+M 0 8410 1 8413 1
+M 0 8435 1 8414 1
+M 0 8409 1 8415 1
+M 0 8425 1 8423 1
+M 0 8426 1 8423 1
+M 0 8414 1 8425 1
+M 0 8415 1 8427 1
+M 0 8427 1 8428 1
+M 0 8416 1 8429 1
+M 0 8429 1 8430 1
+M 0 8430 1 8430 1
+M 0 8431 1 8430 1
+M 0 8432 1 8430 1
+M 0 8423 1 8432 1
+M 0 8418 1 8434 1
+M 0 8428 1 8437 1
+M 0 8420 1 8439 1
+M 0 8417 1 8449 1
+M 0 8408 1 8450 1
+M 0 8400 1 8461 1
+M 0 8406 1 8462 1
+M 0 8407 1 8462 1
+M 0 8403 1 8477 1
+M 0 8404 1 8479 1
+M 0 8405 1 8481 1
+M 0 8402 1 8482 1
+M 0 8424 1 8482 1
+M 0 8401 1 8485 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$
